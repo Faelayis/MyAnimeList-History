@@ -7,7 +7,7 @@ List Sync From MyAnimeList
 |                      id                      | Type | Season | Score |                         Title                         | Watched |    Updated   | Start date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------: | :-----: | :----------: | :--------: |
 | [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                      Spy x Family                     |   6/12  | 23 hours ago | 04/09/2022 |
-|  [4654](https://myanimelist.net/anime/4654)  |  tv  |  2008  |   -   |                 Toaru Majutsu no Index                |  17/24  | 23 hours ago | 05/14/2022 |
+|  [4654](https://myanimelist.net/anime/4654)  |  tv  |  2008  |   -   |                 Toaru Majutsu no Index                |  17/24  |   Yesterday  | 05/14/2022 |
 | [49520](https://myanimelist.net/anime/49520) |  tv  |  2022  |   7   |                Aharen-san wa Hakarenai                |   4/12  |  2 days ago  | 04/01/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                       One Piece                       |  1016/? |  2 days ago  | 01/01/2014 |
 | [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   8   |                    Yuusha, Yamemasu                   |   6/12  |  5 days ago  | 04/06/2022 |
@@ -39,7 +39,7 @@ List Sync From MyAnimeList
 
 |                      id                      |   Type  | Season | Score |                          Title                          | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   -   |               Toaru Kagaku no Accelerator               |   1/12  |   Yesterday   | 05/14/2022 |
+| [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   -   |               Toaru Kagaku no Accelerator               |   1/12  |   2 days ago  | 05/14/2022 |
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                        Fate/Zero                        |   2/13  |  2 weeks ago  | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                  Madan no Ou to Vanadis                 |   6/13  |  3 weeks ago  | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                     Machikado Mazoku                    |   2/12  |  2 weeks ago  | 04/19/2022 |
