@@ -22,10 +22,10 @@
 | [34798](https://myanimelist.net/anime/34798) |  tv  |  2018  |   -   |                                  Yuru Camp△                                  |   3/12  |   Last year   | 01/08/2021 |
 | [34618](https://myanimelist.net/anime/34618) |  tv  |  2017  |   3   |                                    Blend S                                   |   1/12  |   Last year   | 01/06/2021 |
 | [32323](https://myanimelist.net/anime/32323) |  ona |  2015  |   4   |                            Aishen Qiaokeli-ing...                            |   5/15  | 10 months ago | 01/05/2021 |
-| [31952](https://myanimelist.net/anime/31952) |  tv  |  2016  |   4   |                      Kono Bijutsubu ni wa Mondai ga Aru!                     |   1/12  |   Last year   |      -     |
-| [41380](https://myanimelist.net/anime/41380) |  tv  |  2020  |   3   |                  100-man no Inochi no Ue ni Ore wa Tatteiru                  |   3/12  |   Last year   |      -     |
-| [38853](https://myanimelist.net/anime/38853) |  tv  |  2021  |   1   |                                    Ex-Arm                                    |   1/12  |   Last year   |      -     |
-| [38909](https://myanimelist.net/anime/38909) |  tv  |  2020  |   4   |                              Infinite Dendrogram                             |   0/13  |   Last year   |      -     |
-| [19685](https://myanimelist.net/anime/19685) |  tv  |  2014  |   6   |                          Kanojo ga Flag wo Oraretara                         |   6/13  |  9 months ago |      -     |
-| [40571](https://myanimelist.net/anime/40571) |  tv  |  2020  |   2   |                               Majo no Tabitabi                               |   2/12  |   Last year   |      -     |
-| [32899](https://myanimelist.net/anime/32899) |  tv  |  2016  |   4   |                          Watashi ga Motete Dousunda                          |   3/12  |   Last week   |      -     |
+| [31952](https://myanimelist.net/anime/31952) |  tv  |  2016  |   4   |                      Kono Bijutsubu ni wa Mondai ga Aru!                     |   1/12  |   Last year   | 12/31/1969 |
+| [41380](https://myanimelist.net/anime/41380) |  tv  |  2020  |   3   |                  100-man no Inochi no Ue ni Ore wa Tatteiru                  |   3/12  |   Last year   | 12/31/1969 |
+| [38853](https://myanimelist.net/anime/38853) |  tv  |  2021  |   1   |                                    Ex-Arm                                    |   1/12  |   Last year   | 12/31/1969 |
+| [38909](https://myanimelist.net/anime/38909) |  tv  |  2020  |   4   |                              Infinite Dendrogram                             |   0/13  |   Last year   | 12/31/1969 |
+| [19685](https://myanimelist.net/anime/19685) |  tv  |  2014  |   6   |                          Kanojo ga Flag wo Oraretara                         |   6/13  |  9 months ago | 12/31/1969 |
+| [40571](https://myanimelist.net/anime/40571) |  tv  |  2020  |   2   |                               Majo no Tabitabi                               |   2/12  |   Last year   | 12/31/1969 |
+| [32899](https://myanimelist.net/anime/32899) |  tv  |  2016  |   4   |                          Watashi ga Motete Dousunda                          |   3/12  |   Last week   | 12/31/1969 |
