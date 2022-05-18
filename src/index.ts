@@ -99,16 +99,16 @@ function time_ago(time: any, _s: number) {
                 .filter(((item) => item.node.my_list_status.status === status[i]))
                 .map((obj) => {
                     const my_date = [
-                        new Date(`${obj.node.my_list_status.start_date || -100000}`),
-                        new Date(`${obj.node.my_list_status.finish_date || -100000}`)
+                        new Date(obj.node.my_list_status.start_date || -100000),
+                        new Date(obj.node.my_list_status.finish_date || -100000)
                     ]
                     if ("watching" === status[i] || "plan_to_watch" === status[i]) {
-                        my_date[0] = new Date(`${obj.node.my_list_status.updated_at}`);
-                        my_date[1] = new Date(`${obj.node.my_list_status.start_date || -100000}`);
+                        my_date[0] = new Date(obj.node.my_list_status.updated_at);
+                        my_date[1] = new Date(obj.node.my_list_status.start_date || -100000);
                     }
                     if ("completed" === status[i]) {
-                        my_date[0] = new Date(`${obj.node.my_list_status.finish_date || -100000}`);
-                        my_date[1] = new Date(`${obj.node.my_list_status.start_date || -100000}`);
+                        my_date[0] = new Date(obj.node.my_list_status.finish_date || -100000);
+                        my_date[1] = new Date(obj.node.my_list_status.start_date || -100000);
                     }
                     return { ...obj, my_date };
                 })
@@ -141,7 +141,7 @@ function time_ago(time: any, _s: number) {
                     const array = [
                         `[${item.node.id}](https://myanimelist.net/anime/${item.node.id})`,
                         item.node.media_type || "-",
-                        `${item.node.start_season?.year || "-"}`,
+                        item.node.start_season?.year || "-",
                         item.node.my_list_status?.score || "-",
                         item.node.title,
                         check_time(item.my_date[0]) ? get_time(item.my_date[0]) : "-",
@@ -153,7 +153,7 @@ function time_ago(time: any, _s: number) {
                         array[7] = check_time(item.my_date[1]) ? get_time(item.my_date[1]) : "-";
                     }
                     if ("completed" === status[i]) {
-                        array.splice(5, 0, check_time(item.my_date[0]) ? `${time_ago(new Date(new Date(item.my_date[0]).getTime() - 1), i)}` : "-");
+                        array.splice(5, 0, check_time(item.my_date[0]) ? time_ago(new Date(new Date(item.my_date[0].setTime(new Date(item.node.my_list_status.updated_at))).getTime() - 1), i) : "-");
                         array[6] = check_time(item.my_date[1]) ? get_time(item.my_date[1]) : "-";
                         array[7] = check_time(item.my_date[0]) ? get_time(item.my_date[0]) : "-";
                     }
