@@ -6,7 +6,7 @@ List Sync From MyAnimeList
 
 |                      id                      | Type | Season | Score |                         Title                         | Watched |     Updated    | Start date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------: | :-----: | :------------: | :--------: |
-|  [4654](https://myanimelist.net/anime/4654)  |  tv  |  2008  |   -   |                 Toaru Majutsu no Index                |  18/24  | 10 minutes ago | 05/14/2022 |
+|  [4654](https://myanimelist.net/anime/4654)  |  tv  |  2008  |   -   |                 Toaru Majutsu no Index                |  18/24  | 27 minutes ago | 05/14/2022 |
 | [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                      Spy x Family                     |   6/12  |    Yesterday   | 04/09/2022 |
 | [49520](https://myanimelist.net/anime/49520) |  tv  |  2022  |   7   |                Aharen-san wa Hakarenai                |   4/12  |   2 days ago   | 04/01/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                       One Piece                       |  1016/? |   2 days ago   | 01/01/2014 |
@@ -25,7 +25,7 @@ List Sync From MyAnimeList
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |      Completed      | Start date | Finish date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------------: | :--------: | :---------: |
-| [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           | 40 minutes from now | 05/16/2022 |  05/19/2022 |
+| [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           | 23 minutes from now | 05/16/2022 |  05/19/2022 |
 | [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |      5 days ago     | 05/12/2022 |  05/13/2022 |
 | [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   9   |                                              Owari no Seraph                                              |      6 days ago     | 05/12/2022 |  05/12/2022 |
 | [35839](https://myanimelist.net/anime/35839) |    tv   |  2018  |   7   |                                          Sora yori mo Tooi Basho                                          |      Last week      | 05/07/2022 |  05/07/2022 |
@@ -40,7 +40,7 @@ List Sync From MyAnimeList
 |                      id                      |   Type  | Season | Score |                          Title                          | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------: | :-----: | :-----------: | :--------: |
 | [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   -   |               Toaru Kagaku no Accelerator               |   1/12  |   2 days ago  | 05/14/2022 |
-| [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                        Fate/Zero                        |   2/13  |  2 weeks ago  | 04/26/2022 |
+| [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                        Fate/Zero                        |   2/13  |  3 weeks ago  | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                  Madan no Ou to Vanadis                 |   6/13  |  3 weeks ago  | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                     Machikado Mazoku                    |   2/12  |  2 weeks ago  | 04/19/2022 |
 | [49930](https://myanimelist.net/anime/49930) |    tv   |  2022  |   -   |     Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2     |   2/13  |   Last month  | 03/01/2022 |
