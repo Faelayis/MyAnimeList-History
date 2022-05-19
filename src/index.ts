@@ -4,86 +4,15 @@ import * as fs from "fs"
 import { outputFile } from "fs-extra"
 import { Mal } from "node-myanimelist"
 import { markdownTable } from "markdown-table"
+import * as time from "./calculate_time.js"
 
 interface table {
 	[x: string]: any
 }
 
-const options = [
-		"en-US",
-		{
-			year: "numeric",
-			month: "2-digit",
-			day: "2-digit",
-		},
-	],
-	markdown = [],
+const markdown = [],
 	status = ["watching", "completed", "on_hold", "dropped", "plan_to_watch"],
 	amount = []
-
-function check_time(params: any) {
-	if (params.toLocaleDateString(...options) !== "01/01/100001") return true
-	else return false
-}
-
-function get_time(params: any) {
-	if (params.toLocaleDateString(...options) === "Invalid Date") return "-"
-	return params.toLocaleDateString(...options)
-}
-
-function time_ago(time: any, _s: number) {
-	switch (typeof time) {
-		case "number":
-			break
-		case "string":
-			time = +new Date(time)
-			break
-		case "object":
-			if (time.constructor === Date) time = time.getTime()
-			break
-		default:
-			time = +new Date()
-	}
-	const time_formats = [
-		[60, "seconds", 1],
-		[120, "1 minute ago", "1 minute from now"],
-		[3600, "minutes", 60],
-		[7200, "1 hour ago", "1 hour from now"],
-		[86400, "hours", 3600],
-		[172800, "Yesterday", "Tomorrow"],
-		[604800, "days", 86400],
-		[1209600, "Last week", "Next week"],
-		[2419200, "weeks", 604800],
-		[4838400, "Last month", "Next month"],
-		[29030400, "months", 2419200],
-		[58060800, "Last year", "Next year"],
-		[2903040000, "years", 29030400],
-		[5806080000, "Last century", "Next century"],
-		[58060800000, "centuries", 2903040000],
-	]
-	let seconds = (+new Date() - time) / 1000,
-		token = "ago",
-		list_choice = 1
-	if (seconds == 0) {
-		return "Just now"
-	}
-	if (seconds < 0) {
-		seconds = Math.abs(seconds)
-		token = "from now"
-		list_choice = 2
-	}
-	let i = 0,
-		format: any
-	while ((format = time_formats[i++]))
-		if (seconds < format[0]) {
-			if (status[_s] === "plan_to_watch" && format[list_choice] == "Last year") {
-				return get_time(new Date(time))
-			} else if (typeof format[2] == "string") return format[list_choice]
-			else return Math.floor(seconds / format[2]) + " " + format[1] + " " + token
-		}
-	format = time_formats[time_formats.length - 1]
-	return Math.floor(seconds / format[2]) + " " + format[1] + " " + token
-}
 
 ;(async () => {
 	try {
@@ -139,33 +68,27 @@ function time_ago(time: any, _s: number) {
 							item.node.start_season?.year || "-",
 							item.node.my_list_status?.score || "-",
 							item.node.title,
-							check_time(item.my_date[0]) ? get_time(item.my_date[0]) : "-",
-							check_time(item.my_date[1]) ? get_time(item.my_date[1]) : "-",
+							time.check(item.my_date[0]) ? time.get(item.my_date[0]) : "-",
+							time.check(item.my_date[1]) ? time.get(item.my_date[1]) : "-",
 						]
 						if ("watching" === status[i]) {
 							array[5] = `${item.node.my_list_status.num_episodes_watched}${item.node.num_episodes !== 0 ? `/${item.node.num_episodes}` : "/?"}`
-							array[6] = time_ago(new Date(new Date(item.node.my_list_status.updated_at).getTime() - 1), i)
-							array[7] = check_time(item.my_date[1]) ? get_time(item.my_date[1]) : "-"
+							array[6] = time.ago(new Date(new Date(item.node.my_list_status.updated_at).getTime() - 1), i)
+							array[7] = time.get(new Date(item.node.my_list_status.start_date))
 						}
 						if ("completed" === status[i]) {
-							array.splice(
-								5,
-								0,
-								check_time(item.my_date[0])
-									? time_ago(new Date(new Date(item.my_date[0].setTime(new Date(item.node.my_list_status.updated_at))).getTime() - 1), i)
-									: "-",
-							)
-							array[6] = check_time(item.my_date[1]) ? get_time(item.my_date[1]) : "-"
-							array[7] = check_time(item.my_date[0]) ? get_time(item.my_date[0]) : "-"
+							array.splice(5, 0, time.ago(new Date(new Date(item.my_date[0].setTime(new Date(item.node.my_list_status.updated_at))).getTime() - 1), i))
+							array[6] = time.get(new Date(item.node.my_list_status.start_date))
+							array[7] = time.get(new Date(item.node.my_list_status.finish_date))
 						}
 						if ("on_hold" === status[i] || "dropped" === status[i]) {
-							array[7] = check_time(item.my_date[0]) ? `${array[5]}` : "-"
+							array[7] = array[5]
 							array[5] = `${item.node.my_list_status.num_episodes_watched}${item.node.num_episodes !== 0 ? `/${item.node.num_episodes}` : "/?"}`
-							array[6] = time_ago(new Date(new Date(item.node.my_list_status.updated_at).getTime() - 1), i)
+							array[6] = time.ago(new Date(new Date(item.node.my_list_status.updated_at).getTime() - 1), i)
 						}
 						if ("plan_to_watch" === status[i]) {
 							array[3] = item.node.source
-							array[5] = time_ago(new Date(new Date(item.node.my_list_status.updated_at).getTime() - 1), i)
+							array[5] = time.ago(new Date(new Date(item.node.my_list_status.updated_at).getTime() - 1), i)
 						}
 						return array
 					}),
@@ -218,3 +141,5 @@ function time_ago(time: any, _s: number) {
 		core.setFailed(`Action failed with error ${err}`)
 	}
 })()
+
+export default status
