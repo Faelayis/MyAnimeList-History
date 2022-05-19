@@ -25,12 +25,12 @@ List Sync From MyAnimeList
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start date | Finish date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |  17 hours ago | 05/16/2022 |  05/18/2022 |
-| [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |   6 days ago  | 05/12/2022 |  05/12/2022 |
+| [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |  18 hours ago | 05/16/2022 |  05/19/2022 |
+| [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |   6 days ago  | 05/12/2022 |  05/13/2022 |
 | [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   9   |                                              Owari no Seraph                                              |   6 days ago  | 05/12/2022 |  05/12/2022 |
-| [35839](https://myanimelist.net/anime/35839) |    tv   |  2018  |   7   |                                          Sora yori mo Tooi Basho                                          |   Last week   | 05/07/2022 |  05/06/2022 |
-| [40586](https://myanimelist.net/anime/40586) |    tv   |  2021  |   7   |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita                    |   Last week   | 05/03/2022 |  05/06/2022 |
-| [36632](https://myanimelist.net/anime/36632) |    tv   |  2018  |   6   |                              Ore ga Suki nano wa Imouto dakedo Imouto ja Nai                              |   Last week   | 05/25/2021 |  05/06/2022 |
+| [35839](https://myanimelist.net/anime/35839) |    tv   |  2018  |   7   |                                          Sora yori mo Tooi Basho                                          |   Last week   | 05/07/2022 |  05/07/2022 |
+| [40586](https://myanimelist.net/anime/40586) |    tv   |  2021  |   7   |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita                    |   Last week   | 05/03/2022 |  05/07/2022 |
+| [36632](https://myanimelist.net/anime/36632) |    tv   |  2018  |   6   |                              Ore ga Suki nano wa Imouto dakedo Imouto ja Nai                              |   Last week   | 05/25/2021 |  05/07/2022 |
 
 
 *[332 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
