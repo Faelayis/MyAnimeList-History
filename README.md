@@ -6,7 +6,7 @@ List Sync From MyAnimeList
 
 |                      id                      | Type | Season | Score |                         Title                         | Watched |     Updated    | Start date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------: | :-----: | :------------: | :--------: |
-|  [4654](https://myanimelist.net/anime/4654)  |  tv  |  2008  |   -   |                 Toaru Majutsu no Index                |  18/24  | 40 minutes ago | 05/14/2022 |
+|  [4654](https://myanimelist.net/anime/4654)  |  tv  |  2008  |   -   |                 Toaru Majutsu no Index                |  18/24  | 51 minutes ago | 05/14/2022 |
 | [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                      Spy x Family                     |   6/12  |    Yesterday   | 04/09/2022 |
 | [49520](https://myanimelist.net/anime/49520) |  tv  |  2022  |   7   |                Aharen-san wa Hakarenai                |   4/12  |   2 days ago   | 04/01/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                       One Piece                       |  1016/? |   2 days ago   | 01/01/2014 |
