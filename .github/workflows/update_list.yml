@@ -11,12 +11,13 @@ jobs:
         steps:
             - name: Checkout
               uses: actions/checkout@v2
+
             - name: Setup Node
               uses: actions/setup-node@v3
               with:
                   node-version: "16"
 
-            - name: install Dependencies
+            - name: Install Dependencies
               run: npm install
             - name: Run Build & Start
               run: npm run build & npm run start

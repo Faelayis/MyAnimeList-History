@@ -7,7 +7,7 @@ on:
             - master
 
 jobs:
-    prettier:
+    main:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout
@@ -18,7 +18,7 @@ jobs:
               with:
                   node-version: "16"
 
-            - name: install Dependencies
+            - name: Install Dependencies
               run: npm install
             - name: Run Prettier
               run: npm run prettier
