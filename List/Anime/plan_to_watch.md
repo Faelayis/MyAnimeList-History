@@ -1,4 +1,4 @@
-# Plan to Watch (190)
+# Plan to Watch (189)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |   Date Added  | Plan Start date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -163,7 +163,6 @@
 | [46431](https://myanimelist.net/anime/46431) |   ova   |    -   |  light_novel |                              Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan OVA                             |   03/07/2021  |    12/31/1969   |
 | [33004](https://myanimelist.net/anime/33004) | special |  2016  |     manga    |                                            Tanaka-kun wa Kyou mo Kedaruge                                            |   03/05/2021  |    12/31/1969   |
 | [41514](https://myanimelist.net/anime/41514) |    tv   |    -   |  light_novel |                        Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. II                        |   03/03/2021  |    12/31/1969   |
-|  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |  light_novel |                                               Toaru Majutsu no Index II                                              |   03/03/2021  |    12/31/1969   |
 | [16782](https://myanimelist.net/anime/16782) |  movie  |  2013  |   original   |                                                   Kotonoha no Niwa                                                   |   03/03/2021  |    12/31/1969   |
 | [44204](https://myanimelist.net/anime/44204) |    tv   |  2023  |     manga    |                                                Kyokou Suiri 2nd Season                                               |   03/03/2021  |    12/31/1969   |
 | [47164](https://myanimelist.net/anime/47164) |    tv   |  2022  |  light_novel |                              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV                             |   03/03/2021  |    12/31/1969   |
