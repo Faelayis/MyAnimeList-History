@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start date | Finish date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |  18 hours ago | 05/16/2022 |  05/19/2022 |
+| [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |  19 hours ago | 05/16/2022 |  05/19/2022 |
 | [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |   6 days ago  | 05/12/2022 |  05/13/2022 |
 | [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   9   |                                              Owari no Seraph                                              |   6 days ago  | 05/12/2022 |  05/12/2022 |
 | [35839](https://myanimelist.net/anime/35839) |    tv   |  2018  |   7   |                                          Sora yori mo Tooi Basho                                          |   Last week   | 05/07/2022 |  05/07/2022 |
@@ -69,8 +69,8 @@
 | [11843](https://myanimelist.net/anime/11843) |    tv   |  2012  |   8   |                                        Danshi Koukousei no Nichijou                                       |   Last month  | 12/24/2021 |  01/05/2022 |
 |    [30](https://myanimelist.net/anime/30)    |    tv   |  1995  |   9   |                                          Neon Genesis Evangelion                                          |   Last month  | 12/30/2021 |  12/30/2021 |
 |    [32](https://myanimelist.net/anime/32)    |  movie  |  1997  |   10  |                               Neon Genesis Evangelion: The End of Evangelion                              |   5 days ago  | 12/30/2021 |  12/30/2021 |
-| [42351](https://myanimelist.net/anime/42351) |    tv   |  2021  |   7   |                                      Senpai ga Uzai Kouhai no Hanashi                                     |  4 months ago | 11/04/2021 |  12/30/2021 |
-| [44037](https://myanimelist.net/anime/44037) |    tv   |  2021  |   7   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita |  4 months ago | 10/28/2021 |  12/30/2021 |
+| [42351](https://myanimelist.net/anime/42351) |    tv   |  2021  |   7   |                                      Senpai ga Uzai Kouhai no Hanashi                                     |  5 months ago | 11/04/2021 |  12/30/2021 |
+| [44037](https://myanimelist.net/anime/44037) |    tv   |  2021  |   7   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita |  5 months ago | 10/28/2021 |  12/30/2021 |
 | [47790](https://myanimelist.net/anime/47790) |    tv   |  2021  |   6   |                          Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru                         |  4 months ago | 10/18/2021 |  12/30/2021 |
 | [49409](https://myanimelist.net/anime/49409) |  movie  |  2021  |   8   |                                        Bai She II: Qing She Jie Qi                                        |  5 months ago | 12/27/2021 |  12/27/2021 |
 | [48471](https://myanimelist.net/anime/48471) |    tv   |  2021  |   7   |                                        Tsuki to Laika to Nosferatu                                        |  5 months ago | 10/15/2021 |  12/27/2021 |
