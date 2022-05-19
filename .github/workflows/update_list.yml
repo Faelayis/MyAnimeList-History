@@ -1,4 +1,4 @@
-name: UpdateList
+name: Update List
 
 on:
     schedule:
@@ -9,16 +9,22 @@ jobs:
     main:
         runs-on: ubuntu-latest
         steps:
+            - name: Checkout
             - uses: actions/checkout@v2
             - uses: actions/setup-node@v3
               with:
                   node-version: "16"
+
+            - name: install Dependencies
             - run: npm install
+            - name: Run Build & Start
             - run: npm run build & npm run start
               env:
                   client_id: ${{ secrets.CLIENT_ID }}
                   user: ${{ secrets.USER }}
                   pass: ${{ secrets.PASS }}
+
+            - name: Automatically Commit Changed
             - uses: stefanzweifel/git-auto-commit-action@v4
               with:
                   push_options: "--force"
