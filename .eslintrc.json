@@ -16,6 +16,12 @@
     "ecmaVersion": 2018,
     "sourceType": "module"
   },
-  "plugins": ["@typescript-eslint"],
-  "rules": {}
+  "plugins": ["@typescript-eslint", "prettier"],
+  "rules": {
+	"prettier/prettier": "warn",
+	"@typescript-eslint/semi": "off",
+	"arrow-body-style": "off",
+	"prefer-arrow-callback": "off",
+	"no-extra-semi": 0
+	}
 }

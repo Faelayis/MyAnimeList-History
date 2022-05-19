@@ -1,0 +1,28 @@
+name: Code Formatter
+
+on:
+    pull_request:
+    push:
+        branches:
+            - master
+
+jobs:
+    prettier:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - uses: actions/setup-node@v3
+              with:
+                  node-version: "16"
+            - run: npm install
+            - run: npm run prettier
+
+            - uses: stefanzweifel/git-auto-commit-action@v4
+              with:
+                  push_options: "--force"
+                  commit_options: "--no-verify"
+                  commit_message: "Prettified Code!"
+                  commit_user_name: GitHub Actions
+                  commit_user_email: actions@github.com
+                  commit_author: GitHub Actions <actions@github.com>
+                  skip_checkout: true
