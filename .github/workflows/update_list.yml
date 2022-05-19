@@ -14,7 +14,6 @@ jobs:
             - uses: actions/setup-node@v3
               with:
                   node-version: "16"
-
             - name: install Dependencies
             - run: npm install
             - name: Run Build & Start
@@ -23,7 +22,6 @@ jobs:
                   client_id: ${{ secrets.CLIENT_ID }}
                   user: ${{ secrets.USER }}
                   pass: ${{ secrets.PASS }}
-
             - name: Automatically Commit Changed
             - uses: stefanzweifel/git-auto-commit-action@v4
               with:
