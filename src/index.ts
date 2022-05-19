@@ -74,7 +74,6 @@ function time_ago(time: any, _s: number) {
 	}
 	let i = 0,
 		format: any
-	// eslint-disable-next-line no-cond-assign
 	while ((format = time_formats[i++]))
 		if (seconds < format[0]) {
 			if (status[_s] === "plan_to_watch" && format[list_choice] == "Last year") {
