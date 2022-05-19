@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |   Date Added  | Plan Start date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |  19 hours ago |    12/31/1969   |
+| [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |  20 hours ago |    12/31/1969   |
 | [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |  light_novel |                                              Toaru Majutsu no Index III                                              |   2 days ago  |    12/31/1969   |
 | [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                             Shokei Shoujo no Virgin Road                                             |   5 days ago  |    12/31/1969   |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |   5 days ago  |    12/31/1969   |
