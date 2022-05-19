@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |   Date Added  | Plan Start date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |  4 hours ago  |    12/31/1969   |
+| [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |  7 hours ago  |    12/31/1969   |
 | [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |  light_novel |                                              Toaru Majutsu no Index III                                              |   2 days ago  |    12/31/1969   |
 | [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                             Shokei Shoujo no Virgin Road                                             |   4 days ago  |    12/31/1969   |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |   5 days ago  |    12/31/1969   |
@@ -117,7 +117,7 @@
 | [37497](https://myanimelist.net/anime/37497) |    tv   |  2018  |   original   |                                             Irozuku Sekai no Ashita kara                                             | 10 months ago |    12/31/1969   |
 | [44511](https://myanimelist.net/anime/44511) |    tv   |    -   |     manga    |                                                     Chainsaw Man                                                     | 10 months ago |    12/31/1969   |
 |  [1689](https://myanimelist.net/anime/1689)  |  movie  |  2007  |   original   |                                                 Byousoku 5 Centimeter                                                | 10 months ago |    12/31/1969   |
-| [20689](https://myanimelist.net/anime/20689) |    tv   |  2014  |  mixed_media |                                                Hamatora The Animation                                                | 10 months ago |    12/31/1969   |
+| [20689](https://myanimelist.net/anime/20689) |    tv   |  2014  |  mixed_media |                                                Hamatora The Animation                                                | 11 months ago |    12/31/1969   |
 | [27989](https://myanimelist.net/anime/27989) |    tv   |  2015  |     novel    |                                                   Hibike! Euphonium                                                  | 11 months ago |    12/31/1969   |
 | [33157](https://myanimelist.net/anime/33157) | special |  2016  |   web_manga  |                                        Tanaka-kun wa Itsumo Kedaruge Specials                                        | 11 months ago |    12/31/1969   |
 | [34542](https://myanimelist.net/anime/34542) |    tv   |  2017  |     manga    |                                                      Inuyashiki                                                      | 11 months ago |    12/31/1969   |
