@@ -4,33 +4,33 @@ List Sync From MyAnimeList
 
 #### Watching (16) ``8.47%``
 
-|                      id                      | Type | Season | Score |                         Title                         | Watched |     Updated    | Start date |
-| :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------: | :-----: | :------------: | :--------: |
-|  [8937](https://myanimelist.net/anime/8937)  |  tv  |  2010  |   -   |               Toaru Majutsu no Index II               |   2/24  | 18 minutes ago | 05/20/2022 |
-| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                      Spy x Family                     |   6/12  |   2 days ago   | 04/09/2022 |
-| [49520](https://myanimelist.net/anime/49520) |  tv  |  2022  |   7   |                Aharen-san wa Hakarenai                |   4/12  |   3 days ago   | 04/01/2022 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                       One Piece                       |  1016/? |   3 days ago   | 01/01/2014 |
-| [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   8   |                    Yuusha, Yamemasu                   |   6/12  |   6 days ago   | 04/06/2022 |
-| [43470](https://myanimelist.net/anime/43470) |  tv  |  2022  |   6   | Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart |   2/12  |   6 days ago   | 04/01/2022 |
-| [50380](https://myanimelist.net/anime/50380) |  tv  |  2022  |   -   |                     Paripi Koumei                     |   7/12  |   6 days ago   | 05/01/2022 |
-| [41461](https://myanimelist.net/anime/41461) |  tv  |  2022  |   9   |                     Date A Live IV                    |   5/12  |   6 days ago   | 04/08/2022 |
-| [48842](https://myanimelist.net/anime/48842) |  tv  |  2022  |   -   |                  Mahoutsukai Reimeiki                 |   2/12  |   6 days ago   | 04/09/2022 |
-| [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   9   |        Komi-san wa, Comyushou desu. 2nd Season        |   5/?   |   6 days ago   | 04/07/2022 |
-| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   10  |                   Kakkou no Iinazuke                  |   3/24  |   6 days ago   | 04/25/2022 |
+|                      id                      | Type | Season | Score |                         Title                         | Watched |   Updated   | Start date |
+| :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------: | :-----: | :---------: | :--------: |
+|  [8937](https://myanimelist.net/anime/8937)  |  tv  |  2010  |   -   |               Toaru Majutsu no Index II               |   2/24  |  1 hour ago | 05/20/2022 |
+| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                      Spy x Family                     |   6/12  |  2 days ago | 04/09/2022 |
+| [49520](https://myanimelist.net/anime/49520) |  tv  |  2022  |   7   |                Aharen-san wa Hakarenai                |   4/12  |  3 days ago | 04/01/2022 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                       One Piece                       |  1016/? |  4 days ago | 01/01/2014 |
+| [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   8   |                    Yuusha, Yamemasu                   |   6/12  |  6 days ago | 04/06/2022 |
+| [43470](https://myanimelist.net/anime/43470) |  tv  |  2022  |   6   | Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart |   2/12  |  6 days ago | 04/01/2022 |
+| [50380](https://myanimelist.net/anime/50380) |  tv  |  2022  |   -   |                     Paripi Koumei                     |   7/12  |  6 days ago | 05/01/2022 |
+| [41461](https://myanimelist.net/anime/41461) |  tv  |  2022  |   9   |                     Date A Live IV                    |   5/12  |  6 days ago | 04/08/2022 |
+| [48842](https://myanimelist.net/anime/48842) |  tv  |  2022  |   -   |                  Mahoutsukai Reimeiki                 |   2/12  |  6 days ago | 04/09/2022 |
+| [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   9   |        Komi-san wa, Comyushou desu. 2nd Season        |   5/?   |  6 days ago | 04/07/2022 |
+| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   10  |                   Kakkou no Iinazuke                  |   3/24  |  6 days ago | 04/25/2022 |
 
 
 *[5 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
 #### Completed ``81.12%``
 
-|                      id                      |   Type  | Season | Score |                                                   Title                                                   |    Completed   | Start date | Finish date |
-| :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :------------: | :--------: | :---------: |
-|  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          | 58 minutes ago | 05/14/2022 |  05/20/2022 |
-| [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |    Yesterday   | 05/16/2022 |  05/19/2022 |
-| [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |    Last week   | 05/12/2022 |  05/13/2022 |
-| [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   9   |                                              Owari no Seraph                                              |    Last week   | 05/12/2022 |  05/12/2022 |
-| [35839](https://myanimelist.net/anime/35839) |    tv   |  2018  |   7   |                                          Sora yori mo Tooi Basho                                          |    Last week   | 05/07/2022 |  05/07/2022 |
-| [40586](https://myanimelist.net/anime/40586) |    tv   |  2021  |   7   |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita                    |    Last week   | 05/03/2022 |  05/07/2022 |
+|                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start date | Finish date |
+| :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+|  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |  2 hours ago  | 05/14/2022 |  05/20/2022 |
+| [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |   Yesterday   | 05/16/2022 |  05/19/2022 |
+| [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |   Last week   | 05/12/2022 |  05/13/2022 |
+| [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   9   |                                              Owari no Seraph                                              |   Last week   | 05/12/2022 |  05/12/2022 |
+| [35839](https://myanimelist.net/anime/35839) |    tv   |  2018  |   7   |                                          Sora yori mo Tooi Basho                                          |   Last week   | 05/07/2022 |  05/07/2022 |
+| [40586](https://myanimelist.net/anime/40586) |    tv   |  2021  |   7   |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita                    |   Last week   | 05/03/2022 |  05/07/2022 |
 
 
 *[333 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
