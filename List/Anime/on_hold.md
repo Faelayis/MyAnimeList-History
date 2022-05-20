@@ -12,7 +12,7 @@
 | [40507](https://myanimelist.net/anime/40507) |    tv   |  2022  |   -   |     Arifureta Shokugyou de Sekai Saikyou 2nd Season     |   6/12  |   Last month  | 01/14/2022 |
 | [49721](https://myanimelist.net/anime/49721) |    tv   |  2022  |   -   |              Karakai Jouzu no Takagi-san 3              |   2/12  |  3 months ago | 01/08/2022 |
 |  [2104](https://myanimelist.net/anime/2104)  |    tv   |  2007  |   -   |                     Seto no Hanayome                    |   8/26  |  4 months ago | 01/05/2022 |
-| [44406](https://myanimelist.net/anime/44406) |   ona   |  2021  |   -   |                     Da Wang Rao Ming                    |   5/12  |  2 months ago | 12/19/2021 |
+| [44406](https://myanimelist.net/anime/44406) |   ona   |  2021  |   -   |                     Da Wang Rao Ming                    |   5/12  |  3 months ago | 12/19/2021 |
 | [11759](https://myanimelist.net/anime/11759) |    tv   |  2012  |   -   |                       Accel World                       |  10/24  |  5 months ago | 12/16/2021 |
 | [40834](https://myanimelist.net/anime/40834) |    tv   |  2021  |   -   |                      Ousama Ranking                     |  14/23  |   Last month  | 12/11/2021 |
 | [32867](https://myanimelist.net/anime/32867) |    tv   |  2016  |   -   |               Bungou Stray Dogs 2nd Season              |   2/12  |   Last month  | 10/25/2021 |
