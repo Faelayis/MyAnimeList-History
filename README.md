@@ -7,7 +7,7 @@ List Sync From MyAnimeList
 |                      id                      | Type | Season | Score |                         Title                         | Watched |    Updated   | Start date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------: | :-----: | :----------: | :--------: |
 |  [8937](https://myanimelist.net/anime/8937)  |  tv  |  2010  |   -   |               Toaru Majutsu no Index II               |   2/24  | 23 hours ago | 05/20/2022 |
-| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                      Spy x Family                     |   6/12  |  2 days ago  | 04/09/2022 |
+| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                      Spy x Family                     |   6/12  |  3 days ago  | 04/09/2022 |
 | [49520](https://myanimelist.net/anime/49520) |  tv  |  2022  |   7   |                Aharen-san wa Hakarenai                |   4/12  |  4 days ago  | 04/01/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                       One Piece                       |  1016/? |  4 days ago  | 01/01/2014 |
 | [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   8   |                    Yuusha, Yamemasu                   |   6/12  |   Last week  | 04/06/2022 |
@@ -53,12 +53,12 @@ List Sync From MyAnimeList
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [34543](https://myanimelist.net/anime/34543) |  tv  |  2017  |   2   |                                    Dive!!                                    |   6/12  |   Last week   | 05/03/2022 |
-| [48760](https://myanimelist.net/anime/48760) |  tv  |  2022  |   3   |               Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu              |   1/12  |   Last week   | 04/12/2022 |
-| [48583](https://myanimelist.net/anime/48583) |  tv  |  2022  |   5   |                  Shingeki no Kyojin: The Final Season Part 2                 |   3/12  |   Last week   | 01/28/2022 |
+| [34543](https://myanimelist.net/anime/34543) |  tv  |  2017  |   2   |                                    Dive!!                                    |   6/12  |  2 weeks ago  | 05/03/2022 |
+| [48760](https://myanimelist.net/anime/48760) |  tv  |  2022  |   3   |               Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu              |   1/12  |  2 weeks ago  | 04/12/2022 |
+| [48583](https://myanimelist.net/anime/48583) |  tv  |  2022  |   5   |                  Shingeki no Kyojin: The Final Season Part 2                 |   3/12  |  2 weeks ago  | 01/28/2022 |
 | [40960](https://myanimelist.net/anime/40960) |  tv  |  2021  |   5   |           Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore           |   1/12  | 10 months ago | 07/08/2021 |
-| [47257](https://myanimelist.net/anime/47257) |  tv  |  2021  |   4   |                        Shinigami Bocchan to Kuro Maid                        |   1/12  |   Last week   | 07/05/2021 |
-| [46471](https://myanimelist.net/anime/46471) |  tv  |  2021  |   5   |                           Tantei wa Mou, Shindeiru.                          |   2/12  |   Last week   | 07/04/2021 |
+| [47257](https://myanimelist.net/anime/47257) |  tv  |  2021  |   4   |                        Shinigami Bocchan to Kuro Maid                        |   1/12  |  2 weeks ago  | 07/05/2021 |
+| [46471](https://myanimelist.net/anime/46471) |  tv  |  2021  |   5   |                           Tantei wa Mou, Shindeiru.                          |   2/12  |  2 weeks ago  | 07/04/2021 |
 
 
 *[21 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
