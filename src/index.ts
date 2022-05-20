@@ -82,9 +82,9 @@ const markdown = [],
 							array[7] = time.get(new Date(item.node.my_list_status.finish_date))
 						}
 						if ("on_hold" === status[i] || "dropped" === status[i]) {
-							array[7] = array[5]
 							array[5] = `${item.node.my_list_status.num_episodes_watched}${item.node.num_episodes !== 0 ? `/${item.node.num_episodes}` : "/?"}`
 							array[6] = time.ago(new Date(new Date(item.node.my_list_status.updated_at).getTime() - 1), i)
+							array[7] = time.get(new Date(item.node.my_list_status.start_date))
 						}
 						if ("plan_to_watch" === status[i]) {
 							array[3] = item.node.source
