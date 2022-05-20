@@ -6,7 +6,7 @@ List Sync From MyAnimeList
 
 |                      id                      | Type | Season | Score |                         Title                         | Watched |    Updated   | Start date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------: | :-----: | :----------: | :--------: |
-|  [8937](https://myanimelist.net/anime/8937)  |  tv  |  2010  |   -   |               Toaru Majutsu no Index II               |   2/24  | 12 hours ago | 05/20/2022 |
+|  [8937](https://myanimelist.net/anime/8937)  |  tv  |  2010  |   -   |               Toaru Majutsu no Index II               |   2/24  | 14 hours ago | 05/20/2022 |
 | [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                      Spy x Family                     |   6/12  |  2 days ago  | 04/09/2022 |
 | [49520](https://myanimelist.net/anime/49520) |  tv  |  2022  |   7   |                Aharen-san wa Hakarenai                |   4/12  |  4 days ago  | 04/01/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                       One Piece                       |  1016/? |  4 days ago  | 01/01/2014 |
@@ -25,7 +25,7 @@ List Sync From MyAnimeList
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start date | Finish date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-|  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |  13 hours ago | 05/14/2022 |  05/20/2022 |
+|  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |  14 hours ago | 05/14/2022 |  05/20/2022 |
 | [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |   Yesterday   | 05/16/2022 |  05/19/2022 |
 | [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |   Last week   | 05/12/2022 |  05/13/2022 |
 | [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   9   |                                              Owari no Seraph                                              |   Last week   | 05/12/2022 |  05/12/2022 |
