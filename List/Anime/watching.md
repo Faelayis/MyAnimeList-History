@@ -4,7 +4,7 @@
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------: | :-----: | :---------: | :--------: |
 |  [8937](https://myanimelist.net/anime/8937)  |  tv  |  2010  |   -   |               Toaru Majutsu no Index II               |   2/24  | 6 hours ago | 05/20/2022 |
 | [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                      Spy x Family                     |   6/12  |  2 days ago | 04/09/2022 |
-| [49520](https://myanimelist.net/anime/49520) |  tv  |  2022  |   7   |                Aharen-san wa Hakarenai                |   4/12  |  3 days ago | 04/01/2022 |
+| [49520](https://myanimelist.net/anime/49520) |  tv  |  2022  |   7   |                Aharen-san wa Hakarenai                |   4/12  |  4 days ago | 04/01/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                       One Piece                       |  1016/? |  4 days ago | 01/01/2014 |
 | [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   8   |                    Yuusha, Yamemasu                   |   6/12  |  6 days ago | 04/06/2022 |
 | [43470](https://myanimelist.net/anime/43470) |  tv  |  2022  |   6   | Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart |   2/12  |  6 days ago | 04/01/2022 |
