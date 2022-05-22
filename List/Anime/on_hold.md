@@ -31,7 +31,7 @@
 | [40935](https://myanimelist.net/anime/40935) |    tv   |  2021  |   -   |                   Beastars 2nd Season                   |   8/12  | 10 months ago | 07/20/2021 |
 | [43969](https://myanimelist.net/anime/43969) |    tv   |  2021  |   -   |                     Kanojo mo Kanojo                    |   3/12  |  9 months ago | 07/05/2021 |
 | [40904](https://myanimelist.net/anime/40904) |    tv   |  2021  |   -   |                   Bokutachi no Remake                   |   2/12  |  9 months ago | 07/04/2021 |
-|  [6746](https://myanimelist.net/anime/6746)  |    tv   |  2010  |   -   |                        Durarara!!                       |  14/24  | 11 months ago | 06/17/2021 |
+|  [6746](https://myanimelist.net/anime/6746)  |    tv   |  2010  |   -   |                        Durarara!!                       |  14/24  |   Last year   | 06/17/2021 |
 | [37976](https://myanimelist.net/anime/37976) |    tv   |  2018  |   -   |                     Zombieland Saga                     |   3/12  |   Last year   | 05/28/2021 |
 | [18153](https://myanimelist.net/anime/18153) |    tv   |  2013  |   -   |                    Kyoukai no Kanata                    |   2/12  |   Last year   | 05/27/2021 |
 | [43007](https://myanimelist.net/anime/43007) |    tv   |  2021  |   -   |       Osananajimi ga Zettai ni Makenai Love Comedy      |   5/12  |   Last year   | 05/25/2021 |
