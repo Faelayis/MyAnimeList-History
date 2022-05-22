@@ -10,7 +10,7 @@ List Sync From MyAnimeList
 | [40436](https://myanimelist.net/anime/40436) |  tv  |  2020  |   -   |             Peter Grill to Kenja no Jikan            |   6/12  | 22 hours ago | 05/13/2022 |
 | [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                  Kakkou no Iinazuke                  |   4/24  | 22 hours ago | 04/25/2022 |
 | [43608](https://myanimelist.net/anime/43608) |  tv  |  2022  |   9   |      Kaguya-sama wa Kokurasetai: Ultra Romantic      |   7/12  | 22 hours ago | 04/09/2022 |
-| [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   10  |        Komi-san wa, Comyushou desu. 2nd Season       |   6/?   | 22 hours ago | 04/07/2022 |
+| [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   10  |        Komi-san wa, Comyushou desu. 2nd Season       |   6/?   | 23 hours ago | 04/07/2022 |
 | [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                     Spy x Family                     |   7/12  | 23 hours ago | 04/09/2022 |
 | [49520](https://myanimelist.net/anime/49520) |  tv  |  2022  |   7   |                Aharen-san wa Hakarenai               |   4/12  |  6 days ago  | 04/01/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                       One Piece                      |  1016/? |  6 days ago  | 01/01/2014 |
@@ -68,7 +68,7 @@ List Sync From MyAnimeList
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |   Date Added  | Plan Start date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |   4 days ago  |        -        |
-| [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |  light_novel |                                              Toaru Majutsu no Index III                                              |   5 days ago  |        -        |
+| [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |  light_novel |                                              Toaru Majutsu no Index III                                              |   6 days ago  |        -        |
 | [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                             Shokei Shoujo no Virgin Road                                             |   Last week   |        -        |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |   Last week   |        -        |
 |   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                           Kino no Tabi: The Beautiful World                                          |   Last week   |        -        |
