@@ -4,19 +4,19 @@ List Sync From MyAnimeList
 
 #### Watching (13) ``6.88%``
 
-|                      id                      | Type | Season | Score |                         Title                        | Watched |  Updated  | Start date |
-| :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------: | :-----: | :-------: | :--------: |
-|  [8937](https://myanimelist.net/anime/8937)  |  tv  |  2010  |   -   |               Toaru Majutsu no Index II              |   5/24  | Yesterday | 05/20/2022 |
-| [40436](https://myanimelist.net/anime/40436) |  tv  |  2020  |   -   |             Peter Grill to Kenja no Jikan            |   6/12  | Yesterday | 05/13/2022 |
-| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                  Kakkou no Iinazuke                  |   4/24  | Yesterday | 04/25/2022 |
-| [43608](https://myanimelist.net/anime/43608) |  tv  |  2022  |   9   |      Kaguya-sama wa Kokurasetai: Ultra Romantic      |   7/12  | Yesterday | 04/09/2022 |
-| [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   10  |        Komi-san wa, Comyushou desu. 2nd Season       |   6/?   | Yesterday | 04/07/2022 |
-| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                     Spy x Family                     |   7/12  | Yesterday | 04/09/2022 |
-| [49520](https://myanimelist.net/anime/49520) |  tv  |  2022  |   7   |                Aharen-san wa Hakarenai               |   4/12  | Last week | 04/01/2022 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                       One Piece                      |  1016/? | Last week | 01/01/2014 |
-| [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   8   |                   Yuusha, Yamemasu                   |   6/12  | Last week | 04/06/2022 |
-| [50380](https://myanimelist.net/anime/50380) |  tv  |  2022  |   -   |                     Paripi Koumei                    |   7/12  | Last week | 05/01/2022 |
-| [41461](https://myanimelist.net/anime/41461) |  tv  |  2022  |   9   |                    Date A Live IV                    |   5/12  | Last week | 04/08/2022 |
+|                      id                      | Type | Season | Score |                         Title                        | Watched |   Updated  | Start date |
+| :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------: | :-----: | :--------: | :--------: |
+|  [8937](https://myanimelist.net/anime/8937)  |  tv  |  2010  |   -   |               Toaru Majutsu no Index II              |   5/24  |  Yesterday | 05/20/2022 |
+| [40436](https://myanimelist.net/anime/40436) |  tv  |  2020  |   -   |             Peter Grill to Kenja no Jikan            |   6/12  |  Yesterday | 05/13/2022 |
+| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                  Kakkou no Iinazuke                  |   4/24  |  Yesterday | 04/25/2022 |
+| [43608](https://myanimelist.net/anime/43608) |  tv  |  2022  |   9   |      Kaguya-sama wa Kokurasetai: Ultra Romantic      |   7/12  |  Yesterday | 04/09/2022 |
+| [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   10  |        Komi-san wa, Comyushou desu. 2nd Season       |   6/?   |  Yesterday | 04/07/2022 |
+| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                     Spy x Family                     |   7/12  | 2 days ago | 04/09/2022 |
+| [49520](https://myanimelist.net/anime/49520) |  tv  |  2022  |   7   |                Aharen-san wa Hakarenai               |   4/12  |  Last week | 04/01/2022 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                       One Piece                      |  1016/? |  Last week | 01/01/2014 |
+| [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   8   |                   Yuusha, Yamemasu                   |   6/12  |  Last week | 04/06/2022 |
+| [50380](https://myanimelist.net/anime/50380) |  tv  |  2022  |   -   |                     Paripi Koumei                    |   7/12  |  Last week | 05/01/2022 |
+| [41461](https://myanimelist.net/anime/41461) |  tv  |  2022  |   9   |                    Date A Live IV                    |   5/12  |  Last week | 04/08/2022 |
 
 
 *[2 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
