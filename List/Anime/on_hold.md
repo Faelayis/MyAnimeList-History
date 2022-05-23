@@ -2,13 +2,13 @@
 
 |                      id                      |   Type  | Season | Score |                          Title                          | Watched |     Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------: | :-----: | :------------: | :--------: |
-| [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   -   |               Toaru Kagaku no Accelerator               |   1/12  |   6 days ago   | 05/14/2022 |
+| [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   -   |               Toaru Kagaku no Accelerator               |   1/12  |    Last week   | 05/14/2022 |
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                        Fate/Zero                        |   2/13  |   3 weeks ago  | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                  Madan no Ou to Vanadis                 |   6/13  |   Last month   | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                     Machikado Mazoku                    |   2/12  |   3 weeks ago  | 04/19/2022 |
 | [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                   Mahoutsukai Reimeiki                  |   2/12  |   2 days ago   | 04/09/2022 |
 | [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |           Tate no Yuusha no Nariagari Season 2          |   3/13  |   2 days ago   | 04/06/2022 |
-| [49520](https://myanimelist.net/anime/49520) |    tv   |  2022  |   7   |                 Aharen-san wa Hakarenai                 |   4/12  | 40 minutes ago | 04/01/2022 |
+| [49520](https://myanimelist.net/anime/49520) |    tv   |  2022  |   7   |                 Aharen-san wa Hakarenai                 |   4/12  | 57 minutes ago | 04/01/2022 |
 | [43470](https://myanimelist.net/anime/43470) |    tv   |  2022  |   6   |  Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart  |   2/12  |   2 days ago   | 04/01/2022 |
 | [49930](https://myanimelist.net/anime/49930) |    tv   |  2022  |   -   |     Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2     |   2/13  |   Last month   | 03/01/2022 |
 | [32182](https://myanimelist.net/anime/32182) |    tv   |  2016  |   -   |                      Mob Psycho 100                     |   3/12  |  3 months ago  | 02/05/2022 |
