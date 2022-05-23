@@ -1,4 +1,4 @@
-# Watching (13)
+# Watching (12)
 
 |                      id                      | Type | Season | Score |                         Title                        | Watched |   Updated  | Start date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------: | :-----: | :--------: | :--------: |
@@ -8,7 +8,6 @@
 | [43608](https://myanimelist.net/anime/43608) |  tv  |  2022  |   9   |      Kaguya-sama wa Kokurasetai: Ultra Romantic      |   7/12  | 2 days ago | 04/09/2022 |
 | [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   10  |        Komi-san wa, Comyushou desu. 2nd Season       |   6/?   | 2 days ago | 04/07/2022 |
 | [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                     Spy x Family                     |   7/12  | 2 days ago | 04/09/2022 |
-| [49520](https://myanimelist.net/anime/49520) |  tv  |  2022  |   7   |                Aharen-san wa Hakarenai               |   4/12  |  Last week | 04/01/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                       One Piece                      |  1016/? |  Last week | 01/01/2014 |
 | [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   8   |                   Yuusha, Yamemasu                   |   6/12  |  Last week | 04/06/2022 |
 | [50380](https://myanimelist.net/anime/50380) |  tv  |  2022  |   -   |                     Paripi Koumei                    |   7/12  |  Last week | 05/01/2022 |
