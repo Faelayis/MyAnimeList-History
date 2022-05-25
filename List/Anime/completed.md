@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start date | Finish date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-|  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |   5 days ago  | 05/14/2022 |  05/20/2022 |
+|  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |   6 days ago  | 05/14/2022 |  05/20/2022 |
 | [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |   Last week   | 05/16/2022 |  05/19/2022 |
 | [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |   Last week   | 05/12/2022 |  05/13/2022 |
 | [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   9   |                                              Owari no Seraph                                              |   Last week   | 05/12/2022 |  05/12/2022 |
@@ -72,7 +72,7 @@
 |    [32](https://myanimelist.net/anime/32)    |  movie  |  1997  |   10  |                               Neon Genesis Evangelion: The End of Evangelion                              |   Last week   | 12/30/2021 |  12/30/2021 |
 | [42351](https://myanimelist.net/anime/42351) |    tv   |  2021  |   7   |                                      Senpai ga Uzai Kouhai no Hanashi                                     |  5 months ago | 11/04/2021 |  12/30/2021 |
 | [44037](https://myanimelist.net/anime/44037) |    tv   |  2021  |   7   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita |  5 months ago | 10/28/2021 |  12/30/2021 |
-| [47790](https://myanimelist.net/anime/47790) |    tv   |  2021  |   6   |                          Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru                         |  4 months ago | 10/18/2021 |  12/30/2021 |
+| [47790](https://myanimelist.net/anime/47790) |    tv   |  2021  |   6   |                          Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru                         |  5 months ago | 10/18/2021 |  12/30/2021 |
 | [49409](https://myanimelist.net/anime/49409) |  movie  |  2021  |   8   |                                        Bai She II: Qing She Jie Qi                                        |  5 months ago | 12/27/2021 |  12/27/2021 |
 | [48471](https://myanimelist.net/anime/48471) |    tv   |  2021  |   7   |                                        Tsuki to Laika to Nosferatu                                        |  5 months ago | 10/15/2021 |  12/27/2021 |
 | [45055](https://myanimelist.net/anime/45055) |    tv   |  2021  |   7   |                                         Taishou Otome Otogibanashi                                        |  5 months ago | 10/12/2021 |  12/27/2021 |
