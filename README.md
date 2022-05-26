@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |                         Title                        | Watched |   Updated   | Start date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------: | :-----: | :---------: | :--------: |
-|  [8937](https://myanimelist.net/anime/8937)  |  tv  |  2010  |   -   |               Toaru Majutsu no Index II              |  15/24  |  Yesterday  | 05/20/2022 |
+|  [8937](https://myanimelist.net/anime/8937)  |  tv  |  2010  |   -   |               Toaru Majutsu no Index II              |  15/24  |  2 days ago | 05/20/2022 |
 | [40436](https://myanimelist.net/anime/40436) |  tv  |  2020  |   -   |             Peter Grill to Kenja no Jikan            |   6/12  |  4 days ago | 05/13/2022 |
 | [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                  Kakkou no Iinazuke                  |   4/24  |  4 days ago | 04/25/2022 |
 | [43608](https://myanimelist.net/anime/43608) |  tv  |  2022  |   9   |      Kaguya-sama wa Kokurasetai: Ultra Romantic      |   7/12  |  4 days ago | 04/09/2022 |
@@ -40,11 +40,11 @@ List Sync From MyAnimeList (update every hour)
 |                      id                      |   Type  | Season | Score |                          Title                          | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------: | :-----: | :-----------: | :--------: |
 | [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   -   |               Toaru Kagaku no Accelerator               |   1/12  |   Last week   | 05/14/2022 |
-| [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                        Fate/Zero                        |   2/13  |  3 weeks ago  | 04/26/2022 |
+| [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                        Fate/Zero                        |   2/13  |   Last month  | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                  Madan no Ou to Vanadis                 |   6/13  |   Last month  | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                     Machikado Mazoku                    |   2/12  |  3 weeks ago  | 04/19/2022 |
-| [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                   Mahoutsukai Reimeiki                  |   2/12  |   4 days ago  | 04/09/2022 |
-| [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |           Tate no Yuusha no Nariagari Season 2          |   3/13  |   4 days ago  | 04/06/2022 |
+| [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                   Mahoutsukai Reimeiki                  |   2/12  |   5 days ago  | 04/09/2022 |
+| [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |           Tate no Yuusha no Nariagari Season 2          |   3/13  |   5 days ago  | 04/06/2022 |
 
 
 *[41 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
