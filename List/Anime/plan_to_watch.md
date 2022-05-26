@@ -1,16 +1,15 @@
-# Plan to Watch (189)
+# Plan to Watch (188)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |   Date Added  | Plan Start date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |   Last week   |        -        |
-| [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |  light_novel |                                              Toaru Majutsu no Index III                                              |   Last week   |        -        |
 | [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                             Shokei Shoujo no Virgin Road                                             |   Last week   |        -        |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |   Last week   |        -        |
 |   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                           Kino no Tabi: The Beautiful World                                          |   Last week   |        -        |
-| [51252](https://myanimelist.net/anime/51252) |    tv   |    -   |  light_novel |                                                    Spy Kyoushitsu                                                    |   Last week   |        -        |
+| [51252](https://myanimelist.net/anime/51252) |    tv   |    -   |  light_novel |                                                    Spy Kyoushitsu                                                    |  2 weeks ago  |        -        |
 | [51781](https://myanimelist.net/anime/51781) |   ona   |    -   |     manga    |                                              Boku no Hero Academia (ONA)                                             |  2 weeks ago  |        -        |
 | [15005](https://myanimelist.net/anime/15005) |   ona   |  2012  |     manga    |                                                  Kyou no Asuka Show                                                  |  2 weeks ago  |        -        |
-| [50738](https://myanimelist.net/anime/50738) |    tv   |    -   |  light_novel |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita 2nd Season                    |  2 weeks ago  |        -        |
+| [50738](https://myanimelist.net/anime/50738) |    tv   |    -   |  light_novel |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita 2nd Season                    |  3 weeks ago  |        -        |
 | [49981](https://myanimelist.net/anime/49981) | unknown |    -   |  light_novel |                      Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen (Zoku-hen)                     |  3 weeks ago  |        -        |
 | [51632](https://myanimelist.net/anime/51632) |    tv   |    -   |  light_novel |                                      Isekai wa Smartphone to Tomo ni. 2nd Season                                     |  3 weeks ago  |        -        |
 | [51009](https://myanimelist.net/anime/51009) |    tv   |    -   |     manga    |                                            Jujutsu Kaisen (TV) 2nd Season                                            |  3 weeks ago  |        -        |
