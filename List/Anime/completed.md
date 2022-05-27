@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start date | Finish date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-|  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |  18 hours ago | 05/20/2022 |  05/27/2022 |
+|  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |  19 hours ago | 05/20/2022 |  05/27/2022 |
 |  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |   Last week   | 05/14/2022 |  05/20/2022 |
 | [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |   Last week   | 05/16/2022 |  05/19/2022 |
 | [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |  2 weeks ago  | 05/12/2022 |  05/13/2022 |
@@ -121,7 +121,7 @@
 | [30915](https://myanimelist.net/anime/30915) | special |  2015  |   5   |                             Kekkai Sensen: Soresaemo Saitei de Saikou na Hibi                             |  8 months ago | 09/18/2021 |  09/18/2021 |
 | [48580](https://myanimelist.net/anime/48580) |    tv   |  2021  |   9   |                                              Vanitas no Karte                                             |  5 months ago | 08/24/2021 |  09/18/2021 |
 | [41402](https://myanimelist.net/anime/41402) |    tv   |  2021  |   7   |                                     Mairimashita! Iruma-kun 2nd Season                                    |  9 months ago | 05/02/2021 |  09/12/2021 |
-| [44931](https://myanimelist.net/anime/44931) |   ova   |  2021  |   9   |                                            Tonikaku Kawaii: SNS                                           |  9 months ago | 08/21/2021 |  08/21/2021 |
+| [44931](https://myanimelist.net/anime/44931) |   ova   |  2021  |   9   |                                            Tonikaku Kawaii: SNS                                           | 10 months ago | 08/21/2021 |  08/21/2021 |
 | [33836](https://myanimelist.net/anime/33836) |    tv   |  2017  |   6   |                                                   Seiren                                                  | 10 months ago | 08/19/2021 |  08/19/2021 |
 | [24133](https://myanimelist.net/anime/24133) |    tv   |  2015  |   9   |                                     Taimadou Gakuen 35 Shiken Shoutai                                     |   Last month  | 08/17/2021 |  08/18/2021 |
 | [40083](https://myanimelist.net/anime/40083) | special |  2019  |   6   |                               Arifureta Shokugyou de Sekai Saikyou Specials                               | 10 months ago | 08/11/2021 |  08/11/2021 |
