@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start date | Finish date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-|  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |  21 hours ago | 05/20/2022 |  05/27/2022 |
+|  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |  22 hours ago | 05/20/2022 |  05/27/2022 |
 |  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |   Last week   | 05/14/2022 |  05/20/2022 |
 | [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |   Last week   | 05/16/2022 |  05/19/2022 |
 | [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |  2 weeks ago  | 05/12/2022 |  05/13/2022 |
@@ -100,7 +100,7 @@
 | [41457](https://myanimelist.net/anime/41457) |    tv   |  2021  |   6   |                                                     86                                                    |  7 months ago | 05/22/2021 |  10/18/2021 |
 | [41094](https://myanimelist.net/anime/41094) |   ona   |  2020  |   7   |                                       Xian Wang de Richang Shenghuo                                       |  7 months ago | 01/06/2021 |  10/18/2021 |
 |  [8074](https://myanimelist.net/anime/8074)  |    tv   |  2010  |   7   |                                           Highschool of the Dead                                          |  7 months ago | 10/04/2021 |  10/16/2021 |
-| [48849](https://myanimelist.net/anime/48849) |    tv   |  2021  |   9   |                                                 Sonny Boy                                                 |  7 months ago | 08/07/2021 |  10/16/2021 |
+| [48849](https://myanimelist.net/anime/48849) |    tv   |  2021  |   9   |                                                 Sonny Boy                                                 |  8 months ago | 08/07/2021 |  10/16/2021 |
 | [38329](https://myanimelist.net/anime/38329) |  movie  |  2019  |   9   |                           Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai                          |  8 months ago | 10/14/2021 |  10/14/2021 |
 | [42625](https://myanimelist.net/anime/42625) |    tv   |  2021  |   10  |                                        Heion Sedai no Idaten-tachi                                        |  8 months ago | 08/10/2021 |  09/29/2021 |
 | [31478](https://myanimelist.net/anime/31478) |    tv   |  2016  |   6   |                                             Bungou Stray Dogs                                             |  8 months ago | 09/25/2021 |  09/28/2021 |

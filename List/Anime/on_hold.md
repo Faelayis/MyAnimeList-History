@@ -22,7 +22,7 @@
 | [32867](https://myanimelist.net/anime/32867) |    tv   |  2016  |   -   |               Bungou Stray Dogs 2nd Season              |   2/12  |   Last month  | 10/25/2021 |
 | [44961](https://myanimelist.net/anime/44961) |    tv   |  2021  |   -   |                       Platinum End                      |   5/24  |  3 months ago | 10/23/2021 |
 |  [2966](https://myanimelist.net/anime/2966)  |    tv   |  2008  |   -   |                  Ookami to Koushinryou                  |   2/13  |  7 months ago | 10/20/2021 |
-| [42205](https://myanimelist.net/anime/42205) |    tv   |  2021  |   -   |                    Shaman King (2021)                   |   1/52  |  7 months ago | 10/14/2021 |
+| [42205](https://myanimelist.net/anime/42205) |    tv   |  2021  |   -   |                    Shaman King (2021)                   |   1/52  |  8 months ago | 10/14/2021 |
 | [49926](https://myanimelist.net/anime/49926) |    tv   |  2021  |   -   |            Kimetsu no Yaiba: Mugen Ressha-hen           |   3/7   |  6 months ago | 10/11/2021 |
 | [48556](https://myanimelist.net/anime/48556) |    tv   |  2021  |   -   |                     Takt Op. Destiny                    |   1/12  |  6 months ago | 10/06/2021 |
 | [35241](https://myanimelist.net/anime/35241) |    tv   |  2017  |   -   |                      Konohana Kitan                     |   4/12  |  8 months ago | 09/22/2021 |
