@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start date | Finish date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-|  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |  19 hours ago | 05/20/2022 |  05/27/2022 |
+|  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |  20 hours ago | 05/20/2022 |  05/27/2022 |
 |  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |   Last week   | 05/14/2022 |  05/20/2022 |
 | [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |   Last week   | 05/16/2022 |  05/19/2022 |
 | [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |  2 weeks ago  | 05/12/2022 |  05/13/2022 |
@@ -221,7 +221,7 @@
 |  [9919](https://myanimelist.net/anime/9919)  |    tv   |  2011  |   7   |                                               Ao no Exorcist                                              |   Last year   | 11/20/2020 |  11/21/2020 |
 | [14227](https://myanimelist.net/anime/14227) |    tv   |  2012  |   9   |                                           Tonari no Kaibutsu-kun                                          |  9 months ago | 11/20/2020 |  11/20/2020 |
 | [14833](https://myanimelist.net/anime/14833) |    tv   |  2013  |   7   |                                             Maoyuu Maou Yuusha                                            |   Last year   | 11/15/2020 |  11/16/2020 |
-| [40221](https://myanimelist.net/anime/40221) |    tv   |  2020  |   9   |                                                Kami no Tou                                                |  9 months ago | 11/15/2020 |  11/15/2020 |
+| [40221](https://myanimelist.net/anime/40221) |    tv   |  2020  |   9   |                                                Kami no Tou                                                | 10 months ago | 11/15/2020 |  11/15/2020 |
 | [29786](https://myanimelist.net/anime/29786) |    tv   |  2015  |   7   |                         Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai                         |   Last year   | 11/09/2020 |  11/12/2020 |
 |  [4224](https://myanimelist.net/anime/4224)  |    tv   |  2008  |   10  |                                                 Toradora!                                                 |   Last week   | 10/28/2020 |  11/11/2020 |
 | [32901](https://myanimelist.net/anime/32901) |    tv   |  2017  |   6   |                                              Eromanga-sensei                                              |   Last year   | 09/09/2020 |  11/11/2020 |
