@@ -29,7 +29,7 @@ List Sync From MyAnimeList (update every hour)
 |  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |   Last week   | 05/14/2022 |  05/20/2022 |
 | [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |   Last week   | 05/16/2022 |  05/19/2022 |
 | [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |  2 weeks ago  | 05/12/2022 |  05/13/2022 |
-| [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   9   |                                              Owari no Seraph                                              |  2 weeks ago  | 05/12/2022 |  05/12/2022 |
+| [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   10  |                                              Owari no Seraph                                              |   1 hour ago  | 05/12/2022 |  05/12/2022 |
 | [35839](https://myanimelist.net/anime/35839) |    tv   |  2018  |   7   |                                          Sora yori mo Tooi Basho                                          |  3 weeks ago  | 05/07/2022 |  05/07/2022 |
 
 
@@ -43,8 +43,8 @@ List Sync From MyAnimeList (update every hour)
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                        Fate/Zero                        |   2/13  |   Last month  | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                  Madan no Ou to Vanadis                 |   6/13  |   Last month  | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                     Machikado Mazoku                    |   2/12  |  3 weeks ago  | 04/19/2022 |
-| [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                   Mahoutsukai Reimeiki                  |   2/12  |   6 days ago  | 04/09/2022 |
-| [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |           Tate no Yuusha no Nariagari Season 2          |   3/13  |   6 days ago  | 04/06/2022 |
+| [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                   Mahoutsukai Reimeiki                  |   2/12  |   Last week   | 04/09/2022 |
+| [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |           Tate no Yuusha no Nariagari Season 2          |   3/13  |   Last week   | 04/06/2022 |
 
 
 *[41 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
@@ -53,12 +53,12 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [34543](https://myanimelist.net/anime/34543) |  tv  |  2017  |   2   |                                    Dive!!                                    |   6/12  |  2 weeks ago  | 05/03/2022 |
-| [48760](https://myanimelist.net/anime/48760) |  tv  |  2022  |   3   |               Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu              |   1/12  |  2 weeks ago  | 04/12/2022 |
-| [48583](https://myanimelist.net/anime/48583) |  tv  |  2022  |   5   |                  Shingeki no Kyojin: The Final Season Part 2                 |   3/12  |  2 weeks ago  | 01/28/2022 |
+| [34543](https://myanimelist.net/anime/34543) |  tv  |  2017  |   2   |                                    Dive!!                                    |   6/12  |  3 weeks ago  | 05/03/2022 |
+| [48760](https://myanimelist.net/anime/48760) |  tv  |  2022  |   3   |               Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu              |   1/12  |  3 weeks ago  | 04/12/2022 |
+| [48583](https://myanimelist.net/anime/48583) |  tv  |  2022  |   5   |                  Shingeki no Kyojin: The Final Season Part 2                 |   3/12  |  3 weeks ago  | 01/28/2022 |
 | [40960](https://myanimelist.net/anime/40960) |  tv  |  2021  |   5   |           Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore           |   1/12  | 10 months ago | 07/08/2021 |
-| [47257](https://myanimelist.net/anime/47257) |  tv  |  2021  |   4   |                        Shinigami Bocchan to Kuro Maid                        |   1/12  |  2 weeks ago  | 07/05/2021 |
-| [46471](https://myanimelist.net/anime/46471) |  tv  |  2021  |   5   |                           Tantei wa Mou, Shindeiru.                          |   2/12  |  2 weeks ago  | 07/04/2021 |
+| [47257](https://myanimelist.net/anime/47257) |  tv  |  2021  |   4   |                        Shinigami Bocchan to Kuro Maid                        |   1/12  |  3 weeks ago  | 07/05/2021 |
+| [46471](https://myanimelist.net/anime/46471) |  tv  |  2021  |   5   |                           Tantei wa Mou, Shindeiru.                          |   2/12  |  3 weeks ago  | 07/04/2021 |
 
 
 *[21 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
