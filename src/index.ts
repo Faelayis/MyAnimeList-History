@@ -25,11 +25,11 @@ const markdown = [],
 					.filter((item) => item.node.my_list_status.status === status[i])
 					.map((obj) => {
 						const my_date = [new Date(obj.node.my_list_status.start_date || -100000), new Date(obj.node.my_list_status.finish_date || -100000)]
-						if ("watching" === status[i] || "plan_to_watch" === status[i]) {
+						if (["watching", "plan_to_watch"].includes(status[i])) {
 							my_date[0] = new Date(obj.node.my_list_status.updated_at)
 							my_date[1] = new Date(obj.node.my_list_status.start_date || -100000)
 						}
-						if ("completed" === status[i]) {
+						if (status[i] === "completed") {
 							my_date[0] = new Date(obj.node.my_list_status.finish_date || -100000)
 							my_date[1] = new Date(obj.node.my_list_status.start_date || -100000)
 						}
@@ -37,22 +37,22 @@ const markdown = [],
 					})
 					.sort((objA, objB) => objB.my_date[0].getTime() - objA.my_date[0].getTime() || objB.my_date[1].getTime() - objA.my_date[1].getTime()),
 				heading = ["id", "Type", "Season", "Score", "Title", "Start date", "Finish date"]
-			if ("watching" === status[i]) {
+			if (status[i] === "watching") {
 				heading[5] = "Watched"
 				heading[6] = "Updated"
 				heading[7] = "Start date"
 			}
-			if ("completed" === status[i]) {
+			if (status[i] === "completed") {
 				heading[5] = "Completed"
 				heading[6] = "Start date"
 				heading[7] = "Finish date"
 			}
-			if ("on_hold" === status[i] || "dropped" === status[i]) {
+			if (["on_hold", "dropped"].includes(status[i])) {
 				heading[5] = "Watched"
 				heading[6] = "Updated"
 				heading[7] = "Start Date"
 			}
-			if ("plan_to_watch" === status[i]) {
+			if (status[i] === "plan_to_watch") {
 				heading[3] = "Source"
 				heading[5] = "Date Added"
 				heading[6] = "Plan Start date"
@@ -71,22 +71,22 @@ const markdown = [],
 							time.check(item.my_date[0]) ? time.get(item.my_date[0]) : "-",
 							time.check(item.my_date[1]) ? time.get(item.my_date[1]) : "-",
 						]
-						if ("watching" === status[i]) {
+						if (status[i] === "watching") {
 							array[5] = `${item.node.my_list_status.num_episodes_watched}${item.node.num_episodes !== 0 ? `/${item.node.num_episodes}` : "/?"}`
 							array[6] = time.ago(new Date(new Date(item.node.my_list_status.updated_at).getTime() - 1), i)
 							array[7] = time.get(new Date(item.node.my_list_status.start_date))
 						}
-						if ("completed" === status[i]) {
+						if (status[i] === "completed") {
 							array.splice(5, 0, time.ago(new Date(new Date(item.my_date[0].setTime(new Date(item.node.my_list_status.updated_at))).getTime() - 1), i))
 							array[6] = time.get(new Date(item.node.my_list_status.start_date))
 							array[7] = time.get(new Date(item.node.my_list_status.finish_date))
 						}
-						if ("on_hold" === status[i] || "dropped" === status[i]) {
+						if (["on_hold", "dropped"].includes(status[i])) {
 							array[5] = `${item.node.my_list_status.num_episodes_watched}${item.node.num_episodes !== 0 ? `/${item.node.num_episodes}` : "/?"}`
 							array[6] = time.ago(new Date(new Date(item.node.my_list_status.updated_at).getTime() - 1), i)
 							array[7] = time.get(new Date(item.node.my_list_status.start_date))
 						}
-						if ("plan_to_watch" === status[i]) {
+						if (status[i] === "plan_to_watch") {
 							array[3] = item.node.source
 							array[5] = time.ago(new Date(new Date(item.node.my_list_status.updated_at).getTime() - 1), i)
 						}

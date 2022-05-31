@@ -10,17 +10,16 @@ const options = [
 ]
 
 export function check(params: any) {
-	if (params.toLocaleDateString(...options) === "01/01/100001") return true
-	if (params.toLocaleDateString(...options) === "01/01/1970") return true
-	if (params.toLocaleDateString(...options) === "12/31/1969") return true
-	else return false
+	for (const key of ["01/01/100001", "01/01/1970", "12/31/1969"]) {
+		if (params.toLocaleDateString(...options) === key) return true
+	}
+	return false
 }
 
 export function get(params: any) {
-	if (params.toLocaleDateString(...options) === "01/01/100001") return "-"
-	if (params.toLocaleDateString(...options) === "01/01/1970") return "-"
-	if (params.toLocaleDateString(...options) === "12/31/1969") return "-"
-	if (params.toLocaleDateString(...options) === "Invalid Date") return "-"
+	for (const key of ["01/01/100001", "01/01/1970", "12/31/1969", "Invalid Date"]) {
+		if (params.toLocaleDateString(...options) === key) return "-"
+	}
 	return params.toLocaleDateString(...options)
 }
 
