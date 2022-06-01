@@ -27,7 +27,7 @@
 | [48556](https://myanimelist.net/anime/48556) |    tv   |  2021  |   -   |                     Takt Op. Destiny                    |   1/12  |  6 months ago | 10/06/2021 |
 | [35241](https://myanimelist.net/anime/35241) |    tv   |  2017  |   -   |                      Konohana Kitan                     |   4/12  |  8 months ago | 09/22/2021 |
 | [42544](https://myanimelist.net/anime/42544) |    tv   |  2021  |   -   |                       Kaizoku Oujo                      |   7/12  |  7 months ago | 08/30/2021 |
-| [11061](https://myanimelist.net/anime/11061) |    tv   |  2011  |   -   |                  Hunter x Hunter (2011)                 |  79/148 |   Last month  | 08/24/2021 |
+| [11061](https://myanimelist.net/anime/11061) |    tv   |  2011  |   -   |                  Hunter x Hunter (2011)                 |  79/148 |  2 months ago | 08/24/2021 |
 |  [9756](https://myanimelist.net/anime/9756)  |    tv   |  2011  |   -   |                Mahou Shoujo Madoka★Magica               |   2/12  |  9 months ago | 08/19/2021 |
 | [40935](https://myanimelist.net/anime/40935) |    tv   |  2021  |   -   |                   Beastars 2nd Season                   |   8/12  | 10 months ago | 07/20/2021 |
 | [43969](https://myanimelist.net/anime/43969) |    tv   |  2021  |   -   |                     Kanojo mo Kanojo                    |   3/12  | 10 months ago | 07/05/2021 |
