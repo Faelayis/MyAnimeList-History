@@ -72,7 +72,7 @@ List Sync From MyAnimeList (update every hour)
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |  2 weeks ago  |        -        |
 |   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                           Kino no Tabi: The Beautiful World                                          |  2 weeks ago  |        -        |
 | [51252](https://myanimelist.net/anime/51252) |    tv   |    -   |  light_novel |                                                    Spy Kyoushitsu                                                    |  2 weeks ago  |        -        |
-| [51781](https://myanimelist.net/anime/51781) |   ona   |    -   |     manga    |                                              Boku no Hero Academia (ONA)                                             |  2 weeks ago  |        -        |
+| [51781](https://myanimelist.net/anime/51781) |   ona   |    -   |     manga    |                                              Boku no Hero Academia (ONA)                                             |  3 weeks ago  |        -        |
 
 
 *[181 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
