@@ -1,4 +1,4 @@
-# Completed (341)
+# Completed (340)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start date | Finish date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -55,7 +55,6 @@
 | [39783](https://myanimelist.net/anime/39783) |    tv   |  2021  |   7   |                                           5-toubun no Hanayome ∬                                          |  4 months ago | 01/08/2021 |  02/08/2022 |
 | [35507](https://myanimelist.net/anime/35507) |    tv   |  2017  |   8   |                            Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)                           |  4 months ago | 02/01/2022 |  02/02/2022 |
 | [32949](https://myanimelist.net/anime/32949) |    tv   |  2017  |   5   |                                               Kuzu no Honkai                                              |  4 months ago | 05/31/2021 |  02/02/2022 |
-| [42897](https://myanimelist.net/anime/42897) |    tv   |  2021  |   9   |                                                  Horimiya                                                 |  2 weeks ago  | 01/31/2022 |  01/31/2022 |
 | [13055](https://myanimelist.net/anime/13055) |   ova   |  2012  |   6   |                                                Sankarea OVA                                               |  4 months ago | 01/30/2022 |  01/30/2022 |
 | [11499](https://myanimelist.net/anime/11499) |    tv   |  2012  |   8   |                                                  Sankarea                                                 |  4 months ago | 01/29/2022 |  01/30/2022 |
 | [14749](https://myanimelist.net/anime/14749) |    tv   |  2013  |   9   |                               Ore no Kanojo to Osananajimi ga Shuraba Sugiru                              |  4 months ago | 01/29/2022 |  01/29/2022 |
