@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |                         Title                        | Watched |   Updated   | Start date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------: | :-----: | :---------: | :--------: |
-| [36432](https://myanimelist.net/anime/36432) |  tv  |  2018  |   -   |              Toaru Majutsu no Index III              |  12/26  | 4 hours ago | 05/28/2022 |
+| [36432](https://myanimelist.net/anime/36432) |  tv  |  2018  |   -   |              Toaru Majutsu no Index III              |  12/26  | 5 hours ago | 05/28/2022 |
 | [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   10  |        Komi-san wa, Comyushou desu. 2nd Season       |   8/?   |  3 days ago | 04/07/2022 |
 | [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                     Spy x Family                     |   8/12  |  3 days ago | 04/09/2022 |
 | [40436](https://myanimelist.net/anime/40436) |  tv  |  2020  |   -   |             Peter Grill to Kenja no Jikan            |   6/12  |  Last week  | 05/13/2022 |
@@ -26,10 +26,10 @@ List Sync From MyAnimeList (update every hour)
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start date | Finish date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
 | [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             |   5 days ago  | 05/27/2022 |  05/28/2022 |
-|  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |   6 days ago  | 05/20/2022 |  05/27/2022 |
-|  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |   Last week   | 05/14/2022 |  05/20/2022 |
+|  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |   Last week   | 05/20/2022 |  05/27/2022 |
+|  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |  2 weeks ago  | 05/14/2022 |  05/20/2022 |
 | [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |  2 weeks ago  | 05/16/2022 |  05/19/2022 |
-| [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |  2 weeks ago  | 05/12/2022 |  05/13/2022 |
+| [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |  3 weeks ago  | 05/12/2022 |  05/13/2022 |
 | [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   10  |                                              Owari no Seraph                                              |   5 days ago  | 05/12/2022 |  05/12/2022 |
 
 
@@ -71,7 +71,7 @@ List Sync From MyAnimeList (update every hour)
 | [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                             Shokei Shoujo no Virgin Road                                             |  2 weeks ago  |        -        |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |  2 weeks ago  |        -        |
 |   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                           Kino no Tabi: The Beautiful World                                          |  2 weeks ago  |        -        |
-| [51252](https://myanimelist.net/anime/51252) |    tv   |    -   |  light_novel |                                                    Spy Kyoushitsu                                                    |  2 weeks ago  |        -        |
+| [51252](https://myanimelist.net/anime/51252) |    tv   |    -   |  light_novel |                                                    Spy Kyoushitsu                                                    |  3 weeks ago  |        -        |
 | [51781](https://myanimelist.net/anime/51781) |   ona   |    -   |     manga    |                                              Boku no Hero Academia (ONA)                                             |  3 weeks ago  |        -        |
 
 
