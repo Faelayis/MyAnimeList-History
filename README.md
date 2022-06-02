@@ -6,9 +6,9 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |                         Title                        | Watched |    Updated   | Start date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------: | :-----: | :----------: | :--------: |
-| [36432](https://myanimelist.net/anime/36432) |  tv  |  2018  |   -   |              Toaru Majutsu no Index III              |   9/26  | 12 hours ago | 05/28/2022 |
-| [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   10  |        Komi-san wa, Comyushou desu. 2nd Season       |   8/?   |  2 days ago  | 04/07/2022 |
-| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                     Spy x Family                     |   8/12  |  2 days ago  | 04/09/2022 |
+| [36432](https://myanimelist.net/anime/36432) |  tv  |  2018  |   -   |              Toaru Majutsu no Index III              |   9/26  | 14 hours ago | 05/28/2022 |
+| [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   10  |        Komi-san wa, Comyushou desu. 2nd Season       |   8/?   |  3 days ago  | 04/07/2022 |
+| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                     Spy x Family                     |   8/12  |  3 days ago  | 04/09/2022 |
 | [40436](https://myanimelist.net/anime/40436) |  tv  |  2020  |   -   |             Peter Grill to Kenja no Jikan            |   6/12  |   Last week  | 05/13/2022 |
 | [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                  Kakkou no Iinazuke                  |   4/24  |   Last week  | 04/25/2022 |
 | [43608](https://myanimelist.net/anime/43608) |  tv  |  2022  |   9   |      Kaguya-sama wa Kokurasetai: Ultra Romantic      |   7/12  |   Last week  | 04/09/2022 |
@@ -30,7 +30,7 @@ List Sync From MyAnimeList (update every hour)
 |  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |   Last week   | 05/14/2022 |  05/20/2022 |
 | [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |  2 weeks ago  | 05/16/2022 |  05/19/2022 |
 | [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |  2 weeks ago  | 05/12/2022 |  05/13/2022 |
-| [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   10  |                                              Owari no Seraph                                              |   4 days ago  | 05/12/2022 |  05/12/2022 |
+| [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   10  |                                              Owari no Seraph                                              |   5 days ago  | 05/12/2022 |  05/12/2022 |
 
 
 *[335 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
