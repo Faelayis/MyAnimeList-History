@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start date | Finish date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             |   5 days ago  | 05/27/2022 |  05/28/2022 |
+| [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             |   6 days ago  | 05/27/2022 |  05/28/2022 |
 |  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |   Last week   | 05/20/2022 |  05/27/2022 |
 |  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |  2 weeks ago  | 05/14/2022 |  05/20/2022 |
 | [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |  2 weeks ago  | 05/16/2022 |  05/19/2022 |
@@ -110,7 +110,7 @@
 | [24703](https://myanimelist.net/anime/24703) |    tv   |  2015  |   7   |                                            High School DxD BorN                                           |  8 months ago | 09/22/2021 |  09/25/2021 |
 | [42340](https://myanimelist.net/anime/42340) |    tv   |  2021  |   7   |                                           Meikyuu Black Company                                           |  8 months ago | 08/10/2021 |  09/25/2021 |
 | [42627](https://myanimelist.net/anime/42627) |    tv   |  2021  |   6   |                                            Peach Boy Riverside                                            |  8 months ago | 07/04/2021 |  09/25/2021 |
-| [33502](https://myanimelist.net/anime/33502) |    tv   |  2017  |   7   |                Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?                |  8 months ago | 09/24/2021 |  09/24/2021 |
+| [33502](https://myanimelist.net/anime/33502) |    tv   |  2017  |   7   |                Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?                |  9 months ago | 09/24/2021 |  09/24/2021 |
 | [39247](https://myanimelist.net/anime/39247) |    tv   |  2021  |   7   |                                     Kobayashi-san Chi no Maid Dragon S                                    |  9 months ago | 07/08/2021 |  09/24/2021 |
 | [44203](https://myanimelist.net/anime/44203) |    tv   |  2021  |   6   |                                              Seirei Gensouki                                              |  8 months ago | 07/06/2021 |  09/24/2021 |
 | [43523](https://myanimelist.net/anime/43523) |    tv   |  2021  |   8   |                                     Tsuki ga Michibiku Isekai Douchuu                                     |  9 months ago | 07/07/2021 |  09/23/2021 |
