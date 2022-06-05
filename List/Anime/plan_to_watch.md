@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |   Date Added  | Plan Start date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |  8 hours ago  |        -        |
+| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |  9 hours ago  |        -        |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |  2 weeks ago  |        -        |
 | [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                             Shokei Shoujo no Virgin Road                                             |  3 weeks ago  |        -        |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |  3 weeks ago  |        -        |
@@ -95,7 +95,7 @@
 | [38328](https://myanimelist.net/anime/38328) |    tv   |  2019  |     game     |                                                       Azur Lane                                                      |  8 months ago |        -        |
 | [46352](https://myanimelist.net/anime/46352) |    tv   |  2021  |     manga    |                                                      Blue Period                                                     |  8 months ago |        -        |
 | [49303](https://myanimelist.net/anime/49303) |  movie  |    -   |   original   |                                         Alice to Therese no Maboroshi Koujou                                         |  8 months ago |        -        |
-| [21431](https://myanimelist.net/anime/21431) |    tv   |  2014  |     manga    |                                                 Gokukoku no Brynhildr                                                |  8 months ago |        -        |
+| [21431](https://myanimelist.net/anime/21431) |    tv   |  2014  |     manga    |                                                 Gokukoku no Brynhildr                                                |  9 months ago |        -        |
 | [46093](https://myanimelist.net/anime/46093) |    tv   |  2021  |   original   |                                                Shiroi Suna no Aquatope                                               |  9 months ago |        -        |
 | [49877](https://myanimelist.net/anime/49877) |  movie  |  2022  |     manga    |                               Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen                              |  9 months ago |        -        |
 | [49889](https://myanimelist.net/anime/49889) |    tv   |    -   |  light_novel |                                     Tsuki ga Michibiku Isekai Douchuu 2nd Season                                     |  9 months ago |        -        |
