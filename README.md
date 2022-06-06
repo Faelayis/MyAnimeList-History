@@ -4,19 +4,19 @@ List Sync From MyAnimeList (update every hour)
 
 #### Watching (12) ``6.35%``
 
-|                      id                      | Type | Season | Score |                         Title                        | Watched |     Updated    | Start date |
-| :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------: | :-----: | :------------: | :--------: |
-| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                  Kakkou no Iinazuke                  |   7/24  | 32 minutes ago | 04/25/2022 |
-| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                     Spy x Family                     |   9/12  |   1 hour ago   | 04/09/2022 |
-| [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   8   |                   Yuusha, Yamemasu                   |   9/12  |    Yesterday   | 04/06/2022 |
-| [43608](https://myanimelist.net/anime/43608) |  tv  |  2022  |   9   |      Kaguya-sama wa Kokurasetai: Ultra Romantic      |   9/12  |   2 days ago   | 04/09/2022 |
-| [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   9   |        Komi-san wa, Comyushou desu. 2nd Season       |   9/?   |   2 days ago   | 04/07/2022 |
-| [36432](https://myanimelist.net/anime/36432) |  tv  |  2018  |   -   |              Toaru Majutsu no Index III              |  12/26  |   3 days ago   | 05/28/2022 |
-| [40436](https://myanimelist.net/anime/40436) |  tv  |  2020  |   -   |             Peter Grill to Kenja no Jikan            |   6/12  |   2 weeks ago  | 05/13/2022 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                       One Piece                      |  1016/? |   2 weeks ago  | 01/01/2014 |
-| [50380](https://myanimelist.net/anime/50380) |  tv  |  2022  |   -   |                     Paripi Koumei                    |   7/12  |   3 weeks ago  | 05/01/2022 |
-| [41461](https://myanimelist.net/anime/41461) |  tv  |  2022  |   9   |                    Date A Live IV                    |   5/12  |   3 weeks ago  | 04/08/2022 |
-| [48415](https://myanimelist.net/anime/48415) |  tv  |  2022  |   -   | Shijou Saikyou no Daimaou, Murabito A ni Tensei suru |   6/12  |   3 weeks ago  | 04/08/2022 |
+|                      id                      | Type | Season | Score |                         Title                        | Watched |   Updated   | Start date |
+| :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------: | :-----: | :---------: | :--------: |
+| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                  Kakkou no Iinazuke                  |   7/24  | 2 hours ago | 04/25/2022 |
+| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                     Spy x Family                     |   9/12  | 4 hours ago | 04/09/2022 |
+| [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   8   |                   Yuusha, Yamemasu                   |   9/12  |  2 days ago | 04/06/2022 |
+| [43608](https://myanimelist.net/anime/43608) |  tv  |  2022  |   9   |      Kaguya-sama wa Kokurasetai: Ultra Romantic      |   9/12  |  2 days ago | 04/09/2022 |
+| [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   9   |        Komi-san wa, Comyushou desu. 2nd Season       |   9/?   |  2 days ago | 04/07/2022 |
+| [36432](https://myanimelist.net/anime/36432) |  tv  |  2018  |   -   |              Toaru Majutsu no Index III              |  12/26  |  3 days ago | 05/28/2022 |
+| [40436](https://myanimelist.net/anime/40436) |  tv  |  2020  |   -   |             Peter Grill to Kenja no Jikan            |   6/12  | 2 weeks ago | 05/13/2022 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                       One Piece                      |  1016/? | 3 weeks ago | 01/01/2014 |
+| [50380](https://myanimelist.net/anime/50380) |  tv  |  2022  |   -   |                     Paripi Koumei                    |   7/12  | 3 weeks ago | 05/01/2022 |
+| [41461](https://myanimelist.net/anime/41461) |  tv  |  2022  |   9   |                    Date A Live IV                    |   5/12  | 3 weeks ago | 04/08/2022 |
+| [48415](https://myanimelist.net/anime/48415) |  tv  |  2022  |   -   | Shijou Saikyou no Daimaou, Murabito A ni Tensei suru |   6/12  | 3 weeks ago | 04/08/2022 |
 
 
 *[1 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
@@ -67,7 +67,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |   Date Added  | Plan Start date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |  9 hours ago  |        -        |
+| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |  12 hours ago |        -        |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |  2 weeks ago  |        -        |
 | [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                             Shokei Shoujo no Virgin Road                                             |  3 weeks ago  |        -        |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |  3 weeks ago  |        -        |
