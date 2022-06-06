@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |   Date Added  | Plan Start date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |  16 hours ago |        -        |
+| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |  17 hours ago |        -        |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |  2 weeks ago  |        -        |
 | [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                             Shokei Shoujo no Virgin Road                                             |  3 weeks ago  |        -        |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |  3 weeks ago  |        -        |
@@ -105,7 +105,7 @@
 | [31181](https://myanimelist.net/anime/31181) |    tv   |  2015  |  light_novel |                                                    Owarimonogatari                                                   |  9 months ago |        -        |
 | [39456](https://myanimelist.net/anime/39456) |    tv   |  2019  |     manga    |                                                    Sounan Desu ka?                                                   |  9 months ago |        -        |
 | [49709](https://myanimelist.net/anime/49709) |    tv   |  2022  |     manga    |                                             Fumetsu no Anata e 2nd Season                                            |  9 months ago |        -        |
-| [15037](https://myanimelist.net/anime/15037) |   ova   |  2013  | visual_novel |                           Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou                           |  9 months ago |        -        |
+| [15037](https://myanimelist.net/anime/15037) |   ova   |  2013  | visual_novel |                           Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou                           | 10 months ago |        -        |
 | [37055](https://myanimelist.net/anime/37055) |  movie  |  2019  |  light_novel |                                                   Youjo Senki Movie                                                  | 10 months ago |        -        |
 | [49233](https://myanimelist.net/anime/49233) |    tv   |    -   |  light_novel |                                                    Youjo Senki II                                                    | 10 months ago |        -        |
 | [11633](https://myanimelist.net/anime/11633) |    tv   |  2013  |     manga    |                                                       Blood Lad                                                      | 10 months ago |        -        |
