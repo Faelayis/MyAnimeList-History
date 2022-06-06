@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |                         Title                        | Watched |    Updated   | Start date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------: | :-----: | :----------: | :--------: |
-| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                  Kakkou no Iinazuke                  |   7/24  |  9 hours ago | 04/25/2022 |
-| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                     Spy x Family                     |   9/12  | 10 hours ago | 04/09/2022 |
+| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                  Kakkou no Iinazuke                  |   7/24  | 10 hours ago | 04/25/2022 |
+| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                     Spy x Family                     |   9/12  | 11 hours ago | 04/09/2022 |
 | [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   8   |                   Yuusha, Yamemasu                   |   9/12  |  2 days ago  | 04/06/2022 |
 | [43608](https://myanimelist.net/anime/43608) |  tv  |  2022  |   9   |      Kaguya-sama wa Kokurasetai: Ultra Romantic      |   9/12  |  2 days ago  | 04/09/2022 |
 | [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   9   |        Komi-san wa, Comyushou desu. 2nd Season       |   9/?   |  2 days ago  | 04/07/2022 |
@@ -67,7 +67,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |   Date Added  | Plan Start date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |  18 hours ago |        -        |
+| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |  19 hours ago |        -        |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |  2 weeks ago  |        -        |
 | [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                             Shokei Shoujo no Virgin Road                                             |  3 weeks ago  |        -        |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |  3 weeks ago  |        -        |

@@ -2,8 +2,8 @@
 
 |                      id                      | Type | Season | Score |                         Title                        | Watched |    Updated   | Start date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------: | :-----: | :----------: | :--------: |
-| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                  Kakkou no Iinazuke                  |   7/24  |  9 hours ago | 04/25/2022 |
-| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                     Spy x Family                     |   9/12  | 10 hours ago | 04/09/2022 |
+| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                  Kakkou no Iinazuke                  |   7/24  | 10 hours ago | 04/25/2022 |
+| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                     Spy x Family                     |   9/12  | 11 hours ago | 04/09/2022 |
 | [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   8   |                   Yuusha, Yamemasu                   |   9/12  |  2 days ago  | 04/06/2022 |
 | [43608](https://myanimelist.net/anime/43608) |  tv  |  2022  |   9   |      Kaguya-sama wa Kokurasetai: Ultra Romantic      |   9/12  |  2 days ago  | 04/09/2022 |
 | [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   9   |        Komi-san wa, Comyushou desu. 2nd Season       |   9/?   |  2 days ago  | 04/07/2022 |
