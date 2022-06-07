@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start date | Finish date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |  23 hours ago | 05/28/2022 |  06/07/2022 |
-| [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   7   |                                        Toaru Kagaku no Accelerator                                        |  15 hours ago | 05/14/2022 |  06/07/2022 |
+| [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |   Yesterday   | 05/28/2022 |  06/07/2022 |
+| [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   7   |                                        Toaru Kagaku no Accelerator                                        |  16 hours ago | 05/14/2022 |  06/07/2022 |
 | [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             |   Last week   | 05/27/2022 |  05/28/2022 |
 |  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |   Last week   | 05/20/2022 |  05/27/2022 |
 |  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |  2 weeks ago  | 05/14/2022 |  05/20/2022 |
@@ -95,7 +95,7 @@
 |  [7311](https://myanimelist.net/anime/7311)  |  movie  |  2010  |   7   |                                       Suzumiya Haruhi no Shoushitsu                                       |  7 months ago | 11/01/2021 |  11/01/2021 |
 |  [4382](https://myanimelist.net/anime/4382)  |    tv   |  2009  |   7   |                                     Suzumiya Haruhi no Yuuutsu (2009)                                     |  7 months ago | 10/30/2021 |  11/01/2021 |
 | [34213](https://myanimelist.net/anime/34213) |   ona   |  2016  |   6   |                                            Getsuyoubi no Tawawa                                           |  7 months ago | 10/12/2021 |  10/28/2021 |
-|  [4214](https://myanimelist.net/anime/4214)  |    tv   |  2008  |   7   |                                          Rosario to Vampire Capu2                                         |  7 months ago | 10/27/2021 |  10/27/2021 |
+|  [4214](https://myanimelist.net/anime/4214)  |    tv   |  2008  |   7   |                                          Rosario to Vampire Capu2                                         |  8 months ago | 10/27/2021 |  10/27/2021 |
 | [40052](https://myanimelist.net/anime/40052) |    tv   |  2020  |   7   |                                              Great Pretender                                              |  8 months ago | 10/26/2021 |  10/27/2021 |
 |  [2993](https://myanimelist.net/anime/2993)  |    tv   |  2008  |   7   |                                             Rosario to Vampire                                            |  8 months ago | 10/26/2021 |  10/27/2021 |
 | [32615](https://myanimelist.net/anime/32615) |    tv   |  2017  |   8   |                                                Youjo Senki                                                |  8 months ago | 08/28/2021 |  10/21/2021 |
@@ -257,7 +257,7 @@
 |  [6880](https://myanimelist.net/anime/6880)  |    tv   |  2011  |   7   |                                             Deadman Wonderland                                            |   Last year   | 09/12/2020 |      -      |
 | [37450](https://myanimelist.net/anime/37450) |    tv   |  2018  |   8   |                          Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai                         |  9 months ago | 09/12/2020 |      -      |
 | [36474](https://myanimelist.net/anime/36474) |    tv   |  2018  |   5   |                                       Sword Art Online: Alicization                                       |  2 months ago | 06/06/2020 |      -      |
-| [22147](https://myanimelist.net/anime/22147) |    tv   |  2014  |   8   |                                            Amagi Brilliant Park                                           |  7 months ago |      -     |      -      |
+| [22147](https://myanimelist.net/anime/22147) |    tv   |  2014  |   8   |                                            Amagi Brilliant Park                                           |  8 months ago |      -     |      -      |
 | [28999](https://myanimelist.net/anime/28999) |    tv   |  2015  |   9   |                                                 Charlotte                                                 |  2 months ago |      -     |      -      |
 | [14741](https://myanimelist.net/anime/14741) |    tv   |  2012  |   7   |                                       Chuunibyou demo Koi ga Shitai!                                      |   Last year   |      -     |      -      |
 | [35608](https://myanimelist.net/anime/35608) |  movie  |  2018  |   8   |                              Chuunibyou demo Koi ga Shitai! Movie: Take On Me                             |   Last year   |      -     |      -      |
