@@ -1,8 +1,7 @@
-# On Hold (47)
+# On Hold (46)
 
 |                      id                      |   Type  | Season | Score |                          Title                          | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   -   |               Toaru Kagaku no Accelerator               |   1/12  |  3 weeks ago  | 05/14/2022 |
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                        Fate/Zero                        |   2/13  |   Last month  | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                  Madan no Ou to Vanadis                 |   6/13  |   Last month  | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                     Machikado Mazoku                    |   2/12  |   Last month  | 04/19/2022 |
@@ -21,7 +20,7 @@
 | [40834](https://myanimelist.net/anime/40834) |    tv   |  2021  |   -   |                      Ousama Ranking                     |  14/23  |  2 months ago | 12/11/2021 |
 | [32867](https://myanimelist.net/anime/32867) |    tv   |  2016  |   -   |               Bungou Stray Dogs 2nd Season              |   2/12  |   Last month  | 10/25/2021 |
 | [44961](https://myanimelist.net/anime/44961) |    tv   |  2021  |   -   |                       Platinum End                      |   5/24  |  4 months ago | 10/23/2021 |
-|  [2966](https://myanimelist.net/anime/2966)  |    tv   |  2008  |   -   |                  Ookami to Koushinryou                  |   2/13  |  7 months ago | 10/20/2021 |
+|  [2966](https://myanimelist.net/anime/2966)  |    tv   |  2008  |   -   |                  Ookami to Koushinryou                  |   2/13  |  8 months ago | 10/20/2021 |
 | [42205](https://myanimelist.net/anime/42205) |    tv   |  2021  |   -   |                    Shaman King (2021)                   |   1/52  |  8 months ago | 10/14/2021 |
 | [49926](https://myanimelist.net/anime/49926) |    tv   |  2021  |   -   |            Kimetsu no Yaiba: Mugen Ressha-hen           |   3/7   |  6 months ago | 10/11/2021 |
 | [48556](https://myanimelist.net/anime/48556) |    tv   |  2021  |   -   |                     Takt Op. Destiny                    |   1/12  |  6 months ago | 10/06/2021 |
