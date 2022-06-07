@@ -6,9 +6,9 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |                         Title                        | Watched |   Updated   | Start date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------: | :-----: | :---------: | :--------: |
-| [38480](https://myanimelist.net/anime/38480) |  tv  |  2019  |   -   |              Toaru Kagaku no Accelerator             |   6/12  | 3 hours ago | 05/14/2022 |
-| [40436](https://myanimelist.net/anime/40436) |  tv  |  2020  |   -   |             Peter Grill to Kenja no Jikan            |   7/12  | 6 hours ago | 05/13/2022 |
-| [41461](https://myanimelist.net/anime/41461) |  tv  |  2022  |   9   |                    Date A Live IV                    |   9/12  | 6 hours ago | 04/08/2022 |
+| [38480](https://myanimelist.net/anime/38480) |  tv  |  2019  |   -   |              Toaru Kagaku no Accelerator             |   6/12  | 4 hours ago | 05/14/2022 |
+| [40436](https://myanimelist.net/anime/40436) |  tv  |  2020  |   -   |             Peter Grill to Kenja no Jikan            |   7/12  | 7 hours ago | 05/13/2022 |
+| [41461](https://myanimelist.net/anime/41461) |  tv  |  2022  |   9   |                    Date A Live IV                    |   9/12  | 8 hours ago | 04/08/2022 |
 | [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                  Kakkou no Iinazuke                  |   7/24  |  Yesterday  | 04/25/2022 |
 | [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                     Spy x Family                     |   9/12  |  Yesterday  | 04/09/2022 |
 | [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   8   |                   Yuusha, Yamemasu                   |   9/12  |  3 days ago | 04/06/2022 |
@@ -25,7 +25,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start date | Finish date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |  4 hours ago  | 05/28/2022 |  06/07/2022 |
+| [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |  5 hours ago  | 05/28/2022 |  06/07/2022 |
 | [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             |   Last week   | 05/27/2022 |  05/28/2022 |
 |  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |   Last week   | 05/20/2022 |  05/27/2022 |
 |  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |  2 weeks ago  | 05/14/2022 |  05/20/2022 |
