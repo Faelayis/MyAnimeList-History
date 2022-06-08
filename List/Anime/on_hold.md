@@ -47,4 +47,4 @@
 | [14967](https://myanimelist.net/anime/14967) |    tv   |  2013  |   -   |            Boku wa Tomodachi ga Sukunai Next            |   1/12  |   Last year   | 11/28/2020 |
 | [41312](https://myanimelist.net/anime/41312) |    tv   |  2020  |   -   |              Kami-tachi ni Hirowareta Otoko             |   5/12  |   Last year   | 11/18/2020 |
 | [40497](https://myanimelist.net/anime/40497) |    tv   |  2020  |   -   |        Mahouka Koukou no Rettousei: Raihousha-hen       |   8/13  |   Last year   | 10/04/2020 |
-| [34933](https://myanimelist.net/anime/34933) |    tv   |  2017  |   -   |                        Kakegurui                        |   8/12  |  4 months ago |      -     |
+| [34933](https://myanimelist.net/anime/34933) |    tv   |  2017  |   -   |                        Kakegurui                        |   8/12  |  5 months ago |      -     |
