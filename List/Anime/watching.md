@@ -1,6 +1,6 @@
 # Watching (10)
 
-|                      id                      | Type | Season | Score |                    Title                   | Watched |   Updated   | Start date |
+|                      id                      | Type | Season | Score |                    Title                   | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------: | :-----: | :---------: | :--------: |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                  One Piece                 |  1020/? |  Yesterday  | 01/01/2014 |
 | [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   8   |              Yuusha, Yamemasu              |  10/12  |  Yesterday  | 04/06/2022 |
