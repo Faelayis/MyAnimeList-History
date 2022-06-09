@@ -40,12 +40,12 @@ const markdown = [],
 			if (status[i] === "watching") {
 				heading[5] = "Watched"
 				heading[6] = "Updated"
-				heading[7] = "Start date"
+				heading[7] = "Start Date"
 			}
 			if (status[i] === "completed") {
 				heading[5] = "Completed"
-				heading[6] = "Start date"
-				heading[7] = "Finish date"
+				heading[6] = "Start Date"
+				heading[7] = "Finish Date"
 			}
 			if (["on_hold", "dropped"].includes(status[i])) {
 				heading[5] = "Watched"
@@ -54,8 +54,8 @@ const markdown = [],
 			}
 			if (status[i] === "plan_to_watch") {
 				heading[3] = "Source"
-				heading[5] = "Date Added"
-				heading[6] = "Plan Start date"
+				heading[5] = "Updated"
+				heading[6] = "Plan Start Date"
 			}
 			amount[i] = output.length
 			markdown[i] = markdownTable(
@@ -68,8 +68,8 @@ const markdown = [],
 							item.node.start_season?.year || "-",
 							item.node.my_list_status?.score || "-",
 							item.node.title,
-							time.check(item.my_date[0]) ? time.get(item.my_date[0]) : "-",
-							time.check(item.my_date[1]) ? time.get(item.my_date[1]) : "-",
+							time.get(new Date(item.node.my_list_status?.start_date)) || "-",
+							time.get(new Date(item.node.my_list_status?.finish_date)) || "-",
 						]
 						if (status[i] === "watching") {
 							array[5] = `${item.node.my_list_status.num_episodes_watched}${item.node.num_episodes !== 0 ? `/${item.node.num_episodes}` : "/?"}`
@@ -88,7 +88,8 @@ const markdown = [],
 						}
 						if (status[i] === "plan_to_watch") {
 							array[3] = item.node.source
-							array[5] = time.ago(new Date(new Date(item.node.my_list_status.updated_at).getTime() - 1), i)
+							array[5] = time.ago(new Date(new Date(item.my_date[0].setTime(new Date(item.node.my_list_status.updated_at))).getTime() - 1), i)
+							array[6] = time.get(new Date(item.node.my_list_status.start_date))
 						}
 						return array
 					}),
