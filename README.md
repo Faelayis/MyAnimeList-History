@@ -10,10 +10,10 @@ List Sync From MyAnimeList (update every hour)
 | [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   8   |              Yuusha, Yamemasu              |  10/12  |  2 days ago | 04/06/2022 |
 | [40436](https://myanimelist.net/anime/40436) |  tv  |  2020  |   -   |        Peter Grill to Kenja no Jikan       |   7/12  |  3 days ago | 05/13/2022 |
 | [41461](https://myanimelist.net/anime/41461) |  tv  |  2022  |   9   |               Date A Live IV               |   9/12  |  3 days ago | 04/08/2022 |
-| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |             Kakkou no Iinazuke             |   7/24  |  3 days ago | 04/25/2022 |
+| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |             Kakkou no Iinazuke             |   7/24  |  4 days ago | 04/25/2022 |
 | [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                Spy x Family                |   9/12  |  4 days ago | 04/09/2022 |
-| [43608](https://myanimelist.net/anime/43608) |  tv  |  2022  |   9   | Kaguya-sama wa Kokurasetai: Ultra Romantic |   9/12  |  5 days ago | 04/09/2022 |
-| [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   9   |   Komi-san wa, Comyushou desu. 2nd Season  |   9/?   |  5 days ago | 04/07/2022 |
+| [43608](https://myanimelist.net/anime/43608) |  tv  |  2022  |   9   | Kaguya-sama wa Kokurasetai: Ultra Romantic |   9/12  |  6 days ago | 04/09/2022 |
+| [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   9   |   Komi-san wa, Comyushou desu. 2nd Season  |   9/?   |  6 days ago | 04/07/2022 |
 | [50380](https://myanimelist.net/anime/50380) |  tv  |  2022  |   -   |                Paripi Koumei               |   7/12  | 3 weeks ago | 05/01/2022 |
 | [45613](https://myanimelist.net/anime/45613) |  tv  |  2022  |   -   |      Kawaii dake ja Nai Shikimori-san      |   5/12  |  Last month | 04/10/2022 |
 
@@ -23,11 +23,11 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |   2 days ago  | 05/28/2022 |  06/07/2022 |
+| [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |   3 days ago  | 05/28/2022 |  06/07/2022 |
 | [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   7   |                                        Toaru Kagaku no Accelerator                                        |   2 days ago  | 05/14/2022 |  06/07/2022 |
 | [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             |   Last week   | 05/27/2022 |  05/28/2022 |
-|  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |   Last week   | 05/20/2022 |  05/27/2022 |
-|  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |  2 weeks ago  | 05/14/2022 |  05/20/2022 |
+|  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |  2 weeks ago  | 05/20/2022 |  05/27/2022 |
+|  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |  3 weeks ago  | 05/14/2022 |  05/20/2022 |
 | [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |  3 weeks ago  | 05/16/2022 |  05/19/2022 |
 
 
@@ -65,7 +65,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |  12 hours ago |    07/08/2022   |
+| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |  13 hours ago |    07/08/2022   |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |   2 days ago  |    07/06/2022   |
 | [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |   4 days ago  |        -        |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |  3 weeks ago  |        -        |
