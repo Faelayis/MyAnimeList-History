@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every hour)
 
-#### Watching (10) ``5.29%``
+#### Watching (10) ``5.26%``
 
 |                      id                      | Type | Season | Score |                    Title                   | Watched |   Updated   | Start date |
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------: | :-----: | :---------: | :--------: |
@@ -19,7 +19,7 @@ List Sync From MyAnimeList (update every hour)
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``79.82%``
+#### Completed ``80.12%``
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start date | Finish date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -33,7 +33,7 @@ List Sync From MyAnimeList (update every hour)
 
 *[336 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``8.08%``
+#### On Hold ``8.07%``
 
 |                      id                      |   Type  | Season | Score |                          Title                          | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -47,7 +47,7 @@ List Sync From MyAnimeList (update every hour)
 
 *[40 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``4.77%``
+#### Dropped ``4.76%``
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -61,16 +61,16 @@ List Sync From MyAnimeList (update every hour)
 
 *[22 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``44.37%``
+#### Plan to Watch ``44.60%``
 
-|                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |   Date Added  | Plan Start date |
-| :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |   2 days ago  |        -        |
-| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |   3 days ago  |        -        |
-| [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |  3 weeks ago  |        -        |
-| [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                             Shokei Shoujo no Virgin Road                                             |  3 weeks ago  |        -        |
-|   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                           Kino no Tabi: The Beautiful World                                          |  3 weeks ago  |        -        |
-| [51252](https://myanimelist.net/anime/51252) |    tv   |    -   |  light_novel |                                                    Spy Kyoushitsu                                                    |  3 weeks ago  |        -        |
+|                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |   Date Added   | Plan Start date |
+| :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :------------: | :-------------: |
+| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   | 43 minutes ago |        -        |
+| [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |   2 days ago   |        -        |
+| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |   3 days ago   |        -        |
+| [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |   3 weeks ago  |        -        |
+| [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                             Shokei Shoujo no Virgin Road                                             |   3 weeks ago  |        -        |
+|   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                           Kino no Tabi: The Beautiful World                                          |   3 weeks ago  |        -        |
 
 
-*[182 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[183 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
