@@ -1,15 +1,15 @@
-# Plan to Watch (190)
+# Plan to Watch (189)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |  13 hours ago |    07/08/2022   |
+| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |  16 hours ago |    07/08/2022   |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |   2 days ago  |    07/06/2022   |
 | [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |   4 days ago  |        -        |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |  3 weeks ago  |        -        |
 | [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                             Shokei Shoujo no Virgin Road                                             |  3 weeks ago  |        -        |
 |   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                           Kino no Tabi: The Beautiful World                                          |  3 weeks ago  |        -        |
 | [51252](https://myanimelist.net/anime/51252) |    tv   |    -   |  light_novel |                                                    Spy Kyoushitsu                                                    |   Last month  |        -        |
-| [51781](https://myanimelist.net/anime/51781) |   ona   |    -   |     manga    |                                              Boku no Hero Academia (ONA)                                             |   Last month  |        -        |
+| [51781](https://myanimelist.net/anime/51781) |   ona   |  2022  |     manga    |                                              Boku no Hero Academia (ONA)                                             |   Last month  |        -        |
 | [15005](https://myanimelist.net/anime/15005) |   ona   |  2012  |     manga    |                                                  Kyou no Asuka Show                                                  |   Last month  |        -        |
 | [50738](https://myanimelist.net/anime/50738) |    tv   |    -   |  light_novel |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita 2nd Season                    |   Last month  |        -        |
 | [49981](https://myanimelist.net/anime/49981) | unknown |    -   |  light_novel |                      Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen (Zoku-hen)                     |   Last month  |        -        |
@@ -100,7 +100,6 @@
 | [46093](https://myanimelist.net/anime/46093) |    tv   |  2021  |   original   |                                                Shiroi Suna no Aquatope                                               |  9 months ago |        -        |
 | [49877](https://myanimelist.net/anime/49877) |  movie  |  2022  |     manga    |                               Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen                              |  9 months ago |        -        |
 | [49889](https://myanimelist.net/anime/49889) |    tv   |    -   |  light_novel |                                     Tsuki ga Michibiku Isekai Douchuu 2nd Season                                     |  9 months ago |        -        |
-| [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |  light_novel |                                                  Saihate no Paladin                                                  |  9 months ago |        -        |
 | [48569](https://myanimelist.net/anime/48569) |    tv   |  2021  |  light_novel |                                                       86 Part 2                                                      |  9 months ago |        -        |
 | [23289](https://myanimelist.net/anime/23289) |    tv   |  2014  | 4_koma_manga |                                               Gekkan Shoujo Nozaki-kun                                               |  9 months ago |        -        |
 | [31181](https://myanimelist.net/anime/31181) |    tv   |  2015  |  light_novel |                                                    Owarimonogatari                                                   |  9 months ago |        -        |

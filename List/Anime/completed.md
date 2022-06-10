@@ -1,7 +1,9 @@
-# Completed (342)
+# Completed (344)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |   1 hour ago  | 06/10/2022 |  06/10/2022 |
+| [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |   1 hour ago  | 06/10/2022 |  06/10/2022 |
 | [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |   3 days ago  | 05/28/2022 |  06/07/2022 |
 | [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   7   |                                        Toaru Kagaku no Accelerator                                        |   2 days ago  | 05/14/2022 |  06/07/2022 |
 | [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             |   Last week   | 05/27/2022 |  05/28/2022 |
@@ -17,7 +19,7 @@
 | [31637](https://myanimelist.net/anime/31637) |    tv   |  2016  |   7   |                             Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2                             |   Last month  | 04/20/2022 |  04/22/2022 |
 | [28907](https://myanimelist.net/anime/28907) |    tv   |  2015  |   8   |                                 Gate: Jieitai Kanochi nite, Kaku Tatakaeri                                |   Last month  | 04/20/2022 |  04/20/2022 |
 | [30296](https://myanimelist.net/anime/30296) |    tv   |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         |   Last month  | 04/18/2022 |  04/18/2022 |
-| [13403](https://myanimelist.net/anime/13403) | special |  2012  |   7   |                                           Inu x Boku SS Special                                           |   Last month  | 04/15/2022 |  04/15/2022 |
+| [13403](https://myanimelist.net/anime/13403) | special |  2012  |   7   |                                           Inu x Boku SS Special                                           |  2 months ago | 04/15/2022 |  04/15/2022 |
 | [11013](https://myanimelist.net/anime/11013) |    tv   |  2012  |   8   |                                               Inu x Boku SS                                               |   Last month  | 04/14/2022 |  04/15/2022 |
 | [32827](https://myanimelist.net/anime/32827) |   ona   |  2018  |   7   |                                              B: The Beginning                                             |  2 months ago | 04/12/2022 |  04/13/2022 |
 | [39049](https://myanimelist.net/anime/39049) |   ona   |  2020  |   7   |                                           Jashin-chan Dropkick'                                           |  2 months ago | 04/10/2022 |  04/13/2022 |
@@ -133,7 +135,7 @@
 | [40211](https://myanimelist.net/anime/40211) |  movie  |  2019  |   7   |                                        Luo Xiao Hei Zhan Ji (Movie)                                       | 11 months ago | 08/01/2021 |  08/01/2021 |
 | [40853](https://myanimelist.net/anime/40853) |  movie  |  2020  |   8   |                                           Stand By Me Doraemon 2                                          | 11 months ago | 07/30/2021 |  07/30/2021 |
 | [39175](https://myanimelist.net/anime/39175) |  movie  |  2021  |   7   |                                    Cider no You ni Kotoba ga Wakiagaru                                    | 11 months ago | 07/24/2021 |  07/24/2021 |
-| [31798](https://myanimelist.net/anime/31798) |    tv   |  2016  |   9   |                                                 Kiznaiver                                                 | 11 months ago | 07/09/2021 |  07/09/2021 |
+| [31798](https://myanimelist.net/anime/31798) |    tv   |  2016  |   9   |                                                 Kiznaiver                                                 |   Last year   | 07/09/2021 |  07/09/2021 |
 | [49318](https://myanimelist.net/anime/49318) | special |  2021  |   8   |                     Tensei shitara Slime Datta Ken 2nd Season: Kanwa - Veldora Nikki 2                    |   Last year   | 07/05/2021 |  07/05/2021 |
 | [42938](https://myanimelist.net/anime/42938) |    tv   |  2021  |   8   |                                          Fruits Basket: The Final                                         | 10 months ago | 05/19/2021 |  07/04/2021 |
 | [36407](https://myanimelist.net/anime/36407) |    tv   |  2019  |   7   |                                               Kenja no Mago                                               |   Last year   | 06/30/2021 |  07/01/2021 |
@@ -282,7 +284,7 @@
 | [33248](https://myanimelist.net/anime/33248) |  movie  |  2018  |   7   |                                   K: Seven Stories Movie 1 - R:B - Blaze                                  |   Last year   |      -     |      -      |
 | [40839](https://myanimelist.net/anime/40839) |    tv   |  2020  |   9   |                                            Kanojo, Okarishimasu                                           |  6 months ago |      -     |      -      |
 | [35860](https://myanimelist.net/anime/35860) |    tv   |  2018  |   8   |                                        Karakai Jouzu no Takagi-san                                        |   Last year   |      -     |      -      |
-| [39112](https://myanimelist.net/anime/39112) |  music  |  2019  |   8   |                                              Kawaki wo Ameku                                              |   Last month  |      -     |      -      |
+| [39112](https://myanimelist.net/anime/39112) |  music  |  2019  |   8   |                                              Kawaki wo Ameku                                              |  2 months ago |      -     |      -      |
 | [38000](https://myanimelist.net/anime/38000) |    tv   |  2019  |   10  |                                              Kimetsu no Yaiba                                             |  3 months ago |      -     |      -      |
 | [32281](https://myanimelist.net/anime/32281) |  movie  |  2016  |   8   |                                               Kimi no Na wa.                                              |   Last year   |      -     |      -      |
 | [36098](https://myanimelist.net/anime/36098) |  movie  |  2018  |   9   |                                         Kimi no Suizou wo Tabetai                                         |   Last year   |      -     |      -      |
