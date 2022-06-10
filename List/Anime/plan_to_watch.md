@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |  18 hours ago |    07/08/2022   |
+| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |  19 hours ago |    07/08/2022   |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |   2 days ago  |    07/06/2022   |
 | [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |   4 days ago  |        -        |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |  3 weeks ago  |        -        |
@@ -143,7 +143,7 @@
 | [40632](https://myanimelist.net/anime/40632) |   ona   |    -   |   web_manga  |                                                   Peng Ran Xindong                                                   |   05/10/2021  |        -        |
 | [44586](https://myanimelist.net/anime/44586) |  movie  |  2021  |     manga    |                                                   Kakushigoto Movie                                                  |   05/10/2021  |        -        |
 | [48585](https://myanimelist.net/anime/48585) |  movie  |    -   |     manga    |                                                  Black Clover Movie                                                  |   05/10/2021  |        -        |
-| [48413](https://myanimelist.net/anime/48413) |    tv   |  2022  |  light_novel |                                            Hataraku Maou-sama! 2nd Season                                            |   05/10/2021  |        -        |
+| [48413](https://myanimelist.net/anime/48413) |    tv   |  2022  |  light_novel |                                                 Hataraku Maou-sama!!                                                 |   05/10/2021  |        -        |
 | [48561](https://myanimelist.net/anime/48561) |  movie  |  2021  |     manga    |                                                Jujutsu Kaisen 0 Movie                                                |   05/10/2021  |        -        |
 | [40842](https://myanimelist.net/anime/40842) |    tv   |  2021  |  mixed_media |                                                      Idoly Pride                                                     |   05/01/2021  |        -        |
 | [31757](https://myanimelist.net/anime/31757) |  movie  |  2016  |  light_novel |                                            Kizumonogatari II: Nekketsu-hen                                           |   04/29/2021  |        -        |
