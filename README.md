@@ -4,18 +4,18 @@ List Sync From MyAnimeList (update every hour)
 
 #### Watching (10) ``5.29%``
 
-|                      id                      | Type | Season | Score |                    Title                   | Watched |   Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------: | :-----: | :---------: | :--------: |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                  One Piece                 |  1020/? |  2 days ago | 01/01/2014 |
-| [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   8   |              Yuusha, Yamemasu              |  10/12  |  3 days ago | 04/06/2022 |
-| [40436](https://myanimelist.net/anime/40436) |  tv  |  2020  |   -   |        Peter Grill to Kenja no Jikan       |   7/12  |  4 days ago | 05/13/2022 |
-| [41461](https://myanimelist.net/anime/41461) |  tv  |  2022  |   9   |               Date A Live IV               |   9/12  |  4 days ago | 04/08/2022 |
-| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |             Kakkou no Iinazuke             |   7/24  |  4 days ago | 04/25/2022 |
-| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                Spy x Family                |   9/12  |  4 days ago | 04/09/2022 |
-| [43608](https://myanimelist.net/anime/43608) |  tv  |  2022  |   9   | Kaguya-sama wa Kokurasetai: Ultra Romantic |   9/12  |  6 days ago | 04/09/2022 |
-| [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   9   |   Komi-san wa, Comyushou desu. 2nd Season  |   9/?   |  6 days ago | 04/07/2022 |
-| [50380](https://myanimelist.net/anime/50380) |  tv  |  2022  |   -   |                Paripi Koumei               |   7/12  | 3 weeks ago | 05/01/2022 |
-| [45613](https://myanimelist.net/anime/45613) |  tv  |  2022  |   -   |      Kawaii dake ja Nai Shikimori-san      |   5/12  |  Last month | 04/10/2022 |
+|                      id                      | Type | Season | Score |                    Title                   | Watched |   Updated  | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------: | :-----: | :--------: | :--------: |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                  One Piece                 |  1020/? | 3 days ago | 01/01/2014 |
+| [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   8   |              Yuusha, Yamemasu              |  10/12  | 3 days ago | 04/06/2022 |
+| [40436](https://myanimelist.net/anime/40436) |  tv  |  2020  |   -   |        Peter Grill to Kenja no Jikan       |   7/12  | 4 days ago | 05/13/2022 |
+| [41461](https://myanimelist.net/anime/41461) |  tv  |  2022  |   9   |               Date A Live IV               |   9/12  | 4 days ago | 04/08/2022 |
+| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |             Kakkou no Iinazuke             |   7/24  | 4 days ago | 04/25/2022 |
+| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                Spy x Family                |   9/12  | 5 days ago | 04/09/2022 |
+| [43608](https://myanimelist.net/anime/43608) |  tv  |  2022  |   9   | Kaguya-sama wa Kokurasetai: Ultra Romantic |   9/12  | 6 days ago | 04/09/2022 |
+| [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   9   |   Komi-san wa, Comyushou desu. 2nd Season  |   9/?   | 6 days ago | 04/07/2022 |
+| [50380](https://myanimelist.net/anime/50380) |  tv  |  2022  |   -   |                Paripi Koumei               |   7/12  | Last month | 05/01/2022 |
+| [45613](https://myanimelist.net/anime/45613) |  tv  |  2022  |   -   |      Kawaii dake ja Nai Shikimori-san      |   5/12  | Last month | 04/10/2022 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -23,8 +23,8 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |  20 hours ago | 06/10/2022 |  06/10/2022 |
-| [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |  20 hours ago | 06/10/2022 |  06/10/2022 |
+| [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |  21 hours ago | 06/10/2022 |  06/10/2022 |
+| [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |  21 hours ago | 06/10/2022 |  06/10/2022 |
 | [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |   3 days ago  | 05/28/2022 |  06/07/2022 |
 | [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   7   |                                        Toaru Kagaku no Accelerator                                        |   3 days ago  | 05/14/2022 |  06/07/2022 |
 | [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             |   Last week   | 05/27/2022 |  05/28/2022 |
@@ -53,7 +53,7 @@ List Sync From MyAnimeList (update every hour)
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
 | [34543](https://myanimelist.net/anime/34543) |  tv  |  2017  |   2   |                                    Dive!!                                    |   6/12  |   Last month  | 05/03/2022 |
 | [48760](https://myanimelist.net/anime/48760) |  tv  |  2022  |   3   |               Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu              |   1/12  |   Last month  | 04/12/2022 |
-| [48415](https://myanimelist.net/anime/48415) |  tv  |  2022  |   4   |             Shijou Saikyou no Daimaou, Murabito A ni Tensei suru             |   6/12  |   2 days ago  | 04/08/2022 |
+| [48415](https://myanimelist.net/anime/48415) |  tv  |  2022  |   4   |             Shijou Saikyou no Daimaou, Murabito A ni Tensei suru             |   6/12  |   3 days ago  | 04/08/2022 |
 | [48583](https://myanimelist.net/anime/48583) |  tv  |  2022  |   5   |                  Shingeki no Kyojin: The Final Season Part 2                 |   3/12  |   Last month  | 01/28/2022 |
 | [40960](https://myanimelist.net/anime/40960) |  tv  |  2021  |   5   |           Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore           |   1/12  | 11 months ago | 07/08/2021 |
 | [47257](https://myanimelist.net/anime/47257) |  tv  |  2021  |   4   |                        Shinigami Bocchan to Kuro Maid                        |   1/12  |   Last month  | 07/05/2021 |
@@ -70,7 +70,7 @@ List Sync From MyAnimeList (update every hour)
 | [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |   5 days ago  |        -        |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |  3 weeks ago  |        -        |
 | [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                             Shokei Shoujo no Virgin Road                                             |  3 weeks ago  |        -        |
-|   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                           Kino no Tabi: The Beautiful World                                          |  3 weeks ago  |        -        |
+|   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                           Kino no Tabi: The Beautiful World                                          |   Last month  |        -        |
 
 
 *[182 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
