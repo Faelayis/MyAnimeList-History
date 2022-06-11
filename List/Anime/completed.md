@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |  22 hours ago | 06/10/2022 |  06/10/2022 |
-| [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |  22 hours ago | 06/10/2022 |  06/10/2022 |
+| [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |   Yesterday   | 06/10/2022 |  06/10/2022 |
+| [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |   Yesterday   | 06/10/2022 |  06/10/2022 |
 | [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |   4 days ago  | 05/28/2022 |  06/07/2022 |
 | [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   7   |                                        Toaru Kagaku no Accelerator                                        |   3 days ago  | 05/14/2022 |  06/07/2022 |
 | [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             |   Last week   | 05/27/2022 |  05/28/2022 |
@@ -11,7 +11,7 @@
 |  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |  3 weeks ago  | 05/14/2022 |  05/20/2022 |
 | [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |  3 weeks ago  | 05/16/2022 |  05/19/2022 |
 | [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |   Last month  | 05/12/2022 |  05/13/2022 |
-| [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   10  |                                              Owari no Seraph                                              |   Last week   | 05/12/2022 |  05/12/2022 |
+| [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   10  |                                              Owari no Seraph                                              |  2 weeks ago  | 05/12/2022 |  05/12/2022 |
 | [35839](https://myanimelist.net/anime/35839) |    tv   |  2018  |   7   |                                          Sora yori mo Tooi Basho                                          |   Last month  | 05/07/2022 |  05/07/2022 |
 | [40586](https://myanimelist.net/anime/40586) |    tv   |  2021  |   7   |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita                    |   Last month  | 05/03/2022 |  05/07/2022 |
 | [36632](https://myanimelist.net/anime/36632) |    tv   |  2018  |   6   |                              Ore ga Suki nano wa Imouto dakedo Imouto ja Nai                              |   Last month  | 05/25/2021 |  05/07/2022 |
@@ -34,7 +34,7 @@
 | [42670](https://myanimelist.net/anime/42670) |    tv   |  2022  |   9   |                                     Princess Connect! Re:Dive Season 2                                    |  2 months ago | 02/12/2022 |  03/30/2022 |
 |  [6862](https://myanimelist.net/anime/6862)  | special |  2010  |   7   |                                             K-On!: Live House!                                            |  2 months ago | 03/23/2022 |  03/23/2022 |
 |  [5680](https://myanimelist.net/anime/5680)  |    tv   |  2009  |   9   |                                                   K-On!                                                   |  2 months ago | 03/20/2022 |  03/23/2022 |
-| [40540](https://myanimelist.net/anime/40540) |    tv   |  2020  |   8   |                        Sword Art Online: Alicization - War of Underworld 2nd Season                       |  2 months ago | 03/17/2022 |  03/19/2022 |
+| [40540](https://myanimelist.net/anime/40540) |    tv   |  2020  |   8   |                        Sword Art Online: Alicization - War of Underworld 2nd Season                       |  3 months ago | 03/17/2022 |  03/19/2022 |
 | [39597](https://myanimelist.net/anime/39597) |    tv   |  2019  |   7   |                             Sword Art Online: Alicization - War of Underworld                             |  3 months ago | 03/16/2022 |  03/17/2022 |
 | [41120](https://myanimelist.net/anime/41120) |    tv   |  2020  |   8   |                                       Fugou Keiji: Balance:Unlimited                                      |  3 months ago | 03/13/2022 |  03/13/2022 |
 | [41694](https://myanimelist.net/anime/41694) |    tv   |  2021  |   8   |                                         Hataraku Saibou Black (TV)                                        |  3 months ago | 03/08/2022 |  03/11/2022 |
