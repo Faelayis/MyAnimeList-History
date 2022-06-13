@@ -26,7 +26,7 @@ List Sync From MyAnimeList (update every hour)
 | [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |   3 days ago  | 06/10/2022 |  06/10/2022 |
 | [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |   3 days ago  | 06/10/2022 |  06/10/2022 |
 | [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |   6 days ago  | 05/28/2022 |  06/07/2022 |
-| [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   7   |                                        Toaru Kagaku no Accelerator                                        |   5 days ago  | 05/14/2022 |  06/07/2022 |
+| [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   7   |                                        Toaru Kagaku no Accelerator                                        |   6 days ago  | 05/14/2022 |  06/07/2022 |
 | [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             |  2 weeks ago  | 05/27/2022 |  05/28/2022 |
 |  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |  2 weeks ago  | 05/20/2022 |  05/27/2022 |
 
