@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |   2 days ago  | 06/10/2022 |  06/10/2022 |
-| [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |   2 days ago  | 06/10/2022 |  06/10/2022 |
+| [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |   3 days ago  | 06/10/2022 |  06/10/2022 |
+| [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |   3 days ago  | 06/10/2022 |  06/10/2022 |
 | [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |   6 days ago  | 05/28/2022 |  06/07/2022 |
 | [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   7   |                                        Toaru Kagaku no Accelerator                                        |   5 days ago  | 05/14/2022 |  06/07/2022 |
 | [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             |  2 weeks ago  | 05/27/2022 |  05/28/2022 |
@@ -18,7 +18,7 @@
 | [50549](https://myanimelist.net/anime/50549) |   ona   |  2022  |   6   |                                                   Bubble                                                  |   Last month  | 05/03/2022 |  05/03/2022 |
 | [31637](https://myanimelist.net/anime/31637) |    tv   |  2016  |   7   |                             Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2                             |   Last month  | 04/20/2022 |  04/22/2022 |
 | [28907](https://myanimelist.net/anime/28907) |    tv   |  2015  |   8   |                                 Gate: Jieitai Kanochi nite, Kaku Tatakaeri                                |   Last month  | 04/20/2022 |  04/20/2022 |
-| [30296](https://myanimelist.net/anime/30296) |    tv   |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         |   Last month  | 04/18/2022 |  04/18/2022 |
+| [30296](https://myanimelist.net/anime/30296) |    tv   |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         |  2 months ago | 04/18/2022 |  04/18/2022 |
 | [13403](https://myanimelist.net/anime/13403) | special |  2012  |   7   |                                           Inu x Boku SS Special                                           |  2 months ago | 04/15/2022 |  04/15/2022 |
 | [11013](https://myanimelist.net/anime/11013) |    tv   |  2012  |   8   |                                               Inu x Boku SS                                               |   Last month  | 04/14/2022 |  04/15/2022 |
 | [32827](https://myanimelist.net/anime/32827) |   ona   |  2018  |   7   |                                              B: The Beginning                                             |  2 months ago | 04/12/2022 |  04/13/2022 |
