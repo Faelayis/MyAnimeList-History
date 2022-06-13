@@ -8,7 +8,7 @@ List Sync From MyAnimeList (update every hour)
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------: | :-----: | :--------: | :--------: |
 | [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   7   |              Yuusha, Yamemasu              |  10/12  | 2 days ago | 04/06/2022 |
 | [41461](https://myanimelist.net/anime/41461) |  tv  |  2022  |   8   |               Date A Live IV               |  10/12  | 2 days ago | 04/08/2022 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                  One Piece                 |  1020/? | 5 days ago | 01/01/2014 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                  One Piece                 |  1020/? | 6 days ago | 01/01/2014 |
 | [40436](https://myanimelist.net/anime/40436) |  tv  |  2020  |   -   |        Peter Grill to Kenja no Jikan       |   7/12  |  Last week | 05/13/2022 |
 | [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |             Kakkou no Iinazuke             |   7/24  |  Last week | 04/25/2022 |
 | [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                Spy x Family                |   9/12  |  Last week | 04/09/2022 |
@@ -42,7 +42,7 @@ List Sync From MyAnimeList (update every hour)
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                     Machikado Mazoku                    |   2/12  |   Last month  | 04/19/2022 |
 | [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                   Mahoutsukai Reimeiki                  |   2/12  |  3 weeks ago  | 04/09/2022 |
 | [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |           Tate no Yuusha no Nariagari Season 2          |   3/13  |  3 weeks ago  | 04/06/2022 |
-| [49520](https://myanimelist.net/anime/49520) |    tv   |  2022  |   7   |                 Aharen-san wa Hakarenai                 |   4/12  |  2 weeks ago  | 04/01/2022 |
+| [49520](https://myanimelist.net/anime/49520) |    tv   |  2022  |   7   |                 Aharen-san wa Hakarenai                 |   4/12  |  3 weeks ago  | 04/01/2022 |
 
 
 *[40 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
@@ -53,7 +53,7 @@ List Sync From MyAnimeList (update every hour)
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
 | [34543](https://myanimelist.net/anime/34543) |  tv  |  2017  |   2   |                                    Dive!!                                    |   6/12  |   Last month  | 05/03/2022 |
 | [48760](https://myanimelist.net/anime/48760) |  tv  |  2022  |   3   |               Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu              |   1/12  |   Last month  | 04/12/2022 |
-| [48415](https://myanimelist.net/anime/48415) |  tv  |  2022  |   4   |             Shijou Saikyou no Daimaou, Murabito A ni Tensei suru             |   6/12  |   5 days ago  | 04/08/2022 |
+| [48415](https://myanimelist.net/anime/48415) |  tv  |  2022  |   4   |             Shijou Saikyou no Daimaou, Murabito A ni Tensei suru             |   6/12  |   6 days ago  | 04/08/2022 |
 | [48583](https://myanimelist.net/anime/48583) |  tv  |  2022  |   5   |                  Shingeki no Kyojin: The Final Season Part 2                 |   3/12  |   Last month  | 01/28/2022 |
 | [40960](https://myanimelist.net/anime/40960) |  tv  |  2021  |   5   |           Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore           |   1/12  | 11 months ago | 07/08/2021 |
 | [47257](https://myanimelist.net/anime/47257) |  tv  |  2021  |   4   |                        Shinigami Bocchan to Kuro Maid                        |   1/12  |   Last month  | 07/05/2021 |
