@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               |  12 hours ago | 05/01/2022 |  06/17/2022 |
+| [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               |  13 hours ago | 05/01/2022 |  06/17/2022 |
 | [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |   Last week   | 06/10/2022 |  06/10/2022 |
 | [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |   Last week   | 06/10/2022 |  06/10/2022 |
 | [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |   Last week   | 05/28/2022 |  06/07/2022 |
@@ -224,7 +224,7 @@
 | [37347](https://myanimelist.net/anime/37347) |    tv   |  2019  |   8   |                        Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II                        |   Last year   | 11/21/2020 |  11/22/2020 |
 | [33506](https://myanimelist.net/anime/33506) |    tv   |  2017  |   6   |                                     Ao no Exorcist: Kyoto Fujouou-hen                                     |   Last year   | 11/21/2020 |  11/21/2020 |
 |  [9919](https://myanimelist.net/anime/9919)  |    tv   |  2011  |   7   |                                               Ao no Exorcist                                              |   Last year   | 11/20/2020 |  11/21/2020 |
-| [14227](https://myanimelist.net/anime/14227) |    tv   |  2012  |   9   |                                           Tonari no Kaibutsu-kun                                          |  9 months ago | 11/20/2020 |  11/20/2020 |
+| [14227](https://myanimelist.net/anime/14227) |    tv   |  2012  |   9   |                                           Tonari no Kaibutsu-kun                                          | 10 months ago | 11/20/2020 |  11/20/2020 |
 | [14833](https://myanimelist.net/anime/14833) |    tv   |  2013  |   7   |                                             Maoyuu Maou Yuusha                                            |   Last year   | 11/15/2020 |  11/16/2020 |
 | [40221](https://myanimelist.net/anime/40221) |    tv   |  2020  |   9   |                                                Kami no Tou                                                | 10 months ago | 11/15/2020 |  11/15/2020 |
 | [29786](https://myanimelist.net/anime/29786) |    tv   |  2015  |   7   |                         Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai                         |   Last year   | 11/09/2020 |  11/12/2020 |
