@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               |  23 hours ago | 05/01/2022 |  06/17/2022 |
+| [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               |   Yesterday   | 05/01/2022 |  06/17/2022 |
 | [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |   Last week   | 06/10/2022 |  06/10/2022 |
 | [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |   Last week   | 06/10/2022 |  06/10/2022 |
 | [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |   Last week   | 05/28/2022 |  06/07/2022 |
@@ -12,7 +12,7 @@
 |  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |   Last month  | 05/14/2022 |  05/20/2022 |
 | [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |   Last month  | 05/16/2022 |  05/19/2022 |
 | [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |   Last month  | 05/12/2022 |  05/13/2022 |
-| [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   10  |                                              Owari no Seraph                                              |  2 weeks ago  | 05/12/2022 |  05/12/2022 |
+| [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   10  |                                              Owari no Seraph                                              |  3 weeks ago  | 05/12/2022 |  05/12/2022 |
 | [35839](https://myanimelist.net/anime/35839) |    tv   |  2018  |   7   |                                          Sora yori mo Tooi Basho                                          |   Last month  | 05/07/2022 |  05/07/2022 |
 | [40586](https://myanimelist.net/anime/40586) |    tv   |  2021  |   7   |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita                    |   Last month  | 05/03/2022 |  05/07/2022 |
 | [36632](https://myanimelist.net/anime/36632) |    tv   |  2018  |   6   |                              Ore ga Suki nano wa Imouto dakedo Imouto ja Nai                              |   Last month  | 05/25/2021 |  05/07/2022 |
