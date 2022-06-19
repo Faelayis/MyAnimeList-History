@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |                    Title                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------: | :-----: | :----------: | :--------: |
-| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                Spy x Family                |  11/12  | 14 hours ago | 04/09/2022 |
+| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                Spy x Family                |  11/12  | 15 hours ago | 04/09/2022 |
 | [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   7   |              Yuusha, Yamemasu              |  11/12  | 15 hours ago | 04/06/2022 |
 | [41461](https://myanimelist.net/anime/41461) |  tv  |  2022  |   8   |               Date A Live IV               |  11/12  |   Yesterday  | 04/08/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                  One Piece                 |  1021/? |  2 days ago  | 01/01/2014 |
@@ -66,7 +66,7 @@ List Sync From MyAnimeList (update every hour)
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |   Last week   |    07/08/2022   |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |   Last week   |    07/06/2022   |
-| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |   Last week   |        -        |
+| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |  2 weeks ago  |        -        |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |   Last month  |        -        |
 | [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                             Shokei Shoujo no Virgin Road                                             |   Last month  |        -        |
 |   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                           Kino no Tabi: The Beautiful World                                          |   Last month  |        -        |

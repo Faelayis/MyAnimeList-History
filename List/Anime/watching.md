@@ -2,7 +2,7 @@
 
 |                      id                      | Type | Season | Score |                    Title                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------: | :-----: | :----------: | :--------: |
-| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                Spy x Family                |  11/12  | 14 hours ago | 04/09/2022 |
+| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                Spy x Family                |  11/12  | 15 hours ago | 04/09/2022 |
 | [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   7   |              Yuusha, Yamemasu              |  11/12  | 15 hours ago | 04/06/2022 |
 | [41461](https://myanimelist.net/anime/41461) |  tv  |  2022  |   8   |               Date A Live IV               |  11/12  |   Yesterday  | 04/08/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                  One Piece                 |  1021/? |  2 days ago  | 01/01/2014 |
