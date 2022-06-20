@@ -9,5 +9,5 @@
 | [40436](https://myanimelist.net/anime/40436) |  tv  |  2020  |   -   |        Peter Grill to Kenja no Jikan       |   7/12  |  Last week  | 05/13/2022 |
 | [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |             Kakkou no Iinazuke             |   7/24  | 2 weeks ago | 04/25/2022 |
 | [43608](https://myanimelist.net/anime/43608) |  tv  |  2022  |   9   | Kaguya-sama wa Kokurasetai: Ultra Romantic |   9/12  | 2 weeks ago | 04/09/2022 |
-| [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   9   |   Komi-san wa, Comyushou desu. 2nd Season  |   9/?   | 2 weeks ago | 04/07/2022 |
+| [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   9   |   Komi-san wa, Comyushou desu. 2nd Season  |   9/12  | 2 weeks ago | 04/07/2022 |
 | [45613](https://myanimelist.net/anime/45613) |  tv  |  2022  |   -   |      Kawaii dake ja Nai Shikimori-san      |   5/12  |  Last month | 04/10/2022 |
