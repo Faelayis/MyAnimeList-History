@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               |   2 days ago  | 05/01/2022 |  06/17/2022 |
+| [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               |   3 days ago  | 05/01/2022 |  06/17/2022 |
 | [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |   Last week   | 06/10/2022 |  06/10/2022 |
 | [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |   Last week   | 06/10/2022 |  06/10/2022 |
 | [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |   Last week   | 05/28/2022 |  06/07/2022 |
@@ -21,7 +21,7 @@
 | [28907](https://myanimelist.net/anime/28907) |    tv   |  2015  |   8   |                                 Gate: Jieitai Kanochi nite, Kaku Tatakaeri                                |  2 months ago | 04/20/2022 |  04/20/2022 |
 | [30296](https://myanimelist.net/anime/30296) |    tv   |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         |  2 months ago | 04/18/2022 |  04/18/2022 |
 | [13403](https://myanimelist.net/anime/13403) | special |  2012  |   7   |                                           Inu x Boku SS Special                                           |  2 months ago | 04/15/2022 |  04/15/2022 |
-| [11013](https://myanimelist.net/anime/11013) |    tv   |  2012  |   8   |                                               Inu x Boku SS                                               |   Last month  | 04/14/2022 |  04/15/2022 |
+| [11013](https://myanimelist.net/anime/11013) |    tv   |  2012  |   8   |                                               Inu x Boku SS                                               |  2 months ago | 04/14/2022 |  04/15/2022 |
 | [32827](https://myanimelist.net/anime/32827) |   ona   |  2018  |   7   |                                              B: The Beginning                                             |  2 months ago | 04/12/2022 |  04/13/2022 |
 | [39049](https://myanimelist.net/anime/39049) |   ona   |  2020  |   7   |                                           Jashin-chan Dropkick'                                           |  2 months ago | 04/10/2022 |  04/13/2022 |
 | [23277](https://myanimelist.net/anime/23277) |    tv   |  2015  |   5   |                                        Saenai Heroine no Sodatekata                                       |  2 months ago | 04/09/2022 |  04/10/2022 |
@@ -45,7 +45,7 @@
 | [35237](https://myanimelist.net/anime/35237) |   ova   |  2017  |   6   |                                   Hajimete no Gal: Hajimete no Bunkasai                                   |  3 months ago | 03/02/2022 |  03/02/2022 |
 | [44200](https://myanimelist.net/anime/44200) |  movie  |  2021  |   10  |                          Boku no Hero Academia the Movie 3: World Heroes' Mission                         |  3 months ago | 03/01/2022 |  03/01/2022 |
 | [42603](https://myanimelist.net/anime/42603) |   ona   |  2020  |   7   |                        Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren                        |  3 months ago | 03/01/2022 |  03/01/2022 |
-| [36633](https://myanimelist.net/anime/36633) |    tv   |  2019  |   8   |                                              Date A Live III                                              |  3 months ago | 02/27/2022 |  02/28/2022 |
+| [36633](https://myanimelist.net/anime/36633) |    tv   |  2019  |   8   |                                              Date A Live III                                              |  4 months ago | 02/27/2022 |  02/28/2022 |
 | [19163](https://myanimelist.net/anime/19163) |    tv   |  2014  |   7   |                                               Date A Live II                                              |  4 months ago | 02/27/2022 |  02/27/2022 |
 | [22961](https://myanimelist.net/anime/22961) |   ova   |  2014  |   6   |                                    Date A Live II: Kurumi Star Festival                                   |  4 months ago | 02/27/2022 |  02/27/2022 |
 | [36896](https://myanimelist.net/anime/36896) |  movie  |  2018  |   8   |                             Boku no Hero Academia the Movie 1: Futari no Hero                             |  4 months ago | 02/26/2022 |  02/26/2022 |
