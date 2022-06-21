@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |                    Title                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------: | :-----: | :----------: | :--------: |
-| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |             Kakkou no Iinazuke             |   9/24  | 18 hours ago | 04/25/2022 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                  One Piece                 |  1022/? | 19 hours ago | 01/01/2014 |
+| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |             Kakkou no Iinazuke             |   9/24  | 19 hours ago | 04/25/2022 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                  One Piece                 |  1022/? | 20 hours ago | 01/01/2014 |
 | [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                Spy x Family                |  11/12  |  2 days ago  | 04/09/2022 |
 | [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   7   |              Yuusha, Yamemasu              |  11/12  |  2 days ago  | 04/06/2022 |
 | [41461](https://myanimelist.net/anime/41461) |  tv  |  2022  |   8   |               Date A Live IV               |  11/12  |  3 days ago  | 04/08/2022 |
@@ -64,7 +64,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                          UQ Holder!: Mahou Sensei Negima! 2                                          |  16 hours ago |        -        |
+| [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                          UQ Holder!: Mahou Sensei Negima! 2                                          |  17 hours ago |        -        |
 | [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |   Last week   |    07/08/2022   |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |  2 weeks ago  |    07/06/2022   |
 | [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |  2 weeks ago  |        -        |
