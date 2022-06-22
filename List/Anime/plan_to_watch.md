@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                          UQ Holder!: Mahou Sensei Negima! 2                                          |  22 hours ago |        -        |
+| [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                          UQ Holder!: Mahou Sensei Negima! 2                                          |   Yesterday   |        -        |
 | [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |   Last week   |    07/08/2022   |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |  2 weeks ago  |    07/06/2022   |
 | [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |  2 weeks ago  |        -        |
@@ -50,7 +50,7 @@
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |  4 months ago |        -        |
 | [14753](https://myanimelist.net/anime/14753) |   ova   |  2012  |   web_manga  |                                               Hori-san to Miyamura-kun                                               |  4 months ago |        -        |
 | [34392](https://myanimelist.net/anime/34392) |    tv   |  2017  |   original   |                                                       One Room                                                       |  4 months ago |        -        |
-| [48997](https://myanimelist.net/anime/48997) |    tv   |  2022  |     manga    |                                           Fantasy Bishoujo Juniku Ojisan to                                          |  4 months ago |        -        |
+| [48997](https://myanimelist.net/anime/48997) |    tv   |  2022  |     manga    |                                           Fantasy Bishoujo Juniku Ojisan to                                          |  5 months ago |        -        |
 | [41006](https://myanimelist.net/anime/41006) |    tv   |  2020  | visual_novel |                                             Higurashi no Naku Koro ni Gou                                            |  5 months ago |        -        |
 | [37521](https://myanimelist.net/anime/37521) |    tv   |  2019  |     manga    |                                                     Vinland Saga                                                     |  5 months ago |        -        |
 | [48553](https://myanimelist.net/anime/48553) |    tv   |  2022  |   web_manga  |                                               Akebi-chan no Sailor-fuku                                              |  5 months ago |        -        |

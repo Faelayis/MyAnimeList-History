@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               |   4 days ago  | 05/01/2022 |  06/17/2022 |
+| [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               |   5 days ago  | 05/01/2022 |  06/17/2022 |
 | [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |   Last week   | 06/10/2022 |  06/10/2022 |
 | [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |   Last week   | 06/10/2022 |  06/10/2022 |
 | [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |  2 weeks ago  | 05/28/2022 |  06/07/2022 |
@@ -42,7 +42,7 @@
 | [40416](https://myanimelist.net/anime/40416) |  movie  |  2020  |   9   |                                       Date A Bullet: Dead or Bullet                                       |  3 months ago | 03/03/2022 |  03/03/2022 |
 | [42423](https://myanimelist.net/anime/42423) |  movie  |  2020  |   10  |                                     Date A Bullet: Nightmare or Queen                                     |  2 months ago | 03/03/2022 |  03/03/2022 |
 | [24655](https://myanimelist.net/anime/24655) |  movie  |  2015  |   6   |                                     Date A Live Movie: Mayuri Judgment                                    |  3 months ago | 03/03/2022 |  03/03/2022 |
-| [35237](https://myanimelist.net/anime/35237) |   ova   |  2017  |   6   |                                   Hajimete no Gal: Hajimete no Bunkasai                                   |  3 months ago | 03/02/2022 |  03/02/2022 |
+| [35237](https://myanimelist.net/anime/35237) |   ova   |  2017  |   6   |                                   Hajimete no Gal: Hajimete no Bunkasai                                   |  4 months ago | 03/02/2022 |  03/02/2022 |
 | [44200](https://myanimelist.net/anime/44200) |  movie  |  2021  |   10  |                          Boku no Hero Academia the Movie 3: World Heroes' Mission                         |  4 months ago | 03/01/2022 |  03/01/2022 |
 | [42603](https://myanimelist.net/anime/42603) |   ona   |  2020  |   7   |                        Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren                        |  4 months ago | 03/01/2022 |  03/01/2022 |
 | [36633](https://myanimelist.net/anime/36633) |    tv   |  2019  |   8   |                                              Date A Live III                                              |  4 months ago | 02/27/2022 |  02/28/2022 |
