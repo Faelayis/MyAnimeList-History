@@ -27,6 +27,6 @@
 | [41380](https://myanimelist.net/anime/41380) |  tv  |  2020  |   3   |                  100-man no Inochi no Ue ni Ore wa Tatteiru                  |   3/12  |   Last year   |      -     |
 | [38853](https://myanimelist.net/anime/38853) |  tv  |  2021  |   1   |                                    Ex-Arm                                    |   1/12  |   Last year   |      -     |
 | [38909](https://myanimelist.net/anime/38909) |  tv  |  2020  |   4   |                              Infinite Dendrogram                             |   0/13  |   Last year   |      -     |
-| [19685](https://myanimelist.net/anime/19685) |  tv  |  2014  |   6   |                          Kanojo ga Flag wo Oraretara                         |   6/13  | 10 months ago |      -     |
+| [19685](https://myanimelist.net/anime/19685) |  tv  |  2014  |   6   |                          Kanojo ga Flag wo Oraretara                         |   6/13  | 11 months ago |      -     |
 | [40571](https://myanimelist.net/anime/40571) |  tv  |  2020  |   2   |                               Majo no Tabitabi                               |   2/12  |   Last year   |      -     |
 | [32899](https://myanimelist.net/anime/32899) |  tv  |  2016  |   4   |                          Watashi ga Motete Dousunda                          |   3/12  |   Last month  |      -     |
