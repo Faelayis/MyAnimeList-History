@@ -9,7 +9,7 @@
 | [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |           Tate no Yuusha no Nariagari Season 2          |   3/13  |   Last month  | 04/06/2022 |
 | [49520](https://myanimelist.net/anime/49520) |    tv   |  2022  |   7   |                 Aharen-san wa Hakarenai                 |   4/12  |   Last month  | 04/01/2022 |
 | [43470](https://myanimelist.net/anime/43470) |    tv   |  2022  |   6   |  Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart  |   2/12  |   Last month  | 04/01/2022 |
-| [49930](https://myanimelist.net/anime/49930) |    tv   |  2022  |   -   |     Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2     |   2/13  |  2 months ago | 03/01/2022 |
+| [49930](https://myanimelist.net/anime/49930) |    tv   |  2022  |   -   |     Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2     |   2/13  |  3 months ago | 03/01/2022 |
 | [32182](https://myanimelist.net/anime/32182) |    tv   |  2016  |   -   |                      Mob Psycho 100                     |   3/12  |  4 months ago | 02/05/2022 |
 | [49114](https://myanimelist.net/anime/49114) |    tv   |  2022  |   -   |                 Vanitas no Karte Part 2                 |   4/12  |  2 months ago | 01/15/2022 |
 | [40507](https://myanimelist.net/anime/40507) |    tv   |  2022  |   -   |     Arifureta Shokugyou de Sekai Saikyou 2nd Season     |   6/12  |  2 months ago | 01/14/2022 |
@@ -17,7 +17,7 @@
 |  [2104](https://myanimelist.net/anime/2104)  |    tv   |  2007  |   -   |                     Seto no Hanayome                    |   8/26  |  5 months ago | 01/05/2022 |
 | [44406](https://myanimelist.net/anime/44406) |   ona   |  2021  |   -   |                     Da Wang Rao Ming                    |   5/12  |  4 months ago | 12/19/2021 |
 | [11759](https://myanimelist.net/anime/11759) |    tv   |  2012  |   -   |                       Accel World                       |  10/24  |  6 months ago | 12/16/2021 |
-| [40834](https://myanimelist.net/anime/40834) |    tv   |  2021  |   -   |                      Ousama Ranking                     |  14/23  |  2 months ago | 12/11/2021 |
+| [40834](https://myanimelist.net/anime/40834) |    tv   |  2021  |   -   |                      Ousama Ranking                     |  14/23  |  3 months ago | 12/11/2021 |
 | [32867](https://myanimelist.net/anime/32867) |    tv   |  2016  |   -   |               Bungou Stray Dogs 2nd Season              |   2/12  |  2 months ago | 10/25/2021 |
 | [44961](https://myanimelist.net/anime/44961) |    tv   |  2021  |   -   |                       Platinum End                      |   5/24  |  4 months ago | 10/23/2021 |
 |  [2966](https://myanimelist.net/anime/2966)  |    tv   |  2008  |   -   |                  Ookami to Koushinryou                  |   2/13  |  8 months ago | 10/20/2021 |

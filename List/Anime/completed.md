@@ -2,9 +2,9 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               |   6 days ago  | 05/01/2022 |  06/17/2022 |
-| [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |   Last week   | 06/10/2022 |  06/10/2022 |
-| [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |   Last week   | 06/10/2022 |  06/10/2022 |
+| [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               |   Last week   | 05/01/2022 |  06/17/2022 |
+| [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |  2 weeks ago  | 06/10/2022 |  06/10/2022 |
+| [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |  2 weeks ago  | 06/10/2022 |  06/10/2022 |
 | [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |  2 weeks ago  | 05/28/2022 |  06/07/2022 |
 | [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   7   |                                        Toaru Kagaku no Accelerator                                        |  2 weeks ago  | 05/14/2022 |  06/07/2022 |
 | [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             |  3 weeks ago  | 05/27/2022 |  05/28/2022 |
@@ -31,7 +31,7 @@
 | [36906](https://myanimelist.net/anime/36906) |    tv   |  2018  |   7   |                                            Jashin-chan Dropkick                                           |  2 months ago | 04/03/2022 |  04/04/2022 |
 |  [9734](https://myanimelist.net/anime/9734)  | special |  2011  |   7   |                                              K-On!!: Keikaku!                                             |  2 months ago | 04/03/2022 |  04/03/2022 |
 |  [7791](https://myanimelist.net/anime/7791)  |    tv   |  2010  |   8   |                                                   K-On!!                                                  |  2 months ago | 03/23/2022 |  04/03/2022 |
-| [48736](https://myanimelist.net/anime/48736) |    tv   |  2022  |   7   |                                      Sono Bisque Doll wa Koi wo Suru                                      |  2 months ago | 01/13/2022 |  04/01/2022 |
+| [48736](https://myanimelist.net/anime/48736) |    tv   |  2022  |   7   |                                      Sono Bisque Doll wa Koi wo Suru                                      |  3 months ago | 01/13/2022 |  04/01/2022 |
 | [42670](https://myanimelist.net/anime/42670) |    tv   |  2022  |   9   |                                     Princess Connect! Re:Dive Season 2                                    |  2 months ago | 02/12/2022 |  03/30/2022 |
 |  [6862](https://myanimelist.net/anime/6862)  | special |  2010  |   7   |                                             K-On!: Live House!                                            |  3 months ago | 03/23/2022 |  03/23/2022 |
 |  [5680](https://myanimelist.net/anime/5680)  |    tv   |  2009  |   9   |                                                   K-On!                                                   |  3 months ago | 03/20/2022 |  03/23/2022 |
