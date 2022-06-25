@@ -2,13 +2,12 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every hour)
 
-#### Watching (9) ``4.74%``
+#### Watching (8) ``4.21%``
 
 |                      id                      | Type | Season | Score |                    Title                   | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------: | :-----: | :---------: | :--------: |
 | [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |             Kakkou no Iinazuke             |   9/24  |  4 days ago | 04/25/2022 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                  One Piece                 |  1022/? |  4 days ago | 01/01/2014 |
-| [50265](https://myanimelist.net/anime/50265) |  tv  |  2022  |   10  |                Spy x Family                |  11/12  |  6 days ago | 04/09/2022 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                  One Piece                 |  1022/? |  5 days ago | 01/01/2014 |
 | [50175](https://myanimelist.net/anime/50175) |  tv  |  2022  |   7   |              Yuusha, Yamemasu              |  11/12  |  6 days ago | 04/06/2022 |
 | [41461](https://myanimelist.net/anime/41461) |  tv  |  2022  |   8   |               Date A Live IV               |  11/12  |  Last week  | 04/08/2022 |
 | [40436](https://myanimelist.net/anime/40436) |  tv  |  2020  |   -   |        Peter Grill to Kenja no Jikan       |   7/12  | 2 weeks ago | 05/13/2022 |
@@ -18,19 +17,19 @@ List Sync From MyAnimeList (update every hour)
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``79.13%``
+#### Completed ``78.61%``
 
-|                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
-| :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               |   Last week   | 05/01/2022 |  06/17/2022 |
-| [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |  2 weeks ago  | 06/10/2022 |  06/10/2022 |
-| [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |  2 weeks ago  | 06/10/2022 |  06/10/2022 |
-| [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |  2 weeks ago  | 05/28/2022 |  06/07/2022 |
-| [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   7   |                                        Toaru Kagaku no Accelerator                                        |  2 weeks ago  | 05/14/2022 |  06/07/2022 |
-| [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             |   Last month  | 05/27/2022 |  05/28/2022 |
+|                      id                      |   Type  | Season | Score |                                                   Title                                                   |    Completed   | Start Date | Finish Date |
+| :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :------------: | :--------: | :---------: |
+| [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               | 16 minutes ago | 04/09/2022 |  06/26/2022 |
+| [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               |    Last week   | 05/01/2022 |  06/17/2022 |
+| [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |   2 weeks ago  | 06/10/2022 |  06/10/2022 |
+| [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |   2 weeks ago  | 06/10/2022 |  06/10/2022 |
+| [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |   2 weeks ago  | 05/28/2022 |  06/07/2022 |
+| [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   7   |                                        Toaru Kagaku no Accelerator                                        |   2 weeks ago  | 05/14/2022 |  06/07/2022 |
 
 
-*[339 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
+*[340 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
 #### On Hold ``8.04%``
 
