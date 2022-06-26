@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                          UQ Holder!: Mahou Sensei Negima! 2                                          |   4 days ago  |        -        |
+| [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                          UQ Holder!: Mahou Sensei Negima! 2                                          |   5 days ago  |        -        |
 | [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |  2 weeks ago  |    07/08/2022   |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |  2 weeks ago  |    07/06/2022   |
 | [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |  2 weeks ago  |        -        |
@@ -47,7 +47,7 @@
 |  [5356](https://myanimelist.net/anime/5356)  |    tv   |  2009  | visual_novel |                                                        Canaan                                                        |  4 months ago |        -        |
 | [34176](https://myanimelist.net/anime/34176) |    tv   |  2017  |  light_novel |                                            Zero kara Hajimeru Mahou no Sho                                           |  4 months ago |        -        |
 | [51096](https://myanimelist.net/anime/51096) |    tv   |  2022  |  light_novel |                            Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season                           |  4 months ago |        -        |
-|  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |  4 months ago |        -        |
+|  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |  5 months ago |        -        |
 | [14753](https://myanimelist.net/anime/14753) |   ova   |  2012  |   web_manga  |                                               Hori-san to Miyamura-kun                                               |  5 months ago |        -        |
 | [34392](https://myanimelist.net/anime/34392) |    tv   |  2017  |   original   |                                                       One Room                                                       |  5 months ago |        -        |
 | [48997](https://myanimelist.net/anime/48997) |    tv   |  2022  |     manga    |                                           Fantasy Bishoujo Juniku Ojisan to                                          |  5 months ago |        -        |
