@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every hour)
 
-#### Watching (5) ``2.63%``
+#### Watching (5) ``2.62%``
 
 |                      id                      | Type | Season | Score |                  Title                  | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------: | :-----: | :---------: | :--------: |
@@ -14,21 +14,21 @@ List Sync From MyAnimeList (update every hour)
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``77.08%``
+#### Completed ``77.36%``
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |  6 hours ago  | 04/09/2022 |  06/26/2022 |
-| [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |  7 hours ago  | 04/09/2022 |  06/26/2022 |
-| [41461](https://myanimelist.net/anime/41461) |    tv   |  2022  |   8   |                                               Date A Live IV                                              |  6 hours ago  | 04/08/2022 |  06/26/2022 |
-| [50175](https://myanimelist.net/anime/50175) |    tv   |  2022  |   7   |                                              Yuusha, Yamemasu                                             |  6 hours ago  | 04/06/2022 |  06/26/2022 |
+| [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |  8 hours ago  | 04/09/2022 |  06/26/2022 |
+| [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |  8 hours ago  | 04/09/2022 |  06/26/2022 |
+| [41461](https://myanimelist.net/anime/41461) |    tv   |  2022  |   8   |                                               Date A Live IV                                              |  7 hours ago  | 04/08/2022 |  06/26/2022 |
+| [50175](https://myanimelist.net/anime/50175) |    tv   |  2022  |   7   |                                              Yuusha, Yamemasu                                             |  7 hours ago  | 04/06/2022 |  06/26/2022 |
 | [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               |   Last week   | 05/01/2022 |  06/17/2022 |
 | [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |  2 weeks ago  | 06/10/2022 |  06/10/2022 |
 
 
 *[343 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``8.04%``
+#### On Hold ``8.03%``
 
 |                      id                      |   Type  | Season | Score |                          Title                          | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -42,7 +42,7 @@ List Sync From MyAnimeList (update every hour)
 
 *[40 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``4.75%``
+#### Dropped ``4.74%``
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -56,16 +56,16 @@ List Sync From MyAnimeList (update every hour)
 
 *[22 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``44.39%``
+#### Plan to Watch ``44.63%``
 
-|                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
-| :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                          UQ Holder!: Mahou Sensei Negima! 2                                          |   5 days ago  |        -        |
-| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |  2 weeks ago  |    07/08/2022   |
-| [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |  2 weeks ago  |    07/06/2022   |
-| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |  2 weeks ago  |        -        |
-| [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |   Last month  |        -        |
-| [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                             Shokei Shoujo no Virgin Road                                             |   Last month  |        -        |
+|                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |     Updated    | Plan Start Date |
+| :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :------------: | :-------------: |
+| [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                     Date A Live V                                                    | 15 minutes ago |        -        |
+| [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                          UQ Holder!: Mahou Sensei Negima! 2                                          |   5 days ago   |        -        |
+| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |   2 weeks ago  |    07/08/2022   |
+| [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |   2 weeks ago  |    07/06/2022   |
+| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |     manga    |                                                       Yuru Yuri                                                      |   2 weeks ago  |        -        |
+| [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |   Last month   |        -        |
 
 
-*[183 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[184 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
