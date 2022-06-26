@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                     Date A Live V                                                    |  10 hours ago |        -        |
+| [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                     Date A Live V                                                    |  11 hours ago |        -        |
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                          UQ Holder!: Mahou Sensei Negima! 2                                          |   5 days ago  |        -        |
 | [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |  2 weeks ago  |    07/08/2022   |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |  2 weeks ago  |    07/06/2022   |
@@ -31,7 +31,7 @@
 | [48417](https://myanimelist.net/anime/48417) |    tv   |    -   |  light_novel | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou 2nd Season |  2 months ago |        -        |
 | [37994](https://myanimelist.net/anime/37994) |   ona   |  2021  |   original   |                                              B: The Beginning Succession                                             |  2 months ago |        -        |
 | [42994](https://myanimelist.net/anime/42994) |    tv   |  2022  |   web_manga  |                                                Jashin-chan Dropkick X                                                |  2 months ago |        -        |
-| [40870](https://myanimelist.net/anime/40870) |    tv   |  2021  |   original   |                                                    SSSS.Dynazenon                                                    |  2 months ago |        -        |
+| [40870](https://myanimelist.net/anime/40870) |    tv   |  2021  |   original   |                                                    SSSS.Dynazenon                                                    |  3 months ago |        -        |
 | [51498](https://myanimelist.net/anime/51498) |    tv   |    -   |     manga    |                                               Masamune-kun no Revenge R                                              |  3 months ago |        -        |
 | [36296](https://myanimelist.net/anime/36296) |    tv   |  2018  |     manga    |                                                   Hinamatsuri (TV)                                                   |  3 months ago |        -        |
 |  [9617](https://myanimelist.net/anime/9617)  |  movie  |  2011  | 4_koma_manga |                                                      K-On! Movie                                                     |  3 months ago |        -        |
