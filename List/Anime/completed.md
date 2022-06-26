@@ -2,10 +2,10 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |  15 hours ago | 04/09/2022 |  06/26/2022 |
-| [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |  16 hours ago | 04/09/2022 |  06/26/2022 |
-| [41461](https://myanimelist.net/anime/41461) |    tv   |  2022  |   8   |                                               Date A Live IV                                              |  15 hours ago | 04/08/2022 |  06/26/2022 |
-| [50175](https://myanimelist.net/anime/50175) |    tv   |  2022  |   7   |                                              Yuusha, Yamemasu                                             |  15 hours ago | 04/06/2022 |  06/26/2022 |
+| [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |  16 hours ago | 04/09/2022 |  06/26/2022 |
+| [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |  17 hours ago | 04/09/2022 |  06/26/2022 |
+| [41461](https://myanimelist.net/anime/41461) |    tv   |  2022  |   8   |                                               Date A Live IV                                              |  16 hours ago | 04/08/2022 |  06/26/2022 |
+| [50175](https://myanimelist.net/anime/50175) |    tv   |  2022  |   7   |                                              Yuusha, Yamemasu                                             |  16 hours ago | 04/06/2022 |  06/26/2022 |
 | [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               |   Last week   | 05/01/2022 |  06/17/2022 |
 | [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |  2 weeks ago  | 06/10/2022 |  06/10/2022 |
 | [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |  2 weeks ago  | 06/10/2022 |  06/10/2022 |
