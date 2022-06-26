@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |                  Title                  | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------: | :-----: | :---------: | :--------: |
-| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |            Kakkou no Iinazuke           |   9/24  |  5 days ago | 04/25/2022 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                One Piece                |  1022/? |  5 days ago | 01/01/2014 |
+| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |            Kakkou no Iinazuke           |   9/24  |  6 days ago | 04/25/2022 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                One Piece                |  1022/? |  6 days ago | 01/01/2014 |
 | [40436](https://myanimelist.net/anime/40436) |  tv  |  2020  |   -   |      Peter Grill to Kenja no Jikan      |   7/12  | 2 weeks ago | 05/13/2022 |
 | [50631](https://myanimelist.net/anime/50631) |  tv  |  2022  |   9   | Komi-san wa, Comyushou desu. 2nd Season |   9/12  | 3 weeks ago | 04/07/2022 |
 | [45613](https://myanimelist.net/anime/45613) |  tv  |  2022  |   -   |     Kawaii dake ja Nai Shikimori-san    |   5/12  |  Last month | 04/10/2022 |
@@ -18,10 +18,10 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |  23 hours ago | 04/09/2022 |  06/26/2022 |
+| [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |   Yesterday   | 04/09/2022 |  06/26/2022 |
 | [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |   Yesterday   | 04/09/2022 |  06/26/2022 |
-| [41461](https://myanimelist.net/anime/41461) |    tv   |  2022  |   8   |                                               Date A Live IV                                              |  23 hours ago | 04/08/2022 |  06/26/2022 |
-| [50175](https://myanimelist.net/anime/50175) |    tv   |  2022  |   7   |                                              Yuusha, Yamemasu                                             |  23 hours ago | 04/06/2022 |  06/26/2022 |
+| [41461](https://myanimelist.net/anime/41461) |    tv   |  2022  |   8   |                                               Date A Live IV                                              |   Yesterday   | 04/08/2022 |  06/26/2022 |
+| [50175](https://myanimelist.net/anime/50175) |    tv   |  2022  |   7   |                                              Yuusha, Yamemasu                                             |   Yesterday   | 04/06/2022 |  06/26/2022 |
 | [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               |   Last week   | 05/01/2022 |  06/17/2022 |
 | [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |  2 weeks ago  | 06/10/2022 |  06/10/2022 |
 
@@ -60,7 +60,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                     Date A Live V                                                    |  16 hours ago |        -        |
+| [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                     Date A Live V                                                    |  17 hours ago |        -        |
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                          UQ Holder!: Mahou Sensei Negima! 2                                          |   5 days ago  |        -        |
 | [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |  2 weeks ago  |    07/08/2022   |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |  2 weeks ago  |    07/06/2022   |
