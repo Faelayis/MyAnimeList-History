@@ -1,8 +1,8 @@
-# Plan to Watch (191)
+# Plan to Watch (190)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                     Date A Live V                                                    |  19 hours ago |        -        |
+| [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                     Date A Live V                                                    |  21 hours ago |        -        |
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                          UQ Holder!: Mahou Sensei Negima! 2                                          |   6 days ago  |        -        |
 | [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |  2 weeks ago  |    07/08/2022   |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |  2 weeks ago  |    07/06/2022   |
@@ -129,7 +129,6 @@
 |  [5681](https://myanimelist.net/anime/5681)  |  movie  |  2009  |   original   |                                                      Summer Wars                                                     |   05/30/2021  |        -        |
 |  [8425](https://myanimelist.net/anime/8425)  |    tv   |  2011  |  light_novel |                                                        Gosick                                                        |   05/30/2021  |        -        |
 | [31758](https://myanimelist.net/anime/31758) |  movie  |  2017  |  light_novel |                                           Kizumonogatari III: Reiketsu-hen                                           |   05/30/2021  |        -        |
-| [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   original   |                                               Ai no Utagoe wo Kikasete                                               |   05/28/2021  |        -        |
 | [21557](https://myanimelist.net/anime/21557) |  movie  |  2014  |     novel    |                                                   Omoide no Marnie                                                   |   05/25/2021  |        -        |
 | [37105](https://myanimelist.net/anime/37105) |    tv   |  2018  |     manga    |                                                      Grand Blue                                                      |   05/24/2021  |        -        |
 | [21995](https://myanimelist.net/anime/21995) |    tv   |  2014  |     manga    |                                                     Ao Haru Ride                                                     |   05/24/2021  |        -        |
