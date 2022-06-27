@@ -16,14 +16,14 @@ List Sync From MyAnimeList (update every hour)
 
 #### Completed ``76.86%``
 
-|                      id                      |   Type  | Season | Score |                                                   Title                                                   |    Completed   | Start Date | Finish Date |
-| :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :------------: | :--------: | :---------: |
-| [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         | 21 minutes ago | 06/27/2022 |  06/27/2022 |
-| [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |    Yesterday   | 04/09/2022 |  06/26/2022 |
-| [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |    Yesterday   | 04/09/2022 |  06/26/2022 |
-| [41461](https://myanimelist.net/anime/41461) |    tv   |  2022  |   8   |                                               Date A Live IV                                              |    Yesterday   | 04/08/2022 |  06/26/2022 |
-| [50175](https://myanimelist.net/anime/50175) |    tv   |  2022  |   7   |                                              Yuusha, Yamemasu                                             |    Yesterday   | 04/06/2022 |  06/26/2022 |
-| [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               |    Last week   | 05/01/2022 |  06/17/2022 |
+|                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
+| :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |   1 hour ago  | 06/27/2022 |  06/27/2022 |
+| [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |   Yesterday   | 04/09/2022 |  06/26/2022 |
+| [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |   Yesterday   | 04/09/2022 |  06/26/2022 |
+| [41461](https://myanimelist.net/anime/41461) |    tv   |  2022  |   8   |                                               Date A Live IV                                              |   Yesterday   | 04/08/2022 |  06/26/2022 |
+| [50175](https://myanimelist.net/anime/50175) |    tv   |  2022  |   7   |                                              Yuusha, Yamemasu                                             |   Yesterday   | 04/06/2022 |  06/26/2022 |
+| [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               |   Last week   | 05/01/2022 |  06/17/2022 |
 
 
 *[344 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
@@ -60,7 +60,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                     Date A Live V                                                    |  21 hours ago |        -        |
+| [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                     Date A Live V                                                    |  22 hours ago |        -        |
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                          UQ Holder!: Mahou Sensei Negima! 2                                          |   6 days ago  |        -        |
 | [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |  2 weeks ago  |    07/08/2022   |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |  2 weeks ago  |    07/06/2022   |
