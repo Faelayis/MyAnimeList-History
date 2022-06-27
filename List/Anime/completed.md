@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |  2 hours ago  | 06/27/2022 |  06/27/2022 |
+| [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |  3 hours ago  | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |   Yesterday   | 04/09/2022 |  06/26/2022 |
 | [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |   Yesterday   | 04/09/2022 |  06/26/2022 |
 | [41461](https://myanimelist.net/anime/41461) |    tv   |  2022  |   8   |                                               Date A Live IV                                              |   Yesterday   | 04/08/2022 |  06/26/2022 |
@@ -125,7 +125,7 @@
 | [44203](https://myanimelist.net/anime/44203) |    tv   |  2021  |   6   |                                              Seirei Gensouki                                              |  9 months ago | 07/06/2021 |  09/24/2021 |
 | [43523](https://myanimelist.net/anime/43523) |    tv   |  2021  |   8   |                                     Tsuki ga Michibiku Isekai Douchuu                                     |  9 months ago | 07/07/2021 |  09/23/2021 |
 | [41487](https://myanimelist.net/anime/41487) |    tv   |  2021  |   8   |                              Tensei shitara Slime Datta Ken 2nd Season Part 2                             |  9 months ago | 07/07/2021 |  09/21/2021 |
-| [34451](https://myanimelist.net/anime/34451) |    tv   |  2017  |   7   |                                           Kekkai Sensen & Beyond                                          |  9 months ago | 09/20/2021 |  09/20/2021 |
+| [34451](https://myanimelist.net/anime/34451) |    tv   |  2017  |   7   |                                           Kekkai Sensen & Beyond                                          | 10 months ago | 09/20/2021 |  09/20/2021 |
 | [42249](https://myanimelist.net/anime/42249) |    tv   |  2021  |   9   |                                              Tokyo Revengers                                              |  7 months ago | 05/31/2021 |  09/19/2021 |
 | [24439](https://myanimelist.net/anime/24439) |    tv   |  2015  |   8   |                                               Kekkai Sensen                                               | 10 months ago | 09/18/2021 |  09/18/2021 |
 | [30915](https://myanimelist.net/anime/30915) | special |  2015  |   5   |                             Kekkai Sensen: Soresaemo Saitei de Saikou na Hibi                             | 10 months ago | 09/18/2021 |  09/18/2021 |
