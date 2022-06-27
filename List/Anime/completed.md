@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |  5 hours ago  | 06/27/2022 |  06/27/2022 |
+| [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |  6 hours ago  | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |   Yesterday   | 04/09/2022 |  06/26/2022 |
 | [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |   Yesterday   | 04/09/2022 |  06/26/2022 |
 | [41461](https://myanimelist.net/anime/41461) |    tv   |  2022  |   8   |                                               Date A Live IV                                              |   Yesterday   | 04/08/2022 |  06/26/2022 |
@@ -108,7 +108,7 @@
 |  [2993](https://myanimelist.net/anime/2993)  |    tv   |  2008  |   7   |                                             Rosario to Vampire                                            |  8 months ago | 10/26/2021 |  10/27/2021 |
 | [32615](https://myanimelist.net/anime/32615) |    tv   |  2017  |   8   |                                                Youjo Senki                                                |  8 months ago | 08/28/2021 |  10/21/2021 |
 | [41457](https://myanimelist.net/anime/41457) |    tv   |  2021  |   6   |                                                     86                                                    |  9 months ago | 05/22/2021 |  10/18/2021 |
-| [41094](https://myanimelist.net/anime/41094) |   ona   |  2020  |   7   |                                       Xian Wang de Richang Shenghuo                                       |  8 months ago | 01/06/2021 |  10/18/2021 |
+| [41094](https://myanimelist.net/anime/41094) |   ona   |  2020  |   7   |                                       Xian Wang de Richang Shenghuo                                       |  9 months ago | 01/06/2021 |  10/18/2021 |
 |  [8074](https://myanimelist.net/anime/8074)  |    tv   |  2010  |   7   |                                           Highschool of the Dead                                          |  9 months ago | 10/04/2021 |  10/16/2021 |
 | [48849](https://myanimelist.net/anime/48849) |    tv   |  2021  |   9   |                                                 Sonny Boy                                                 |  9 months ago | 08/07/2021 |  10/16/2021 |
 | [38329](https://myanimelist.net/anime/38329) |  movie  |  2019  |   9   |                           Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai                          |  9 months ago | 10/14/2021 |  10/14/2021 |
