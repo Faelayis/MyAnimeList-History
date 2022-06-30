@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |               Title              | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------: | :-----: | :----------: | :--------: |
-| [10495](https://myanimelist.net/anime/10495) |  tv  |  2011  |   -   |             Yuru Yuri            |   3/12  |  8 hours ago | 06/30/2022 |
-| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |        Kakkou no Iinazuke        |  10/24  | 10 hours ago | 04/25/2022 |
+| [10495](https://myanimelist.net/anime/10495) |  tv  |  2011  |   -   |             Yuru Yuri            |   3/12  |  9 hours ago | 06/30/2022 |
+| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |        Kakkou no Iinazuke        |  10/24  | 12 hours ago | 04/25/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |             One Piece            |  1022/? |   Last week  | 01/01/2014 |
 | [40436](https://myanimelist.net/anime/40436) |  tv  |  2020  |   -   |   Peter Grill to Kenja no Jikan  |   7/12  |  3 weeks ago | 05/13/2022 |
 | [45613](https://myanimelist.net/anime/45613) |  tv  |  2022  |   -   | Kawaii dake ja Nai Shikimori-san |   5/12  |  Last month  | 04/10/2022 |
@@ -62,7 +62,7 @@ List Sync From MyAnimeList (update every hour)
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                     Date A Live V                                                    |   4 days ago  |        -        |
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                          UQ Holder!: Mahou Sensei Negima! 2                                          |   Last week   |        -        |
-| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |  2 weeks ago  |    07/08/2022   |
+| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |  3 weeks ago  |    07/08/2022   |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |  3 weeks ago  |    07/06/2022   |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           |   Last month  |        -        |
 | [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                             Shokei Shoujo no Virgin Road                                             |   Last month  |        -        |
