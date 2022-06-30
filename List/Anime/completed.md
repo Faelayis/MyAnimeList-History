@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |  23 hours ago | 04/07/2022 |  06/29/2022 |
+| [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   Yesterday   | 04/07/2022 |  06/29/2022 |
 | [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |   2 days ago  | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |   4 days ago  | 04/09/2022 |  06/26/2022 |
 | [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |   4 days ago  | 04/09/2022 |  06/26/2022 |
@@ -99,8 +99,8 @@
 | [36862](https://myanimelist.net/anime/36862) |  movie  |  2020  |   10  |                              Made in Abyss Movie 3: Fukaki Tamashii no Reimei                             |  7 months ago | 12/09/2021 |  12/09/2021 |
 | [14345](https://myanimelist.net/anime/14345) |    tv   |  2012  |   6   |                                                  Btooom!                                                  |  7 months ago | 12/08/2021 |  12/08/2021 |
 | [34599](https://myanimelist.net/anime/34599) |    tv   |  2017  |   10  |                                               Made in Abyss                                               |   Last month  | 12/08/2021 |  12/08/2021 |
-| [36516](https://myanimelist.net/anime/36516) |    tv   |  2018  |   7   |                                                  Beatless                                                 |  7 months ago | 11/18/2021 |  11/18/2021 |
-| [38020](https://myanimelist.net/anime/38020) |    tv   |  2018  |   6   |                                            Beatless Final Stage                                           |  7 months ago | 11/18/2021 |  11/18/2021 |
+| [36516](https://myanimelist.net/anime/36516) |    tv   |  2018  |   7   |                                                  Beatless                                                 |  8 months ago | 11/18/2021 |  11/18/2021 |
+| [38020](https://myanimelist.net/anime/38020) |    tv   |  2018  |   6   |                                            Beatless Final Stage                                           |  8 months ago | 11/18/2021 |  11/18/2021 |
 |  [7311](https://myanimelist.net/anime/7311)  |  movie  |  2010  |   7   |                                       Suzumiya Haruhi no Shoushitsu                                       |  8 months ago | 11/01/2021 |  11/01/2021 |
 |  [4382](https://myanimelist.net/anime/4382)  |    tv   |  2009  |   7   |                                     Suzumiya Haruhi no Yuuutsu (2009)                                     |  8 months ago | 10/30/2021 |  11/01/2021 |
 | [34213](https://myanimelist.net/anime/34213) |   ona   |  2016  |   6   |                                            Getsuyoubi no Tawawa                                           |  8 months ago | 10/12/2021 |  10/28/2021 |
