@@ -1,4 +1,4 @@
-# Plan to Watch (189)
+# Plan to Watch (188)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -72,7 +72,7 @@
 | [50608](https://myanimelist.net/anime/50608) |    tv   |  2023  |     manga    |                                           Tokyo Revengers: Seiya Kessen-hen                                          |  6 months ago |        -        |
 | [49310](https://myanimelist.net/anime/49310) |  movie  |  2022  |     manga    |                                                Fruits Basket: Prelude                                                |  6 months ago |        -        |
 | [14829](https://myanimelist.net/anime/14829) |    tv   |  2013  |     manga    |                                            Fate/kaleid liner Prisma☆Illya                                            |  6 months ago |        -        |
-| [33589](https://myanimelist.net/anime/33589) |    tv   |  2016  |   original   |                                                     ViVid Strike!                                                    |  6 months ago |        -        |
+| [33589](https://myanimelist.net/anime/33589) |    tv   |  2016  |   original   |                                                     ViVid Strike!                                                    |  7 months ago |        -        |
 | [47159](https://myanimelist.net/anime/47159) |    tv   |  2022  |  light_novel |                                        Tensai Ouji no Akaji Kokka Saisei Jutsu                                       |  7 months ago |        -        |
 | [48414](https://myanimelist.net/anime/48414) |    tv   |  2022  |  light_novel |                                                     Sabikui Bisco                                                    |  7 months ago |        -        |
 | [45425](https://myanimelist.net/anime/45425) |    tv   |  2022  |     manga    |                                                       Slow Loop                                                      |  7 months ago |        -        |
@@ -175,7 +175,6 @@
 | [38753](https://myanimelist.net/anime/38753) |    tv   |  2019  |     manga    |                                           Araburu Kisetsu no Otome-domo yo.                                          |   12/02/2020  |        -        |
 | [10163](https://myanimelist.net/anime/10163) |    tv   |  2011  |   original   |                                     C: The Money of Soul and Possibility Control                                     |   12/01/2020  |        -        |
 | [36817](https://myanimelist.net/anime/36817) |    tv   |  2018  | 4_koma_manga |                                             Sunohara-sou no Kanrinin-san                                             |   12/01/2020  |        -        |
-| [42963](https://myanimelist.net/anime/42963) |    tv   |  2022  |     manga    |                                            Kanojo, Okarishimasu 2nd Season                                           |   12/01/2020  |        -        |
 | [40907](https://myanimelist.net/anime/40907) |    tv   |  2021  |     manga    |                                               World Trigger 2nd Season                                               |   12/01/2020  |        -        |
 | [10897](https://myanimelist.net/anime/10897) |   ova   |  2011  |  light_novel |                         Boku wa Tomodachi ga Sukunai: Yaminabe wa Bishoujo ga Zannen na Nioi                         |   11/30/2020  |        -        |
 | [13469](https://myanimelist.net/anime/13469) |   ova   |  2012  |  light_novel |                                               Hyouka: Motsubeki Mono wa                                              |   11/23/2020  |        -        |
