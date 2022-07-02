@@ -1,4 +1,4 @@
-# Plan to Watch (188)
+# Plan to Watch (187)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -17,7 +17,6 @@
 | [51632](https://myanimelist.net/anime/51632) |    tv   |    -   |  light_novel |                                      Isekai wa Smartphone to Tomo ni. 2nd Season                                     |  2 months ago |        -        |
 | [51009](https://myanimelist.net/anime/51009) |    tv   |    -   |     manga    |                                            Jujutsu Kaisen (TV) 2nd Season                                            |  2 months ago |        -        |
 |  [7592](https://myanimelist.net/anime/7592)  |    tv   |  2010  |     manga    |                                                  Nurarihyon no Mago                                                  |  2 months ago |        -        |
-| [51417](https://myanimelist.net/anime/51417) |    tv   |  2022  |   original   |                                                      Engage Kiss                                                     |  2 months ago |        -        |
 | [27831](https://myanimelist.net/anime/27831) |    tv   |  2015  |  light_novel |                                                   Durarara!!x2 Ten                                                   |  2 months ago |        -        |
 | [23199](https://myanimelist.net/anime/23199) |    tv   |  2015  |  light_novel |                                                   Durarara!!x2 Shou                                                  |  2 months ago |        -        |
 | [50205](https://myanimelist.net/anime/50205) |    tv   |    -   |     game     |                                               Arknights: Reimei Zensou                                               |  2 months ago |        -        |
