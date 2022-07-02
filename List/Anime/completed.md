@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   2 days ago  | 04/07/2022 |  06/29/2022 |
+| [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   3 days ago  | 04/07/2022 |  06/29/2022 |
 | [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |   4 days ago  | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |   6 days ago  | 04/09/2022 |  06/26/2022 |
 | [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |   6 days ago  | 04/09/2022 |  06/26/2022 |
@@ -21,7 +21,7 @@
 | [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   10  |                                              Owari no Seraph                                              |   Last month  | 05/12/2022 |  05/12/2022 |
 | [35839](https://myanimelist.net/anime/35839) |    tv   |  2018  |   7   |                                          Sora yori mo Tooi Basho                                          |  2 months ago | 05/07/2022 |  05/07/2022 |
 | [40586](https://myanimelist.net/anime/40586) |    tv   |  2021  |   7   |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita                    |  2 months ago | 05/03/2022 |  05/07/2022 |
-| [36632](https://myanimelist.net/anime/36632) |    tv   |  2018  |   6   |                              Ore ga Suki nano wa Imouto dakedo Imouto ja Nai                              |   Last month  | 05/25/2021 |  05/07/2022 |
+| [36632](https://myanimelist.net/anime/36632) |    tv   |  2018  |   6   |                              Ore ga Suki nano wa Imouto dakedo Imouto ja Nai                              |  2 months ago | 05/25/2021 |  05/07/2022 |
 | [50549](https://myanimelist.net/anime/50549) |   ona   |  2022  |   6   |                                                   Bubble                                                  |  2 months ago | 05/03/2022 |  05/03/2022 |
 | [31637](https://myanimelist.net/anime/31637) |    tv   |  2016  |   7   |                             Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2                             |  2 months ago | 04/20/2022 |  04/22/2022 |
 | [28907](https://myanimelist.net/anime/28907) |    tv   |  2015  |   8   |                                 Gate: Jieitai Kanochi nite, Kaku Tatakaeri                                |  2 months ago | 04/20/2022 |  04/20/2022 |
@@ -188,7 +188,7 @@
 | [13093](https://myanimelist.net/anime/13093) |   ova   |  2012  |   6   |                                  Nazo no Kanojo X: Nazo no Natsu Matsuri                                  |   Last year   | 04/27/2021 |  04/27/2021 |
 | [27775](https://myanimelist.net/anime/27775) |    tv   |  2015  |   7   |                                              Plastic Memories                                             |   Last year   | 04/25/2021 |  04/25/2021 |
 | [37141](https://myanimelist.net/anime/37141) |    tv   |  2018  |   6   |                                            Hataraku Saibou (TV)                                           |   Last year   | 03/11/2021 |  04/24/2021 |
-| [28701](https://myanimelist.net/anime/28701) |    tv   |  2015  |   5   |                             Fate/stay night: Unlimited Blade Works 2nd Season                             |   Last month  | 04/22/2021 |  04/22/2021 |
+| [28701](https://myanimelist.net/anime/28701) |    tv   |  2015  |   5   |                             Fate/stay night: Unlimited Blade Works 2nd Season                             |  2 months ago | 04/22/2021 |  04/22/2021 |
 | [22297](https://myanimelist.net/anime/22297) |    tv   |  2014  |   7   |                                   Fate/stay night: Unlimited Blade Works                                  |  2 months ago | 04/21/2021 |  04/22/2021 |
 | [39534](https://myanimelist.net/anime/39534) |    tv   |  2020  |   10  |                                         Jibaku Shounen Hanako-kun                                         |   Last month  | 04/14/2021 |  04/15/2021 |
 | [37210](https://myanimelist.net/anime/37210) |    tv   |  2018  |   6   |                               Isekai Maou to Shoukan Shoujo no Dorei Majutsu                              |   Last year   | 04/10/2021 |  04/13/2021 |
@@ -295,7 +295,7 @@
 | [38000](https://myanimelist.net/anime/38000) |    tv   |  2019  |   10  |                                              Kimetsu no Yaiba                                             |  4 months ago |      -     |      -      |
 | [32281](https://myanimelist.net/anime/32281) |  movie  |  2016  |   8   |                                               Kimi no Na wa.                                              |   Last year   |      -     |      -      |
 | [36098](https://myanimelist.net/anime/36098) |  movie  |  2018  |   9   |                                         Kimi no Suizou wo Tabetai                                         |   Last year   |      -     |      -      |
-| [38040](https://myanimelist.net/anime/38040) |  movie  |  2019  |   9   |                       Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu                      |   Last month  |      -     |      -      |
+| [38040](https://myanimelist.net/anime/38040) |  movie  |  2019  |   9   |                       Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu                      |  2 months ago |      -     |      -      |
 | [40082](https://myanimelist.net/anime/40082) |  movie  |  2019  |   7   |                                            Lupin III: The First                                           |   Last year   |      -     |      -      |
 | [20785](https://myanimelist.net/anime/20785) |    tv   |  2014  |   8   |                                        Mahouka Koukou no Rettousei                                        |  2 months ago |      -     |      -      |
 | [40496](https://myanimelist.net/anime/40496) |    tv   |  2020  |   6   | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou |   Last year   |      -     |      -      |

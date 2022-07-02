@@ -2,15 +2,15 @@
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [34543](https://myanimelist.net/anime/34543) |  tv  |  2017  |   2   |                                    Dive!!                                    |   6/12  |   Last month  | 05/03/2022 |
-| [48760](https://myanimelist.net/anime/48760) |  tv  |  2022  |   3   |               Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu              |   1/12  |   Last month  | 04/12/2022 |
+| [34543](https://myanimelist.net/anime/34543) |  tv  |  2017  |   2   |                                    Dive!!                                    |   6/12  |  2 months ago | 05/03/2022 |
+| [48760](https://myanimelist.net/anime/48760) |  tv  |  2022  |   3   |               Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu              |   1/12  |  2 months ago | 04/12/2022 |
 | [48415](https://myanimelist.net/anime/48415) |  tv  |  2022  |   4   |             Shijou Saikyou no Daimaou, Murabito A ni Tensei suru             |   6/12  |  3 weeks ago  | 04/08/2022 |
-| [48583](https://myanimelist.net/anime/48583) |  tv  |  2022  |   5   |                  Shingeki no Kyojin: The Final Season Part 2                 |   3/12  |   Last month  | 01/28/2022 |
+| [48583](https://myanimelist.net/anime/48583) |  tv  |  2022  |   5   |                  Shingeki no Kyojin: The Final Season Part 2                 |   3/12  |  2 months ago | 01/28/2022 |
 | [40960](https://myanimelist.net/anime/40960) |  tv  |  2021  |   5   |           Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore           |   1/12  |   Last year   | 07/08/2021 |
-| [47257](https://myanimelist.net/anime/47257) |  tv  |  2021  |   4   |                        Shinigami Bocchan to Kuro Maid                        |   1/12  |   Last month  | 07/05/2021 |
-| [46471](https://myanimelist.net/anime/46471) |  tv  |  2021  |   5   |                           Tantei wa Mou, Shindeiru.                          |   2/12  |   Last month  | 07/04/2021 |
+| [47257](https://myanimelist.net/anime/47257) |  tv  |  2021  |   4   |                        Shinigami Bocchan to Kuro Maid                        |   1/12  |  2 months ago | 07/05/2021 |
+| [46471](https://myanimelist.net/anime/46471) |  tv  |  2021  |   5   |                           Tantei wa Mou, Shindeiru.                          |   2/12  |  2 months ago | 07/04/2021 |
 | [19221](https://myanimelist.net/anime/19221) |  tv  |  2013  |   4   | Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru |   2/10  |   Last year   | 06/20/2021 |
-| [11319](https://myanimelist.net/anime/11319) |  tv  |  2012  |   5   |                              Zero no Tsukaima F                              |   1/12  |   Last month  | 06/17/2021 |
+| [11319](https://myanimelist.net/anime/11319) |  tv  |  2012  |   5   |                              Zero no Tsukaima F                              |   1/12  |  2 months ago | 06/17/2021 |
 | [30383](https://myanimelist.net/anime/30383) |  tv  |  2015  |   -   |                               Classroom☆Crisis                               |   2/13  |   Last year   | 06/07/2021 |
 |  [2167](https://myanimelist.net/anime/2167)  |  tv  |  2007  |   -   |                                    Clannad                                   |   1/23  |   Last year   | 06/05/2021 |
 | [42307](https://myanimelist.net/anime/42307) |  tv  |  2021  |   2   |                     Subarashiki Kono Sekai The Animation                     |   2/12  |   Last year   | 04/24/2021 |
@@ -29,4 +29,4 @@
 | [38909](https://myanimelist.net/anime/38909) |  tv  |  2020  |   4   |                              Infinite Dendrogram                             |   0/13  |   Last year   |      -     |
 | [19685](https://myanimelist.net/anime/19685) |  tv  |  2014  |   6   |                          Kanojo ga Flag wo Oraretara                         |   6/13  | 11 months ago |      -     |
 | [40571](https://myanimelist.net/anime/40571) |  tv  |  2020  |   2   |                               Majo no Tabitabi                               |   2/12  |   Last year   |      -     |
-| [32899](https://myanimelist.net/anime/32899) |  tv  |  2016  |   4   |                          Watashi ga Motete Dousunda                          |   3/12  |   Last month  |      -     |
+| [32899](https://myanimelist.net/anime/32899) |  tv  |  2016  |   4   |                          Watashi ga Motete Dousunda                          |   3/12  |  2 months ago |      -     |
