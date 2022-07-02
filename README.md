@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |               Title              | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------: | :-----: | :---------: | :--------: |
-| [42963](https://myanimelist.net/anime/42963) |  tv  |  2022  |   -   |  Kanojo, Okarishimasu 2nd Season |   1/?   | 2 hours ago | 07/02/2022 |
+| [42963](https://myanimelist.net/anime/42963) |  tv  |  2022  |   -   |  Kanojo, Okarishimasu 2nd Season |   1/?   | 4 hours ago | 07/02/2022 |
 | [10495](https://myanimelist.net/anime/10495) |  tv  |  2011  |   -   |             Yuru Yuri            |   3/12  |  2 days ago | 06/30/2022 |
 | [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |        Kakkou no Iinazuke        |  10/24  |  2 days ago | 04/25/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |             One Piece            |  1022/? |  Last week  | 01/01/2014 |
@@ -20,7 +20,7 @@ List Sync From MyAnimeList (update every hour)
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
 | [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   3 days ago  | 04/07/2022 |  06/29/2022 |
-| [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |   4 days ago  | 06/27/2022 |  06/27/2022 |
+| [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |   5 days ago  | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |   6 days ago  | 04/09/2022 |  06/26/2022 |
 | [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |   6 days ago  | 04/09/2022 |  06/26/2022 |
 | [41461](https://myanimelist.net/anime/41461) |    tv   |  2022  |   8   |                                               Date A Live IV                                              |   6 days ago  | 04/08/2022 |  06/26/2022 |
