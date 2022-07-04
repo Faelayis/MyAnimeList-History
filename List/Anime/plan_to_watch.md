@@ -1,4 +1,4 @@
-# Plan to Watch (187)
+# Plan to Watch (186)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -11,7 +11,7 @@
 |   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                           Kino no Tabi: The Beautiful World                                          |   Last month  |        -        |
 | [51252](https://myanimelist.net/anime/51252) |    tv   |    -   |  light_novel |                                                    Spy Kyoushitsu                                                    |   Last month  |        -        |
 | [51781](https://myanimelist.net/anime/51781) |   ona   |  2022  |     manga    |                                              Boku no Hero Academia (ONA)                                             |   Last month  |        -        |
-| [15005](https://myanimelist.net/anime/15005) |   ona   |  2012  |     manga    |                                                  Kyou no Asuka Show                                                  |   Last month  |        -        |
+| [15005](https://myanimelist.net/anime/15005) |   ona   |  2012  |     manga    |                                                  Kyou no Asuka Show                                                  |  2 months ago |        -        |
 | [50738](https://myanimelist.net/anime/50738) |    tv   |    -   |  light_novel |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita 2nd Season                    |  2 months ago |        -        |
 | [49981](https://myanimelist.net/anime/49981) | unknown |    -   |  light_novel |                      Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen (Zoku-hen)                     |  2 months ago |        -        |
 | [51632](https://myanimelist.net/anime/51632) |    tv   |    -   |  light_novel |                                      Isekai wa Smartphone to Tomo ni. 2nd Season                                     |  2 months ago |        -        |
@@ -45,7 +45,6 @@
 |  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  | visual_novel |                                                      Amagami SS                                                      |  4 months ago |        -        |
 |  [5356](https://myanimelist.net/anime/5356)  |    tv   |  2009  | visual_novel |                                                        Canaan                                                        |  4 months ago |        -        |
 | [34176](https://myanimelist.net/anime/34176) |    tv   |  2017  |  light_novel |                                            Zero kara Hajimeru Mahou no Sho                                           |  4 months ago |        -        |
-| [51096](https://myanimelist.net/anime/51096) |    tv   |  2022  |  light_novel |                            Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season                           |  4 months ago |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |  5 months ago |        -        |
 | [14753](https://myanimelist.net/anime/14753) |   ova   |  2012  |   web_manga  |                                               Hori-san to Miyamura-kun                                               |  5 months ago |        -        |
 | [34392](https://myanimelist.net/anime/34392) |    tv   |  2017  |   original   |                                                       One Room                                                       |  5 months ago |        -        |
