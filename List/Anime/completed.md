@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   4 days ago  | 04/07/2022 |  06/29/2022 |
+| [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   5 days ago  | 04/07/2022 |  06/29/2022 |
 | [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |   6 days ago  | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |   Last week   | 04/09/2022 |  06/26/2022 |
 | [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |   Last week   | 04/09/2022 |  06/26/2022 |
@@ -58,7 +58,7 @@
 | [39565](https://myanimelist.net/anime/39565) |  movie  |  2019  |   7   |                              Boku no Hero Academia the Movie 2: Heroes:Rising                             |  4 months ago | 02/26/2022 |  02/26/2022 |
 |  [5630](https://myanimelist.net/anime/5630)  |    tv   |  2009  |   7   |                                              Higashi no Eden                                              |  4 months ago | 02/21/2022 |  02/23/2022 |
 | [35968](https://myanimelist.net/anime/35968) |    tv   |  2018  |   8   |                                        Wotaku ni Koi wa Muzukashii                                        |  4 months ago | 02/16/2022 |  02/18/2022 |
-| [36793](https://myanimelist.net/anime/36793) |    tv   |  2018  |   9   |                                            3D Kanojo: Real Girl                                           |  4 months ago | 02/14/2022 |  02/14/2022 |
+| [36793](https://myanimelist.net/anime/36793) |    tv   |  2018  |   9   |                                            3D Kanojo: Real Girl                                           |  5 months ago | 02/14/2022 |  02/14/2022 |
 | [37956](https://myanimelist.net/anime/37956) |    tv   |  2019  |   10  |                                      3D Kanojo: Real Girl 2nd Season                                      |  4 months ago | 02/14/2022 |  02/14/2022 |
 | [47778](https://myanimelist.net/anime/47778) |    tv   |  2022  |   9   |                                       Kimetsu no Yaiba: Yuukaku-hen                                       |  4 months ago | 12/06/2021 |  02/14/2022 |
 | [39292](https://myanimelist.net/anime/39292) |    tv   |  2020  |   8   |                                         Princess Connect! Re:Dive                                         |  5 months ago | 02/06/2022 |  02/12/2022 |
