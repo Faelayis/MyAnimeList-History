@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |                              Title                              | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51096](https://myanimelist.net/anime/51096) |  tv  |  2022  |   -   | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season |   1/?   | 18 hours ago | 07/05/2022 |
+| [51096](https://myanimelist.net/anime/51096) |  tv  |  2022  |   -   | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season |   1/?   | 19 hours ago | 07/05/2022 |
 | [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                           Engage Kiss                           |   1/13  |  2 days ago  | 07/03/2022 |
 | [42963](https://myanimelist.net/anime/42963) |  tv  |  2022  |   -   |                 Kanojo, Okarishimasu 2nd Season                 |   1/?   |  3 days ago  | 07/02/2022 |
 | [10495](https://myanimelist.net/anime/10495) |  tv  |  2011  |   -   |                            Yuru Yuri                            |   3/12  |  5 days ago  | 06/30/2022 |
@@ -34,7 +34,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season | Score |                          Title                          | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   -   |              Peter Grill to Kenja no Jikan              |   7/12  |  18 hours ago | 05/13/2022 |
+| [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   -   |              Peter Grill to Kenja no Jikan              |   7/12  |  19 hours ago | 05/13/2022 |
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                        Fate/Zero                        |   2/13  |  2 months ago | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                  Madan no Ou to Vanadis                 |   6/13  |  2 months ago | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                     Machikado Mazoku                    |   2/12  |  2 months ago | 04/19/2022 |
@@ -62,10 +62,10 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                          Kono Subarashii Sekai ni Bakuen wo!                                         |  17 hours ago |        -        |
-| [50739](https://myanimelist.net/anime/50739) |    tv   |    -   |  light_novel |                          Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                         |  17 hours ago |        -        |
-| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |  18 hours ago |    07/08/2022   |
-| [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |  18 hours ago |    07/06/2022   |
+| [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                          Kono Subarashii Sekai ni Bakuen wo!                                         |  18 hours ago |        -        |
+| [50739](https://myanimelist.net/anime/50739) |    tv   |    -   |  light_novel |                          Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                         |  18 hours ago |        -        |
+| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |  19 hours ago |    07/08/2022   |
+| [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |  19 hours ago |    07/06/2022   |
 | [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                     Date A Live V                                                    |   Last week   |        -        |
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                          UQ Holder!: Mahou Sensei Negima! 2                                          |  2 weeks ago  |        -        |
 
