@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   5 days ago  | 04/07/2022 |  06/29/2022 |
+| [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   6 days ago  | 04/07/2022 |  06/29/2022 |
 | [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |   Last week   | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |   Last week   | 04/09/2022 |  06/26/2022 |
 | [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |   Last week   | 04/09/2022 |  06/26/2022 |
@@ -114,8 +114,8 @@
 | [48849](https://myanimelist.net/anime/48849) |    tv   |  2021  |   9   |                                                 Sonny Boy                                                 |  9 months ago | 08/07/2021 |  10/16/2021 |
 | [38329](https://myanimelist.net/anime/38329) |  movie  |  2019  |   9   |                           Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai                          |  9 months ago | 10/14/2021 |  10/14/2021 |
 | [42625](https://myanimelist.net/anime/42625) |    tv   |  2021  |   10  |                                        Heion Sedai no Idaten-tachi                                        |  9 months ago | 08/10/2021 |  09/29/2021 |
-| [31478](https://myanimelist.net/anime/31478) |    tv   |  2016  |   6   |                                             Bungou Stray Dogs                                             |  9 months ago | 09/25/2021 |  09/28/2021 |
-| [43814](https://myanimelist.net/anime/43814) |    tv   |  2021  |   7   |                                          Deatte 5-byou de Battle                                          |  9 months ago | 07/20/2021 |  09/28/2021 |
+| [31478](https://myanimelist.net/anime/31478) |    tv   |  2016  |   6   |                                             Bungou Stray Dogs                                             | 10 months ago | 09/25/2021 |  09/28/2021 |
+| [43814](https://myanimelist.net/anime/43814) |    tv   |  2021  |   7   |                                          Deatte 5-byou de Battle                                          | 10 months ago | 07/20/2021 |  09/28/2021 |
 | [41710](https://myanimelist.net/anime/41710) |    tv   |  2021  |   7   |                                  Genjitsu Shugi Yuusha no Oukoku Saikenki                                 | 10 months ago | 07/04/2021 |  09/27/2021 |
 | [32215](https://myanimelist.net/anime/32215) |   ova   |  2015  |   6   |                                High School DxD BorN: Yomigaeranai Fushichou                               | 10 months ago | 09/25/2021 |  09/25/2021 |
 | [24703](https://myanimelist.net/anime/24703) |    tv   |  2015  |   7   |                                            High School DxD BorN                                           | 10 months ago | 09/22/2021 |  09/25/2021 |
@@ -322,7 +322,7 @@
 | [39587](https://myanimelist.net/anime/39587) |    tv   |  2020  |   7   |                              Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season                             |  3 months ago |      -     |      -      |
 | [30015](https://myanimelist.net/anime/30015) |    tv   |  2016  |   9   |                                                   ReLIFE                                                  |   Last year   |      -     |      -      |
 | [35466](https://myanimelist.net/anime/35466) | special |  2018  |   7   |                                            ReLIFE: Kanketsu-hen                                           |   Last year   |      -     |      -      |
-| [37436](https://myanimelist.net/anime/37436) |    tv   |  2019  |   6   |                                                 Revisions                                                 |  8 months ago |      -     |      -      |
+| [37436](https://myanimelist.net/anime/37436) |    tv   |  2019  |   6   |                                                 Revisions                                                 |  9 months ago |      -     |      -      |
 | [38992](https://myanimelist.net/anime/38992) |    tv   |  2020  |   8   |                              Rikei ga Koi ni Ochita no de Shoumei shitemita.                              |  3 months ago |      -     |      -      |
 | [32951](https://myanimelist.net/anime/32951) |    tv   |  2017  |   9   |                               Rokudenashi Majutsu Koushi to Akashic Records                               |   Last year   |      -     |      -      |
 |   [355](https://myanimelist.net/anime/355)   |    tv   |  2005  |   9   |                                             Shakugan no Shana                                             |  7 months ago |      -     |      -      |
