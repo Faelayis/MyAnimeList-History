@@ -2,9 +2,9 @@
 
 |                      id                      | Type | Season | Score |                              Title                              | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   -   |                         Yofukashi no Uta                        |   0/13  |  6 hours ago | 07/08/2022 |
-| [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   -   |              Made in Abyss: Retsujitsu no Ougonkyou             |   0/12  |  6 hours ago | 07/06/2022 |
-| [51096](https://myanimelist.net/anime/51096) |  tv  |  2022  |   -   | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season |   1/?   |  6 hours ago | 07/05/2022 |
+| [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   -   |                         Yofukashi no Uta                        |   0/13  |  7 hours ago | 07/08/2022 |
+| [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   -   |              Made in Abyss: Retsujitsu no Ougonkyou             |   0/12  |  7 hours ago | 07/06/2022 |
+| [51096](https://myanimelist.net/anime/51096) |  tv  |  2022  |   -   | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season |   1/?   |  7 hours ago | 07/05/2022 |
 | [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                           Engage Kiss                           |   1/13  |  2 days ago  | 07/03/2022 |
 | [42963](https://myanimelist.net/anime/42963) |  tv  |  2022  |   -   |                 Kanojo, Okarishimasu 2nd Season                 |   1/?   |  3 days ago  | 07/02/2022 |
 | [10495](https://myanimelist.net/anime/10495) |  tv  |  2011  |   -   |                            Yuru Yuri                            |   3/12  |  5 days ago  | 06/30/2022 |

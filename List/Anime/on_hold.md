@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                          Title                          | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   -   |              Peter Grill to Kenja no Jikan              |   7/12  |  6 hours ago  | 05/13/2022 |
+| [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   -   |              Peter Grill to Kenja no Jikan              |   7/12  |  7 hours ago  | 05/13/2022 |
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                        Fate/Zero                        |   2/13  |  2 months ago | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                  Madan no Ou to Vanadis                 |   6/13  |  2 months ago | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                     Machikado Mazoku                    |   2/12  |  2 months ago | 04/19/2022 |
