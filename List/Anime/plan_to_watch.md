@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                          Kono Subarashii Sekai ni Bakuen wo!                                         |  23 hours ago |        -        |
-| [50739](https://myanimelist.net/anime/50739) |    tv   |    -   |  light_novel |                          Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                         |  23 hours ago |        -        |
+| [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                          Kono Subarashii Sekai ni Bakuen wo!                                         |   Yesterday   |        -        |
+| [50739](https://myanimelist.net/anime/50739) |    tv   |    -   |  light_novel |                          Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                         |   Yesterday   |        -        |
 | [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |   Yesterday   |    07/08/2022   |
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   web_manga  |                                        Made in Abyss: Retsujitsu no Ougonkyou                                        |   Yesterday   |    07/06/2022   |
 | [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                     Date A Live V                                                    |   Last week   |        -        |
