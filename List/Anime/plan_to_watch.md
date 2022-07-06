@@ -2,6 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+|  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |   1 hour ago  |        -        |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                          Kono Subarashii Sekai ni Bakuen wo!                                         |   Yesterday   |        -        |
 | [50739](https://myanimelist.net/anime/50739) |    tv   |    -   |  light_novel |                          Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                         |   Yesterday   |        -        |
 | [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |   Yesterday   |    07/08/2022   |
@@ -47,7 +48,6 @@
 |  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  | visual_novel |                                                      Amagami SS                                                      |  4 months ago |        -        |
 |  [5356](https://myanimelist.net/anime/5356)  |    tv   |  2009  | visual_novel |                                                        Canaan                                                        |  4 months ago |        -        |
 | [34176](https://myanimelist.net/anime/34176) |    tv   |  2017  |  light_novel |                                            Zero kara Hajimeru Mahou no Sho                                           |  4 months ago |        -        |
-|  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |  5 months ago |        -        |
 | [14753](https://myanimelist.net/anime/14753) |   ova   |  2012  |   web_manga  |                                               Hori-san to Miyamura-kun                                               |  5 months ago |        -        |
 | [34392](https://myanimelist.net/anime/34392) |    tv   |  2017  |   original   |                                                       One Room                                                       |  5 months ago |        -        |
 | [48997](https://myanimelist.net/anime/48997) |    tv   |  2022  |     manga    |                                           Fantasy Bishoujo Juniku Ojisan to                                          |  5 months ago |        -        |

@@ -1,8 +1,9 @@
-# Completed (351)
+# Completed (352)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   6 days ago  | 04/07/2022 |  06/29/2022 |
+|   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  2 hours ago  | 07/06/2022 |  07/06/2022 |
+| [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   Last week   | 04/07/2022 |  06/29/2022 |
 | [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |   Last week   | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |   Last week   | 04/09/2022 |  06/26/2022 |
 | [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |   Last week   | 04/09/2022 |  06/26/2022 |
@@ -113,7 +114,7 @@
 |  [8074](https://myanimelist.net/anime/8074)  |    tv   |  2010  |   7   |                                           Highschool of the Dead                                          |  9 months ago | 10/04/2021 |  10/16/2021 |
 | [48849](https://myanimelist.net/anime/48849) |    tv   |  2021  |   9   |                                                 Sonny Boy                                                 |  9 months ago | 08/07/2021 |  10/16/2021 |
 | [38329](https://myanimelist.net/anime/38329) |  movie  |  2019  |   9   |                           Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai                          |  9 months ago | 10/14/2021 |  10/14/2021 |
-| [42625](https://myanimelist.net/anime/42625) |    tv   |  2021  |   10  |                                        Heion Sedai no Idaten-tachi                                        |  9 months ago | 08/10/2021 |  09/29/2021 |
+| [42625](https://myanimelist.net/anime/42625) |    tv   |  2021  |   10  |                                        Heion Sedai no Idaten-tachi                                        | 10 months ago | 08/10/2021 |  09/29/2021 |
 | [31478](https://myanimelist.net/anime/31478) |    tv   |  2016  |   6   |                                             Bungou Stray Dogs                                             | 10 months ago | 09/25/2021 |  09/28/2021 |
 | [43814](https://myanimelist.net/anime/43814) |    tv   |  2021  |   7   |                                          Deatte 5-byou de Battle                                          | 10 months ago | 07/20/2021 |  09/28/2021 |
 | [41710](https://myanimelist.net/anime/41710) |    tv   |  2021  |   7   |                                  Genjitsu Shugi Yuusha no Oukoku Saikenki                                 | 10 months ago | 07/04/2021 |  09/27/2021 |
