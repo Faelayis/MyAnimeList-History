@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-|  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |  8 hours ago  |        -        |
+|  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |  9 hours ago  |        -        |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                          Kono Subarashii Sekai ni Bakuen wo!                                         |   Yesterday   |        -        |
 | [50739](https://myanimelist.net/anime/50739) |    tv   |    -   |  light_novel |                          Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                         |   Yesterday   |        -        |
 | [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |   Yesterday   |    07/08/2022   |
@@ -30,7 +30,7 @@
 | [50330](https://myanimelist.net/anime/50330) |    tv   |    -   |     manga    |                                             Bungou Stray Dogs 4th Season                                             |  2 months ago |        -        |
 | [47160](https://myanimelist.net/anime/47160) |    tv   |    -   |  light_novel |                                               Goblin Slayer 2nd Season                                               |  2 months ago |        -        |
 | [48417](https://myanimelist.net/anime/48417) |    tv   |    -   |  light_novel | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou 2nd Season |  2 months ago |        -        |
-| [37994](https://myanimelist.net/anime/37994) |   ona   |  2021  |   original   |                                              B: The Beginning Succession                                             |  2 months ago |        -        |
+| [37994](https://myanimelist.net/anime/37994) |   ona   |  2021  |   original   |                                              B: The Beginning Succession                                             |  3 months ago |        -        |
 | [42994](https://myanimelist.net/anime/42994) |    tv   |  2022  |   web_manga  |                                                Jashin-chan Dropkick X                                                |  3 months ago |        -        |
 | [40870](https://myanimelist.net/anime/40870) |    tv   |  2021  |   original   |                                                    SSSS.Dynazenon                                                    |  3 months ago |        -        |
 | [51498](https://myanimelist.net/anime/51498) |    tv   |    -   |     manga    |                                               Masamune-kun no Revenge R                                              |  3 months ago |        -        |

@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-|   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  8 hours ago  | 07/06/2022 |  07/06/2022 |
+|   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  9 hours ago  | 07/06/2022 |  07/06/2022 |
 | [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   Last week   | 04/07/2022 |  06/29/2022 |
 | [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |   Last week   | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |   Last week   | 04/09/2022 |  06/26/2022 |
@@ -29,7 +29,7 @@
 | [30296](https://myanimelist.net/anime/30296) |    tv   |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         |  2 months ago | 04/18/2022 |  04/18/2022 |
 | [13403](https://myanimelist.net/anime/13403) | special |  2012  |   7   |                                           Inu x Boku SS Special                                           |  2 months ago | 04/15/2022 |  04/15/2022 |
 | [11013](https://myanimelist.net/anime/11013) |    tv   |  2012  |   8   |                                               Inu x Boku SS                                               |  2 months ago | 04/14/2022 |  04/15/2022 |
-| [32827](https://myanimelist.net/anime/32827) |   ona   |  2018  |   7   |                                              B: The Beginning                                             |  2 months ago | 04/12/2022 |  04/13/2022 |
+| [32827](https://myanimelist.net/anime/32827) |   ona   |  2018  |   7   |                                              B: The Beginning                                             |  3 months ago | 04/12/2022 |  04/13/2022 |
 | [39049](https://myanimelist.net/anime/39049) |   ona   |  2020  |   7   |                                           Jashin-chan Dropkick'                                           |  3 months ago | 04/10/2022 |  04/13/2022 |
 | [23277](https://myanimelist.net/anime/23277) |    tv   |  2015  |   5   |                                        Saenai Heroine no Sodatekata                                       |  3 months ago | 04/09/2022 |  04/10/2022 |
 | [33674](https://myanimelist.net/anime/33674) |  movie  |  2017  |   10  |                                           No Game No Life: Zero                                           |  3 months ago | 04/05/2022 |  04/06/2022 |
