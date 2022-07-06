@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |                              Title                              | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   -   |              Made in Abyss: Retsujitsu no Ougonkyou             |   1/12  |  1 hour ago  | 07/06/2022 |
+| [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   -   |              Made in Abyss: Retsujitsu no Ougonkyou             |   1/12  |  2 hours ago | 07/06/2022 |
 | [51096](https://myanimelist.net/anime/51096) |  tv  |  2022  |   -   | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season |   1/?   |   Yesterday  | 07/05/2022 |
 | [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                           Engage Kiss                           |   1/13  |  3 days ago  | 07/03/2022 |
 | [42963](https://myanimelist.net/anime/42963) |  tv  |  2022  |   -   |                 Kanojo, Okarishimasu 2nd Season                 |   1/?   |  4 days ago  | 07/02/2022 |
@@ -21,7 +21,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-|   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  19 hours ago | 07/06/2022 |  07/06/2022 |
+|   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  20 hours ago | 07/06/2022 |  07/06/2022 |
 | [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   Last week   | 04/07/2022 |  06/29/2022 |
 | [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |   Last week   | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |   Last week   | 04/09/2022 |  06/26/2022 |
@@ -63,8 +63,8 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |   1 hour ago  |        -        |
-|  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |  19 hours ago |        -        |
+| [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |  2 hours ago  |        -        |
+|  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |  20 hours ago |        -        |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                          Kono Subarashii Sekai ni Bakuen wo!                                         |   Yesterday   |        -        |
 | [50739](https://myanimelist.net/anime/50739) |    tv   |    -   |  light_novel |                          Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                         |   Yesterday   |        -        |
 | [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |     manga    |                                                   Yofukashi no Uta                                                   |   Yesterday   |    07/08/2022   |
