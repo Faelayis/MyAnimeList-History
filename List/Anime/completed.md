@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-|   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  5 hours ago  | 07/06/2022 |  07/06/2022 |
+|   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  6 hours ago  | 07/06/2022 |  07/06/2022 |
 | [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   Last week   | 04/07/2022 |  06/29/2022 |
 | [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |   Last week   | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |   Last week   | 04/09/2022 |  06/26/2022 |
@@ -157,7 +157,7 @@
 | [15583](https://myanimelist.net/anime/15583) |    tv   |  2013  |   7   |                                                Date A Live                                                |   Last year   | 06/21/2021 |  06/21/2021 |
 | [17641](https://myanimelist.net/anime/17641) |   ova   |  2013  |   6   |                                         Date A Live: Date to Date                                         |   Last year   | 06/21/2021 |  06/21/2021 |
 | [44942](https://myanimelist.net/anime/44942) |   ona   |  2021  |   6   |                                            Shuumatsu no Walküre                                           | 10 months ago | 06/20/2021 |  06/20/2021 |
-| [41456](https://myanimelist.net/anime/41456) |    tv   |  2021  |   7   |                                          Sentouin, Hakenshimasu!                                          |  2 months ago | 04/04/2021 |  06/20/2021 |
+| [41456](https://myanimelist.net/anime/41456) |    tv   |  2021  |   7   |                                          Sentouin, Hakenshimasu!                                          |  3 months ago | 04/04/2021 |  06/20/2021 |
 |  [3712](https://myanimelist.net/anime/3712)  |    tv   |  2008  |   6   |                                   Zero no Tsukaima: Princesses no Rondo                                   |   Last year   | 06/14/2021 |  06/17/2021 |
 |  [1840](https://myanimelist.net/anime/1840)  |    tv   |  2007  |   7   |                                    Zero no Tsukaima: Futatsuki no Kishi                                   |   Last year   | 06/13/2021 |  06/14/2021 |
 | [33513](https://myanimelist.net/anime/33513) |  movie  |  2016  |   6   |                                   Ansatsu Kyoushitsu: 365-nichi no Jikan                                  |   Last year   | 06/13/2021 |  06/13/2021 |
