@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-|   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  10 hours ago | 07/06/2022 |  07/06/2022 |
+|   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  11 hours ago | 07/06/2022 |  07/06/2022 |
 | [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   Last week   | 04/07/2022 |  06/29/2022 |
 | [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |   Last week   | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |   Last week   | 04/09/2022 |  06/26/2022 |
@@ -266,7 +266,7 @@
 | [41619](https://myanimelist.net/anime/41619) |    tv   |  2020  |   9   |                                               Munou na Nana                                               | 10 months ago | 10/04/2020 |      -      |
 |  [6880](https://myanimelist.net/anime/6880)  |    tv   |  2011  |   7   |                                             Deadman Wonderland                                            |   Last year   | 09/12/2020 |      -      |
 | [37450](https://myanimelist.net/anime/37450) |    tv   |  2018  |   8   |                          Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai                         | 10 months ago | 09/12/2020 |      -      |
-| [36474](https://myanimelist.net/anime/36474) |    tv   |  2018  |   5   |                                       Sword Art Online: Alicization                                       |  3 months ago | 06/06/2020 |      -      |
+| [36474](https://myanimelist.net/anime/36474) |    tv   |  2018  |   5   |                                       Sword Art Online: Alicization                                       |  4 months ago | 06/06/2020 |      -      |
 | [22147](https://myanimelist.net/anime/22147) |    tv   |  2014  |   8   |                                            Amagi Brilliant Park                                           |  9 months ago |      -     |      -      |
 | [28999](https://myanimelist.net/anime/28999) |    tv   |  2015  |   9   |                                                 Charlotte                                                 |  3 months ago |      -     |      -      |
 | [14741](https://myanimelist.net/anime/14741) |    tv   |  2012  |   7   |                                       Chuunibyou demo Koi ga Shitai!                                      |   Last year   |      -     |      -      |
