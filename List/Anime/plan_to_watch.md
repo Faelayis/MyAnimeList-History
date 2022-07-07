@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |  18 hours ago |        -        |
+| [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |  19 hours ago |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |   Yesterday   |        -        |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                          Kono Subarashii Sekai ni Bakuen wo!                                         |   2 days ago  |        -        |
 | [50739](https://myanimelist.net/anime/50739) |    tv   |    -   |  light_novel |                          Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                         |   2 days ago  |        -        |
@@ -13,7 +13,7 @@
 | [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                             Shokei Shoujo no Virgin Road                                             |   Last month  |        -        |
 |   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                           Kino no Tabi: The Beautiful World                                          |   Last month  |        -        |
 | [51252](https://myanimelist.net/anime/51252) |    tv   |    -   |  light_novel |                                                    Spy Kyoushitsu                                                    |   Last month  |        -        |
-| [51781](https://myanimelist.net/anime/51781) |   ona   |  2022  |     manga    |                                              Boku no Hero Academia (ONA)                                             |   Last month  |        -        |
+| [51781](https://myanimelist.net/anime/51781) |   ona   |  2022  |     manga    |                                              Boku no Hero Academia (ONA)                                             |  2 months ago |        -        |
 | [15005](https://myanimelist.net/anime/15005) |   ona   |  2012  |     manga    |                                                  Kyou no Asuka Show                                                  |  2 months ago |        -        |
 | [50738](https://myanimelist.net/anime/50738) |    tv   |    -   |  light_novel |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita 2nd Season                    |  2 months ago |        -        |
 | [49981](https://myanimelist.net/anime/49981) | unknown |    -   |  light_novel |                      Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen (Zoku-hen)                     |  2 months ago |        -        |
