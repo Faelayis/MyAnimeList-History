@@ -2,14 +2,15 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every hour)
 
-#### Watching (9) ``4.81%``
+#### Watching (10) ``5.35%``
 
 |                      id                      | Type | Season | Score |                              Title                              | Watched |     Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------: | :-----: | :------------: | :--------: |
-| [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   -   |                         Yofukashi no Uta                        |   0/13  | 33 minutes ago | 07/08/2022 |
+| [49470](https://myanimelist.net/anime/49470) |  tv  |  2022  |   -   |              Mamahaha no Tsurego ga Motokano datta              |   1/?   | 17 minutes ago | 07/08/2022 |
+| [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   10  |                         Yofukashi no Uta                        |   1/13  | 43 minutes ago | 07/08/2022 |
 | [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   -   |              Made in Abyss: Retsujitsu no Ougonkyou             |   1/12  |    Yesterday   | 07/06/2022 |
 | [51096](https://myanimelist.net/anime/51096) |  tv  |  2022  |   -   | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season |   1/?   |   2 days ago   | 07/05/2022 |
-| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                           Engage Kiss                           |   1/13  |   4 days ago   | 07/03/2022 |
+| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                           Engage Kiss                           |   1/13  |   5 days ago   | 07/03/2022 |
 | [42963](https://myanimelist.net/anime/42963) |  tv  |  2022  |   -   |                 Kanojo, Okarishimasu 2nd Season                 |   1/?   |   5 days ago   | 07/02/2022 |
 | [10495](https://myanimelist.net/anime/10495) |  tv  |  2011  |   -   |                            Yuru Yuri                            |   3/12  |    Last week   | 06/30/2022 |
 | [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                        Kakkou no Iinazuke                       |  10/24  |    Last week   | 04/25/2022 |
@@ -18,7 +19,7 @@ List Sync From MyAnimeList (update every hour)
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``76.99%``
+#### Completed ``77.27%``
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -32,7 +33,7 @@ List Sync From MyAnimeList (update every hour)
 
 *[346 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``8.16%``
+#### On Hold ``8.15%``
 
 |                      id                      |   Type  | Season | Score |                          Title                          | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -46,7 +47,7 @@ List Sync From MyAnimeList (update every hour)
 
 *[41 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``4.71%``
+#### Dropped ``4.70%``
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -60,7 +61,7 @@ List Sync From MyAnimeList (update every hour)
 
 *[22 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``42.89%``
+#### Plan to Watch ``42.79%``
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
