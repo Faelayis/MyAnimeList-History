@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-|   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  23 hours ago | 07/06/2022 |  07/06/2022 |
+|   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |   Yesterday   | 07/06/2022 |  07/06/2022 |
 | [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   Last week   | 04/07/2022 |  06/29/2022 |
 | [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |   Last week   | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |   Last week   | 04/09/2022 |  06/26/2022 |
@@ -90,7 +90,7 @@
 | [48471](https://myanimelist.net/anime/48471) |    tv   |  2021  |   7   |                                        Tsuki to Laika to Nosferatu                                        |  6 months ago | 10/15/2021 |  12/27/2021 |
 | [45055](https://myanimelist.net/anime/45055) |    tv   |  2021  |   7   |                                         Taishou Otome Otogibanashi                                        |  6 months ago | 10/12/2021 |  12/27/2021 |
 | [48926](https://myanimelist.net/anime/48926) |    tv   |  2021  |   10  |                                        Komi-san wa, Comyushou desu.                                       |  6 months ago | 10/08/2021 |  12/23/2021 |
-| [46985](https://myanimelist.net/anime/46985) |    tv   |  2021  |   7   |                              Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei                              |  6 months ago | 10/05/2021 |  12/23/2021 |
+| [46985](https://myanimelist.net/anime/46985) |    tv   |  2021  |   7   |                              Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei                              |  7 months ago | 10/05/2021 |  12/23/2021 |
 | [48753](https://myanimelist.net/anime/48753) |    tv   |  2021  |   9   |                                          Jahy-sama wa Kujikenai!                                          |  7 months ago | 08/19/2021 |  12/21/2021 |
 | [45576](https://myanimelist.net/anime/45576) |    tv   |  2021  |   9   |                              Mushoku Tensei: Isekai Ittara Honki Dasu Part 2                              |  7 months ago | 10/04/2021 |  12/20/2021 |
 | [48483](https://myanimelist.net/anime/48483) |    tv   |  2021  |   8   |                                                Mieruko-chan                                               |  7 months ago | 10/03/2021 |  12/20/2021 |
