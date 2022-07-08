@@ -12,7 +12,7 @@ List Sync From MyAnimeList (update every hour)
 | [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   -   |              Made in Abyss: Retsujitsu no Ougonkyou             |   1/12  |  2 days ago  | 07/06/2022 |
 | [51096](https://myanimelist.net/anime/51096) |  tv  |  2022  |   -   | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season |   1/?   |  4 days ago  | 07/05/2022 |
 | [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                           Engage Kiss                           |   1/13  |  6 days ago  | 07/03/2022 |
-| [42963](https://myanimelist.net/anime/42963) |  tv  |  2022  |   -   |                 Kanojo, Okarishimasu 2nd Season                 |   1/?   |  6 days ago  | 07/02/2022 |
+| [42963](https://myanimelist.net/anime/42963) |  tv  |  2022  |   -   |                 Kanojo, Okarishimasu 2nd Season                 |   1/?   |   Last week  | 07/02/2022 |
 | [10495](https://myanimelist.net/anime/10495) |  tv  |  2011  |   -   |                            Yuru Yuri                            |   3/12  |   Last week  | 06/30/2022 |
 | [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                        Kakkou no Iinazuke                       |  10/24  |   Last week  | 04/25/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                            One Piece                            |  1022/? |  2 weeks ago | 01/01/2014 |
@@ -68,8 +68,8 @@ List Sync From MyAnimeList (update every hour)
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |   2 days ago  |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |   2 days ago  |        -        |
-| [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                          Kono Subarashii Sekai ni Bakuen wo!                                         |   3 days ago  |        -        |
-| [50739](https://myanimelist.net/anime/50739) |    tv   |    -   |  light_novel |                          Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                         |   3 days ago  |        -        |
+| [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                          Kono Subarashii Sekai ni Bakuen wo!                                         |   4 days ago  |        -        |
+| [50739](https://myanimelist.net/anime/50739) |    tv   |    -   |  light_novel |                          Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                         |   4 days ago  |        -        |
 | [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                     Date A Live V                                                    |   Last week   |        -        |
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                          UQ Holder!: Mahou Sensei Negima! 2                                          |  2 weeks ago  |        -        |
 
