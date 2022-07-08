@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |  7 hours ago  | 05/13/2022 |  07/08/2022 |
+| [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |  8 hours ago  | 05/13/2022 |  07/08/2022 |
 |   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |   2 days ago  | 07/06/2022 |  07/06/2022 |
 | [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   Last week   | 04/07/2022 |  06/29/2022 |
 | [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |   Last week   | 06/27/2022 |  06/27/2022 |
@@ -74,7 +74,7 @@
 | [40028](https://myanimelist.net/anime/40028) |    tv   |  2021  |   6   |                                    Shingeki no Kyojin: The Final Season                                   |  5 months ago | 01/28/2022 |  01/28/2022 |
 | [38524](https://myanimelist.net/anime/38524) |    tv   |  2019  |   8   |                                     Shingeki no Kyojin Season 3 Part 2                                    |  5 months ago | 01/27/2022 |  01/28/2022 |
 | [44069](https://myanimelist.net/anime/44069) |   ona   |  2021  |   7   |                                      Xian Wang de Richang Shenghuo 2                                      |  5 months ago | 11/01/2021 |  01/28/2022 |
-| [34497](https://myanimelist.net/anime/34497) |    tv   |  2018  |   7   |                               Death March kara Hajimaru Isekai Kyousoukyoku                               |  5 months ago | 01/21/2022 |  01/21/2022 |
+| [34497](https://myanimelist.net/anime/34497) |    tv   |  2018  |   7   |                               Death March kara Hajimaru Isekai Kyousoukyoku                               |  6 months ago | 01/21/2022 |  01/21/2022 |
 | [41587](https://myanimelist.net/anime/41587) |    tv   |  2021  |   8   |                                      Boku no Hero Academia 5th Season                                     |  6 months ago | 01/18/2022 |  01/18/2022 |
 | [38408](https://myanimelist.net/anime/38408) |    tv   |  2019  |   8   |                                      Boku no Hero Academia 4th Season                                     |  6 months ago | 01/12/2022 |  01/14/2022 |
 | [36456](https://myanimelist.net/anime/36456) |    tv   |  2018  |   9   |                                      Boku no Hero Academia 3rd Season                                     |   Last month  | 01/11/2022 |  01/12/2022 |
