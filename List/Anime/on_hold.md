@@ -18,7 +18,7 @@
 | [44406](https://myanimelist.net/anime/44406) |   ona   |  2021  |   -   |                     Da Wang Rao Ming                    |   5/12  |  4 months ago | 12/19/2021 |
 | [11759](https://myanimelist.net/anime/11759) |    tv   |  2012  |   -   |                       Accel World                       |  10/24  |  7 months ago | 12/16/2021 |
 | [40834](https://myanimelist.net/anime/40834) |    tv   |  2021  |   -   |                      Ousama Ranking                     |  14/23  |  3 months ago | 12/11/2021 |
-| [32867](https://myanimelist.net/anime/32867) |    tv   |  2016  |   -   |               Bungou Stray Dogs 2nd Season              |   2/12  |  2 months ago | 10/25/2021 |
+| [32867](https://myanimelist.net/anime/32867) |    tv   |  2016  |   -   |               Bungou Stray Dogs 2nd Season              |   2/12  |  3 months ago | 10/25/2021 |
 | [44961](https://myanimelist.net/anime/44961) |    tv   |  2021  |   -   |                       Platinum End                      |   5/24  |  5 months ago | 10/23/2021 |
 |  [2966](https://myanimelist.net/anime/2966)  |    tv   |  2008  |   -   |                  Ookami to Koushinryou                  |   2/13  |  9 months ago | 10/20/2021 |
 | [42205](https://myanimelist.net/anime/42205) |    tv   |  2021  |   -   |                    Shaman King (2021)                   |   1/52  |  9 months ago | 10/14/2021 |
