@@ -6,12 +6,12 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |                              Title                              | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------: | :-----: | :----------: | :--------: |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                            One Piece                            |  1024/? | 20 hours ago | 01/01/2014 |
-| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                           Engage Kiss                           |   2/13  | 20 hours ago | 07/03/2022 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                            One Piece                            |  1024/? | 21 hours ago | 01/01/2014 |
+| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                           Engage Kiss                           |   2/13  | 21 hours ago | 07/03/2022 |
 | [49220](https://myanimelist.net/anime/49220) |  tv  |  2022  |   -   |                          Isekai Ojisan                          |   1/?   |  5 days ago  | 07/08/2022 |
 | [49470](https://myanimelist.net/anime/49470) |  tv  |  2022  |   -   |              Mamahaha no Tsurego ga Motokano datta              |   1/12  |  5 days ago  | 07/08/2022 |
 | [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   10  |                         Yofukashi no Uta                        |   1/13  |  5 days ago  | 07/08/2022 |
-| [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   -   |              Made in Abyss: Retsujitsu no Ougonkyou             |   1/12  |  6 days ago  | 07/06/2022 |
+| [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   -   |              Made in Abyss: Retsujitsu no Ougonkyou             |   1/12  |   Last week  | 07/06/2022 |
 | [51096](https://myanimelist.net/anime/51096) |  tv  |  2022  |   -   | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season |   1/13  |   Last week  | 07/05/2022 |
 | [42963](https://myanimelist.net/anime/42963) |  tv  |  2022  |   -   |                 Kanojo, Okarishimasu 2nd Season                 |   1/12  |   Last week  | 07/02/2022 |
 | [10495](https://myanimelist.net/anime/10495) |  tv  |  2011  |   -   |                            Yuru Yuri                            |   3/12  |   Last week  | 06/30/2022 |
@@ -67,7 +67,7 @@ List Sync From MyAnimeList (update every hour)
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |   2 days ago  |        -        |
-| [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |   6 days ago  |        -        |
+| [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |   Last week   |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |   Last week   |        -        |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                          Kono Subarashii Sekai ni Bakuen wo!                                         |   Last week   |        -        |
 | [50739](https://myanimelist.net/anime/50739) |    tv   |    -   |  light_novel |                          Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                         |   Last week   |        -        |
