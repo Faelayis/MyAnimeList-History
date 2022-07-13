@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |   5 days ago  | 05/13/2022 |  07/08/2022 |
+| [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |   6 days ago  | 05/13/2022 |  07/08/2022 |
 |   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |   Last week   | 07/06/2022 |  07/06/2022 |
 | [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |  2 weeks ago  | 04/07/2022 |  06/29/2022 |
 | [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |  2 weeks ago  | 06/27/2022 |  06/27/2022 |
@@ -18,7 +18,7 @@
 | [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             |   Last month  | 05/27/2022 |  05/28/2022 |
 |  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |   Last month  | 05/20/2022 |  05/27/2022 |
 |  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |   Last month  | 05/14/2022 |  05/20/2022 |
-| [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |   Last month  | 05/16/2022 |  05/19/2022 |
+| [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |  2 months ago | 05/16/2022 |  05/19/2022 |
 | [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |  2 months ago | 05/12/2022 |  05/13/2022 |
 | [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   10  |                                              Owari no Seraph                                              |   Last month  | 05/12/2022 |  05/12/2022 |
 | [35839](https://myanimelist.net/anime/35839) |    tv   |  2018  |   7   |                                          Sora yori mo Tooi Basho                                          |  2 months ago | 05/07/2022 |  05/07/2022 |
