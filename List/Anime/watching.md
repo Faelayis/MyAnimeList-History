@@ -2,8 +2,8 @@
 
 |                      id                      | Type | Season | Score |                              Title                              | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------: | :-----: | :----------: | :--------: |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                            One Piece                            |  1024/? |  7 hours ago | 01/01/2014 |
-| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                           Engage Kiss                           |   2/13  |  7 hours ago | 07/03/2022 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                            One Piece                            |  1024/? |  8 hours ago | 01/01/2014 |
+| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                           Engage Kiss                           |   2/13  |  8 hours ago | 07/03/2022 |
 | [49220](https://myanimelist.net/anime/49220) |  tv  |  2022  |   -   |                          Isekai Ojisan                          |   1/?   |  5 days ago  | 07/08/2022 |
 | [49470](https://myanimelist.net/anime/49470) |  tv  |  2022  |   -   |              Mamahaha no Tsurego ga Motokano datta              |   1/12  |  5 days ago  | 07/08/2022 |
 | [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   10  |                         Yofukashi no Uta                        |   1/13  |  5 days ago  | 07/08/2022 |
