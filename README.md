@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |                              Title                              | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [49220](https://myanimelist.net/anime/49220) |  tv  |  2022  |   -   |                          Isekai Ojisan                          |   2/?   |  7 hours ago | 07/08/2022 |
+| [49220](https://myanimelist.net/anime/49220) |  tv  |  2022  |   -   |                          Isekai Ojisan                          |   2/?   |  8 hours ago | 07/08/2022 |
 | [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |              Made in Abyss: Retsujitsu no Ougonkyou             |   2/12  |  8 hours ago | 07/06/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                            One Piece                            |  1024/? |   Yesterday  | 01/01/2014 |
 | [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                           Engage Kiss                           |   2/13  |   Yesterday  | 07/03/2022 |
