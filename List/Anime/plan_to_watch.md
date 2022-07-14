@@ -1,8 +1,8 @@
-# Plan to Watch (188)
+# Plan to Watch (187)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |   3 days ago  |        -        |
+| [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |   4 days ago  |        -        |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |   Last week   |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |   Last week   |        -        |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                          Kono Subarashii Sekai ni Bakuen wo!                                         |   Last week   |        -        |
@@ -23,8 +23,8 @@
 | [27831](https://myanimelist.net/anime/27831) |    tv   |  2015  |  light_novel |                                                   Durarara!!x2 Ten                                                   |  2 months ago |        -        |
 | [23199](https://myanimelist.net/anime/23199) |    tv   |  2015  |  light_novel |                                                   Durarara!!x2 Shou                                                  |  2 months ago |        -        |
 | [50205](https://myanimelist.net/anime/50205) |    tv   |    -   |     game     |                                               Arknights: Reimei Zensou                                               |  2 months ago |        -        |
-| [10378](https://myanimelist.net/anime/10378) |    tv   |  2011  |     manga    |                                                Shinryaku!? Ika Musume                                                |  2 months ago |        -        |
-|  [8557](https://myanimelist.net/anime/8557)  |    tv   |  2010  |     manga    |                                                 Shinryaku! Ika Musume                                                |  2 months ago |        -        |
+| [10378](https://myanimelist.net/anime/10378) |    tv   |  2011  |     manga    |                                                Shinryaku!? Ika Musume                                                |  3 months ago |        -        |
+|  [8557](https://myanimelist.net/anime/8557)  |    tv   |  2010  |     manga    |                                                 Shinryaku! Ika Musume                                                |  3 months ago |        -        |
 | [48316](https://myanimelist.net/anime/48316) |    tv   |  2022  |  light_novel |                                         Kage no Jitsuryokusha ni Naritakute!                                         |  3 months ago |        -        |
 | [49785](https://myanimelist.net/anime/49785) |    tv   |    -   |     manga    |                                              Fairy Tail: 100 Years Quest                                             |  3 months ago |        -        |
 | [50330](https://myanimelist.net/anime/50330) |    tv   |    -   |     manga    |                                             Bungou Stray Dogs 4th Season                                             |  3 months ago |        -        |
@@ -143,7 +143,6 @@
 | [40632](https://myanimelist.net/anime/40632) |   ona   |    -   |   web_manga  |                                                   Peng Ran Xindong                                                   |   05/10/2021  |        -        |
 | [44586](https://myanimelist.net/anime/44586) |  movie  |  2021  |     manga    |                                                   Kakushigoto Movie                                                  |   05/10/2021  |        -        |
 | [48585](https://myanimelist.net/anime/48585) |  movie  |    -   |     manga    |                                                  Black Clover Movie                                                  |   05/10/2021  |        -        |
-| [48413](https://myanimelist.net/anime/48413) |    tv   |  2022  |  light_novel |                                                 Hataraku Maou-sama!!                                                 |   05/10/2021  |        -        |
 | [48561](https://myanimelist.net/anime/48561) |  movie  |  2021  |     manga    |                                                Jujutsu Kaisen 0 Movie                                                |   05/10/2021  |        -        |
 | [40842](https://myanimelist.net/anime/40842) |    tv   |  2021  |  mixed_media |                                                      Idoly Pride                                                     |   05/01/2021  |        -        |
 | [31757](https://myanimelist.net/anime/31757) |  movie  |  2016  |  light_novel |                                            Kizumonogatari II: Nekketsu-hen                                           |   04/29/2021  |        -        |
