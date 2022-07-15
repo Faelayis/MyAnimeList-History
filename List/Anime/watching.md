@@ -2,7 +2,7 @@
 
 |                      id                      | Type | Season | Score |                              Title                              | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                       Hataraku Maou-sama!!                      |   1/?   |  4 hours ago | 07/15/2022 |
+| [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                       Hataraku Maou-sama!!                      |   1/?   |  5 hours ago | 07/15/2022 |
 | [49220](https://myanimelist.net/anime/49220) |  tv  |  2022  |   -   |                          Isekai Ojisan                          |   2/?   |   Yesterday  | 07/08/2022 |
 | [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |              Made in Abyss: Retsujitsu no Ougonkyou             |   2/12  |   Yesterday  | 07/06/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                            One Piece                            |  1024/? |  2 days ago  | 01/01/2014 |
