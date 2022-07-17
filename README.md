@@ -67,7 +67,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |   6 days ago  |        -        |
+| [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |   Last week   |        -        |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |   Last week   |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |   Last week   |        -        |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                          Kono Subarashii Sekai ni Bakuen wo!                                         |   Last week   |        -        |
