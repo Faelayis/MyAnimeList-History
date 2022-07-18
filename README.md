@@ -14,7 +14,7 @@ List Sync From MyAnimeList (update every hour)
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                            One Piece                            |  1024/? |  6 days ago  | 01/01/2014 |
 | [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                           Engage Kiss                           |   2/13  |  6 days ago  | 07/03/2022 |
 | [49470](https://myanimelist.net/anime/49470) |  tv  |  2022  |   -   |              Mamahaha no Tsurego ga Motokano datta              |   1/12  |   Last week  | 07/08/2022 |
-| [51096](https://myanimelist.net/anime/51096) |  tv  |  2022  |   -   | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season |   1/13  |   Last week  | 07/05/2022 |
+| [51096](https://myanimelist.net/anime/51096) |  tv  |  2022  |   -   | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season |   1/13  |  2 weeks ago | 07/05/2022 |
 | [42963](https://myanimelist.net/anime/42963) |  tv  |  2022  |   -   |                 Kanojo, Okarishimasu 2nd Season                 |   1/12  |  2 weeks ago | 07/02/2022 |
 | [10495](https://myanimelist.net/anime/10495) |  tv  |  2011  |   -   |                            Yuru Yuri                            |   3/12  |  2 weeks ago | 06/30/2022 |
 
@@ -44,7 +44,7 @@ List Sync From MyAnimeList (update every hour)
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                     Machikado Mazoku                    |   2/12  |  2 months ago | 04/19/2022 |
 | [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                   Mahoutsukai Reimeiki                  |   2/12  |  2 months ago | 04/09/2022 |
 | [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |           Tate no Yuusha no Nariagari Season 2          |   3/13  |  2 months ago | 04/06/2022 |
-| [49520](https://myanimelist.net/anime/49520) |    tv   |  2022  |   7   |                 Aharen-san wa Hakarenai                 |   4/12  |   Last month  | 04/01/2022 |
+| [49520](https://myanimelist.net/anime/49520) |    tv   |  2022  |   7   |                 Aharen-san wa Hakarenai                 |   4/12  |  2 months ago | 04/01/2022 |
 
 
 *[40 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
