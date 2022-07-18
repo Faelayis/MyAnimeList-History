@@ -9,7 +9,7 @@ List Sync From MyAnimeList (update every hour)
 | [42994](https://myanimelist.net/anime/42994) |  tv  |  2022  |   -   |                      Jashin-chan Dropkick X                     |   0/?   |  2 days ago  | 07/15/2022 |
 | [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |              Made in Abyss: Retsujitsu no Ougonkyou             |   2/12  |  2 days ago  | 07/06/2022 |
 | [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   10  |                         Yofukashi no Uta                        |   2/13  |  2 days ago  | 07/08/2022 |
-| [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                       Hataraku Maou-sama!!                      |   1/?   |  2 days ago  | 07/15/2022 |
+| [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                       Hataraku Maou-sama!!                      |   1/?   |  3 days ago  | 07/15/2022 |
 | [49220](https://myanimelist.net/anime/49220) |  tv  |  2022  |   -   |                          Isekai Ojisan                          |   2/?   |  4 days ago  | 07/08/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                            One Piece                            |  1024/? |  5 days ago  | 01/01/2014 |
 | [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                           Engage Kiss                           |   2/13  |  5 days ago  | 07/03/2022 |
@@ -28,7 +28,7 @@ List Sync From MyAnimeList (update every hour)
 | [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |   Last week   | 05/13/2022 |  07/08/2022 |
 |   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |   Last week   | 07/06/2022 |  07/06/2022 |
 | [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |  2 weeks ago  | 04/07/2022 |  06/29/2022 |
-| [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |  2 weeks ago  | 06/27/2022 |  06/27/2022 |
+| [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |  3 weeks ago  | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |  3 weeks ago  | 04/09/2022 |  06/26/2022 |
 | [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |  3 weeks ago  | 04/09/2022 |  06/26/2022 |
 
