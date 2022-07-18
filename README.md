@@ -11,8 +11,8 @@ List Sync From MyAnimeList (update every hour)
 | [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   10  |                         Yofukashi no Uta                        |   2/13  |  3 days ago  | 07/08/2022 |
 | [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                       Hataraku Maou-sama!!                      |   1/?   |  3 days ago  | 07/15/2022 |
 | [49220](https://myanimelist.net/anime/49220) |  tv  |  2022  |   -   |                          Isekai Ojisan                          |   2/?   |  4 days ago  | 07/08/2022 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                            One Piece                            |  1024/? |  5 days ago  | 01/01/2014 |
-| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                           Engage Kiss                           |   2/13  |  5 days ago  | 07/03/2022 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                            One Piece                            |  1024/? |  6 days ago  | 01/01/2014 |
+| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                           Engage Kiss                           |   2/13  |  6 days ago  | 07/03/2022 |
 | [49470](https://myanimelist.net/anime/49470) |  tv  |  2022  |   -   |              Mamahaha no Tsurego ga Motokano datta              |   1/12  |   Last week  | 07/08/2022 |
 | [51096](https://myanimelist.net/anime/51096) |  tv  |  2022  |   -   | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season |   1/13  |   Last week  | 07/05/2022 |
 | [42963](https://myanimelist.net/anime/42963) |  tv  |  2022  |   -   |                 Kanojo, Okarishimasu 2nd Season                 |   1/12  |  2 weeks ago | 07/02/2022 |
