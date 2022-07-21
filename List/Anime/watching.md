@@ -12,6 +12,6 @@
 | [49470](https://myanimelist.net/anime/49470) |  tv  |  2022  |   -   |              Mamahaha no Tsurego ga Motokano datta              |   1/12  |   Last week  | 07/08/2022 |
 | [51096](https://myanimelist.net/anime/51096) |  tv  |  2022  |   -   | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season |   1/13  |  2 weeks ago | 07/05/2022 |
 | [42963](https://myanimelist.net/anime/42963) |  tv  |  2022  |   -   |                 Kanojo, Okarishimasu 2nd Season                 |   1/12  |  2 weeks ago | 07/02/2022 |
-| [10495](https://myanimelist.net/anime/10495) |  tv  |  2011  |   -   |                            Yuru Yuri                            |   3/12  |  2 weeks ago | 06/30/2022 |
+| [10495](https://myanimelist.net/anime/10495) |  tv  |  2011  |   -   |                            Yuru Yuri                            |   3/12  |  3 weeks ago | 06/30/2022 |
 | [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                        Kakkou no Iinazuke                       |  10/24  |  3 weeks ago | 04/25/2022 |
 | [45613](https://myanimelist.net/anime/45613) |  tv  |  2022  |   -   |                 Kawaii dake ja Nai Shikimori-san                |   5/12  | 2 months ago | 04/10/2022 |
