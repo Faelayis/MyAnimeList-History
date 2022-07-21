@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |                              Title                              | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                       Hataraku Maou-sama!!                      |   2/?   |  4 hours ago | 07/15/2022 |
+| [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                       Hataraku Maou-sama!!                      |   2/?   |  5 hours ago | 07/15/2022 |
 | [42994](https://myanimelist.net/anime/42994) |  tv  |  2022  |   -   |                      Jashin-chan Dropkick X                     |   0/?   |  6 days ago  | 07/15/2022 |
 | [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |              Made in Abyss: Retsujitsu no Ougonkyou             |   2/12  |  6 days ago  | 07/06/2022 |
 | [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   10  |                         Yofukashi no Uta                        |   2/13  |  6 days ago  | 07/08/2022 |
@@ -67,7 +67,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-|  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                    |  8 hours ago  |        -        |
+|  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                    |  9 hours ago  |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |   Last week   |        -        |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |  2 weeks ago  |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |  2 weeks ago  |        -        |
