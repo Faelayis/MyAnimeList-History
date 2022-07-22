@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [47164](https://myanimelist.net/anime/47164) |    tv   |  2022  |  light_novel |                 Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen                 |  14 hours ago |    07/22/2022   |
+| [47164](https://myanimelist.net/anime/47164) |    tv   |  2022  |  light_novel |                 Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen                 |  15 hours ago |    07/22/2022   |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                    |   Yesterday   |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |   Last week   |        -        |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |  2 weeks ago  |        -        |
@@ -78,7 +78,7 @@
 | [48414](https://myanimelist.net/anime/48414) |    tv   |  2022  |  light_novel |                                                     Sabikui Bisco                                                    |  7 months ago |        -        |
 | [45425](https://myanimelist.net/anime/45425) |    tv   |  2022  |     manga    |                                                       Slow Loop                                                      |  7 months ago |        -        |
 | [25159](https://myanimelist.net/anime/25159) |    tv   |  2014  |  light_novel |                                        Inou-Battle wa Nichijou-kei no Naka de                                        |  7 months ago |        -        |
-| [26085](https://myanimelist.net/anime/26085) |    tv   |  2015  | 4_koma_manga |                                                       Military!                                                      |  7 months ago |        -        |
+| [26085](https://myanimelist.net/anime/26085) |    tv   |  2015  | 4_koma_manga |                                                       Military!                                                      |  8 months ago |        -        |
 | [37514](https://myanimelist.net/anime/37514) |  movie  |  2019  |   web_manga  |                                       Made in Abyss Movie 1: Tabidachi no Yoake                                      |  8 months ago |        -        |
 | [37515](https://myanimelist.net/anime/37515) |  movie  |  2019  |   web_manga  |                                      Made in Abyss Movie 2: Hourou Suru Tasogare                                     |  8 months ago |        -        |
 | [18277](https://myanimelist.net/anime/18277) |    tv   |  2013  |  light_novel |                                                   Strike the Blood                                                   |  8 months ago |        -        |
