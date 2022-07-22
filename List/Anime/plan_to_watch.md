@@ -1,4 +1,4 @@
-# Plan to Watch (187)
+# Plan to Watch (186)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -164,7 +164,6 @@
 | [41514](https://myanimelist.net/anime/41514) |    tv   |    -   |  light_novel |                        Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. II                        |   03/03/2021  |        -        |
 | [16782](https://myanimelist.net/anime/16782) |  movie  |  2013  |   original   |                                                   Kotonoha no Niwa                                                   |   03/03/2021  |        -        |
 | [44204](https://myanimelist.net/anime/44204) |    tv   |  2023  |     manga    |                                                Kyokou Suiri 2nd Season                                               |   03/03/2021  |        -        |
-| [47164](https://myanimelist.net/anime/47164) |    tv   |  2022  |  light_novel |                 Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen                 |   03/03/2021  |        -        |
 | [10165](https://myanimelist.net/anime/10165) |    tv   |  2011  |     manga    |                                                       Nichijou                                                       |   02/15/2021  |        -        |
 | [10790](https://myanimelist.net/anime/10790) |    tv   |  2012  |  light_novel |                                          Kore wa Zombie Desu ka? of the Dead                                         |   01/12/2021  |        -        |
 | [40979](https://myanimelist.net/anime/40979) |   ona   |  2020  |     novel    |                                                   Yingxiong Zai Lin                                                  |   01/09/2021  |        -        |
