@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [47164](https://myanimelist.net/anime/47164) |    tv   |  2022  |  light_novel |                 Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen                 |  13 hours ago |    07/22/2022   |
+| [47164](https://myanimelist.net/anime/47164) |    tv   |  2022  |  light_novel |                 Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen                 |  14 hours ago |    07/22/2022   |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                    |   Yesterday   |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |   Last week   |        -        |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |  2 weeks ago  |        -        |
@@ -44,7 +44,7 @@
 | [50481](https://myanimelist.net/anime/50481) |    tv   |  2023  |  light_novel |                 Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ (TV)                 |  4 months ago |        -        |
 | [51180](https://myanimelist.net/anime/51180) |    tv   |    -   |  light_novel |                            Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 3rd Season                           |  4 months ago |        -        |
 | [51019](https://myanimelist.net/anime/51019) |    tv   |    -   |     manga    |                                       Kimetsu no Yaiba: Katanakaji no Sato-hen                                       |  4 months ago |        -        |
-| [16353](https://myanimelist.net/anime/16353) |    tv   |  2013  |     manga    |                                                       Love Lab                                                       |  4 months ago |        -        |
+| [16353](https://myanimelist.net/anime/16353) |    tv   |  2013  |     manga    |                                                       Love Lab                                                       |  5 months ago |        -        |
 | [49040](https://myanimelist.net/anime/49040) |    tv   |  2021  |     manga    |                                                   Lupin III: Part 6                                                  |  5 months ago |        -        |
 |  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  | visual_novel |                                                      Amagami SS                                                      |  5 months ago |        -        |
 |  [5356](https://myanimelist.net/anime/5356)  |    tv   |  2009  | visual_novel |                                                        Canaan                                                        |  5 months ago |        -        |
