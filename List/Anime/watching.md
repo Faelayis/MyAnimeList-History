@@ -2,9 +2,9 @@
 
 |                      id                      | Type | Season | Score |                              Title                              | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |              Made in Abyss: Retsujitsu no Ougonkyou             |   3/12  |  6 hours ago | 07/06/2022 |
-| [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   10  |                         Yofukashi no Uta                        |   3/13  |  6 hours ago | 07/08/2022 |
-| [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                       Hataraku Maou-sama!!                      |   2/?   | 18 hours ago | 07/15/2022 |
+| [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |              Made in Abyss: Retsujitsu no Ougonkyou             |   3/12  |  7 hours ago | 07/06/2022 |
+| [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   10  |                         Yofukashi no Uta                        |   3/13  |  8 hours ago | 07/08/2022 |
+| [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                       Hataraku Maou-sama!!                      |   2/?   | 19 hours ago | 07/15/2022 |
 | [42994](https://myanimelist.net/anime/42994) |  tv  |  2022  |   -   |                      Jashin-chan Dropkick X                     |   0/?   |  6 days ago  | 07/15/2022 |
 | [49220](https://myanimelist.net/anime/49220) |  tv  |  2022  |   -   |                          Isekai Ojisan                          |   2/?   |   Last week  | 07/08/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                            One Piece                            |  1024/? |   Last week  | 01/01/2014 |
