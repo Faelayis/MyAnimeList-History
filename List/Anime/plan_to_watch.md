@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [47164](https://myanimelist.net/anime/47164) |    tv   |  2022  |  light_novel |                 Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen                 |  11 hours ago |    07/22/2022   |
+| [47164](https://myanimelist.net/anime/47164) |    tv   |  2022  |  light_novel |                 Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen                 |  12 hours ago |    07/22/2022   |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                    |   Yesterday   |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |   Last week   |        -        |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |  2 weeks ago  |        -        |
@@ -19,7 +19,7 @@
 | [15005](https://myanimelist.net/anime/15005) |   ona   |  2012  |     manga    |                                                  Kyou no Asuka Show                                                  |  2 months ago |        -        |
 | [50738](https://myanimelist.net/anime/50738) |    tv   |    -   |  light_novel |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita 2nd Season                    |  2 months ago |        -        |
 | [49981](https://myanimelist.net/anime/49981) | unknown |    -   |  light_novel |                      Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen (Zoku-hen)                     |  2 months ago |        -        |
-| [51632](https://myanimelist.net/anime/51632) |    tv   |    -   |  light_novel |                                      Isekai wa Smartphone to Tomo ni. 2nd Season                                     |  2 months ago |        -        |
+| [51632](https://myanimelist.net/anime/51632) |    tv   |  2023  |  light_novel |                                      Isekai wa Smartphone to Tomo ni. 2nd Season                                     |  2 months ago |        -        |
 | [51009](https://myanimelist.net/anime/51009) |    tv   |    -   |     manga    |                                            Jujutsu Kaisen (TV) 2nd Season                                            |  2 months ago |        -        |
 |  [7592](https://myanimelist.net/anime/7592)  |    tv   |  2010  |     manga    |                                                  Nurarihyon no Mago                                                  |  3 months ago |        -        |
 | [27831](https://myanimelist.net/anime/27831) |    tv   |  2015  |  light_novel |                                                   Durarara!!x2 Ten                                                   |  3 months ago |        -        |
