@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [47164](https://myanimelist.net/anime/47164) |    tv   |  2022  |  light_novel |                 Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen                 |  20 hours ago |    07/22/2022   |
+| [47164](https://myanimelist.net/anime/47164) |    tv   |  2022  |  light_novel |                 Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen                 |  22 hours ago |    07/22/2022   |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                    |   Yesterday   |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |   Last week   |        -        |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |  2 weeks ago  |        -        |
@@ -104,7 +104,7 @@
 | [49889](https://myanimelist.net/anime/49889) |    tv   |    -   |  light_novel |                                     Tsuki ga Michibiku Isekai Douchuu 2nd Season                                     | 10 months ago |        -        |
 | [48569](https://myanimelist.net/anime/48569) |    tv   |  2021  |  light_novel |                                                       86 Part 2                                                      | 10 months ago |        -        |
 | [23289](https://myanimelist.net/anime/23289) |    tv   |  2014  | 4_koma_manga |                                               Gekkan Shoujo Nozaki-kun                                               | 10 months ago |        -        |
-| [31181](https://myanimelist.net/anime/31181) |    tv   |  2015  |  light_novel |                                                    Owarimonogatari                                                   | 10 months ago |        -        |
+| [31181](https://myanimelist.net/anime/31181) |    tv   |  2015  |  light_novel |                                                    Owarimonogatari                                                   | 11 months ago |        -        |
 | [39456](https://myanimelist.net/anime/39456) |    tv   |  2019  |     manga    |                                                    Sounan Desu ka?                                                   | 11 months ago |        -        |
 | [49709](https://myanimelist.net/anime/49709) |    tv   |  2022  |     manga    |                                             Fumetsu no Anata e 2nd Season                                            | 11 months ago |        -        |
 | [15037](https://myanimelist.net/anime/15037) |   ova   |  2013  | visual_novel |                           Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou                           | 11 months ago |        -        |
