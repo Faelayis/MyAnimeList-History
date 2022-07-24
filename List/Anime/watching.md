@@ -2,9 +2,9 @@
 
 |                      id                      | Type | Season | Score |                              Title                              | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [49470](https://myanimelist.net/anime/49470) |  tv  |  2022  |   -   |              Mamahaha no Tsurego ga Motokano datta              |   2/12  | 14 hours ago | 07/08/2022 |
-| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                        Kakkou no Iinazuke                       |  11/24  | 14 hours ago | 04/25/2022 |
-| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                           Engage Kiss                           |   3/13  | 15 hours ago | 07/03/2022 |
+| [49470](https://myanimelist.net/anime/49470) |  tv  |  2022  |   -   |              Mamahaha no Tsurego ga Motokano datta              |   2/12  | 15 hours ago | 07/08/2022 |
+| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                        Kakkou no Iinazuke                       |  11/24  | 15 hours ago | 04/25/2022 |
+| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                           Engage Kiss                           |   3/13  | 16 hours ago | 07/03/2022 |
 | [42994](https://myanimelist.net/anime/42994) |  tv  |  2022  |   -   |                      Jashin-chan Dropkick X                     |   1/?   |   Yesterday  | 07/15/2022 |
 | [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |              Made in Abyss: Retsujitsu no Ougonkyou             |   3/12  |  2 days ago  | 07/06/2022 |
 | [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   10  |                         Yofukashi no Uta                        |   3/13  |  2 days ago  | 07/08/2022 |
