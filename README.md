@@ -26,8 +26,8 @@ List Sync From MyAnimeList (update every hour)
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
 | [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |  2 weeks ago  | 05/13/2022 |  07/08/2022 |
-|   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  2 weeks ago  | 07/06/2022 |  07/06/2022 |
-| [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |  3 weeks ago  | 04/07/2022 |  06/29/2022 |
+|   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  3 weeks ago  | 07/06/2022 |  07/06/2022 |
+| [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   Last month  | 04/07/2022 |  06/29/2022 |
 | [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |   Last month  | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |   Last month  | 04/09/2022 |  06/26/2022 |
 | [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |   Last month  | 04/09/2022 |  06/26/2022 |
@@ -71,7 +71,7 @@ List Sync From MyAnimeList (update every hour)
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                    |   5 days ago  |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |  2 weeks ago  |        -        |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |  2 weeks ago  |        -        |
-|  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |  2 weeks ago  |        -        |
+|  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |  3 weeks ago  |        -        |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                          Kono Subarashii Sekai ni Bakuen wo!                                         |  3 weeks ago  |        -        |
 
 
