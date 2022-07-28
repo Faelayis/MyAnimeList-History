@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |  2 weeks ago  | 05/13/2022 |  07/08/2022 |
+| [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |  3 weeks ago  | 05/13/2022 |  07/08/2022 |
 |   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  3 weeks ago  | 07/06/2022 |  07/06/2022 |
 | [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   Last month  | 04/07/2022 |  06/29/2022 |
 | [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |   Last month  | 06/27/2022 |  06/27/2022 |
@@ -76,7 +76,7 @@
 | [44069](https://myanimelist.net/anime/44069) |   ona   |  2021  |   7   |                                      Xian Wang de Richang Shenghuo 2                                      |  6 months ago | 11/01/2021 |  01/28/2022 |
 | [34497](https://myanimelist.net/anime/34497) |    tv   |  2018  |   7   |                               Death March kara Hajimaru Isekai Kyousoukyoku                               |  6 months ago | 01/21/2022 |  01/21/2022 |
 | [41587](https://myanimelist.net/anime/41587) |    tv   |  2021  |   8   |                                      Boku no Hero Academia 5th Season                                     |  6 months ago | 01/18/2022 |  01/18/2022 |
-| [38408](https://myanimelist.net/anime/38408) |    tv   |  2019  |   8   |                                      Boku no Hero Academia 4th Season                                     |  6 months ago | 01/12/2022 |  01/14/2022 |
+| [38408](https://myanimelist.net/anime/38408) |    tv   |  2019  |   8   |                                      Boku no Hero Academia 4th Season                                     |  7 months ago | 01/12/2022 |  01/14/2022 |
 | [36456](https://myanimelist.net/anime/36456) |    tv   |  2018  |   9   |                                      Boku no Hero Academia 3rd Season                                     |  2 months ago | 01/11/2022 |  01/12/2022 |
 | [33486](https://myanimelist.net/anime/33486) |    tv   |  2017  |   8   |                                      Boku no Hero Academia 2nd Season                                     |  7 months ago | 01/09/2022 |  01/11/2022 |
 | [31964](https://myanimelist.net/anime/31964) |    tv   |  2016  |   8   |                                           Boku no Hero Academia                                           |  7 months ago | 01/09/2022 |  01/09/2022 |
@@ -124,7 +124,7 @@
 | [42340](https://myanimelist.net/anime/42340) |    tv   |  2021  |   7   |                                           Meikyuu Black Company                                           | 10 months ago | 08/10/2021 |  09/25/2021 |
 | [42627](https://myanimelist.net/anime/42627) |    tv   |  2021  |   6   |                                            Peach Boy Riverside                                            | 10 months ago | 07/04/2021 |  09/25/2021 |
 | [33502](https://myanimelist.net/anime/33502) |    tv   |  2017  |   7   |                Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?                | 10 months ago | 09/24/2021 |  09/24/2021 |
-| [39247](https://myanimelist.net/anime/39247) |    tv   |  2021  |   7   |                                     Kobayashi-san Chi no Maid Dragon S                                    | 10 months ago | 07/08/2021 |  09/24/2021 |
+| [39247](https://myanimelist.net/anime/39247) |    tv   |  2021  |   7   |                                     Kobayashi-san Chi no Maid Dragon S                                    | 11 months ago | 07/08/2021 |  09/24/2021 |
 | [44203](https://myanimelist.net/anime/44203) |    tv   |  2021  |   6   |                                              Seirei Gensouki                                              | 10 months ago | 07/06/2021 |  09/24/2021 |
 | [43523](https://myanimelist.net/anime/43523) |    tv   |  2021  |   8   |                                     Tsuki ga Michibiku Isekai Douchuu                                     | 11 months ago | 07/07/2021 |  09/23/2021 |
 | [41487](https://myanimelist.net/anime/41487) |    tv   |  2021  |   8   |                              Tensei shitara Slime Datta Ken 2nd Season Part 2                             | 11 months ago | 07/07/2021 |  09/21/2021 |
