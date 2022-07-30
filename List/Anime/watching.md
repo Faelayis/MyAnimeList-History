@@ -2,7 +2,7 @@
 
 |                      id                      | Type | Season | Score |                                         Title                                        | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------------------------------------------------: | :-----: | :---------: | :--------: |
-| [47164](https://myanimelist.net/anime/47164) |  tv  |  2022  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen |   2/?   | 4 hours ago | 07/22/2022 |
+| [47164](https://myanimelist.net/anime/47164) |  tv  |  2022  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen |   2/?   | 5 hours ago | 07/22/2022 |
 | [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   10  |                                   Yofukashi no Uta                                   |   4/13  |  Yesterday  | 07/08/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                       One Piece                                      |  1026/? |  2 days ago | 01/01/2014 |
 | [42994](https://myanimelist.net/anime/42994) |  tv  |  2022  |   -   |                                Jashin-chan Dropkick X                                |   4/?   |  2 days ago | 07/15/2022 |
