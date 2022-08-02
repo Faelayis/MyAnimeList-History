@@ -11,7 +11,7 @@ List Sync From MyAnimeList (update every hour)
 | [47164](https://myanimelist.net/anime/47164) |  tv  |  2022  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen |   2/?   |  3 days ago | 07/22/2022 |
 | [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   10  |                                   Yofukashi no Uta                                   |   4/13  |  4 days ago | 07/08/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                       One Piece                                      |  1026/? |  5 days ago | 01/01/2014 |
-| [42994](https://myanimelist.net/anime/42994) |  tv  |  2022  |   -   |                                Jashin-chan Dropkick X                                |   4/?   |  5 days ago | 07/15/2022 |
+| [42994](https://myanimelist.net/anime/42994) |  tv  |  2022  |   -   |                                Jashin-chan Dropkick X                                |   4/?   |  6 days ago | 07/15/2022 |
 | [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |                        Made in Abyss: Retsujitsu no Ougonkyou                        |   4/12  |  6 days ago | 07/06/2022 |
 | [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                                  Kakkou no Iinazuke                                  |  11/24  |  Last week  | 04/25/2022 |
 | [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                                      Engage Kiss                                     |   3/13  |  Last week  | 07/03/2022 |
@@ -55,7 +55,7 @@ List Sync From MyAnimeList (update every hour)
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
 | [34543](https://myanimelist.net/anime/34543) |  tv  |  2017  |   2   |                                    Dive!!                                    |   6/12  | 3 months ago | 05/03/2022 |
 | [48760](https://myanimelist.net/anime/48760) |  tv  |  2022  |   3   |               Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu              |   1/12  | 3 months ago | 04/12/2022 |
-| [48415](https://myanimelist.net/anime/48415) |  tv  |  2022  |   4   |             Shijou Saikyou no Daimaou, Murabito A ni Tensei suru             |   6/12  |  Last month  | 04/08/2022 |
+| [48415](https://myanimelist.net/anime/48415) |  tv  |  2022  |   4   |             Shijou Saikyou no Daimaou, Murabito A ni Tensei suru             |   6/12  | 2 months ago | 04/08/2022 |
 | [48583](https://myanimelist.net/anime/48583) |  tv  |  2022  |   5   |                  Shingeki no Kyojin: The Final Season Part 2                 |   3/12  | 3 months ago | 01/28/2022 |
 | [40960](https://myanimelist.net/anime/40960) |  tv  |  2021  |   5   |           Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore           |   1/12  |   Last year  | 07/08/2021 |
 | [47257](https://myanimelist.net/anime/47257) |  tv  |  2021  |   4   |                        Shinigami Bocchan to Kuro Maid                        |   1/12  | 3 months ago | 07/05/2021 |
