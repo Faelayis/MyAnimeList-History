@@ -2,11 +2,11 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every hour)
 
-#### Watching (13) ``6.99%``
+#### Watching (13) ``6.95%``
 
 |                      id                      | Type | Season | Score |                                         Title                                        | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------------------------------------------------: | :-----: | :---------: | :--------: |
-| [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |                        Made in Abyss: Retsujitsu no Ougonkyou                        |   5/12  | 7 hours ago | 07/06/2022 |
+| [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |                        Made in Abyss: Retsujitsu no Ougonkyou                        |   5/12  | 8 hours ago | 07/06/2022 |
 | [49470](https://myanimelist.net/anime/49470) |  tv  |  2022  |   -   |                         Mamahaha no Tsurego ga Motokano datta                        |   4/12  |  4 days ago | 07/08/2022 |
 | [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                                 Hataraku Maou-sama!!                                 |   3/?   |  4 days ago | 07/15/2022 |
 | [47164](https://myanimelist.net/anime/47164) |  tv  |  2022  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen |   2/?   |  5 days ago | 07/22/2022 |
@@ -21,7 +21,7 @@ List Sync From MyAnimeList (update every hour)
 
 *[2 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``77.62%``
+#### Completed ``77.90%``
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -35,7 +35,7 @@ List Sync From MyAnimeList (update every hour)
 
 *[347 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``8.10%``
+#### On Hold ``8.09%``
 
 |                      id                      |   Type  | Season | Score |                          Title                          | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -63,16 +63,16 @@ List Sync From MyAnimeList (update every hour)
 
 *[22 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``42.18%``
+#### Plan to Watch ``42.40%``
 
-|                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
-| :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-|  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                    |  2 weeks ago  |        -        |
-| [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |  3 weeks ago  |        -        |
-| [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |   Last month  |        -        |
-|  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |   Last month  |        -        |
-| [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                          Kono Subarashii Sekai ni Bakuen wo!                                         |   Last month  |        -        |
-| [50739](https://myanimelist.net/anime/50739) |    tv   |    -   |  light_novel |                          Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                         |   Last month  |        -        |
+|                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |     Updated    | Plan Start Date |
+| :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :------------: | :-------------: |
+| [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                                   Summertime Render                                                  | 23 minutes ago |        -        |
+|  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                    |   2 weeks ago  |        -        |
+| [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |   3 weeks ago  |        -        |
+| [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |   Last month   |        -        |
+|  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |   Last month   |        -        |
+| [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                          Kono Subarashii Sekai ni Bakuen wo!                                         |   Last month   |        -        |
 
 
-*[179 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[180 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
