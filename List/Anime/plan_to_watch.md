@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                                   Summertime Render                                                  |  18 hours ago |        -        |
+| [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                                   Summertime Render                                                  |  19 hours ago |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                    |  2 weeks ago  |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |  3 weeks ago  |        -        |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |   Last month  |        -        |
@@ -117,7 +117,7 @@
 | [37823](https://myanimelist.net/anime/37823) |    tv   |  2018  |     game     |                                                      Conception                                                      |   08/25/2021  |        -        |
 | [30307](https://myanimelist.net/anime/30307) |    tv   |  2015  |     manga    |                                            Monster Musume no Iru Nichijou                                            |   08/16/2021  |        -        |
 | [37497](https://myanimelist.net/anime/37497) |    tv   |  2018  |   original   |                                             Irozuku Sekai no Ashita kara                                             |   07/30/2021  |        -        |
-| [44511](https://myanimelist.net/anime/44511) |    tv   |    -   |     manga    |                                                     Chainsaw Man                                                     |   07/25/2021  |        -        |
+| [44511](https://myanimelist.net/anime/44511) |    tv   |  2022  |     manga    |                                                     Chainsaw Man                                                     |   07/25/2021  |        -        |
 |  [1689](https://myanimelist.net/anime/1689)  |  movie  |  2007  |   original   |                                                 Byousoku 5 Centimeter                                                |   07/16/2021  |        -        |
 | [20689](https://myanimelist.net/anime/20689) |    tv   |  2014  |  mixed_media |                                                Hamatora The Animation                                                |   07/15/2021  |        -        |
 | [27989](https://myanimelist.net/anime/27989) |    tv   |  2015  |     novel    |                                                   Hibike! Euphonium                                                  |   07/11/2021  |        -        |
