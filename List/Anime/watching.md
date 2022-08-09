@@ -13,5 +13,5 @@
 | [42994](https://myanimelist.net/anime/42994) |  tv  |  2022  |   -   |                                Jashin-chan Dropkick X                                |   4/?   |  Last week  | 07/15/2022 |
 | [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                                  Kakkou no Iinazuke                                  |  11/24  | 2 weeks ago | 04/25/2022 |
 | [49220](https://myanimelist.net/anime/49220) |  tv  |  2022  |   -   |                                     Isekai Ojisan                                    |   2/?   | 3 weeks ago | 07/08/2022 |
-| [51096](https://myanimelist.net/anime/51096) |  tv  |  2022  |   -   |            Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season           |   1/13  |  Last month | 07/05/2022 |
+| [51096](https://myanimelist.net/anime/51096) |  tv  |  2022  |   -   |              Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season              |   1/13  |  Last month | 07/05/2022 |
 | [10495](https://myanimelist.net/anime/10495) |  tv  |  2011  |   -   |                                       Yuru Yuri                                      |   3/12  |  Last month | 06/30/2022 |

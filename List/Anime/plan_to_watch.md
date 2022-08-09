@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                    Fate/Apocrypha                                                    |  12 hours ago |        -        |
+| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                    Fate/Apocrypha                                                    |  13 hours ago |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                                   Summertime Render                                                  |   4 days ago  |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                    |  2 weeks ago  |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |   Last month  |        -        |
@@ -43,7 +43,7 @@
 | [50602](https://myanimelist.net/anime/50602) |    tv   |  2022  |     manga    |                                                  Spy x Family Part 2                                                 |  5 months ago |        -        |
 | [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |     manga    |             Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu             |  5 months ago |        -        |
 | [50481](https://myanimelist.net/anime/50481) |    tv   |  2023  |  light_novel |                 Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ (TV)                 |  5 months ago |        -        |
-| [51180](https://myanimelist.net/anime/51180) |    tv   |    -   |  light_novel |                            Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 3rd Season                           |  5 months ago |        -        |
+| [51180](https://myanimelist.net/anime/51180) |    tv   |    -   |  light_novel |                              Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season                              |  5 months ago |        -        |
 | [51019](https://myanimelist.net/anime/51019) |    tv   |    -   |     manga    |                                       Kimetsu no Yaiba: Katanakaji no Sato-hen                                       |  5 months ago |        -        |
 | [16353](https://myanimelist.net/anime/16353) |    tv   |  2013  |     manga    |                                                       Love Lab                                                       |  5 months ago |        -        |
 | [49040](https://myanimelist.net/anime/49040) |    tv   |  2021  |     manga    |                                                   Lupin III: Part 6                                                  |  5 months ago |        -        |
