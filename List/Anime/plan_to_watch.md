@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                    Fate/Apocrypha                                                    |  11 hours ago |        -        |
+| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                    Fate/Apocrypha                                                    |  12 hours ago |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                                   Summertime Render                                                  |   4 days ago  |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                    |  2 weeks ago  |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |   Last month  |        -        |
@@ -21,7 +21,7 @@
 | [50738](https://myanimelist.net/anime/50738) |    tv   |    -   |  light_novel |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita 2nd Season                    |  3 months ago |        -        |
 | [49981](https://myanimelist.net/anime/49981) |    tv   |    -   |  light_novel |                      Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II                      |  3 months ago |        -        |
 | [51632](https://myanimelist.net/anime/51632) |    tv   |  2023  |  light_novel |                                      Isekai wa Smartphone to Tomo ni. 2nd Season                                     |  3 months ago |        -        |
-| [51009](https://myanimelist.net/anime/51009) |    tv   |    -   |     manga    |                                            Jujutsu Kaisen (TV) 2nd Season                                            |  3 months ago |        -        |
+| [51009](https://myanimelist.net/anime/51009) |    tv   |    -   |     manga    |                                               Jujutsu Kaisen 2nd Season                                              |  3 months ago |        -        |
 |  [7592](https://myanimelist.net/anime/7592)  |    tv   |  2010  |     manga    |                                                  Nurarihyon no Mago                                                  |  3 months ago |        -        |
 | [27831](https://myanimelist.net/anime/27831) |    tv   |  2015  |  light_novel |                                                   Durarara!!x2 Ten                                                   |  3 months ago |        -        |
 | [23199](https://myanimelist.net/anime/23199) |    tv   |  2015  |  light_novel |                                                   Durarara!!x2 Shou                                                  |  3 months ago |        -        |
