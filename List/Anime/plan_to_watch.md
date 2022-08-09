@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                    Fate/Apocrypha                                                    |  21 hours ago |        -        |
-| [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                                   Summertime Render                                                  |   4 days ago  |        -        |
+| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                    Fate/Apocrypha                                                    |  22 hours ago |        -        |
+| [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                                   Summertime Render                                                  |   5 days ago  |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                    |  2 weeks ago  |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |   Last month  |        -        |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                   Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                                  |   Last month  |        -        |
