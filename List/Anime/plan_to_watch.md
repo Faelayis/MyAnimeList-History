@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   Yesterday   |        -        |
+| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   2 days ago  |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                               Summertime Render                                              |   6 days ago  |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |  2 weeks ago  |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |             Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita             |   Last month  |        -        |
@@ -12,7 +12,7 @@
 | [50739](https://myanimelist.net/anime/50739) |    tv   |    -   |  light_novel |                      Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                     |   Last month  |        -        |
 | [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                 Date A Live V                                                |   Last month  |        -        |
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                      UQ Holder!: Mahou Sensei Negima! 2                                      |   Last month  |        -        |
-| [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                        Enen no Shouboutai: San no Shou                                       |  2 months ago |        -        |
+| [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                        Enen no Shouboutai: San no Shou                                       |  3 months ago |        -        |
 | [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                         Shokei Shoujo no Virgin Road                                         |  3 months ago |        -        |
 |   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                       Kino no Tabi: The Beautiful World                                      |  3 months ago |        -        |
 | [51252](https://myanimelist.net/anime/51252) |    tv   |    -   |  light_novel |                                                Spy Kyoushitsu                                                |  3 months ago |        -        |
