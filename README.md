@@ -12,7 +12,7 @@ List Sync From MyAnimeList (update every hour)
 | [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                                 Hataraku Maou-sama!!                                 |   4/?   |  4 days ago | 07/15/2022 |
 | [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   10  |                                   Yofukashi no Uta                                   |   5/13  |  4 days ago | 07/08/2022 |
 | [47164](https://myanimelist.net/anime/47164) |  tv  |  2022  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen |   3/?   |  5 days ago | 07/22/2022 |
-| [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |                        Made in Abyss: Retsujitsu no Ougonkyou                        |   5/12  |  5 days ago | 07/06/2022 |
+| [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |                        Made in Abyss: Retsujitsu no Ougonkyou                        |   5/12  |  6 days ago | 07/06/2022 |
 | [49470](https://myanimelist.net/anime/49470) |  tv  |  2022  |   -   |                         Mamahaha no Tsurego ga Motokano datta                        |   4/12  |  Last week  | 07/08/2022 |
 | [42994](https://myanimelist.net/anime/42994) |  tv  |  2022  |   -   |                                Jashin-chan Dropkick X                                |   4/?   |  Last week  | 07/15/2022 |
 | [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                                  Kakkou no Iinazuke                                  |  11/24  | 2 weeks ago | 04/25/2022 |
