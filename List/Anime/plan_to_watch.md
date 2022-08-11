@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   2 days ago  |        -        |
+| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   3 days ago  |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                               Summertime Render                                              |   Last week   |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |  3 weeks ago  |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |             Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita             |   Last month  |        -        |
@@ -26,8 +26,8 @@
 | [27831](https://myanimelist.net/anime/27831) |    tv   |  2015  |  light_novel |                                               Durarara!!x2 Ten                                               |  3 months ago |        -        |
 | [23199](https://myanimelist.net/anime/23199) |    tv   |  2015  |  light_novel |                                               Durarara!!x2 Shou                                              |  3 months ago |        -        |
 | [50205](https://myanimelist.net/anime/50205) |    tv   |    -   |     game     |                                           Arknights: Reimei Zensou                                           |  3 months ago |        -        |
-| [10378](https://myanimelist.net/anime/10378) |    tv   |  2011  |     manga    |                                            Shinryaku!? Ika Musume                                            |  3 months ago |        -        |
-|  [8557](https://myanimelist.net/anime/8557)  |    tv   |  2010  |     manga    |                                             Shinryaku! Ika Musume                                            |  3 months ago |        -        |
+| [10378](https://myanimelist.net/anime/10378) |    tv   |  2011  |     manga    |                                            Shinryaku!? Ika Musume                                            |  4 months ago |        -        |
+|  [8557](https://myanimelist.net/anime/8557)  |    tv   |  2010  |     manga    |                                             Shinryaku! Ika Musume                                            |  4 months ago |        -        |
 | [48316](https://myanimelist.net/anime/48316) |    tv   |  2022  |  light_novel |                                     Kage no Jitsuryokusha ni Naritakute!                                     |  4 months ago |        -        |
 | [49785](https://myanimelist.net/anime/49785) |    tv   |    -   |     manga    |                                          Fairy Tail: 100 Years Quest                                         |  4 months ago |        -        |
 | [50330](https://myanimelist.net/anime/50330) |    tv   |  2023  |     manga    |                                         Bungou Stray Dogs 4th Season                                         |  4 months ago |        -        |
