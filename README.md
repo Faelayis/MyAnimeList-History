@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |                                         Title                                        | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                                 Hataraku Maou-sama!!                                 |   5/?   | 19 hours ago | 07/15/2022 |
-| [47164](https://myanimelist.net/anime/47164) |  tv  |  2022  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen |   4/?   | 21 hours ago | 07/22/2022 |
+| [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                                 Hataraku Maou-sama!!                                 |   5/?   | 20 hours ago | 07/15/2022 |
+| [47164](https://myanimelist.net/anime/47164) |  tv  |  2022  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen |   4/?   | 22 hours ago | 07/22/2022 |
 | [49220](https://myanimelist.net/anime/49220) |  tv  |  2022  |   -   |                                     Isekai Ojisan                                    |   3/?   |   Yesterday  | 07/08/2022 |
 | [49470](https://myanimelist.net/anime/49470) |  tv  |  2022  |   -   |                         Mamahaha no Tsurego ga Motokano datta                        |   6/12  |   Yesterday  | 07/08/2022 |
 | [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |                        Made in Abyss: Retsujitsu no Ougonkyou                        |   6/12  |   Yesterday  | 07/06/2022 |
@@ -67,7 +67,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   3 days ago  |        -        |
+| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   4 days ago  |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                               Summertime Render                                              |   Last week   |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |  3 weeks ago  |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |             Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita             |   Last month  |        -        |

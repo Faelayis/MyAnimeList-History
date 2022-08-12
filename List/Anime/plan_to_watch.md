@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   3 days ago  |        -        |
+| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   4 days ago  |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                               Summertime Render                                              |   Last week   |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |  3 weeks ago  |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |             Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita             |   Last month  |        -        |
@@ -48,7 +48,7 @@
 | [16353](https://myanimelist.net/anime/16353) |    tv   |  2013  |     manga    |                                                   Love Lab                                                   |  5 months ago |        -        |
 | [49040](https://myanimelist.net/anime/49040) |    tv   |  2021  |     manga    |                                               Lupin III: Part 6                                              |  5 months ago |        -        |
 |  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  | visual_novel |                                                  Amagami SS                                                  |  5 months ago |        -        |
-|  [5356](https://myanimelist.net/anime/5356)  |    tv   |  2009  | visual_novel |                                                    Canaan                                                    |  5 months ago |        -        |
+|  [5356](https://myanimelist.net/anime/5356)  |    tv   |  2009  | visual_novel |                                                    Canaan                                                    |  6 months ago |        -        |
 | [34176](https://myanimelist.net/anime/34176) |    tv   |  2017  |  light_novel |                                        Zero kara Hajimeru Mahou no Sho                                       |  6 months ago |        -        |
 | [14753](https://myanimelist.net/anime/14753) |   ova   |  2012  |   web_manga  |                                           Hori-san to Miyamura-kun                                           |  6 months ago |        -        |
 | [34392](https://myanimelist.net/anime/34392) |    tv   |  2017  |   original   |                                                   One Room                                                   |  6 months ago |        -        |
