@@ -6,10 +6,10 @@
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                  Madan no Ou to Vanadis                 |   6/13  |  4 months ago | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                     Machikado Mazoku                    |   2/12  |  3 months ago | 04/19/2022 |
 | [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |             Kawaii dake ja Nai Shikimori-san            |   5/12  |  2 weeks ago  | 04/10/2022 |
-| [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                   Mahoutsukai Reimeiki                  |   2/12  |  2 months ago | 04/09/2022 |
-| [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |           Tate no Yuusha no Nariagari Season 2          |   3/13  |  2 months ago | 04/06/2022 |
+| [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                   Mahoutsukai Reimeiki                  |   2/12  |  3 months ago | 04/09/2022 |
+| [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |           Tate no Yuusha no Nariagari Season 2          |   3/13  |  3 months ago | 04/06/2022 |
 | [49520](https://myanimelist.net/anime/49520) |    tv   |  2022  |   7   |                 Aharen-san wa Hakarenai                 |   4/12  |  2 months ago | 04/01/2022 |
-| [43470](https://myanimelist.net/anime/43470) |    tv   |  2022  |   6   |  Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart  |   2/12  |  2 months ago | 04/01/2022 |
+| [43470](https://myanimelist.net/anime/43470) |    tv   |  2022  |   6   |  Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart  |   2/12  |  3 months ago | 04/01/2022 |
 | [49930](https://myanimelist.net/anime/49930) |    tv   |  2022  |   -   |     Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2     |   2/13  |  4 months ago | 03/01/2022 |
 | [32182](https://myanimelist.net/anime/32182) |    tv   |  2016  |   -   |                      Mob Psycho 100                     |   3/12  |  6 months ago | 02/05/2022 |
 | [49114](https://myanimelist.net/anime/49114) |    tv   |  2022  |   -   |                 Vanitas no Karte Part 2                 |   4/12  |  4 months ago | 01/15/2022 |
