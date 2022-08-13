@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |  8 hours ago  |        -        |
-| [52657](https://myanimelist.net/anime/52657) | special |    -   |   web_manga  |                                      Ousama Ranking: Yuuki no Takarabako                                     |  8 hours ago  |        -        |
+| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |  9 hours ago  |        -        |
+| [52657](https://myanimelist.net/anime/52657) | special |    -   |   web_manga  |                                      Ousama Ranking: Yuuki no Takarabako                                     |  9 hours ago  |        -        |
 | [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   4 days ago  |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                               Summertime Render                                              |   Last week   |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |  3 weeks ago  |        -        |
@@ -27,7 +27,7 @@
 |  [7592](https://myanimelist.net/anime/7592)  |    tv   |  2010  |     manga    |                                              Nurarihyon no Mago                                              |  3 months ago |        -        |
 | [27831](https://myanimelist.net/anime/27831) |    tv   |  2015  |  light_novel |                                               Durarara!!x2 Ten                                               |  3 months ago |        -        |
 | [23199](https://myanimelist.net/anime/23199) |    tv   |  2015  |  light_novel |                                               Durarara!!x2 Shou                                              |  3 months ago |        -        |
-| [50205](https://myanimelist.net/anime/50205) |    tv   |    -   |     game     |                                           Arknights: Reimei Zensou                                           |  3 months ago |        -        |
+| [50205](https://myanimelist.net/anime/50205) |    tv   |    -   |     game     |                                           Arknights: Reimei Zensou                                           |  4 months ago |        -        |
 | [10378](https://myanimelist.net/anime/10378) |    tv   |  2011  |     manga    |                                            Shinryaku!? Ika Musume                                            |  4 months ago |        -        |
 |  [8557](https://myanimelist.net/anime/8557)  |    tv   |  2010  |     manga    |                                             Shinryaku! Ika Musume                                            |  4 months ago |        -        |
 | [48316](https://myanimelist.net/anime/48316) |    tv   |  2022  |  light_novel |                                     Kage no Jitsuryokusha ni Naritakute!                                     |  4 months ago |        -        |
