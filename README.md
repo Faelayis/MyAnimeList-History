@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every hour)
 
-#### Watching (13) ``6.91%``
+#### Watching (13) ``6.84%``
 
 |                      id                      | Type | Season | Score |                                         Title                                        | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------------------------------------------------: | :-----: | :---------: | :--------: |
@@ -21,7 +21,7 @@ List Sync From MyAnimeList (update every hour)
 
 *[2 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``78.19%``
+#### Completed ``78.75%``
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -35,7 +35,7 @@ List Sync From MyAnimeList (update every hour)
 
 *[347 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``8.08%``
+#### On Hold ``8.05%``
 
 |                      id                      |   Type  | Season | Score |                          Title                          | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -49,7 +49,7 @@ List Sync From MyAnimeList (update every hour)
 
 *[41 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``4.66%``
+#### Dropped ``4.64%``
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
@@ -63,16 +63,16 @@ List Sync From MyAnimeList (update every hour)
 
 *[22 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``42.63%``
+#### Plan to Watch ``43.08%``
 
-|                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
-| :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   4 days ago  |        -        |
-| [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                               Summertime Render                                              |   Last week   |        -        |
-|  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |  3 weeks ago  |        -        |
-| [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |             Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita             |   Last month  |        -        |
-| [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                               Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                              |   Last month  |        -        |
-|  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                Lovely★Complex                                                |   Last month  |        -        |
+|                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |     Updated    | Plan Start Date |
+| :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :------------: | :-------------: |
+| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               | 31 minutes ago |        -        |
+| [52657](https://myanimelist.net/anime/52657) | special |    -   |   web_manga  |                                      Ousama Ranking: Yuuki no Takarabako                                     | 42 minutes ago |        -        |
+| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   4 days ago   |        -        |
+| [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                               Summertime Render                                              |    Last week   |        -        |
+|  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |   3 weeks ago  |        -        |
+| [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |             Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita             |   Last month   |        -        |
 
 
-*[181 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[183 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
