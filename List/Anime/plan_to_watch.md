@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |  4 hours ago  |        -        |
-| [52657](https://myanimelist.net/anime/52657) | special |    -   |   web_manga  |                                      Ousama Ranking: Yuuki no Takarabako                                     |  4 hours ago  |        -        |
+| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |  5 hours ago  |        -        |
+| [52657](https://myanimelist.net/anime/52657) | special |    -   |   web_manga  |                                      Ousama Ranking: Yuuki no Takarabako                                     |  5 hours ago  |        -        |
 | [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   4 days ago  |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                               Summertime Render                                              |   Last week   |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |  3 weeks ago  |        -        |
@@ -140,7 +140,7 @@
 | [11887](https://myanimelist.net/anime/11887) |    tv   |  2012  |  light_novel |                                                Kokoro Connect                                                |   05/24/2021  |        -        |
 | [38594](https://myanimelist.net/anime/38594) |  movie  |  2019  |   original   |                                           Kimi to, Nami ni Noretara                                          |   05/21/2021  |        -        |
 |   [199](https://myanimelist.net/anime/199)   |  movie  |  2001  |   original   |                                         Sen to Chihiro no Kamikakushi                                        |   05/19/2021  |        -        |
-| [40716](https://myanimelist.net/anime/40716) |    tv   |  2020  |     manga    |                                               Kakushigoto (TV)                                               |   05/14/2021  |        -        |
+| [40716](https://myanimelist.net/anime/40716) |    tv   |  2020  |     manga    |                                                  Kakushigoto                                                 |   05/14/2021  |        -        |
 |    [72](https://myanimelist.net/anime/72)    |    tv   |  2003  |  light_novel |                                           Full Metal Panic? Fumoffu                                          |   05/14/2021  |        -        |
 | [28805](https://myanimelist.net/anime/28805) |  movie  |  2015  |   original   |                                                Bakemono no Ko                                                |   05/14/2021  |        -        |
 | [41877](https://myanimelist.net/anime/41877) |  movie  |  2021  |   original   |                                             Kamiarizuki no Kodomo                                            |   05/10/2021  |        -        |
