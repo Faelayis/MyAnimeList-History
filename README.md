@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |                                         Title                                        | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                                      Engage Kiss                                     |   7/13  | 20 hours ago | 07/03/2022 |
+| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                                      Engage Kiss                                     |   7/13  | 21 hours ago | 07/03/2022 |
 | [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                                 Hataraku Maou-sama!!                                 |   5/?   |  3 days ago  | 07/15/2022 |
 | [47164](https://myanimelist.net/anime/47164) |  tv  |  2022  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen |   4/?   |  3 days ago  | 07/22/2022 |
 | [49220](https://myanimelist.net/anime/49220) |  tv  |  2022  |   -   |                                     Isekai Ojisan                                    |   3/?   |  4 days ago  | 07/08/2022 |
@@ -67,10 +67,10 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [49387](https://myanimelist.net/anime/49387) |    tv   |  2023  |     manga    |                                             Vinland Saga Season 2                                            |  2 hours ago  |        -        |
+| [49387](https://myanimelist.net/anime/49387) |    tv   |  2023  |     manga    |                                             Vinland Saga Season 2                                            |  3 hours ago  |        -        |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   2 days ago  |        -        |
 | [52657](https://myanimelist.net/anime/52657) | special |    -   |   web_manga  |                                      Ousama Ranking: Yuuki no Takarabako                                     |   2 days ago  |        -        |
-| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   6 days ago  |        -        |
+| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   Last week   |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                               Summertime Render                                              |   Last week   |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |  3 weeks ago  |        -        |
 
