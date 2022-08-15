@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   Yesterday   |        -        |
-| [52657](https://myanimelist.net/anime/52657) | special |    -   |   web_manga  |                                      Ousama Ranking: Yuuki no Takarabako                                     |   Yesterday   |        -        |
+| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   2 days ago  |        -        |
+| [52657](https://myanimelist.net/anime/52657) | special |    -   |   web_manga  |                                      Ousama Ranking: Yuuki no Takarabako                                     |   2 days ago  |        -        |
 | [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   6 days ago  |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                               Summertime Render                                              |   Last week   |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |  3 weeks ago  |        -        |
