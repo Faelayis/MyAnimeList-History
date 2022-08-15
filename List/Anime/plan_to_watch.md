@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [49387](https://myanimelist.net/anime/49387) |    tv   |  2023  |     manga    |                                             Vinland Saga Season 2                                            |  5 hours ago  |        -        |
+| [49387](https://myanimelist.net/anime/49387) |    tv   |  2023  |     manga    |                                             Vinland Saga Season 2                                            |  6 hours ago  |        -        |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   2 days ago  |        -        |
 | [52657](https://myanimelist.net/anime/52657) | special |    -   |   web_manga  |                                      Ousama Ranking: Yuuki no Takarabako                                     |   2 days ago  |        -        |
 | [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   Last week   |        -        |
@@ -25,7 +25,7 @@
 | [49981](https://myanimelist.net/anime/49981) |    tv   |    -   |  light_novel |                  Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II                  |  3 months ago |        -        |
 | [51632](https://myanimelist.net/anime/51632) |    tv   |  2023  |  light_novel |                                  Isekai wa Smartphone to Tomo ni. 2nd Season                                 |  3 months ago |        -        |
 | [51009](https://myanimelist.net/anime/51009) |    tv   |    -   |     manga    |                                           Jujutsu Kaisen 2nd Season                                          |  3 months ago |        -        |
-|  [7592](https://myanimelist.net/anime/7592)  |    tv   |  2010  |     manga    |                                              Nurarihyon no Mago                                              |  3 months ago |        -        |
+|  [7592](https://myanimelist.net/anime/7592)  |    tv   |  2010  |     manga    |                                              Nurarihyon no Mago                                              |  4 months ago |        -        |
 | [27831](https://myanimelist.net/anime/27831) |    tv   |  2015  |  light_novel |                                               Durarara!!x2 Ten                                               |  4 months ago |        -        |
 | [23199](https://myanimelist.net/anime/23199) |    tv   |  2015  |  light_novel |                                               Durarara!!x2 Shou                                              |  4 months ago |        -        |
 | [50205](https://myanimelist.net/anime/50205) |    tv   |    -   |     game     |                                           Arknights: Reimei Zensou                                           |  4 months ago |        -        |
