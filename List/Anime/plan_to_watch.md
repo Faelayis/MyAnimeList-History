@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [49387](https://myanimelist.net/anime/49387) |    tv   |  2023  |     manga    |                                             Vinland Saga Season 2                                            |  6 hours ago  |        -        |
+| [49387](https://myanimelist.net/anime/49387) |    tv   |  2023  |     manga    |                                             Vinland Saga Season 2                                            |  7 hours ago  |        -        |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   2 days ago  |        -        |
 | [52657](https://myanimelist.net/anime/52657) | special |    -   |   web_manga  |                                      Ousama Ranking: Yuuki no Takarabako                                     |   2 days ago  |        -        |
 | [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   Last week   |        -        |
@@ -56,7 +56,7 @@
 | [14753](https://myanimelist.net/anime/14753) |   ova   |  2012  |   web_manga  |                                           Hori-san to Miyamura-kun                                           |  6 months ago |        -        |
 | [34392](https://myanimelist.net/anime/34392) |    tv   |  2017  |   original   |                                                   One Room                                                   |  6 months ago |        -        |
 | [48997](https://myanimelist.net/anime/48997) |    tv   |  2022  |     manga    |                                       Fantasy Bishoujo Juniku Ojisan to                                      |  6 months ago |        -        |
-| [41006](https://myanimelist.net/anime/41006) |    tv   |  2020  | visual_novel |                                         Higurashi no Naku Koro ni Gou                                        |  6 months ago |        -        |
+| [41006](https://myanimelist.net/anime/41006) |    tv   |  2020  | visual_novel |                                         Higurashi no Naku Koro ni Gou                                        |  7 months ago |        -        |
 | [37521](https://myanimelist.net/anime/37521) |    tv   |  2019  |     manga    |                                                 Vinland Saga                                                 |  7 months ago |        -        |
 | [48553](https://myanimelist.net/anime/48553) |    tv   |  2022  |   web_manga  |                                           Akebi-chan no Sailor-fuku                                          |  7 months ago |        -        |
 | [10490](https://myanimelist.net/anime/10490) |    tv   |  2011  |     manga    |                                                    Blood-C                                                   |  7 months ago |        -        |
