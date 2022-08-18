@@ -4,19 +4,19 @@ List Sync From MyAnimeList (update every hour)
 
 #### Watching (13) ``6.81%``
 
-|                      id                      | Type | Season | Score |                                         Title                                        | Watched |   Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------------------------------------------------: | :-----: | :---------: | :--------: |
-| [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   10  |                                   Yofukashi no Uta                                   |   6/13  |  Yesterday  | 07/08/2022 |
-| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                                      Engage Kiss                                     |   7/13  |  2 days ago | 07/03/2022 |
-| [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                                 Hataraku Maou-sama!!                                 |   5/12  |  5 days ago | 07/15/2022 |
-| [47164](https://myanimelist.net/anime/47164) |  tv  |  2022  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen |   4/?   |  5 days ago | 07/22/2022 |
-| [49220](https://myanimelist.net/anime/49220) |  tv  |  2022  |   -   |                                     Isekai Ojisan                                    |   3/?   |  5 days ago | 07/08/2022 |
-| [49470](https://myanimelist.net/anime/49470) |  tv  |  2022  |   -   |                         Mamahaha no Tsurego ga Motokano datta                        |   6/12  |  6 days ago | 07/08/2022 |
-| [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |                        Made in Abyss: Retsujitsu no Ougonkyou                        |   6/12  |  6 days ago | 07/06/2022 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                       One Piece                                      |  1028/? |  Last week  | 01/01/2014 |
-| [42963](https://myanimelist.net/anime/42963) |  tv  |  2022  |   -   |                            Kanojo, Okarishimasu 2nd Season                           |   6/12  |  Last week  | 07/02/2022 |
-| [42994](https://myanimelist.net/anime/42994) |  tv  |  2022  |   -   |                                Jashin-chan Dropkick X                                |   4/12  | 2 weeks ago | 07/15/2022 |
-| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                                  Kakkou no Iinazuke                                  |  11/24  | 3 weeks ago | 04/25/2022 |
+|                      id                      | Type | Season | Score |                                         Title                                        | Watched |    Updated   | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
+| [49470](https://myanimelist.net/anime/49470) |  tv  |  2022  |   -   |                         Mamahaha no Tsurego ga Motokano datta                        |   7/12  | 15 hours ago | 07/08/2022 |
+| [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |                        Made in Abyss: Retsujitsu no Ougonkyou                        |   7/12  | 15 hours ago | 07/06/2022 |
+| [42994](https://myanimelist.net/anime/42994) |  tv  |  2022  |   -   |                                Jashin-chan Dropkick X                                |   7/12  | 15 hours ago | 07/15/2022 |
+| [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   10  |                                   Yofukashi no Uta                                   |   6/13  |  2 days ago  | 07/08/2022 |
+| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                                      Engage Kiss                                     |   7/13  |  3 days ago  | 07/03/2022 |
+| [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                                 Hataraku Maou-sama!!                                 |   5/12  |  6 days ago  | 07/15/2022 |
+| [47164](https://myanimelist.net/anime/47164) |  tv  |  2022  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen |   4/?   |  6 days ago  | 07/22/2022 |
+| [49220](https://myanimelist.net/anime/49220) |  tv  |  2022  |   -   |                                     Isekai Ojisan                                    |   3/?   |  6 days ago  | 07/08/2022 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                       One Piece                                      |  1028/? |   Last week  | 01/01/2014 |
+| [42963](https://myanimelist.net/anime/42963) |  tv  |  2022  |   -   |                            Kanojo, Okarishimasu 2nd Season                           |   6/12  |   Last week  | 07/02/2022 |
+| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                                  Kakkou no Iinazuke                                  |  11/24  |  3 weeks ago | 04/25/2022 |
 
 
 *[2 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
@@ -39,10 +39,10 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season | Score |                          Title                          | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                        Fate/Zero                        |   2/13  |  3 months ago | 04/26/2022 |
+| [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                        Fate/Zero                        |   2/13  |  4 months ago | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                  Madan no Ou to Vanadis                 |   6/13  |  4 months ago | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                     Machikado Mazoku                    |   2/12  |  3 months ago | 04/19/2022 |
-| [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |             Kawaii dake ja Nai Shikimori-san            |   5/12  |  2 weeks ago  | 04/10/2022 |
+| [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |             Kawaii dake ja Nai Shikimori-san            |   5/12  |  3 weeks ago  | 04/10/2022 |
 | [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                   Mahoutsukai Reimeiki                  |   2/12  |  3 months ago | 04/09/2022 |
 | [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |           Tate no Yuusha no Nariagari Season 2          |   3/13  |  3 months ago | 04/06/2022 |
 
@@ -67,12 +67,12 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [49387](https://myanimelist.net/anime/49387) |    tv   |  2023  |     manga    |                                             Vinland Saga Season 2                                            |   Yesterday   |        -        |
-| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   3 days ago  |        -        |
-| [52657](https://myanimelist.net/anime/52657) | special |    -   |   web_manga  |                                      Ousama Ranking: Yuuki no Takarabako                                     |   3 days ago  |        -        |
+| [49387](https://myanimelist.net/anime/49387) |    tv   |  2023  |     manga    |                                             Vinland Saga Season 2                                            |   2 days ago  |        -        |
+| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   5 days ago  |        -        |
+| [52657](https://myanimelist.net/anime/52657) | special |    -   |   web_manga  |                                      Ousama Ranking: Yuuki no Takarabako                                     |   5 days ago  |        -        |
 | [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   Last week   |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                               Summertime Render                                              |   Last week   |        -        |
-|  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |  3 weeks ago  |        -        |
+|  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |   Last month  |        -        |
 
 
 *[184 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
