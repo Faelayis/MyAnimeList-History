@@ -1,7 +1,8 @@
-# On Hold (47)
+# On Hold (48)
 
 |                      id                      |   Type  | Season | Score |                          Title                          | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------: | :-----: | :-----------: | :--------: |
+| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |   -   |                        Yuru Yuri                        |   3/12  |  10 hours ago | 06/30/2022 |
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                        Fate/Zero                        |   2/13  |  4 months ago | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                  Madan no Ou to Vanadis                 |   6/13  |  4 months ago | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                     Machikado Mazoku                    |   2/12  |  3 months ago | 04/19/2022 |
@@ -12,7 +13,7 @@
 | [43470](https://myanimelist.net/anime/43470) |    tv   |  2022  |   6   |  Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart  |   2/12  |  3 months ago | 04/01/2022 |
 | [49930](https://myanimelist.net/anime/49930) |    tv   |  2022  |   -   |     Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2     |   2/13  |  5 months ago | 03/01/2022 |
 | [32182](https://myanimelist.net/anime/32182) |    tv   |  2016  |   -   |                      Mob Psycho 100                     |   3/12  |  6 months ago | 02/05/2022 |
-| [49114](https://myanimelist.net/anime/49114) |    tv   |  2022  |   -   |                 Vanitas no Karte Part 2                 |   4/12  |  4 months ago | 01/15/2022 |
+| [49114](https://myanimelist.net/anime/49114) |    tv   |  2022  |   -   |                 Vanitas no Karte Part 2                 |   4/12  |  5 months ago | 01/15/2022 |
 | [40507](https://myanimelist.net/anime/40507) |    tv   |  2022  |   -   |     Arifureta Shokugyou de Sekai Saikyou 2nd Season     |   6/12  |  4 months ago | 01/14/2022 |
 | [49721](https://myanimelist.net/anime/49721) |    tv   |  2022  |   -   |              Karakai Jouzu no Takagi-san 3              |   2/12  |  6 months ago | 01/08/2022 |
 |  [2104](https://myanimelist.net/anime/2104)  |    tv   |  2007  |   -   |                     Seto no Hanayome                    |   8/26  |  7 months ago | 01/05/2022 |
@@ -22,7 +23,7 @@
 | [32867](https://myanimelist.net/anime/32867) |    tv   |  2016  |   -   |               Bungou Stray Dogs 2nd Season              |   2/12  |  4 months ago | 10/25/2021 |
 | [44961](https://myanimelist.net/anime/44961) |    tv   |  2021  |   -   |                       Platinum End                      |   5/24  |  6 months ago | 10/23/2021 |
 |  [2966](https://myanimelist.net/anime/2966)  |    tv   |  2008  |   -   |                  Ookami to Koushinryou                  |   2/13  | 10 months ago | 10/20/2021 |
-| [42205](https://myanimelist.net/anime/42205) |    tv   |  2021  |   -   |                    Shaman King (2021)                   |   1/52  | 10 months ago | 10/14/2021 |
+| [42205](https://myanimelist.net/anime/42205) |    tv   |  2021  |   -   |                    Shaman King (2021)                   |   1/52  | 11 months ago | 10/14/2021 |
 | [49926](https://myanimelist.net/anime/49926) |    tv   |  2021  |   -   |            Kimetsu no Yaiba: Mugen Ressha-hen           |   3/7   |  9 months ago | 10/11/2021 |
 | [48556](https://myanimelist.net/anime/48556) |    tv   |  2021  |   -   |                     Takt Op. Destiny                    |   1/12  |  9 months ago | 10/06/2021 |
 | [35241](https://myanimelist.net/anime/35241) |    tv   |  2017  |   -   |                      Konohana Kitan                     |   4/12  | 11 months ago | 09/22/2021 |
