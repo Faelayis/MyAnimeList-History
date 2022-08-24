@@ -1,11 +1,12 @@
-# Plan to Watch (195)
+# Plan to Watch (196)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [38924](https://myanimelist.net/anime/38924) |    tv   |  2020  | visual_novel |                                                   Nekopara                                                   |  12 hours ago |        -        |
-| [15051](https://myanimelist.net/anime/15051) |    tv   |  2013  |     other    |                                        Love Live! School Idol Project                                        |   2 days ago  |        -        |
-| [50338](https://myanimelist.net/anime/50338) |    tv   |  2022  |     manga    |                                       Kunoichi Tsubaki no Mune no Uchi                                       |   2 days ago  |        -        |
-| [49782](https://myanimelist.net/anime/49782) |    tv   |  2022  |     manga    |                                           Shadows House 2nd Season                                           |   3 days ago  |        -        |
+| [51678](https://myanimelist.net/anime/51678) |    tv   |  2023  |     manga    |                                             Oniichan wa Oshimai!                                             |  15 hours ago |        -        |
+| [38924](https://myanimelist.net/anime/38924) |    tv   |  2020  | visual_novel |                                                   Nekopara                                                   |   Yesterday   |        -        |
+| [15051](https://myanimelist.net/anime/15051) |    tv   |  2013  |     other    |                                        Love Live! School Idol Project                                        |   3 days ago  |        -        |
+| [50338](https://myanimelist.net/anime/50338) |    tv   |  2022  |     manga    |                                       Kunoichi Tsubaki no Mune no Uchi                                       |   3 days ago  |        -        |
+| [49782](https://myanimelist.net/anime/49782) |    tv   |  2022  |     manga    |                                           Shadows House 2nd Season                                           |   4 days ago  |        -        |
 | [49387](https://myanimelist.net/anime/49387) |    tv   |  2023  |     manga    |                                             Vinland Saga Season 2                                            |   Last week   |        -        |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   Last week   |        -        |
 | [52657](https://myanimelist.net/anime/52657) | special |    -   |   web_manga  |                                      Ousama Ranking: Yuuki no Takarabako                                     |   Last week   |        -        |
@@ -49,7 +50,7 @@
 | [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |     manga    |                                              Mahoutsukai no Yome                                             |  5 months ago |        -        |
 | [50602](https://myanimelist.net/anime/50602) |    tv   |  2022  |     manga    |                                              Spy x Family Part 2                                             |  5 months ago |        -        |
 | [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |     manga    |         Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu         |  5 months ago |        -        |
-| [50481](https://myanimelist.net/anime/50481) |    tv   |  2023  |  light_novel |             Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ (TV)             |  5 months ago |        -        |
+| [50481](https://myanimelist.net/anime/50481) |    tv   |  2023  |  light_novel |             Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ (TV)             |  6 months ago |        -        |
 | [51180](https://myanimelist.net/anime/51180) |    tv   |    -   |  light_novel |                          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season                          |  6 months ago |        -        |
 | [51019](https://myanimelist.net/anime/51019) |    tv   |    -   |     manga    |                                   Kimetsu no Yaiba: Katanakaji no Sato-hen                                   |  6 months ago |        -        |
 | [16353](https://myanimelist.net/anime/16353) |    tv   |  2013  |     manga    |                                                   Love Lab                                                   |  6 months ago |        -        |
@@ -85,7 +86,7 @@
 | [47159](https://myanimelist.net/anime/47159) |    tv   |  2022  |  light_novel |                                    Tensai Ouji no Akaji Kokka Saisei Jutsu                                   |  8 months ago |        -        |
 | [48414](https://myanimelist.net/anime/48414) |    tv   |  2022  |  light_novel |                                                 Sabikui Bisco                                                |  8 months ago |        -        |
 | [45425](https://myanimelist.net/anime/45425) |    tv   |  2022  |     manga    |                                                   Slow Loop                                                  |  8 months ago |        -        |
-| [25159](https://myanimelist.net/anime/25159) |    tv   |  2014  |  light_novel |                                    Inou-Battle wa Nichijou-kei no Naka de                                    |  8 months ago |        -        |
+| [25159](https://myanimelist.net/anime/25159) |    tv   |  2014  |  light_novel |                                    Inou-Battle wa Nichijou-kei no Naka de                                    |  9 months ago |        -        |
 | [26085](https://myanimelist.net/anime/26085) |    tv   |  2015  | 4_koma_manga |                                                   Military!                                                  |  9 months ago |        -        |
 | [37514](https://myanimelist.net/anime/37514) |  movie  |  2019  |   web_manga  |                                   Made in Abyss Movie 1: Tabidachi no Yoake                                  |  9 months ago |        -        |
 | [37515](https://myanimelist.net/anime/37515) |  movie  |  2019  |   web_manga  |                                  Made in Abyss Movie 2: Hourou Suru Tasogare                                 |  9 months ago |        -        |
@@ -110,7 +111,7 @@
 | [46093](https://myanimelist.net/anime/46093) |    tv   |  2021  |   original   |                                            Shiroi Suna no Aquatope                                           | 11 months ago |        -        |
 | [49877](https://myanimelist.net/anime/49877) |  movie  |  2022  |     manga    |                           Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen                          | 11 months ago |        -        |
 | [49889](https://myanimelist.net/anime/49889) |    tv   |    -   |  light_novel |                                 Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 | 11 months ago |        -        |
-| [48569](https://myanimelist.net/anime/48569) |    tv   |  2021  |  light_novel |                                                   86 Part 2                                                  | 11 months ago |        -        |
+| [48569](https://myanimelist.net/anime/48569) |    tv   |  2021  |  light_novel |                                                   86 Part 2                                                  |   09/21/2021  |        -        |
 | [23289](https://myanimelist.net/anime/23289) |    tv   |  2014  | 4_koma_manga |                                           Gekkan Shoujo Nozaki-kun                                           |   09/20/2021  |        -        |
 | [31181](https://myanimelist.net/anime/31181) |    tv   |  2015  |  light_novel |                                                Owarimonogatari                                               |   09/18/2021  |        -        |
 | [39456](https://myanimelist.net/anime/39456) |    tv   |  2019  |     manga    |                                                Sounan Desu ka?                                               |   09/13/2021  |        -        |
