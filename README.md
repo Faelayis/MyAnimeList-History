@@ -6,14 +6,14 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      | Type | Season | Score |                                         Title                                        | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [45653](https://myanimelist.net/anime/45653) |  tv  |  2022  |   -   |                             Soredemo Ayumu wa Yosetekuru                             |   5/?   | 10 hours ago | 08/24/2022 |
-| [42994](https://myanimelist.net/anime/42994) |  tv  |  2022  |   -   |                                Jashin-chan Dropkick X                                |   8/12  | 11 hours ago | 07/15/2022 |
-| [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   10  |                                   Yofukashi no Uta                                   |   7/13  | 11 hours ago | 07/08/2022 |
-| [42963](https://myanimelist.net/anime/42963) |  tv  |  2022  |   -   |                            Kanojo, Okarishimasu 2nd Season                           |   7/12  |  4 days ago  | 07/02/2022 |
-| [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                                 Hataraku Maou-sama!!                                 |   6/12  |  5 days ago  | 07/15/2022 |
-| [47164](https://myanimelist.net/anime/47164) |  tv  |  2022  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen |   5/?   |  5 days ago  | 07/22/2022 |
-| [49470](https://myanimelist.net/anime/49470) |  tv  |  2022  |   -   |                         Mamahaha no Tsurego ga Motokano datta                        |   7/12  |  6 days ago  | 07/08/2022 |
-| [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |                        Made in Abyss: Retsujitsu no Ougonkyou                        |   7/12  |  6 days ago  | 07/06/2022 |
+| [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |                        Made in Abyss: Retsujitsu no Ougonkyou                        |   8/12  | 11 hours ago | 07/06/2022 |
+| [45653](https://myanimelist.net/anime/45653) |  tv  |  2022  |   -   |                             Soredemo Ayumu wa Yosetekuru                             |   5/?   |   Yesterday  | 08/24/2022 |
+| [42994](https://myanimelist.net/anime/42994) |  tv  |  2022  |   -   |                                Jashin-chan Dropkick X                                |   8/12  |   Yesterday  | 07/15/2022 |
+| [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   10  |                                   Yofukashi no Uta                                   |   7/13  |   Yesterday  | 07/08/2022 |
+| [42963](https://myanimelist.net/anime/42963) |  tv  |  2022  |   -   |                            Kanojo, Okarishimasu 2nd Season                           |   7/12  |  5 days ago  | 07/02/2022 |
+| [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                                 Hataraku Maou-sama!!                                 |   6/12  |  6 days ago  | 07/15/2022 |
+| [47164](https://myanimelist.net/anime/47164) |  tv  |  2022  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen |   5/?   |  6 days ago  | 07/22/2022 |
+| [49470](https://myanimelist.net/anime/49470) |  tv  |  2022  |   -   |                         Mamahaha no Tsurego ga Motokano datta                        |   7/12  |   Last week  | 07/08/2022 |
 | [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                                      Engage Kiss                                     |   7/13  |   Last week  | 07/03/2022 |
 | [49220](https://myanimelist.net/anime/49220) |  tv  |  2022  |   -   |                                     Isekai Ojisan                                    |   3/?   |   Last week  | 07/08/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                       One Piece                                      |  1028/? |  2 weeks ago | 01/01/2014 |
@@ -39,11 +39,11 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season | Score |                          Title                          | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |   -   |                        Yuru Yuri                        |   3/12  |   4 days ago  | 06/30/2022 |
+| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |   -   |                        Yuru Yuri                        |   3/12  |   5 days ago  | 06/30/2022 |
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                        Fate/Zero                        |   2/13  |  4 months ago | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                  Madan no Ou to Vanadis                 |   6/13  |  4 months ago | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                     Machikado Mazoku                    |   2/12  |  4 months ago | 04/19/2022 |
-| [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |             Kawaii dake ja Nai Shikimori-san            |   5/12  |  3 weeks ago  | 04/10/2022 |
+| [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |             Kawaii dake ja Nai Shikimori-san            |   5/12  |   Last month  | 04/10/2022 |
 | [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                   Mahoutsukai Reimeiki                  |   2/12  |  3 months ago | 04/09/2022 |
 
 
@@ -67,11 +67,11 @@ List Sync From MyAnimeList (update every hour)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [51678](https://myanimelist.net/anime/51678) |    tv   |  2023  |     manga    |                                             Oniichan wa Oshimai!                                             |  15 hours ago |        -        |
-| [38924](https://myanimelist.net/anime/38924) |    tv   |  2020  | visual_novel |                                                   Nekopara                                                   |   Yesterday   |        -        |
-| [15051](https://myanimelist.net/anime/15051) |    tv   |  2013  |     other    |                                        Love Live! School Idol Project                                        |   3 days ago  |        -        |
-| [50338](https://myanimelist.net/anime/50338) |    tv   |  2022  |     manga    |                                       Kunoichi Tsubaki no Mune no Uchi                                       |   3 days ago  |        -        |
-| [49782](https://myanimelist.net/anime/49782) |    tv   |  2022  |     manga    |                                           Shadows House 2nd Season                                           |   4 days ago  |        -        |
+| [51678](https://myanimelist.net/anime/51678) |    tv   |  2023  |     manga    |                                             Oniichan wa Oshimai!                                             |   Yesterday   |        -        |
+| [38924](https://myanimelist.net/anime/38924) |    tv   |  2020  | visual_novel |                                                   Nekopara                                                   |   2 days ago  |        -        |
+| [15051](https://myanimelist.net/anime/15051) |    tv   |  2013  |     other    |                                        Love Live! School Idol Project                                        |   4 days ago  |        -        |
+| [50338](https://myanimelist.net/anime/50338) |    tv   |  2022  |     manga    |                                       Kunoichi Tsubaki no Mune no Uchi                                       |   4 days ago  |        -        |
+| [49782](https://myanimelist.net/anime/49782) |    tv   |  2022  |     manga    |                                           Shadows House 2nd Season                                           |   5 days ago  |        -        |
 | [49387](https://myanimelist.net/anime/49387) |    tv   |  2023  |     manga    |                                             Vinland Saga Season 2                                            |   Last week   |        -        |
 
 

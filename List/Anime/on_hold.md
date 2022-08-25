@@ -2,11 +2,11 @@
 
 |                      id                      |   Type  | Season | Score |                          Title                          | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |   -   |                        Yuru Yuri                        |   3/12  |   4 days ago  | 06/30/2022 |
+| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |   -   |                        Yuru Yuri                        |   3/12  |   5 days ago  | 06/30/2022 |
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                        Fate/Zero                        |   2/13  |  4 months ago | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                  Madan no Ou to Vanadis                 |   6/13  |  4 months ago | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                     Machikado Mazoku                    |   2/12  |  4 months ago | 04/19/2022 |
-| [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |             Kawaii dake ja Nai Shikimori-san            |   5/12  |  3 weeks ago  | 04/10/2022 |
+| [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |             Kawaii dake ja Nai Shikimori-san            |   5/12  |   Last month  | 04/10/2022 |
 | [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                   Mahoutsukai Reimeiki                  |   2/12  |  3 months ago | 04/09/2022 |
 | [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |           Tate no Yuusha no Nariagari Season 2          |   3/13  |  3 months ago | 04/06/2022 |
 | [49520](https://myanimelist.net/anime/49520) |    tv   |  2022  |   7   |                 Aharen-san wa Hakarenai                 |   4/12  |  3 months ago | 04/01/2022 |
@@ -28,7 +28,7 @@
 | [48556](https://myanimelist.net/anime/48556) |    tv   |  2021  |   -   |                     Takt Op. Destiny                    |   1/12  |  9 months ago | 10/06/2021 |
 | [35241](https://myanimelist.net/anime/35241) |    tv   |  2017  |   -   |                      Konohana Kitan                     |   4/12  | 11 months ago | 09/22/2021 |
 | [42544](https://myanimelist.net/anime/42544) |    tv   |  2021  |   -   |                       Kaizoku Oujo                      |   7/12  | 10 months ago | 08/30/2021 |
-| [11061](https://myanimelist.net/anime/11061) |    tv   |  2011  |   -   |                  Hunter x Hunter (2011)                 |  79/148 |  4 months ago | 08/24/2021 |
+| [11061](https://myanimelist.net/anime/11061) |    tv   |  2011  |   -   |                  Hunter x Hunter (2011)                 |  79/148 |  5 months ago | 08/24/2021 |
 |  [9756](https://myanimelist.net/anime/9756)  |    tv   |  2011  |   -   |                Mahou Shoujo Madoka★Magica               |   2/12  |   Last year   | 08/19/2021 |
 | [40935](https://myanimelist.net/anime/40935) |    tv   |  2021  |   -   |                   Beastars 2nd Season                   |   8/12  |   Last year   | 07/20/2021 |
 | [43969](https://myanimelist.net/anime/43969) |    tv   |  2021  |   -   |                     Kanojo mo Kanojo                    |   3/12  |   Last year   | 07/05/2021 |
