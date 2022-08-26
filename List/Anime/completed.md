@@ -1,7 +1,8 @@
-# Completed (353)
+# Completed (354)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [39324](https://myanimelist.net/anime/39324) |    tv   |  2019  |   9   |              Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.              |  8 hours ago  | 08/26/2022 |  08/26/2022 |
 | [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |   Last month  | 05/13/2022 |  07/08/2022 |
 |   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |   Last month  | 07/06/2022 |  07/06/2022 |
 | [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |  2 months ago | 04/07/2022 |  06/29/2022 |
@@ -46,7 +47,7 @@
 | [40540](https://myanimelist.net/anime/40540) |    tv   |  2020  |   8   |                        Sword Art Online: Alicization - War of Underworld 2nd Season                       |  5 months ago | 03/17/2022 |  03/19/2022 |
 | [39597](https://myanimelist.net/anime/39597) |    tv   |  2019  |   7   |                             Sword Art Online: Alicization - War of Underworld                             |  5 months ago | 03/16/2022 |  03/17/2022 |
 | [41120](https://myanimelist.net/anime/41120) |    tv   |  2020  |   8   |                                       Fugou Keiji: Balance:Unlimited                                      |  5 months ago | 03/13/2022 |  03/13/2022 |
-| [41694](https://myanimelist.net/anime/41694) |    tv   |  2021  |   8   |                                           Hataraku Saibou Black                                           |  5 months ago | 03/08/2022 |  03/11/2022 |
+| [41694](https://myanimelist.net/anime/41694) |    tv   |  2021  |   8   |                                           Hataraku Saibou Black                                           |  6 months ago | 03/08/2022 |  03/11/2022 |
 | [40416](https://myanimelist.net/anime/40416) |  movie  |  2020  |   9   |                                       Date A Bullet: Dead or Bullet                                       |  6 months ago | 03/03/2022 |  03/03/2022 |
 | [42423](https://myanimelist.net/anime/42423) |  movie  |  2020  |   10  |                                     Date A Bullet: Nightmare or Queen                                     |  4 months ago | 03/03/2022 |  03/03/2022 |
 | [24655](https://myanimelist.net/anime/24655) |  movie  |  2015  |   6   |                                     Date A Live Movie: Mayuri Judgment                                    |  6 months ago | 03/03/2022 |  03/03/2022 |
@@ -76,7 +77,7 @@
 | [44069](https://myanimelist.net/anime/44069) |   ona   |  2021  |   7   |                                      Xian Wang de Richang Shenghuo 2                                      |  7 months ago | 11/01/2021 |  01/28/2022 |
 | [34497](https://myanimelist.net/anime/34497) |    tv   |  2018  |   7   |                               Death March kara Hajimaru Isekai Kyousoukyoku                               |  7 months ago | 01/21/2022 |  01/21/2022 |
 | [41587](https://myanimelist.net/anime/41587) |    tv   |  2021  |   8   |                                      Boku no Hero Academia 5th Season                                     |  7 months ago | 01/18/2022 |  01/18/2022 |
-| [38408](https://myanimelist.net/anime/38408) |    tv   |  2019  |   8   |                                      Boku no Hero Academia 4th Season                                     |  7 months ago | 01/12/2022 |  01/14/2022 |
+| [38408](https://myanimelist.net/anime/38408) |    tv   |  2019  |   8   |                                      Boku no Hero Academia 4th Season                                     |  8 months ago | 01/12/2022 |  01/14/2022 |
 | [36456](https://myanimelist.net/anime/36456) |    tv   |  2018  |   9   |                                      Boku no Hero Academia 3rd Season                                     |  3 months ago | 01/11/2022 |  01/12/2022 |
 | [33486](https://myanimelist.net/anime/33486) |    tv   |  2017  |   8   |                                      Boku no Hero Academia 2nd Season                                     |  8 months ago | 01/09/2022 |  01/11/2022 |
 | [31964](https://myanimelist.net/anime/31964) |    tv   |  2016  |   8   |                                           Boku no Hero Academia                                           |  8 months ago | 01/09/2022 |  01/09/2022 |
@@ -123,8 +124,8 @@
 | [24703](https://myanimelist.net/anime/24703) |    tv   |  2015  |   7   |                                            High School DxD BorN                                           | 11 months ago | 09/22/2021 |  09/25/2021 |
 | [42340](https://myanimelist.net/anime/42340) |    tv   |  2021  |   7   |                                           Meikyuu Black Company                                           | 11 months ago | 08/10/2021 |  09/25/2021 |
 | [42627](https://myanimelist.net/anime/42627) |    tv   |  2021  |   6   |                                            Peach Boy Riverside                                            | 11 months ago | 07/04/2021 |  09/25/2021 |
-| [33502](https://myanimelist.net/anime/33502) |    tv   |  2017  |   7   |                Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?                | 11 months ago | 09/24/2021 |  09/24/2021 |
-| [39247](https://myanimelist.net/anime/39247) |    tv   |  2021  |   7   |                                     Kobayashi-san Chi no Maid Dragon S                                    | 11 months ago | 07/08/2021 |  09/24/2021 |
+| [33502](https://myanimelist.net/anime/33502) |    tv   |  2017  |   7   |                Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?                |   Last year   | 09/24/2021 |  09/24/2021 |
+| [39247](https://myanimelist.net/anime/39247) |    tv   |  2021  |   7   |                                     Kobayashi-san Chi no Maid Dragon S                                    |   Last year   | 07/08/2021 |  09/24/2021 |
 | [44203](https://myanimelist.net/anime/44203) |    tv   |  2021  |   6   |                                              Seirei Gensouki                                              | 11 months ago | 07/06/2021 |  09/24/2021 |
 | [43523](https://myanimelist.net/anime/43523) |    tv   |  2021  |   8   |                                     Tsuki ga Michibiku Isekai Douchuu                                     |   Last year   | 07/07/2021 |  09/23/2021 |
 | [41487](https://myanimelist.net/anime/41487) |    tv   |  2021  |   8   |                              Tensei shitara Slime Datta Ken 2nd Season Part 2                             |   Last year   | 07/07/2021 |  09/21/2021 |
@@ -157,7 +158,7 @@
 | [33352](https://myanimelist.net/anime/33352) |    tv   |  2018  |   7   |                                             Violet Evergarden                                             |   Last year   | 06/04/2021 |  06/23/2021 |
 | [15583](https://myanimelist.net/anime/15583) |    tv   |  2013  |   7   |                                                Date A Live                                                |   Last year   | 06/21/2021 |  06/21/2021 |
 | [17641](https://myanimelist.net/anime/17641) |   ova   |  2013  |   6   |                                         Date A Live: Date to Date                                         |   Last year   | 06/21/2021 |  06/21/2021 |
-| [44942](https://myanimelist.net/anime/44942) |   ona   |  2021  |   6   |                                            Shuumatsu no Walküre                                           | 11 months ago | 06/20/2021 |  06/20/2021 |
+| [44942](https://myanimelist.net/anime/44942) |   ona   |  2021  |   6   |                                            Shuumatsu no Walküre                                           |   Last year   | 06/20/2021 |  06/20/2021 |
 | [41456](https://myanimelist.net/anime/41456) |    tv   |  2021  |   7   |                                          Sentouin, Hakenshimasu!                                          |  4 months ago | 04/04/2021 |  06/20/2021 |
 |  [3712](https://myanimelist.net/anime/3712)  |    tv   |  2008  |   6   |                                   Zero no Tsukaima: Princesses no Rondo                                   |   Last year   | 06/14/2021 |  06/17/2021 |
 |  [1840](https://myanimelist.net/anime/1840)  |    tv   |  2007  |   7   |                                    Zero no Tsukaima: Futatsuki no Kishi                                   |   Last year   | 06/13/2021 |  06/14/2021 |
@@ -228,7 +229,7 @@
 | [10719](https://myanimelist.net/anime/10719) |    tv   |  2011  |   6   |                                        Boku wa Tomodachi ga Sukunai                                       |   Last year   | 11/24/2020 |  11/25/2020 |
 | [23273](https://myanimelist.net/anime/23273) |    tv   |  2014  |   7   |                                          Shigatsu wa Kimi no Uso                                          |   Last year   | 11/21/2020 |  11/25/2020 |
 | [11617](https://myanimelist.net/anime/11617) |    tv   |  2012  |   8   |                                              High School DxD                                              |   Last year   | 11/23/2020 |  11/23/2020 |
-| [37779](https://myanimelist.net/anime/37779) |    tv   |  2019  |   9   |                                           Yakusoku no Neverland                                           | 11 months ago | 11/22/2020 |  11/22/2020 |
+| [37779](https://myanimelist.net/anime/37779) |    tv   |  2019  |   9   |                                           Yakusoku no Neverland                                           |   Last year   | 11/22/2020 |  11/22/2020 |
 | [37347](https://myanimelist.net/anime/37347) |    tv   |  2019  |   8   |                        Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II                        |   Last year   | 11/21/2020 |  11/22/2020 |
 | [33506](https://myanimelist.net/anime/33506) |    tv   |  2017  |   6   |                                     Ao no Exorcist: Kyoto Fujouou-hen                                     |   Last year   | 11/21/2020 |  11/21/2020 |
 |  [9919](https://myanimelist.net/anime/9919)  |    tv   |  2011  |   7   |                                               Ao no Exorcist                                              |   Last year   | 11/20/2020 |  11/21/2020 |
@@ -242,7 +243,7 @@
 | [12729](https://myanimelist.net/anime/12729) |   ova   |  2012  |   8   |                                            High School DxD OVA                                            |   Last year   | 11/01/2020 |  11/01/2020 |
 | [35203](https://myanimelist.net/anime/35203) |    tv   |  2017  |   7   |                                      Isekai wa Smartphone to Tomo ni.                                     |   Last year   | 10/28/2020 |  10/30/2020 |
 | [35376](https://myanimelist.net/anime/35376) |    tv   |  2017  |   6   |                                           Himouto! Umaru-chan R                                           |   Last year   | 09/09/2020 |  10/27/2020 |
-| [34902](https://myanimelist.net/anime/34902) |    tv   |  2017  |   8   |                                             Tsurezure Children                                            | 11 months ago | 10/09/2020 |  10/10/2020 |
+| [34902](https://myanimelist.net/anime/34902) |    tv   |  2017  |   8   |                                             Tsurezure Children                                            |   Last year   | 10/09/2020 |  10/10/2020 |
 | [40591](https://myanimelist.net/anime/40591) |    tv   |  2020  |   8   |                         Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen                        |   Last year   | 09/28/2020 |  09/30/2020 |
 | [37999](https://myanimelist.net/anime/37999) |    tv   |  2019  |   9   |                         Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen                        |   Last year   | 09/26/2020 |  09/28/2020 |
 | [32937](https://myanimelist.net/anime/32937) |    tv   |  2017  |   7   |                                  Kono Subarashii Sekai ni Shukufuku wo! 2                                 |   Last year   | 09/23/2020 |  09/24/2020 |
@@ -264,9 +265,9 @@
 | [41930](https://myanimelist.net/anime/41930) |    tv   |  2020  |   7   |                                            Kamisama ni Natta Hi                                           |   Last year   | 11/30/2020 |      -      |
 | [13759](https://myanimelist.net/anime/13759) |    tv   |  2012  |   8   |                                        Sakura-sou no Pet na Kanojo                                        |   Last year   | 11/28/2020 |      -      |
 | [40454](https://myanimelist.net/anime/40454) |    tv   |  2020  |   7   |                        Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III                       |   Last year   | 11/22/2020 |      -      |
-| [41619](https://myanimelist.net/anime/41619) |    tv   |  2020  |   9   |                                               Munou na Nana                                               | 11 months ago | 10/04/2020 |      -      |
+| [41619](https://myanimelist.net/anime/41619) |    tv   |  2020  |   9   |                                               Munou na Nana                                               |   Last year   | 10/04/2020 |      -      |
 |  [6880](https://myanimelist.net/anime/6880)  |    tv   |  2011  |   7   |                                             Deadman Wonderland                                            |   Last year   | 09/12/2020 |      -      |
-| [37450](https://myanimelist.net/anime/37450) |    tv   |  2018  |   8   |                          Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai                         | 11 months ago | 09/12/2020 |      -      |
+| [37450](https://myanimelist.net/anime/37450) |    tv   |  2018  |   8   |                          Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai                         |   Last year   | 09/12/2020 |      -      |
 | [36474](https://myanimelist.net/anime/36474) |    tv   |  2018  |   5   |                                       Sword Art Online: Alicization                                       |  5 months ago | 06/06/2020 |      -      |
 | [22147](https://myanimelist.net/anime/22147) |    tv   |  2014  |   8   |                                            Amagi Brilliant Park                                           | 10 months ago |      -     |      -      |
 | [28999](https://myanimelist.net/anime/28999) |    tv   |  2015  |   9   |                                                 Charlotte                                                 |  4 months ago |      -     |      -      |
