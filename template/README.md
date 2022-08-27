@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=MyAnimeList&logoColor=FFFFFF&style=flat)](https://myanimelist.net/profile/Faelayis)
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
-List Sync From MyAnimeList (update every hour)
+List Sync From MyAnimeList (update every day)
 
 #### Watching <!--watching_amount--> ``<!--watching_anime%-->``
 
