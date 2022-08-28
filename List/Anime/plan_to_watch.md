@@ -1,11 +1,13 @@
-# Plan to Watch (195)
+# Plan to Watch (197)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [51678](https://myanimelist.net/anime/51678) |    tv   |  2023  |     manga    |                                             Oniichan wa Oshimai!                                             |   3 days ago  |        -        |
-| [38924](https://myanimelist.net/anime/38924) |    tv   |  2020  | visual_novel |                                                   Nekopara                                                   |   4 days ago  |        -        |
-| [15051](https://myanimelist.net/anime/15051) |    tv   |  2013  |     other    |                                        Love Live! School Idol Project                                        |   6 days ago  |        -        |
-| [50338](https://myanimelist.net/anime/50338) |    tv   |  2022  |     manga    |                                       Kunoichi Tsubaki no Mune no Uchi                                       |   6 days ago  |        -        |
+|  [7627](https://myanimelist.net/anime/7627)  |    tv   |  2010  |     manga    |                                                  Mitsudomoe                                                  |  13 hours ago |        -        |
+| [38759](https://myanimelist.net/anime/38759) |    tv   |  2019  |   web_manga  |                                         Sewayaki Kitsune no Senko-san                                        |  13 hours ago |        -        |
+| [51678](https://myanimelist.net/anime/51678) |    tv   |  2023  |     manga    |                                             Oniichan wa Oshimai!                                             |   4 days ago  |        -        |
+| [38924](https://myanimelist.net/anime/38924) |    tv   |  2020  | visual_novel |                                                   Nekopara                                                   |   5 days ago  |        -        |
+| [15051](https://myanimelist.net/anime/15051) |    tv   |  2013  |     other    |                                        Love Live! School Idol Project                                        |   Last week   |        -        |
+| [50338](https://myanimelist.net/anime/50338) |    tv   |  2022  |     manga    |                                       Kunoichi Tsubaki no Mune no Uchi                                       |   Last week   |        -        |
 | [49782](https://myanimelist.net/anime/49782) |    tv   |  2022  |     manga    |                                           Shadows House 2nd Season                                           |   Last week   |        -        |
 | [49387](https://myanimelist.net/anime/49387) |    tv   |  2023  |     manga    |                                             Vinland Saga Season 2                                            |   Last week   |        -        |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |  2 weeks ago  |        -        |
@@ -47,8 +49,8 @@
 | [36296](https://myanimelist.net/anime/36296) |    tv   |  2018  |     manga    |                                               Hinamatsuri (TV)                                               |  5 months ago |        -        |
 |  [9617](https://myanimelist.net/anime/9617)  |  movie  |  2011  | 4_koma_manga |                                                  K-On! Movie                                                 |  5 months ago |        -        |
 | [21511](https://myanimelist.net/anime/21511) |    tv   |  2015  |     game     |                                          Kantai Collection: KanColle                                         |  5 months ago |        -        |
-| [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |     manga    |                                              Mahoutsukai no Yome                                             |  5 months ago |        -        |
-| [50602](https://myanimelist.net/anime/50602) |    tv   |  2022  |     manga    |                                              Spy x Family Part 2                                             |  5 months ago |        -        |
+| [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |     manga    |                                              Mahoutsukai no Yome                                             |  6 months ago |        -        |
+| [50602](https://myanimelist.net/anime/50602) |    tv   |  2022  |     manga    |                                              Spy x Family Part 2                                             |  6 months ago |        -        |
 | [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |     manga    |         Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu         |  6 months ago |        -        |
 | [50481](https://myanimelist.net/anime/50481) |    tv   |  2023  |  light_novel |             Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ (TV)             |  6 months ago |        -        |
 | [51180](https://myanimelist.net/anime/51180) |    tv   |    -   |  light_novel |                          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season                          |  6 months ago |        -        |
@@ -79,8 +81,8 @@
 | [38186](https://myanimelist.net/anime/38186) |    tv   |  2019  |     manga    |                                        Bokutachi wa Benkyou ga Dekinai                                       |  8 months ago |        -        |
 | [50612](https://myanimelist.net/anime/50612) | special |  2022  |     manga    |                                              Dr. Stone: Ryuusui                                              |  8 months ago |        -        |
 | [50608](https://myanimelist.net/anime/50608) |    tv   |  2023  |     manga    |                                       Tokyo Revengers: Seiya Kessen-hen                                      |  8 months ago |        -        |
-| [49310](https://myanimelist.net/anime/49310) |  movie  |  2022  |     manga    |                                            Fruits Basket: Prelude                                            |  8 months ago |        -        |
-| [14829](https://myanimelist.net/anime/14829) |    tv   |  2013  |     manga    |                                        Fate/kaleid liner Prisma☆Illya                                        |  8 months ago |        -        |
+| [49310](https://myanimelist.net/anime/49310) |  movie  |  2022  |     manga    |                                            Fruits Basket: Prelude                                            |  9 months ago |        -        |
+| [14829](https://myanimelist.net/anime/14829) |    tv   |  2013  |     manga    |                                        Fate/kaleid liner Prisma☆Illya                                        |  9 months ago |        -        |
 | [33589](https://myanimelist.net/anime/33589) |    tv   |  2016  |   original   |                                                 ViVid Strike!                                                |  9 months ago |        -        |
 | [47159](https://myanimelist.net/anime/47159) |    tv   |  2022  |  light_novel |                                    Tensai Ouji no Akaji Kokka Saisei Jutsu                                   |  9 months ago |        -        |
 | [48414](https://myanimelist.net/anime/48414) |    tv   |  2022  |  light_novel |                                                 Sabikui Bisco                                                |  9 months ago |        -        |
