@@ -9,7 +9,7 @@
 | [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |             Kawaii dake ja Nai Shikimori-san            |   5/12  |   Last month  | 04/10/2022 |
 | [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                   Mahoutsukai Reimeiki                  |   2/12  |  3 months ago | 04/09/2022 |
 | [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |           Tate no Yuusha no Nariagari Season 2          |   3/13  |  3 months ago | 04/06/2022 |
-| [49520](https://myanimelist.net/anime/49520) |    tv   |  2022  |   7   |                 Aharen-san wa Hakarenai                 |   4/12  |  11 hours ago | 04/01/2022 |
+| [49520](https://myanimelist.net/anime/49520) |    tv   |  2022  |   7   |                 Aharen-san wa Hakarenai                 |   4/12  |   Yesterday   | 04/01/2022 |
 | [43470](https://myanimelist.net/anime/43470) |    tv   |  2022  |   6   |  Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart  |   2/12  |  3 months ago | 04/01/2022 |
 | [49930](https://myanimelist.net/anime/49930) |    tv   |  2022  |   -   |     Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2     |   2/13  |  5 months ago | 03/01/2022 |
 | [32182](https://myanimelist.net/anime/32182) |    tv   |  2016  |   -   |                      Mob Psycho 100                     |   3/12  |  7 months ago | 02/05/2022 |
