@@ -1,9 +1,10 @@
-# Plan to Watch (197)
+# Plan to Watch (198)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-|  [7627](https://myanimelist.net/anime/7627)  |    tv   |  2010  |     manga    |                                                  Mitsudomoe                                                  |   3 days ago  |        -        |
-| [38759](https://myanimelist.net/anime/38759) |    tv   |  2019  |   web_manga  |                                         Sewayaki Kitsune no Senko-san                                        |   3 days ago  |        -        |
+|  [6213](https://myanimelist.net/anime/6213)  |    tv   |  2009  |     manga    |                                            Toaru Kagaku no Railgun                                           |  12 hours ago |        -        |
+|  [7627](https://myanimelist.net/anime/7627)  |    tv   |  2010  |     manga    |                                                  Mitsudomoe                                                  |   4 days ago  |        -        |
+| [38759](https://myanimelist.net/anime/38759) |    tv   |  2019  |   web_manga  |                                         Sewayaki Kitsune no Senko-san                                        |   4 days ago  |        -        |
 | [51678](https://myanimelist.net/anime/51678) |    tv   |  2023  |     manga    |                                             Oniichan wa Oshimai!                                             |   Last week   |        -        |
 | [38924](https://myanimelist.net/anime/38924) |    tv   |  2020  | visual_novel |                                                   Nekopara                                                   |   Last week   |        -        |
 | [15051](https://myanimelist.net/anime/15051) |    tv   |  2013  |     other    |                                        Love Live! School Idol Project                                        |   Last week   |        -        |
@@ -16,7 +17,7 @@
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                               Summertime Render                                              |  3 weeks ago  |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |   Last month  |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |             Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita             |   Last month  |        -        |
-| [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                               Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                              |   Last month  |        -        |
+| [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                               Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                              |  2 months ago |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                Lovely★Complex                                                |  2 months ago |        -        |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                      Kono Subarashii Sekai ni Bakuen wo!                                     |  2 months ago |        -        |
 | [50739](https://myanimelist.net/anime/50739) |    tv   |    -   |  light_novel |                      Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                     |  2 months ago |        -        |
@@ -77,7 +78,7 @@
 | [50664](https://myanimelist.net/anime/50664) |    tv   |    -   |  light_novel |                                         Saihate no Paladin 2nd Season                                        |  8 months ago |        -        |
 | [11597](https://myanimelist.net/anime/11597) |    tv   |  2012  |  light_novel |                                                Nisemonogatari                                                |  8 months ago |        -        |
 | [18497](https://myanimelist.net/anime/18497) |    tv   |  2013  |     manga    |                                         Yozakura Quartet: Hana no Uta                                        |  8 months ago |        -        |
-| [12893](https://myanimelist.net/anime/12893) | special |  2012  |   web_manga  |                                     Danshi Koukousei no Nichijou Specials                                    |  8 months ago |        -        |
+| [12893](https://myanimelist.net/anime/12893) | special |  2012  |   web_manga  |                                     Danshi Koukousei no Nichijou Specials                                    |  9 months ago |        -        |
 | [38186](https://myanimelist.net/anime/38186) |    tv   |  2019  |     manga    |                                        Bokutachi wa Benkyou ga Dekinai                                       |  9 months ago |        -        |
 | [50612](https://myanimelist.net/anime/50612) | special |  2022  |     manga    |                                              Dr. Stone: Ryuusui                                              |  9 months ago |        -        |
 | [50608](https://myanimelist.net/anime/50608) |    tv   |  2023  |     manga    |                                       Tokyo Revengers: Seiya Kessen-hen                                      |  9 months ago |        -        |
