@@ -1,4 +1,4 @@
-# Dropped (28)
+# Dropped (27)
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
@@ -16,7 +16,6 @@
 | [42307](https://myanimelist.net/anime/42307) |  tv  |  2021  |   2   |                     Subarashiki Kono Sekai The Animation                     |   2/12  |   Last year  | 04/24/2021 |
 | [42826](https://myanimelist.net/anime/42826) |  tv  |  2021  |   4   |                        Seijo no Maryoku wa Bannou Desu                       |   1/12  |   Last year  | 04/07/2021 |
 | [42192](https://myanimelist.net/anime/42192) |  tv  |  2021  |   4   |                                  Edens Zero                                  |   0/25  |   Last year  | 04/06/2021 |
-|   [226](https://myanimelist.net/anime/226)   |  tv  |  2004  |   3   |                                  Elfen Lied                                  |   2/13  |   Last year  | 03/29/2021 |
 | [39990](https://myanimelist.net/anime/39990) |  ona |  2020  |   2   |                                   Vlad Love                                  |   1/12  |   Last year  | 03/28/2021 |
 |  [8841](https://myanimelist.net/anime/8841)  |  tv  |  2011  |   5   |                            Kore wa Zombie Desu ka?                           |   7/12  |   Last year  | 01/12/2021 |
 | [42825](https://myanimelist.net/anime/42825) |  tv  |  2021  |   2   |                        Project Scard: Praeter no Kizu                        |   1/13  |   Last year  | 01/09/2021 |
