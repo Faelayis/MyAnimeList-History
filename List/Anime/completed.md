@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [37105](https://myanimelist.net/anime/37105) |    tv   |  2018  |   7   |                                                 Grand Blue                                                |   4 days ago  | 09/03/2022 |  09/03/2022 |
-|   [226](https://myanimelist.net/anime/226)   |    tv   |  2004  |   5   |                                                 Elfen Lied                                                |   4 days ago  | 03/29/2021 |  09/03/2022 |
+| [37105](https://myanimelist.net/anime/37105) |    tv   |  2018  |   7   |                                                 Grand Blue                                                |   5 days ago  | 09/03/2022 |  09/03/2022 |
+|   [226](https://myanimelist.net/anime/226)   |    tv   |  2004  |   5   |                                                 Elfen Lied                                                |   5 days ago  | 03/29/2021 |  09/03/2022 |
 | [50410](https://myanimelist.net/anime/50410) |  movie  |  2022  |   7   |                                            One Piece Film: Red                                            |   Last week   | 08/26/2022 |  08/26/2022 |
 | [39324](https://myanimelist.net/anime/39324) |    tv   |  2019  |   9   |              Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.              |   Last week   | 08/26/2022 |  08/26/2022 |
 | [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |  2 months ago | 05/13/2022 |  07/08/2022 |
@@ -22,7 +22,7 @@
 | [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             |  3 months ago | 05/27/2022 |  05/28/2022 |
 |  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |  3 months ago | 05/20/2022 |  05/27/2022 |
 |  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |  3 months ago | 05/14/2022 |  05/20/2022 |
-| [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |  3 months ago | 05/16/2022 |  05/19/2022 |
+| [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |  4 months ago | 05/16/2022 |  05/19/2022 |
 | [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |  4 months ago | 05/12/2022 |  05/13/2022 |
 | [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   10  |                                              Owari no Seraph                                              |  3 months ago | 05/12/2022 |  05/12/2022 |
 | [35839](https://myanimelist.net/anime/35839) |    tv   |  2018  |   7   |                                          Sora yori mo Tooi Basho                                          |  4 months ago | 05/07/2022 |  05/07/2022 |
@@ -216,7 +216,7 @@
 | [38656](https://myanimelist.net/anime/38656) |    tv   |  2020  |   8   |                                               Darwin's Game                                               |   Last year   | 02/26/2021 |  02/28/2021 |
 | [28851](https://myanimelist.net/anime/28851) |  movie  |  2016  |   9   |                                               Koe no Katachi                                              |   Last year   | 02/26/2021 |  02/26/2021 |
 | [20787](https://myanimelist.net/anime/20787) |    tv   |  2014  |   7   |                                                Black Bullet                                               |   Last year   | 02/16/2021 |  02/18/2021 |
-| [37711](https://myanimelist.net/anime/37711) |   ova   |  2018  |   6   |                                  Koi to Uso: Isshou no Koi/Koi no Kimochi                                 |   6 days ago  | 02/01/2021 |  02/01/2021 |
+| [37711](https://myanimelist.net/anime/37711) |   ova   |  2018  |   6   |                                  Koi to Uso: Isshou no Koi/Koi no Kimochi                                 |   Last week   | 02/01/2021 |  02/01/2021 |
 | [34934](https://myanimelist.net/anime/34934) |    tv   |  2017  |   6   |                                                 Koi to Uso                                                |   Last year   | 01/25/2021 |  02/01/2021 |
 | [37982](https://myanimelist.net/anime/37982) |    tv   |  2019  |   7   |                                             Domestic na Kanojo                                            |   Last year   | 01/25/2021 |  01/25/2021 |
 | [34498](https://myanimelist.net/anime/34498) |  movie  |  2017  |   10  |                           Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?                          |   Last year   | 01/19/2021 |  01/19/2021 |
