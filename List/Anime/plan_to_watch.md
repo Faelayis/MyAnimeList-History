@@ -1,13 +1,15 @@
-# Plan to Watch (204)
+# Plan to Watch (206)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [49891](https://myanimelist.net/anime/49891) |    tv   |  2022  |  light_novel |                                          Tensei shitara Ken Deshita                                          |   Yesterday   |        -        |
-| [49938](https://myanimelist.net/anime/49938) |  movie  |  2022  |   original   |                                        Ame wo Tsugeru Hyouryuu Danchi                                        |   Yesterday   |        -        |
-| [52969](https://myanimelist.net/anime/52969) |    tv   |    -   |  light_novel |                                        Jitsu wa Ore, Saikyou deshita?                                        |   3 days ago  |        -        |
-| [52955](https://myanimelist.net/anime/52955) |    tv   |  2023  |     manga    |                                         Mahoutsukai no Yome Season 2                                         |   3 days ago  |        -        |
-| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   5 days ago  |    10/01/2022   |
-| [51678](https://myanimelist.net/anime/51678) |    tv   |  2023  |     manga    |                                             Oniichan wa Oshimai!                                             |   5 days ago  |    01/01/2023   |
+| [34134](https://myanimelist.net/anime/34134) |    tv   |  2019  |   web_manga  |                                           One Punch Man 2nd Season                                           |  21 hours ago |        -        |
+| [52807](https://myanimelist.net/anime/52807) |    tv   |    -   |     manga    |                                                One Punch Man 3                                               |  21 hours ago |        -        |
+| [49891](https://myanimelist.net/anime/49891) |    tv   |  2022  |  light_novel |                                          Tensei shitara Ken Deshita                                          |   2 days ago  |        -        |
+| [49938](https://myanimelist.net/anime/49938) |  movie  |  2022  |   original   |                                        Ame wo Tsugeru Hyouryuu Danchi                                        |   2 days ago  |        -        |
+| [52969](https://myanimelist.net/anime/52969) |    tv   |    -   |  light_novel |                                        Jitsu wa Ore, Saikyou deshita?                                        |   4 days ago  |        -        |
+| [52955](https://myanimelist.net/anime/52955) |    tv   |  2023  |     manga    |                                         Mahoutsukai no Yome Season 2                                         |   4 days ago  |        -        |
+| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   6 days ago  |    10/01/2022   |
+| [51678](https://myanimelist.net/anime/51678) |    tv   |  2023  |     manga    |                                             Oniichan wa Oshimai!                                             |   6 days ago  |    01/01/2023   |
 |  [6372](https://myanimelist.net/anime/6372)  |  movie  |  2009  |   original   |                                   Higashi no Eden Movie I: The King of Eden                                  |   Last week   |        -        |
 |  [6927](https://myanimelist.net/anime/6927)  |  movie  |  2009  |   original   |                                      Higashi no Eden: Air Communication                                      |   Last week   |        -        |
 |   [585](https://myanimelist.net/anime/585)   |  movie  |  1995  |     manga    |                                               Mimi wo Sumaseba                                               |   Last week   |        -        |
@@ -82,7 +84,7 @@
 | [35459](https://myanimelist.net/anime/35459) |   ova   |  2017  |     manga    |                                  Boku no Hero Academia: Training of the Dead                                 |  8 months ago |        -        |
 |  [2593](https://myanimelist.net/anime/2593)  |  movie  |  2007  |  light_novel |                                     Kara no Kyoukai Movie 1: Fukan Fuukei                                    |  8 months ago |        -        |
 | [36023](https://myanimelist.net/anime/36023) |    tv   |  2018  |     game     |                                            Persona 5 the Animation                                           |  8 months ago |        -        |
-| [50664](https://myanimelist.net/anime/50664) |    tv   |    -   |  light_novel |                                         Saihate no Paladin 2nd Season                                        |  8 months ago |        -        |
+| [50664](https://myanimelist.net/anime/50664) |    tv   |    -   |  light_novel |                                         Saihate no Paladin 2nd Season                                        |  9 months ago |        -        |
 | [11597](https://myanimelist.net/anime/11597) |    tv   |  2012  |  light_novel |                                                Nisemonogatari                                                |  9 months ago |        -        |
 | [18497](https://myanimelist.net/anime/18497) |    tv   |  2013  |     manga    |                                         Yozakura Quartet: Hana no Uta                                        |  9 months ago |        -        |
 | [12893](https://myanimelist.net/anime/12893) | special |  2012  |   web_manga  |                                     Danshi Koukousei no Nichijou Specials                                    |  9 months ago |        -        |
@@ -97,8 +99,8 @@
 | [45425](https://myanimelist.net/anime/45425) |    tv   |  2022  |     manga    |                                                   Slow Loop                                                  |  9 months ago |        -        |
 | [25159](https://myanimelist.net/anime/25159) |    tv   |  2014  |  light_novel |                                    Inou-Battle wa Nichijou-kei no Naka de                                    |  9 months ago |        -        |
 | [26085](https://myanimelist.net/anime/26085) |    tv   |  2015  | 4_koma_manga |                                                   Military!                                                  |  9 months ago |        -        |
-| [37514](https://myanimelist.net/anime/37514) |  movie  |  2019  |   web_manga  |                                   Made in Abyss Movie 1: Tabidachi no Yoake                                  |  9 months ago |        -        |
-| [37515](https://myanimelist.net/anime/37515) |  movie  |  2019  |   web_manga  |                                  Made in Abyss Movie 2: Hourou Suru Tasogare                                 |  9 months ago |        -        |
+| [37514](https://myanimelist.net/anime/37514) |  movie  |  2019  |   web_manga  |                                   Made in Abyss Movie 1: Tabidachi no Yoake                                  | 10 months ago |        -        |
+| [37515](https://myanimelist.net/anime/37515) |  movie  |  2019  |   web_manga  |                                  Made in Abyss Movie 2: Hourou Suru Tasogare                                 | 10 months ago |        -        |
 | [18277](https://myanimelist.net/anime/18277) |    tv   |  2013  |  light_novel |                                               Strike the Blood                                               | 10 months ago |        -        |
 | [33286](https://myanimelist.net/anime/33286) |   ova   |  2016  |  light_novel |                                              Strike the Blood II                                             | 10 months ago |        -        |
 | [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |     manga    |                                               Amaama to Inazuma                                              | 10 months ago |        -        |
