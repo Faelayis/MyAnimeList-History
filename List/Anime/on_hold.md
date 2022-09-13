@@ -39,7 +39,7 @@
 | [18153](https://myanimelist.net/anime/18153) |    tv   |  2013  |   -   |                      Kyoukai no Kanata                     |   2/12  |   Last year   | 05/27/2021 |
 | [43007](https://myanimelist.net/anime/43007) |    tv   |  2021  |   -   |        Osananajimi ga Zettai ni Makenai Love Comedy        |   5/12  |   Last year   | 05/25/2021 |
 | [35145](https://myanimelist.net/anime/35145) | special |  2017  |   -   |               Kobayashi-san Chi no OO Dragon               |   2/7   |   Last year   | 05/14/2021 |
-|  [1642](https://myanimelist.net/anime/1642)  |    tv   |  2005  |   -   |                      Sugar Sugar Rune                      |   5/51  |   6 days ago  | 05/10/2021 |
+|  [1642](https://myanimelist.net/anime/1642)  |    tv   |  2005  |   -   |                      Sugar Sugar Rune                      |   5/51  |   Last week   | 05/10/2021 |
 | [41025](https://myanimelist.net/anime/41025) |    tv   |  2021  |   7   |                     Fumetsu no Anata e                     |  16/20  |  7 months ago | 04/28/2021 |
 | [46095](https://myanimelist.net/anime/46095) |    tv   |  2021  |   -   |                  Vivy: Fluorite Eye's Song                 |   4/13  |   Last year   | 04/28/2021 |
 |  [2787](https://myanimelist.net/anime/2787)  |    tv   |  2007  |   -   |                Shakugan no Shana II (Second)               |   1/24  |   Last year   | 02/19/2021 |
