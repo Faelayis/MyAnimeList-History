@@ -1,11 +1,12 @@
-# Plan to Watch (206)
+# Plan to Watch (207)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [34134](https://myanimelist.net/anime/34134) |    tv   |  2019  |   web_manga  |                                           One Punch Man 2nd Season                                           |   3 days ago  |        -        |
-| [52807](https://myanimelist.net/anime/52807) |    tv   |    -   |     manga    |                                                One Punch Man 3                                               |   3 days ago  |        -        |
-| [49891](https://myanimelist.net/anime/49891) |    tv   |  2022  |  light_novel |                                          Tensei shitara Ken Deshita                                          |   5 days ago  |        -        |
-| [49938](https://myanimelist.net/anime/49938) |  movie  |  2022  |   original   |                                        Ame wo Tsugeru Hyouryuu Danchi                                        |   5 days ago  |        -        |
+| [52995](https://myanimelist.net/anime/52995) |    tv   |    -   |  light_novel |                                Arifureta Shokugyou de Sekai Saikyou 3rd Season                               |  12 hours ago |        -        |
+| [34134](https://myanimelist.net/anime/34134) |    tv   |  2019  |   web_manga  |                                           One Punch Man 2nd Season                                           |   4 days ago  |        -        |
+| [52807](https://myanimelist.net/anime/52807) |    tv   |    -   |     manga    |                                                One Punch Man 3                                               |   4 days ago  |        -        |
+| [49891](https://myanimelist.net/anime/49891) |    tv   |  2022  |  light_novel |                                          Tensei shitara Ken Deshita                                          |   6 days ago  |        -        |
+| [49938](https://myanimelist.net/anime/49938) |  movie  |  2022  |   original   |                                        Ame wo Tsugeru Hyouryuu Danchi                                        |   6 days ago  |        -        |
 | [52969](https://myanimelist.net/anime/52969) |    tv   |    -   |  light_novel |                                        Jitsu wa Ore, Saikyou deshita?                                        |   Last week   |        -        |
 | [52955](https://myanimelist.net/anime/52955) |    tv   |  2023  |     manga    |                                         Mahoutsukai no Yome Season 2                                         |   Last week   |        -        |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   Last week   |    10/01/2022   |
@@ -24,7 +25,7 @@
 | [52657](https://myanimelist.net/anime/52657) | special |    -   |   web_manga  |                                      Ousama Ranking: Yuuki no Takarabako                                     |   Last month  |        -        |
 | [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |   Last month  |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                               Summertime Render                                              |   Last month  |        -        |
-|  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |   Last month  |        -        |
+|  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |  2 months ago |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |             Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita             |  2 months ago |        -        |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                               Made in Abyss: Retsujitsu no Ougonkyou Mini Anime                              |  2 months ago |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                Lovely★Complex                                                |  2 months ago |        -        |
@@ -82,8 +83,8 @@
 | [50411](https://myanimelist.net/anime/50411) |   ona   |  2022  |   web_manga  |                                             Xiao Mo Tou Baolu La!                                            |  8 months ago |        -        |
 | [49918](https://myanimelist.net/anime/49918) |    tv   |  2022  |     manga    |                                       Boku no Hero Academia 6th Season                                       |  8 months ago |        -        |
 | [35459](https://myanimelist.net/anime/35459) |   ova   |  2017  |     manga    |                                  Boku no Hero Academia: Training of the Dead                                 |  8 months ago |        -        |
-|  [2593](https://myanimelist.net/anime/2593)  |  movie  |  2007  |  light_novel |                                     Kara no Kyoukai Movie 1: Fukan Fuukei                                    |  8 months ago |        -        |
-| [36023](https://myanimelist.net/anime/36023) |    tv   |  2018  |     game     |                                            Persona 5 the Animation                                           |  8 months ago |        -        |
+|  [2593](https://myanimelist.net/anime/2593)  |  movie  |  2007  |  light_novel |                                     Kara no Kyoukai Movie 1: Fukan Fuukei                                    |  9 months ago |        -        |
+| [36023](https://myanimelist.net/anime/36023) |    tv   |  2018  |     game     |                                            Persona 5 the Animation                                           |  9 months ago |        -        |
 | [50664](https://myanimelist.net/anime/50664) |    tv   |    -   |  light_novel |                                         Saihate no Paladin 2nd Season                                        |  9 months ago |        -        |
 | [11597](https://myanimelist.net/anime/11597) |    tv   |  2012  |  light_novel |                                                Nisemonogatari                                                |  9 months ago |        -        |
 | [18497](https://myanimelist.net/anime/18497) |    tv   |  2013  |     manga    |                                         Yozakura Quartet: Hana no Uta                                        |  9 months ago |        -        |
