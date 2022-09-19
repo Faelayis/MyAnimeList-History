@@ -1,12 +1,11 @@
-# Plan to Watch (207)
+# Plan to Watch (206)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [52995](https://myanimelist.net/anime/52995) |    tv   |    -   |  light_novel |                                Arifureta Shokugyou de Sekai Saikyou 3rd Season                               |   2 days ago  |        -        |
-| [34134](https://myanimelist.net/anime/34134) |    tv   |  2019  |   web_manga  |                                           One Punch Man 2nd Season                                           |   6 days ago  |        -        |
-| [52807](https://myanimelist.net/anime/52807) |    tv   |    -   |     manga    |                                                One Punch Man 3                                               |   6 days ago  |        -        |
+| [52995](https://myanimelist.net/anime/52995) |    tv   |    -   |  light_novel |                                Arifureta Shokugyou de Sekai Saikyou 3rd Season                               |   3 days ago  |        -        |
+| [34134](https://myanimelist.net/anime/34134) |    tv   |  2019  |   web_manga  |                                           One Punch Man 2nd Season                                           |   Last week   |        -        |
+| [52807](https://myanimelist.net/anime/52807) |    tv   |    -   |     manga    |                                                One Punch Man 3                                               |   Last week   |        -        |
 | [49891](https://myanimelist.net/anime/49891) |    tv   |  2022  |  light_novel |                                          Tensei shitara Ken Deshita                                          |   Last week   |        -        |
-| [49938](https://myanimelist.net/anime/49938) |  movie  |  2022  |   original   |                                        Ame wo Tsugeru Hyouryuu Danchi                                        |   Last week   |        -        |
 | [52969](https://myanimelist.net/anime/52969) |    tv   |    -   |  light_novel |                                        Jitsu wa Ore, Saikyou deshita?                                        |   Last week   |        -        |
 | [52955](https://myanimelist.net/anime/52955) |    tv   |  2023  |     manga    |                                         Mahoutsukai no Yome Season 2                                         |   Last week   |        -        |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   Last week   |    10/01/2022   |
@@ -55,7 +54,7 @@
 | [47160](https://myanimelist.net/anime/47160) |    tv   |    -   |  light_novel |                                           Goblin Slayer 2nd Season                                           |  5 months ago |        -        |
 | [48417](https://myanimelist.net/anime/48417) |    tv   |    -   |  light_novel | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II |  5 months ago |        -        |
 | [37994](https://myanimelist.net/anime/37994) |   ona   |  2021  |   original   |                                          B: The Beginning Succession                                         |  5 months ago |        -        |
-| [40870](https://myanimelist.net/anime/40870) |    tv   |  2021  |   original   |                                                SSSS.Dynazenon                                                |  5 months ago |        -        |
+| [40870](https://myanimelist.net/anime/40870) |    tv   |  2021  |   original   |                                                SSSS.Dynazenon                                                |  6 months ago |        -        |
 | [51498](https://myanimelist.net/anime/51498) |    tv   |    -   |     manga    |                                           Masamune-kun no Revenge R                                          |  6 months ago |        -        |
 | [36296](https://myanimelist.net/anime/36296) |    tv   |  2018  |     manga    |                                               Hinamatsuri (TV)                                               |  6 months ago |        -        |
 |  [9617](https://myanimelist.net/anime/9617)  |  movie  |  2011  | 4_koma_manga |                                                  K-On! Movie                                                 |  6 months ago |        -        |
@@ -64,7 +63,7 @@
 | [50602](https://myanimelist.net/anime/50602) |    tv   |  2022  |     manga    |                                              Spy x Family Part 2                                             |  6 months ago |        -        |
 | [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |     manga    |         Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu         |  6 months ago |        -        |
 | [50481](https://myanimelist.net/anime/50481) |    tv   |  2023  |  light_novel |                Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀               |  6 months ago |        -        |
-| [51180](https://myanimelist.net/anime/51180) |    tv   |    -   |  light_novel |                          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season                          |  6 months ago |        -        |
+| [51180](https://myanimelist.net/anime/51180) |    tv   |    -   |  light_novel |                          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season                          |  7 months ago |        -        |
 | [51019](https://myanimelist.net/anime/51019) |    tv   |    -   |     manga    |                                   Kimetsu no Yaiba: Katanakaji no Sato-hen                                   |  7 months ago |        -        |
 | [16353](https://myanimelist.net/anime/16353) |    tv   |  2013  |     manga    |                                                   Love Lab                                                   |  7 months ago |        -        |
 | [49040](https://myanimelist.net/anime/49040) |    tv   |  2021  |     manga    |                                               Lupin III: Part 6                                              |  7 months ago |        -        |
@@ -106,10 +105,10 @@
 | [33286](https://myanimelist.net/anime/33286) |   ova   |  2016  |  light_novel |                                              Strike the Blood II                                             | 10 months ago |        -        |
 | [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |     manga    |                                               Amaama to Inazuma                                              | 10 months ago |        -        |
 | [14513](https://myanimelist.net/anime/14513) |    tv   |  2012  |     manga    |                                         Magi: The Labyrinth of Magic                                         | 10 months ago |        -        |
-|  [8769](https://myanimelist.net/anime/8769)  |    tv   |  2010  |  light_novel |                                  Ore no Imouto ga Konnani Kawaii Wake ga Nai                                 | 10 months ago |        -        |
-| [50275](https://myanimelist.net/anime/50275) |  movie  |  2022  |  light_novel |                        Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo                       | 10 months ago |        -        |
-| [50306](https://myanimelist.net/anime/50306) |    tv   |    -   |  light_novel |                                          Seirei Gensouki 2nd Season                                          | 10 months ago |        -        |
-| [50307](https://myanimelist.net/anime/50307) |    tv   |    -   |     manga    |                                          Tonikaku Kawaii 2nd Season                                          | 10 months ago |        -        |
+|  [8769](https://myanimelist.net/anime/8769)  |    tv   |  2010  |  light_novel |                                  Ore no Imouto ga Konnani Kawaii Wake ga Nai                                 | 11 months ago |        -        |
+| [50275](https://myanimelist.net/anime/50275) |  movie  |  2022  |  light_novel |                        Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo                       | 11 months ago |        -        |
+| [50306](https://myanimelist.net/anime/50306) |    tv   |    -   |  light_novel |                                          Seirei Gensouki 2nd Season                                          | 11 months ago |        -        |
+| [50307](https://myanimelist.net/anime/50307) |    tv   |    -   |     manga    |                                          Tonikaku Kawaii 2nd Season                                          | 11 months ago |        -        |
 | [39326](https://myanimelist.net/anime/39326) |    tv   |  2019  |  light_novel |                              Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?                              | 11 months ago |        -        |
 | [49458](https://myanimelist.net/anime/49458) |    tv   |    -   |  light_novel |                                   Kono Subarashii Sekai ni Shukufuku wo! 3                                   | 11 months ago |        -        |
 | [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |     manga    |                                      Ijiranaide, Nagatoro-san 2nd Attack                                     | 11 months ago |        -        |

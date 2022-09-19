@@ -1,7 +1,8 @@
-# Completed (357)
+# Completed (358)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [49938](https://myanimelist.net/anime/49938) |  movie  |  2022  |   5   |                                       Ame wo Tsugeru Hyouryuu Danchi                                      |  2 hours ago  | 09/19/2022 |  09/19/2022 |
 | [37105](https://myanimelist.net/anime/37105) |    tv   |  2018  |   7   |                                                 Grand Blue                                                |  2 weeks ago  | 09/03/2022 |  09/03/2022 |
 |   [226](https://myanimelist.net/anime/226)   |    tv   |  2004  |   5   |                                                 Elfen Lied                                                |  2 weeks ago  | 03/29/2021 |  09/03/2022 |
 | [50410](https://myanimelist.net/anime/50410) |  movie  |  2022  |   7   |                                            One Piece Film: Red                                            |  3 weeks ago  | 08/26/2022 |  08/26/2022 |
@@ -9,7 +10,7 @@
 | [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |  2 months ago | 05/13/2022 |  07/08/2022 |
 |   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  2 months ago | 07/06/2022 |  07/06/2022 |
 | [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |  2 months ago | 04/07/2022 |  06/29/2022 |
-| [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |  2 months ago | 06/27/2022 |  06/27/2022 |
+| [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |  3 months ago | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |  3 months ago | 04/09/2022 |  06/26/2022 |
 | [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |  3 months ago | 04/09/2022 |  06/26/2022 |
 | [41461](https://myanimelist.net/anime/41461) |    tv   |  2022  |   8   |                                               Date A Live IV                                              |  3 months ago | 04/08/2022 |  06/26/2022 |
@@ -40,7 +41,7 @@
 | [33674](https://myanimelist.net/anime/33674) |  movie  |  2017  |   10  |                                           No Game No Life: Zero                                           |  5 months ago | 04/05/2022 |  04/06/2022 |
 | [19815](https://myanimelist.net/anime/19815) |    tv   |  2014  |   8   |                                              No Game No Life                                              |  5 months ago | 06/06/2020 |  04/05/2022 |
 | [38383](https://myanimelist.net/anime/38383) |   ona   |  2018  |   6   |                                      Jashin-chan Dropkick Episode 12                                      |  5 months ago | 04/04/2022 |  04/04/2022 |
-| [36906](https://myanimelist.net/anime/36906) |    tv   |  2018  |   7   |                                            Jashin-chan Dropkick                                           |  5 months ago | 04/03/2022 |  04/04/2022 |
+| [36906](https://myanimelist.net/anime/36906) |    tv   |  2018  |   7   |                                            Jashin-chan Dropkick                                           |  6 months ago | 04/03/2022 |  04/04/2022 |
 |  [9734](https://myanimelist.net/anime/9734)  | special |  2011  |   7   |                                              K-On!!: Keikaku!                                             |  6 months ago | 04/03/2022 |  04/03/2022 |
 |  [7791](https://myanimelist.net/anime/7791)  |    tv   |  2010  |   8   |                                                   K-On!!                                                  |  6 months ago | 03/23/2022 |  04/03/2022 |
 | [48736](https://myanimelist.net/anime/48736) |    tv   |  2022  |   7   |                                      Sono Bisque Doll wa Koi wo Suru                                      |  6 months ago | 01/13/2022 |  04/01/2022 |
@@ -114,7 +115,7 @@
 | [40052](https://myanimelist.net/anime/40052) |    tv   |  2020  |   7   |                                              Great Pretender                                              | 11 months ago | 10/26/2021 |  10/27/2021 |
 |  [2993](https://myanimelist.net/anime/2993)  |    tv   |  2008  |   7   |                                             Rosario to Vampire                                            | 11 months ago | 10/26/2021 |  10/27/2021 |
 | [32615](https://myanimelist.net/anime/32615) |    tv   |  2017  |   8   |                                                Youjo Senki                                                | 11 months ago | 08/28/2021 |  10/21/2021 |
-| [41457](https://myanimelist.net/anime/41457) |    tv   |  2021  |   6   |                                                     86                                                    | 11 months ago | 05/22/2021 |  10/18/2021 |
+| [41457](https://myanimelist.net/anime/41457) |    tv   |  2021  |   6   |                                                     86                                                    |   Last year   | 05/22/2021 |  10/18/2021 |
 | [41094](https://myanimelist.net/anime/41094) |   ona   |  2020  |   7   |                                       Xian Wang de Richang Shenghuo                                       | 11 months ago | 01/06/2021 |  10/18/2021 |
 |  [8074](https://myanimelist.net/anime/8074)  |    tv   |  2010  |   7   |                                           Highschool of the Dead                                          |   Last year   | 10/04/2021 |  10/16/2021 |
 | [48849](https://myanimelist.net/anime/48849) |    tv   |  2021  |   9   |                                                 Sonny Boy                                                 |   Last year   | 08/07/2021 |  10/16/2021 |
