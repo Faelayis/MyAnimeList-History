@@ -1,8 +1,10 @@
-# Completed (359)
+# Completed (361)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [42310](https://myanimelist.net/anime/42310) |   ona   |  2022  |   6   |                                           Cyberpunk: Edgerunners                                          |   Yesterday   | 09/25/2022 |  09/25/2022 |
+| [44524](https://myanimelist.net/anime/44524) |    tv   |  2022  |   7   |                                         Isekai Meikyuu de Harem wo                                        |  10 hours ago | 09/04/2022 |  09/27/2022 |
+| [42963](https://myanimelist.net/anime/42963) |    tv   |  2022  |   7   |                                      Kanojo, Okarishimasu 2nd Season                                      |  10 hours ago | 07/02/2022 |  09/27/2022 |
+| [42310](https://myanimelist.net/anime/42310) |   ona   |  2022  |   6   |                                           Cyberpunk: Edgerunners                                          |   2 days ago  | 09/25/2022 |  09/25/2022 |
 | [49938](https://myanimelist.net/anime/49938) |  movie  |  2022  |   5   |                                       Ame wo Tsugeru Hyouryuu Danchi                                      |   Last week   | 09/19/2022 |  09/19/2022 |
 | [37105](https://myanimelist.net/anime/37105) |    tv   |  2018  |   7   |                                                 Grand Blue                                                |  3 weeks ago  | 09/03/2022 |  09/03/2022 |
 |   [226](https://myanimelist.net/anime/226)   |    tv   |  2004  |   5   |                                                 Elfen Lied                                                |  3 weeks ago  | 03/29/2021 |  09/03/2022 |
@@ -19,8 +21,8 @@
 | [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               |  3 months ago | 05/01/2022 |  06/17/2022 |
 | [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |  3 months ago | 06/10/2022 |  06/10/2022 |
 | [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |  3 months ago | 06/10/2022 |  06/10/2022 |
-| [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |  3 months ago | 05/28/2022 |  06/07/2022 |
-| [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   7   |                                        Toaru Kagaku no Accelerator                                        |  3 months ago | 05/14/2022 |  06/07/2022 |
+| [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |  4 months ago | 05/28/2022 |  06/07/2022 |
+| [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   7   |                                        Toaru Kagaku no Accelerator                                        |  4 months ago | 05/14/2022 |  06/07/2022 |
 | [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             |  4 months ago | 05/27/2022 |  05/28/2022 |
 |  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |  4 months ago | 05/20/2022 |  05/27/2022 |
 |  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |  4 months ago | 05/14/2022 |  05/20/2022 |
@@ -67,7 +69,7 @@
 |  [5630](https://myanimelist.net/anime/5630)  |    tv   |  2009  |   7   |                                              Higashi no Eden                                              |  7 months ago | 02/21/2022 |  02/23/2022 |
 | [35968](https://myanimelist.net/anime/35968) |    tv   |  2018  |   8   |                                        Wotaku ni Koi wa Muzukashii                                        |  7 months ago | 02/16/2022 |  02/18/2022 |
 | [36793](https://myanimelist.net/anime/36793) |    tv   |  2018  |   9   |                                            3D Kanojo: Real Girl                                           |  8 months ago | 02/14/2022 |  02/14/2022 |
-| [37956](https://myanimelist.net/anime/37956) |    tv   |  2019  |   10  |                                      3D Kanojo: Real Girl 2nd Season                                      |  7 months ago | 02/14/2022 |  02/14/2022 |
+| [37956](https://myanimelist.net/anime/37956) |    tv   |  2019  |   10  |                                      3D Kanojo: Real Girl 2nd Season                                      |  8 months ago | 02/14/2022 |  02/14/2022 |
 | [47778](https://myanimelist.net/anime/47778) |    tv   |  2022  |   9   |                                       Kimetsu no Yaiba: Yuukaku-hen                                       |  7 months ago | 12/06/2021 |  02/14/2022 |
 | [39292](https://myanimelist.net/anime/39292) |    tv   |  2020  |   8   |                                         Princess Connect! Re:Dive                                         |  8 months ago | 02/06/2022 |  02/12/2022 |
 | [41103](https://myanimelist.net/anime/41103) |    tv   |  2021  |   8   |                                      Koi to Yobu ni wa Kimochi Warui                                      |  8 months ago | 02/07/2022 |  02/08/2022 |
@@ -98,7 +100,7 @@
 | [45055](https://myanimelist.net/anime/45055) |    tv   |  2021  |   7   |                                         Taishou Otome Otogibanashi                                        |  9 months ago | 10/12/2021 |  12/27/2021 |
 | [48926](https://myanimelist.net/anime/48926) |    tv   |  2021  |   10  |                                        Komi-san wa, Comyushou desu.                                       |  9 months ago | 10/08/2021 |  12/23/2021 |
 | [46985](https://myanimelist.net/anime/46985) |    tv   |  2021  |   7   |                              Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei                              |  9 months ago | 10/05/2021 |  12/23/2021 |
-| [48753](https://myanimelist.net/anime/48753) |    tv   |  2021  |   9   |                                          Jahy-sama wa Kujikenai!                                          |  9 months ago | 08/19/2021 |  12/21/2021 |
+| [48753](https://myanimelist.net/anime/48753) |    tv   |  2021  |   9   |                                          Jahy-sama wa Kujikenai!                                          | 10 months ago | 08/19/2021 |  12/21/2021 |
 | [45576](https://myanimelist.net/anime/45576) |    tv   |  2021  |   9   |                              Mushoku Tensei: Isekai Ittara Honki Dasu Part 2                              | 10 months ago | 10/04/2021 |  12/20/2021 |
 | [48483](https://myanimelist.net/anime/48483) |    tv   |  2021  |   8   |                                                Mieruko-chan                                               | 10 months ago | 10/03/2021 |  12/20/2021 |
 | [49505](https://myanimelist.net/anime/49505) |    tv   |  2021  |   6   |                                              Deji Meets Girl                                              | 10 months ago | 10/16/2021 |  12/19/2021 |
@@ -330,7 +332,7 @@
 | [39587](https://myanimelist.net/anime/39587) |    tv   |  2020  |   7   |                              Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season                             |  6 months ago |      -     |      -      |
 | [30015](https://myanimelist.net/anime/30015) |    tv   |  2016  |   9   |                                                   ReLIFE                                                  |   Last year   |      -     |      -      |
 | [35466](https://myanimelist.net/anime/35466) | special |  2018  |   7   |                                            ReLIFE: Kanketsu-hen                                           |   Last year   |      -     |      -      |
-| [37436](https://myanimelist.net/anime/37436) |    tv   |  2019  |   6   |                                                 Revisions                                                 | 11 months ago |      -     |      -      |
+| [37436](https://myanimelist.net/anime/37436) |    tv   |  2019  |   6   |                                                 Revisions                                                 |   Last year   |      -     |      -      |
 | [38992](https://myanimelist.net/anime/38992) |    tv   |  2020  |   8   |                              Rikei ga Koi ni Ochita no de Shoumei shitemita.                              |  6 months ago |      -     |      -      |
 | [32951](https://myanimelist.net/anime/32951) |    tv   |  2017  |   9   |                               Rokudenashi Majutsu Koushi to Akashic Records                               |   Last year   |      -     |      -      |
 |   [355](https://myanimelist.net/anime/355)   |    tv   |  2005  |   9   |                                             Shakugan no Shana                                             | 10 months ago |      -     |      -      |

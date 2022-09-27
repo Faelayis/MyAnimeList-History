@@ -2,38 +2,38 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (14) ``6.57%``
+#### Watching (12) ``5.63%``
 
-|                      id                      | Type | Season | Score |                                         Title                                        | Watched |   Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------------------------------------------------: | :-----: | :---------: | :--------: |
-| [47164](https://myanimelist.net/anime/47164) |  tv  |  2022  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen |  10/11  |  2 days ago | 07/22/2022 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                       One Piece                                      |  1033/? |  6 days ago | 01/01/2013 |
-| [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   9   |                                   Yofukashi no Uta                                   |  10/13  |  Last week  | 07/08/2022 |
-| [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |                        Made in Abyss: Retsujitsu no Ougonkyou                        |  11/12  |  Last week  | 07/06/2022 |
-|  [6213](https://myanimelist.net/anime/6213)  |  tv  |  2009  |   -   |                                Toaru Kagaku no Railgun                               |  15/24  | 2 weeks ago | 09/06/2022 |
-| [42963](https://myanimelist.net/anime/42963) |  tv  |  2022  |   -   |                            Kanojo, Okarishimasu 2nd Season                           |  10/12  | 2 weeks ago | 07/02/2022 |
-| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                                      Engage Kiss                                     |   8/13  | 2 weeks ago | 07/03/2022 |
-| [44524](https://myanimelist.net/anime/44524) |  tv  |  2022  |   -   |                              Isekai Meikyuu de Harem wo                              |   9/12  | 3 weeks ago | 09/04/2022 |
-| [45653](https://myanimelist.net/anime/45653) |  tv  |  2022  |   -   |                             Soredemo Ayumu wa Yosetekuru                             |   9/12  | 3 weeks ago | 08/24/2022 |
-| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                                  Kakkou no Iinazuke                                  |  19/24  | 3 weeks ago | 04/25/2022 |
-| [49470](https://myanimelist.net/anime/49470) |  tv  |  2022  |   -   |                         Mamahaha no Tsurego ga Motokano datta                        |   9/12  | 3 weeks ago | 07/08/2022 |
+|                      id                      | Type | Season | Score |                                         Title                                        | Watched |    Updated   | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
+| [50346](https://myanimelist.net/anime/50346) |  tv  |  2022  |   9   |                                   Yofukashi no Uta                                   |  12/13  | 10 hours ago | 07/08/2022 |
+| [47164](https://myanimelist.net/anime/47164) |  tv  |  2022  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen |  10/11  |  3 days ago  | 07/22/2022 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                       One Piece                                      |  1033/? |   Last week  | 01/01/2013 |
+| [41084](https://myanimelist.net/anime/41084) |  tv  |  2022  |   10  |                        Made in Abyss: Retsujitsu no Ougonkyou                        |  11/12  |   Last week  | 07/06/2022 |
+|  [6213](https://myanimelist.net/anime/6213)  |  tv  |  2009  |   -   |                                Toaru Kagaku no Railgun                               |  15/24  |  2 weeks ago | 09/06/2022 |
+| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                                      Engage Kiss                                     |   8/13  |  3 weeks ago | 07/03/2022 |
+| [45653](https://myanimelist.net/anime/45653) |  tv  |  2022  |   -   |                             Soredemo Ayumu wa Yosetekuru                             |   9/12  |  3 weeks ago | 08/24/2022 |
+| [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                                  Kakkou no Iinazuke                                  |  19/24  |  3 weeks ago | 04/25/2022 |
+| [49470](https://myanimelist.net/anime/49470) |  tv  |  2022  |   -   |                         Mamahaha no Tsurego ga Motokano datta                        |   9/12  |  3 weeks ago | 07/08/2022 |
+| [49220](https://myanimelist.net/anime/49220) |  tv  |  2022  |   -   |                                     Isekai Ojisan                                    |   4/?   |  3 weeks ago | 07/08/2022 |
+| [48413](https://myanimelist.net/anime/48413) |  tv  |  2022  |   -   |                                 Hataraku Maou-sama!!                                 |   7/12  |  Last month  | 07/15/2022 |
 
 
-*[3 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
+*[1 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``84.40%``
+#### Completed ``83.38%``
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [42310](https://myanimelist.net/anime/42310) |   ona   |  2022  |   6   |                                           Cyberpunk: Edgerunners                                          |   Yesterday   | 09/25/2022 |  09/25/2022 |
+| [44524](https://myanimelist.net/anime/44524) |    tv   |  2022  |   7   |                                         Isekai Meikyuu de Harem wo                                        |  10 hours ago | 09/04/2022 |  09/27/2022 |
+| [42963](https://myanimelist.net/anime/42963) |    tv   |  2022  |   7   |                                      Kanojo, Okarishimasu 2nd Season                                      |  10 hours ago | 07/02/2022 |  09/27/2022 |
+| [42310](https://myanimelist.net/anime/42310) |   ona   |  2022  |   6   |                                           Cyberpunk: Edgerunners                                          |   2 days ago  | 09/25/2022 |  09/25/2022 |
 | [49938](https://myanimelist.net/anime/49938) |  movie  |  2022  |   5   |                                       Ame wo Tsugeru Hyouryuu Danchi                                      |   Last week   | 09/19/2022 |  09/19/2022 |
 | [37105](https://myanimelist.net/anime/37105) |    tv   |  2018  |   7   |                                                 Grand Blue                                                |  3 weeks ago  | 09/03/2022 |  09/03/2022 |
 |   [226](https://myanimelist.net/anime/226)   |    tv   |  2004  |   5   |                                                 Elfen Lied                                                |  3 weeks ago  | 03/29/2021 |  09/03/2022 |
-| [50410](https://myanimelist.net/anime/50410) |  movie  |  2022  |   7   |                                            One Piece Film: Red                                            |   Last month  | 08/26/2022 |  08/26/2022 |
-| [39324](https://myanimelist.net/anime/39324) |    tv   |  2019  |   9   |              Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.              |   Last month  | 08/26/2022 |  08/26/2022 |
 
 
-*[353 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
+*[355 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
 #### On Hold ``7.99%``
 
@@ -67,12 +67,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [53050](https://myanimelist.net/anime/53050) |    tv   |    -   |     manga    |                                        Kanojo, Okarishimasu 3rd Season                                       |   4 days ago  |        -        |
-| [52608](https://myanimelist.net/anime/52608) |    tv   |  2023  |  light_novel |                   Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                   |   4 days ago  |        -        |
-| [50710](https://myanimelist.net/anime/50710) |    tv   |  2022  |     manga    |                                             Urusei Yatsura (2022)                                            |   4 days ago  |        -        |
-| [52289](https://myanimelist.net/anime/52289) | special |  2022  |     manga    |                                  Kanojo, Okarishimasu 2nd Season Mini Anime                                  |   4 days ago  |        -        |
-| [28497](https://myanimelist.net/anime/28497) |    tv   |  2015  |  light_novel |                                                Rokka no Yuusha                                               |   5 days ago  |        -        |
-| [38409](https://myanimelist.net/anime/38409) |   ona   |  2018  |   original   |                                                 Cike Wu Liuqi                                                |   5 days ago  |        -        |
+| [53050](https://myanimelist.net/anime/53050) |    tv   |    -   |     manga    |                                        Kanojo, Okarishimasu 3rd Season                                       |   5 days ago  |        -        |
+| [52608](https://myanimelist.net/anime/52608) |    tv   |  2023  |  light_novel |                   Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                   |   5 days ago  |        -        |
+| [50710](https://myanimelist.net/anime/50710) |    tv   |  2022  |     manga    |                                             Urusei Yatsura (2022)                                            |   5 days ago  |        -        |
+| [52289](https://myanimelist.net/anime/52289) | special |  2022  |     manga    |                                  Kanojo, Okarishimasu 2nd Season Mini Anime                                  |   5 days ago  |        -        |
+| [28497](https://myanimelist.net/anime/28497) |    tv   |  2015  |  light_novel |                                                Rokka no Yuusha                                               |   6 days ago  |        -        |
+| [38409](https://myanimelist.net/anime/38409) |   ona   |  2018  |   original   |                                                 Cike Wu Liuqi                                                |   6 days ago  |        -        |
 
 
 *[206 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
