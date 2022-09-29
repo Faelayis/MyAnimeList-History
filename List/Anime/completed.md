@@ -1,10 +1,11 @@
-# Completed (361)
+# Completed (362)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [44524](https://myanimelist.net/anime/44524) |    tv   |  2022  |   7   |                                         Isekai Meikyuu de Harem wo                                        |   Yesterday   | 09/04/2022 |  09/27/2022 |
-| [42963](https://myanimelist.net/anime/42963) |    tv   |  2022  |   7   |                                      Kanojo, Okarishimasu 2nd Season                                      |   Yesterday   | 07/02/2022 |  09/27/2022 |
-| [42310](https://myanimelist.net/anime/42310) |   ona   |  2022  |   6   |                                           Cyberpunk: Edgerunners                                          |   3 days ago  | 09/25/2022 |  09/25/2022 |
+| [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   10  |                                   Made in Abyss: Retsujitsu no Ougonkyou                                  |  12 hours ago | 07/06/2022 |  09/29/2022 |
+| [44524](https://myanimelist.net/anime/44524) |    tv   |  2022  |   7   |                                         Isekai Meikyuu de Harem wo                                        |   2 days ago  | 09/04/2022 |  09/27/2022 |
+| [42963](https://myanimelist.net/anime/42963) |    tv   |  2022  |   7   |                                      Kanojo, Okarishimasu 2nd Season                                      |   2 days ago  | 07/02/2022 |  09/27/2022 |
+| [42310](https://myanimelist.net/anime/42310) |   ona   |  2022  |   6   |                                           Cyberpunk: Edgerunners                                          |   4 days ago  | 09/25/2022 |  09/25/2022 |
 | [49938](https://myanimelist.net/anime/49938) |  movie  |  2022  |   5   |                                       Ame wo Tsugeru Hyouryuu Danchi                                      |   Last week   | 09/19/2022 |  09/19/2022 |
 | [37105](https://myanimelist.net/anime/37105) |    tv   |  2018  |   7   |                                                 Grand Blue                                                |  3 weeks ago  | 09/03/2022 |  09/03/2022 |
 |   [226](https://myanimelist.net/anime/226)   |    tv   |  2004  |   5   |                                                 Elfen Lied                                                |  3 weeks ago  | 03/29/2021 |  09/03/2022 |
@@ -99,7 +100,7 @@
 | [48471](https://myanimelist.net/anime/48471) |    tv   |  2021  |   7   |                                        Tsuki to Laika to Nosferatu                                        |  9 months ago | 10/15/2021 |  12/27/2021 |
 | [45055](https://myanimelist.net/anime/45055) |    tv   |  2021  |   7   |                                         Taishou Otome Otogibanashi                                        |  9 months ago | 10/12/2021 |  12/27/2021 |
 | [48926](https://myanimelist.net/anime/48926) |    tv   |  2021  |   10  |                                        Komi-san wa, Comyushou desu.                                       |  9 months ago | 10/08/2021 |  12/23/2021 |
-| [46985](https://myanimelist.net/anime/46985) |    tv   |  2021  |   7   |                              Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei                              |  9 months ago | 10/05/2021 |  12/23/2021 |
+| [46985](https://myanimelist.net/anime/46985) |    tv   |  2021  |   7   |                              Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei                              | 10 months ago | 10/05/2021 |  12/23/2021 |
 | [48753](https://myanimelist.net/anime/48753) |    tv   |  2021  |   9   |                                          Jahy-sama wa Kujikenai!                                          | 10 months ago | 08/19/2021 |  12/21/2021 |
 | [45576](https://myanimelist.net/anime/45576) |    tv   |  2021  |   9   |                              Mushoku Tensei: Isekai Ittara Honki Dasu Part 2                              | 10 months ago | 10/04/2021 |  12/20/2021 |
 | [48483](https://myanimelist.net/anime/48483) |    tv   |  2021  |   8   |                                                Mieruko-chan                                               | 10 months ago | 10/03/2021 |  12/20/2021 |
@@ -113,7 +114,7 @@
 | [38020](https://myanimelist.net/anime/38020) |    tv   |  2018  |   6   |                                            Beatless Final Stage                                           | 11 months ago | 11/18/2021 |  11/18/2021 |
 |  [7311](https://myanimelist.net/anime/7311)  |  movie  |  2010  |   7   |                                       Suzumiya Haruhi no Shoushitsu                                       | 11 months ago | 11/01/2021 |  11/01/2021 |
 |  [4382](https://myanimelist.net/anime/4382)  |    tv   |  2009  |   7   |                                     Suzumiya Haruhi no Yuuutsu (2009)                                     | 11 months ago | 10/30/2021 |  11/01/2021 |
-| [34213](https://myanimelist.net/anime/34213) |   ona   |  2016  |   6   |                                            Getsuyoubi no Tawawa                                           | 11 months ago | 10/12/2021 |  10/28/2021 |
+| [34213](https://myanimelist.net/anime/34213) |   ona   |  2016  |   6   |                                            Getsuyoubi no Tawawa                                           |   Last year   | 10/12/2021 |  10/28/2021 |
 |  [4214](https://myanimelist.net/anime/4214)  |    tv   |  2008  |   7   |                                          Rosario to Vampire Capu2                                         |   Last year   | 10/27/2021 |  10/27/2021 |
 | [40052](https://myanimelist.net/anime/40052) |    tv   |  2020  |   7   |                                              Great Pretender                                              |   Last year   | 10/26/2021 |  10/27/2021 |
 |  [2993](https://myanimelist.net/anime/2993)  |    tv   |  2008  |   7   |                                             Rosario to Vampire                                            |   Last year   | 10/26/2021 |  10/27/2021 |
@@ -220,7 +221,7 @@
 | [38656](https://myanimelist.net/anime/38656) |    tv   |  2020  |   8   |                                               Darwin's Game                                               |   Last year   | 02/26/2021 |  02/28/2021 |
 | [28851](https://myanimelist.net/anime/28851) |  movie  |  2016  |   9   |                                               Koe no Katachi                                              |   Last year   | 02/26/2021 |  02/26/2021 |
 | [20787](https://myanimelist.net/anime/20787) |    tv   |  2014  |   7   |                                                Black Bullet                                               |   Last year   | 02/16/2021 |  02/18/2021 |
-| [37711](https://myanimelist.net/anime/37711) |   ova   |  2018  |   6   |                                  Koi to Uso: Isshou no Koi/Koi no Kimochi                                 |  3 weeks ago  | 02/01/2021 |  02/01/2021 |
+| [37711](https://myanimelist.net/anime/37711) |   ova   |  2018  |   6   |                                  Koi to Uso: Isshou no Koi/Koi no Kimochi                                 |   Last month  | 02/01/2021 |  02/01/2021 |
 | [34934](https://myanimelist.net/anime/34934) |    tv   |  2017  |   6   |                                                 Koi to Uso                                                |   Last year   | 01/25/2021 |  02/01/2021 |
 | [37982](https://myanimelist.net/anime/37982) |    tv   |  2019  |   7   |                                             Domestic na Kanojo                                            |   Last year   | 01/25/2021 |  01/25/2021 |
 | [34498](https://myanimelist.net/anime/34498) |  movie  |  2017  |   10  |                           Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?                          |   Last year   | 01/19/2021 |  01/19/2021 |
@@ -275,7 +276,7 @@
 | [41619](https://myanimelist.net/anime/41619) |    tv   |  2020  |   9   |                                               Munou na Nana                                               |   Last year   | 10/04/2020 |      -      |
 |  [6880](https://myanimelist.net/anime/6880)  |    tv   |  2011  |   7   |                                             Deadman Wonderland                                            |   Last year   | 09/12/2020 |      -      |
 | [37450](https://myanimelist.net/anime/37450) |    tv   |  2018  |   8   |                          Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai                         |   Last year   | 09/12/2020 |      -      |
-| [36474](https://myanimelist.net/anime/36474) |    tv   |  2018  |   5   |                                       Sword Art Online: Alicization                                       |  6 months ago | 06/06/2020 |      -      |
+| [36474](https://myanimelist.net/anime/36474) |    tv   |  2018  |   5   |                                       Sword Art Online: Alicization                                       |  7 months ago | 06/06/2020 |      -      |
 | [22147](https://myanimelist.net/anime/22147) |    tv   |  2014  |   8   |                                            Amagi Brilliant Park                                           |   Last year   |      -     |      -      |
 | [28999](https://myanimelist.net/anime/28999) |    tv   |  2015  |   9   |                                                 Charlotte                                                 |  6 months ago |      -     |      -      |
 | [14741](https://myanimelist.net/anime/14741) |    tv   |  2012  |   7   |                                       Chuunibyou demo Koi ga Shitai!                                      |   Last year   |      -     |      -      |
