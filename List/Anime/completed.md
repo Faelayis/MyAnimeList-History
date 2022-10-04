@@ -1,13 +1,13 @@
-# Completed (365)
+# Completed (366)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [45653](https://myanimelist.net/anime/45653) |    tv   |  2022  |   6   |                                        Soredemo Ayumu wa Yosetekuru                                       |   3 days ago  | 08/24/2022 |  09/30/2022 |
-| [47164](https://myanimelist.net/anime/47164) |    tv   |  2022  |   8   |            Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen           |   3 days ago  | 07/22/2022 |  09/30/2022 |
-| [49470](https://myanimelist.net/anime/49470) |    tv   |  2022  |   6   |                                   Mamahaha no Tsurego ga Motokano datta                                   |   3 days ago  | 07/08/2022 |  09/30/2022 |
-| [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   10  |                                   Made in Abyss: Retsujitsu no Ougonkyou                                  |   4 days ago  | 07/06/2022 |  09/29/2022 |
-| [44524](https://myanimelist.net/anime/44524) |    tv   |  2022  |   7   |                                         Isekai Meikyuu de Harem wo                                        |   6 days ago  | 09/04/2022 |  09/27/2022 |
-| [42963](https://myanimelist.net/anime/42963) |    tv   |  2022  |   7   |                                      Kanojo, Okarishimasu 2nd Season                                      |   6 days ago  | 07/02/2022 |  09/27/2022 |
+| [45653](https://myanimelist.net/anime/45653) |    tv   |  2022  |   6   |                                        Soredemo Ayumu wa Yosetekuru                                       |   4 days ago  | 08/24/2022 |  09/30/2022 |
+| [47164](https://myanimelist.net/anime/47164) |    tv   |  2022  |   8   |            Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen           |   4 days ago  | 07/22/2022 |  09/30/2022 |
+| [49470](https://myanimelist.net/anime/49470) |    tv   |  2022  |   6   |                                   Mamahaha no Tsurego ga Motokano datta                                   |   4 days ago  | 07/08/2022 |  09/30/2022 |
+| [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   10  |                                   Made in Abyss: Retsujitsu no Ougonkyou                                  |   5 days ago  | 07/06/2022 |  09/29/2022 |
+| [44524](https://myanimelist.net/anime/44524) |    tv   |  2022  |   7   |                                         Isekai Meikyuu de Harem wo                                        |   Last week   | 09/04/2022 |  09/27/2022 |
+| [42963](https://myanimelist.net/anime/42963) |    tv   |  2022  |   7   |                                      Kanojo, Okarishimasu 2nd Season                                      |   Last week   | 07/02/2022 |  09/27/2022 |
 | [42310](https://myanimelist.net/anime/42310) |   ona   |  2022  |   6   |                                           Cyberpunk: Edgerunners                                          |   Last week   | 09/25/2022 |  09/25/2022 |
 | [49938](https://myanimelist.net/anime/49938) |  movie  |  2022  |   5   |                                       Ame wo Tsugeru Hyouryuu Danchi                                      |  2 weeks ago  | 09/19/2022 |  09/19/2022 |
 | [37105](https://myanimelist.net/anime/37105) |    tv   |  2018  |   7   |                                                 Grand Blue                                                |   Last month  | 09/03/2022 |  09/03/2022 |
@@ -94,6 +94,7 @@
 | [31964](https://myanimelist.net/anime/31964) |    tv   |  2016  |   8   |                                           Boku no Hero Academia                                           |  9 months ago | 01/09/2022 |  01/09/2022 |
 | [50768](https://myanimelist.net/anime/50768) | special |  2022  |   8   |                                Vanitas no Karte: En Route Pour le Gévaudan                                |  9 months ago | 01/08/2022 |  01/08/2022 |
 | [11843](https://myanimelist.net/anime/11843) |    tv   |  2012  |   8   |                                        Danshi Koukousei no Nichijou                                       |  6 months ago | 12/24/2021 |  01/05/2022 |
+| [42897](https://myanimelist.net/anime/42897) |    tv   |  2021  |   8   |                                                  Horimiya                                                 |  15 hours ago | 01/01/2022 |  01/01/2022 |
 |    [30](https://myanimelist.net/anime/30)    |    tv   |  1995  |   9   |                                          Neon Genesis Evangelion                                          |  6 months ago | 12/30/2021 |  12/30/2021 |
 |    [32](https://myanimelist.net/anime/32)    |  movie  |  1997  |   10  |                               Neon Genesis Evangelion: The End of Evangelion                              |  5 months ago | 12/30/2021 |  12/30/2021 |
 | [42351](https://myanimelist.net/anime/42351) |    tv   |  2021  |   7   |                                      Senpai ga Uzai Kouhai no Hanashi                                     |  9 months ago | 11/04/2021 |  12/30/2021 |
