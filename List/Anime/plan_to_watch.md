@@ -1,8 +1,8 @@
-# Plan to Watch (211)
+# Plan to Watch (210)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [52865](https://myanimelist.net/anime/52865) |   ona   |  2022  |     manga    |                                                Romantic Killer                                               |   6 days ago  |        -        |
+| [52865](https://myanimelist.net/anime/52865) |   ona   |  2022  |     manga    |                                                Romantic Killer                                               |   Last week   |        -        |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |    -   |     manga    |                                        Kanojo, Okarishimasu 3rd Season                                       |  2 weeks ago  |        -        |
 | [52608](https://myanimelist.net/anime/52608) |    tv   |  2023  |  light_novel |                   Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                   |  2 weeks ago  |        -        |
 | [50710](https://myanimelist.net/anime/50710) |    tv   |  2022  |     manga    |                                             Urusei Yatsura (2022)                                            |  2 weeks ago  |        -        |
@@ -10,7 +10,7 @@
 | [28497](https://myanimelist.net/anime/28497) |    tv   |  2015  |  light_novel |                                                Rokka no Yuusha                                               |  2 weeks ago  |        -        |
 | [38409](https://myanimelist.net/anime/38409) |   ona   |  2018  |   original   |                                                 Cike Wu Liuqi                                                |  2 weeks ago  |        -        |
 | [34051](https://myanimelist.net/anime/34051) |    tv   |  2017  |     game     |                                          Akiba's Trip The Animation                                          |  2 weeks ago  |        -        |
-| [52995](https://myanimelist.net/anime/52995) |    tv   |    -   |  light_novel |                                Arifureta Shokugyou de Sekai Saikyou 3rd Season                               |  2 weeks ago  |        -        |
+| [52995](https://myanimelist.net/anime/52995) |    tv   |    -   |  light_novel |                                Arifureta Shokugyou de Sekai Saikyou 3rd Season                               |  3 weeks ago  |        -        |
 | [34134](https://myanimelist.net/anime/34134) |    tv   |  2019  |   web_manga  |                                           One Punch Man 2nd Season                                           |  3 weeks ago  |        -        |
 | [52807](https://myanimelist.net/anime/52807) |    tv   |    -   |     manga    |                                                One Punch Man 3                                               |  3 weeks ago  |        -        |
 | [52969](https://myanimelist.net/anime/52969) |    tv   |    -   |  light_novel |                                        Jitsu wa Ore, Saikyou deshita?                                        |   Last month  |        -        |
@@ -53,9 +53,8 @@
 | [27831](https://myanimelist.net/anime/27831) |    tv   |  2015  |  light_novel |                                               Durarara!!x2 Ten                                               |  5 months ago |        -        |
 | [23199](https://myanimelist.net/anime/23199) |    tv   |  2015  |  light_novel |                                               Durarara!!x2 Shou                                              |  5 months ago |        -        |
 | [50205](https://myanimelist.net/anime/50205) |    tv   |  2022  |     game     |                                           Arknights: Reimei Zensou                                           |  5 months ago |        -        |
-| [10378](https://myanimelist.net/anime/10378) |    tv   |  2011  |     manga    |                                            Shinryaku!? Ika Musume                                            |  5 months ago |        -        |
-|  [8557](https://myanimelist.net/anime/8557)  |    tv   |  2010  |     manga    |                                             Shinryaku! Ika Musume                                            |  5 months ago |        -        |
-| [48316](https://myanimelist.net/anime/48316) |    tv   |  2022  |  light_novel |                                     Kage no Jitsuryokusha ni Naritakute!                                     |  6 months ago |        -        |
+| [10378](https://myanimelist.net/anime/10378) |    tv   |  2011  |     manga    |                                            Shinryaku!? Ika Musume                                            |  6 months ago |        -        |
+|  [8557](https://myanimelist.net/anime/8557)  |    tv   |  2010  |     manga    |                                             Shinryaku! Ika Musume                                            |  6 months ago |        -        |
 | [49785](https://myanimelist.net/anime/49785) |    tv   |    -   |     manga    |                                          Fairy Tail: 100 Years Quest                                         |  6 months ago |        -        |
 | [50330](https://myanimelist.net/anime/50330) |    tv   |  2023  |     manga    |                                         Bungou Stray Dogs 4th Season                                         |  6 months ago |        -        |
 | [47160](https://myanimelist.net/anime/47160) |    tv   |    -   |  light_novel |                                           Goblin Slayer 2nd Season                                           |  6 months ago |        -        |
@@ -167,7 +166,7 @@
 | [41877](https://myanimelist.net/anime/41877) |  movie  |  2021  |   original   |                                             Kamiarizuki no Kodomo                                            |   05/10/2021  |        -        |
 | [40632](https://myanimelist.net/anime/40632) |   ona   |    -   |   web_manga  |                                               Peng Ran Xindong                                               |   05/10/2021  |        -        |
 | [44586](https://myanimelist.net/anime/44586) |  movie  |  2021  |     manga    |                                               Kakushigoto Movie                                              |   05/10/2021  |        -        |
-| [48585](https://myanimelist.net/anime/48585) |  movie  |  2023  |     manga    |                                              Black Clover Movie                                              |   05/10/2021  |        -        |
+| [48585](https://myanimelist.net/anime/48585) |  movie  |  2023  |     manga    |                                        Black Clover: Mahou Tei no Ken                                        |   05/10/2021  |        -        |
 | [48561](https://myanimelist.net/anime/48561) |  movie  |  2021  |     manga    |                                            Jujutsu Kaisen 0 Movie                                            |   05/10/2021  |        -        |
 | [40842](https://myanimelist.net/anime/40842) |    tv   |  2021  |  mixed_media |                                                  Idoly Pride                                                 |   05/01/2021  |        -        |
 | [31757](https://myanimelist.net/anime/31757) |  movie  |  2016  |  light_novel |                                        Kizumonogatari II: Nekketsu-hen                                       |   04/29/2021  |        -        |
@@ -194,7 +193,7 @@
 | [40979](https://myanimelist.net/anime/40979) |   ona   |  2020  |     novel    |                                               Yingxiong Zai Lin                                              |   01/09/2021  |        -        |
 | [40787](https://myanimelist.net/anime/40787) |  movie  |  2020  |     novel    |                                         Josee to Tora to Sakana-tachi                                        |   12/24/2020  |        -        |
 | [21085](https://myanimelist.net/anime/21085) |    tv   |  2014  |     manga    |                                               Witch Craft Works                                              |   12/07/2020  |        -        |
-| [32105](https://myanimelist.net/anime/32105) |    tv   |  2016  |     manga    |                                              Sousei no Onmyouji                                              |   12/03/2020  |        -        |
+| [32105](https://myanimelist.net/anime/32105) |    tv   |  2016  |     manga    |                                              Sousei no Onmyouji                                              |  2 years ago  |        -        |
 | [38753](https://myanimelist.net/anime/38753) |    tv   |  2019  |     manga    |                                       Araburu Kisetsu no Otome-domo yo.                                      |  2 years ago  |        -        |
 | [10163](https://myanimelist.net/anime/10163) |    tv   |  2011  |   original   |                                 C: The Money of Soul and Possibility Control                                 |  2 years ago  |        -        |
 | [36817](https://myanimelist.net/anime/36817) |    tv   |  2018  | 4_koma_manga |                                         Sunohara-sou no Kanrinin-san                                         |  2 years ago  |        -        |
