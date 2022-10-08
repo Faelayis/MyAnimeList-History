@@ -6,14 +6,14 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                       Title                                       | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-|  [5114](https://myanimelist.net/anime/5114)  |  tv  |  2009  |   -   |                          Fullmetal Alchemist: Brotherhood                         |   7/64  |  8 hours ago | 10/07/2022 |
-| [48316](https://myanimelist.net/anime/48316) |  tv  |  2022  |   -   |                        Kage no Jitsuryokusha ni Naritakute!                       |   0/20  | 23 hours ago | 10/06/2022 |
-| [49891](https://myanimelist.net/anime/49891) |  tv  |  2022  |   -   |                             Tensei shitara Ken Deshita                            |   2/12  |   Yesterday  | 09/30/2022 |
-| [52046](https://myanimelist.net/anime/52046) |  tv  |  2022  |   -   | Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau |   1/13  |  2 days ago  | 10/05/2022 |
-| [50404](https://myanimelist.net/anime/50404) |  ona |  2022  |   -   |                          Xian Wang de Richang Shenghuo 3                          |   2/12  |  2 days ago  | 10/03/2022 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                     One Piece                                     |  1035/? |  4 days ago  | 01/01/2013 |
-| [49918](https://myanimelist.net/anime/49918) |  tv  |  2022  |   -   |                          Boku no Hero Academia 6th Season                         |   1/25  |  5 days ago  | 10/02/2022 |
-| [50602](https://myanimelist.net/anime/50602) |  tv  |  2022  |   -   |                                Spy x Family Part 2                                |   1/13  |  5 days ago  | 10/02/2022 |
+|  [5114](https://myanimelist.net/anime/5114)  |  tv  |  2009  |   -   |                          Fullmetal Alchemist: Brotherhood                         |  12/64  | 19 hours ago | 10/07/2022 |
+| [48316](https://myanimelist.net/anime/48316) |  tv  |  2022  |   -   |                        Kage no Jitsuryokusha ni Naritakute!                       |   1/20  | 21 hours ago | 10/06/2022 |
+| [49891](https://myanimelist.net/anime/49891) |  tv  |  2022  |   -   |                             Tensei shitara Ken Deshita                            |   2/12  |  2 days ago  | 09/30/2022 |
+| [52046](https://myanimelist.net/anime/52046) |  tv  |  2022  |   -   | Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau |   1/13  |  3 days ago  | 10/05/2022 |
+| [50404](https://myanimelist.net/anime/50404) |  ona |  2022  |   -   |                          Xian Wang de Richang Shenghuo 3                          |   2/12  |  3 days ago  | 10/03/2022 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                     One Piece                                     |  1035/? |  5 days ago  | 01/01/2013 |
+| [49918](https://myanimelist.net/anime/49918) |  tv  |  2022  |   -   |                          Boku no Hero Academia 6th Season                         |   1/25  |  6 days ago  | 10/02/2022 |
+| [50602](https://myanimelist.net/anime/50602) |  tv  |  2022  |   -   |                                Spy x Family Part 2                                |   1/13  |  6 days ago  | 10/02/2022 |
 |  [6213](https://myanimelist.net/anime/6213)  |  tv  |  2009  |   -   |                              Toaru Kagaku no Railgun                              |  16/24  |   Last week  | 09/06/2022 |
 | [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   -   |                                    Engage Kiss                                    |   8/13  |  Last month  | 07/03/2022 |
 | [48675](https://myanimelist.net/anime/48675) |  tv  |  2022  |   8   |                                 Kakkou no Iinazuke                                |  19/24  |  Last month  | 04/25/2022 |
@@ -25,7 +25,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |   9   |                                              Yofukashi no Uta                                             |   2 days ago  | 07/08/2022 |  10/05/2022 |
+| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |   9   |                                              Yofukashi no Uta                                             |   3 days ago  | 07/08/2022 |  10/05/2022 |
 | [45653](https://myanimelist.net/anime/45653) |    tv   |  2022  |   6   |                                        Soredemo Ayumu wa Yosetekuru                                       |   Last week   | 08/24/2022 |  09/30/2022 |
 | [47164](https://myanimelist.net/anime/47164) |    tv   |  2022  |   8   |            Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen           |   Last week   | 07/22/2022 |  09/30/2022 |
 | [49470](https://myanimelist.net/anime/49470) |    tv   |  2022  |   6   |                                   Mamahaha no Tsurego ga Motokano datta                                   |   Last week   | 07/08/2022 |  09/30/2022 |
@@ -39,7 +39,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                            Title                           | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :--------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [49220](https://myanimelist.net/anime/49220) |    tv   |  2022  |   -   |                        Isekai Ojisan                       |   4/13  |   4 days ago  | 07/08/2022 |
+| [49220](https://myanimelist.net/anime/49220) |    tv   |  2022  |   -   |                        Isekai Ojisan                       |   4/13  |   5 days ago  | 07/08/2022 |
 | [51096](https://myanimelist.net/anime/51096) |    tv   |  2022  |   -   | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season |   1/13  |   Last month  | 07/05/2022 |
 | [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |   -   |                          Yuru Yuri                         |   3/12  |   Last month  | 06/30/2022 |
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                          Fate/Zero                         |   2/13  |  5 months ago | 04/26/2022 |
