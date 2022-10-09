@@ -1,4 +1,4 @@
-# Plan to Watch (210)
+# Plan to Watch (209)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -50,9 +50,9 @@
 | [51632](https://myanimelist.net/anime/51632) |    tv   |  2023  |  light_novel |                                  Isekai wa Smartphone to Tomo ni. 2nd Season                                 |  5 months ago |        -        |
 | [51009](https://myanimelist.net/anime/51009) |    tv   |    -   |     manga    |                                           Jujutsu Kaisen 2nd Season                                          |  5 months ago |        -        |
 |  [7592](https://myanimelist.net/anime/7592)  |    tv   |  2010  |     manga    |                                              Nurarihyon no Mago                                              |  5 months ago |        -        |
-| [27831](https://myanimelist.net/anime/27831) |    tv   |  2015  |  light_novel |                                               Durarara!!x2 Ten                                               |  5 months ago |        -        |
-| [23199](https://myanimelist.net/anime/23199) |    tv   |  2015  |  light_novel |                                               Durarara!!x2 Shou                                              |  5 months ago |        -        |
-| [50205](https://myanimelist.net/anime/50205) |    tv   |  2022  |     game     |                                           Arknights: Reimei Zensou                                           |  5 months ago |        -        |
+| [27831](https://myanimelist.net/anime/27831) |    tv   |  2015  |  light_novel |                                               Durarara!!x2 Ten                                               |  6 months ago |        -        |
+| [23199](https://myanimelist.net/anime/23199) |    tv   |  2015  |  light_novel |                                               Durarara!!x2 Shou                                              |  6 months ago |        -        |
+| [50205](https://myanimelist.net/anime/50205) |    tv   |  2022  |     game     |                                           Arknights: Reimei Zensou                                           |  6 months ago |        -        |
 | [10378](https://myanimelist.net/anime/10378) |    tv   |  2011  |     manga    |                                            Shinryaku!? Ika Musume                                            |  6 months ago |        -        |
 |  [8557](https://myanimelist.net/anime/8557)  |    tv   |  2010  |     manga    |                                             Shinryaku! Ika Musume                                            |  6 months ago |        -        |
 | [49785](https://myanimelist.net/anime/49785) |    tv   |    -   |     manga    |                                          Fairy Tail: 100 Years Quest                                         |  6 months ago |        -        |
@@ -79,7 +79,7 @@
 | [34392](https://myanimelist.net/anime/34392) |    tv   |  2017  |   original   |                                                   One Room                                                   |  8 months ago |        -        |
 | [48997](https://myanimelist.net/anime/48997) |    tv   |  2022  |     manga    |                                       Fantasy Bishoujo Juniku Ojisan to                                      |  8 months ago |        -        |
 | [41006](https://myanimelist.net/anime/41006) |    tv   |  2020  | visual_novel |                                         Higurashi no Naku Koro ni Gou                                        |  8 months ago |        -        |
-| [37521](https://myanimelist.net/anime/37521) |    tv   |  2019  |     manga    |                                                 Vinland Saga                                                 |  8 months ago |        -        |
+| [37521](https://myanimelist.net/anime/37521) |    tv   |  2019  |     manga    |                                                 Vinland Saga                                                 |  9 months ago |        -        |
 | [48553](https://myanimelist.net/anime/48553) |    tv   |  2022  |   web_manga  |                                           Akebi-chan no Sailor-fuku                                          |  9 months ago |        -        |
 | [10490](https://myanimelist.net/anime/10490) |    tv   |  2011  |     manga    |                                                    Blood-C                                                   |  9 months ago |        -        |
 |  [3786](https://myanimelist.net/anime/3786)  |  movie  |  2021  |   original   |                                    Evangelion: 3.0+1.0 Thrice Upon a Time                                    |  9 months ago |        -        |
@@ -105,8 +105,8 @@
 | [26085](https://myanimelist.net/anime/26085) |    tv   |  2015  | 4_koma_manga |                                                   Military!                                                  | 10 months ago |        -        |
 | [37514](https://myanimelist.net/anime/37514) |  movie  |  2019  |   web_manga  |                                   Made in Abyss Movie 1: Tabidachi no Yoake                                  | 10 months ago |        -        |
 | [37515](https://myanimelist.net/anime/37515) |  movie  |  2019  |   web_manga  |                                  Made in Abyss Movie 2: Hourou Suru Tasogare                                 | 10 months ago |        -        |
-| [18277](https://myanimelist.net/anime/18277) |    tv   |  2013  |  light_novel |                                               Strike the Blood                                               | 10 months ago |        -        |
-| [33286](https://myanimelist.net/anime/33286) |   ova   |  2016  |  light_novel |                                              Strike the Blood II                                             | 10 months ago |        -        |
+| [18277](https://myanimelist.net/anime/18277) |    tv   |  2013  |  light_novel |                                               Strike the Blood                                               | 11 months ago |        -        |
+| [33286](https://myanimelist.net/anime/33286) |   ova   |  2016  |  light_novel |                                              Strike the Blood II                                             | 11 months ago |        -        |
 | [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |     manga    |                                               Amaama to Inazuma                                              | 11 months ago |        -        |
 | [14513](https://myanimelist.net/anime/14513) |    tv   |  2012  |     manga    |                                         Magi: The Labyrinth of Magic                                         | 11 months ago |        -        |
 |  [8769](https://myanimelist.net/anime/8769)  |    tv   |  2010  |  light_novel |                                  Ore no Imouto ga Konnani Kawaii Wake ga Nai                                 | 11 months ago |        -        |
@@ -118,7 +118,6 @@
 | [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |     manga    |                                      Ijiranaide, Nagatoro-san 2nd Attack                                     |   10/26/2021  |        -        |
 | [14669](https://myanimelist.net/anime/14669) |  movie  |  2013  |  light_novel |                                     Aura: Maryuuin Kouga Saigo no Tatakai                                    |   10/23/2021  |        -        |
 | [49618](https://myanimelist.net/anime/49618) |   ona   |    -   |     manga    |                                            Shuumatsu no Walküre II                                           |   10/20/2021  |        -        |
-| [49784](https://myanimelist.net/anime/49784) |    tv   |  2022  |     manga    |                                      Mairimashita! Iruma-kun 3rd Season                                      |   10/20/2021  |        -        |
 | [38328](https://myanimelist.net/anime/38328) |    tv   |  2019  |     game     |                                                   Azur Lane                                                  |   10/19/2021  |        -        |
 | [46352](https://myanimelist.net/anime/46352) |    tv   |  2021  |     manga    |                                                  Blue Period                                                 |   09/28/2021  |        -        |
 | [49303](https://myanimelist.net/anime/49303) |  movie  |    -   |   original   |                                     Alice to Therese no Maboroshi Koujou                                     |   09/27/2021  |        -        |
