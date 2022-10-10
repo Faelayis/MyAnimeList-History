@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |   9   |                                              Yofukashi no Uta                                             |   4 days ago  | 07/08/2022 |  10/05/2022 |
+| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |   9   |                                              Yofukashi no Uta                                             |   5 days ago  | 07/08/2022 |  10/05/2022 |
 | [45653](https://myanimelist.net/anime/45653) |    tv   |  2022  |   6   |                                        Soredemo Ayumu wa Yosetekuru                                       |   Last week   | 08/24/2022 |  09/30/2022 |
 | [47164](https://myanimelist.net/anime/47164) |    tv   |  2022  |   8   |            Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen           |   Last week   | 07/22/2022 |  09/30/2022 |
 | [49470](https://myanimelist.net/anime/49470) |    tv   |  2022  |   6   |                                   Mamahaha no Tsurego ga Motokano datta                                   |   Last week   | 07/08/2022 |  09/30/2022 |
@@ -10,7 +10,7 @@
 | [44524](https://myanimelist.net/anime/44524) |    tv   |  2022  |   7   |                                         Isekai Meikyuu de Harem wo                                        |   Last week   | 09/04/2022 |  09/27/2022 |
 | [42963](https://myanimelist.net/anime/42963) |    tv   |  2022  |   7   |                                      Kanojo, Okarishimasu 2nd Season                                      |   Last week   | 07/02/2022 |  09/27/2022 |
 | [42310](https://myanimelist.net/anime/42310) |   ona   |  2022  |   6   |                                           Cyberpunk: Edgerunners                                          |  2 weeks ago  | 09/25/2022 |  09/25/2022 |
-| [49938](https://myanimelist.net/anime/49938) |  movie  |  2022  |   5   |                                       Ame wo Tsugeru Hyouryuu Danchi                                      |  14 hours ago | 09/19/2022 |  09/19/2022 |
+| [49938](https://myanimelist.net/anime/49938) |  movie  |  2022  |   5   |                                       Ame wo Tsugeru Hyouryuu Danchi                                      |   Yesterday   | 09/19/2022 |  09/19/2022 |
 | [37105](https://myanimelist.net/anime/37105) |    tv   |  2018  |   7   |                                                 Grand Blue                                                |   Last month  | 09/03/2022 |  09/03/2022 |
 |   [226](https://myanimelist.net/anime/226)   |    tv   |  2004  |   5   |                                                 Elfen Lied                                                |   Last month  | 03/29/2021 |  09/03/2022 |
 | [50410](https://myanimelist.net/anime/50410) |  movie  |  2022  |   7   |                                            One Piece Film: Red                                            |   Last month  | 08/26/2022 |  08/26/2022 |
@@ -42,7 +42,7 @@
 | [28907](https://myanimelist.net/anime/28907) |    tv   |  2015  |   8   |                                 Gate: Jieitai Kanochi nite, Kaku Tatakaeri                                |  6 months ago | 04/20/2022 |  04/20/2022 |
 | [30296](https://myanimelist.net/anime/30296) |    tv   |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         |  6 months ago | 04/18/2022 |  04/18/2022 |
 | [13403](https://myanimelist.net/anime/13403) | special |  2012  |   7   |                                           Inu x Boku SS Special                                           |  6 months ago | 04/15/2022 |  04/15/2022 |
-| [11013](https://myanimelist.net/anime/11013) |    tv   |  2012  |   8   |                                               Inu x Boku SS                                               |  5 months ago | 04/14/2022 |  04/15/2022 |
+| [11013](https://myanimelist.net/anime/11013) |    tv   |  2012  |   8   |                                               Inu x Boku SS                                               |  6 months ago | 04/14/2022 |  04/15/2022 |
 | [32827](https://myanimelist.net/anime/32827) |   ona   |  2018  |   7   |                                              B: The Beginning                                             |  6 months ago | 04/12/2022 |  04/13/2022 |
 | [39049](https://myanimelist.net/anime/39049) |    tv   |  2020  |   7   |                                           Jashin-chan Dropkick'                                           |  6 months ago | 04/10/2022 |  04/13/2022 |
 | [23277](https://myanimelist.net/anime/23277) |    tv   |  2015  |   5   |                                        Saenai Heroine no Sodatekata                                       |  6 months ago | 04/09/2022 |  04/10/2022 |
@@ -66,7 +66,7 @@
 | [35237](https://myanimelist.net/anime/35237) |   ova   |  2017  |   6   |                                   Hajimete no Gal: Hajimete no Bunkasai                                   |  7 months ago | 03/02/2022 |  03/02/2022 |
 | [44200](https://myanimelist.net/anime/44200) |  movie  |  2021  |   10  |                          Boku no Hero Academia the Movie 3: World Heroes' Mission                         |  7 months ago | 03/01/2022 |  03/01/2022 |
 | [42603](https://myanimelist.net/anime/42603) |   ona   |  2020  |   7   |                        Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren                        |  7 months ago | 03/01/2022 |  03/01/2022 |
-| [36633](https://myanimelist.net/anime/36633) |    tv   |  2019  |   8   |                                              Date A Live III                                              |  7 months ago | 02/27/2022 |  02/28/2022 |
+| [36633](https://myanimelist.net/anime/36633) |    tv   |  2019  |   8   |                                              Date A Live III                                              |  8 months ago | 02/27/2022 |  02/28/2022 |
 | [19163](https://myanimelist.net/anime/19163) |    tv   |  2014  |   7   |                                               Date A Live II                                              |  8 months ago | 02/27/2022 |  02/27/2022 |
 | [22961](https://myanimelist.net/anime/22961) |   ova   |  2014  |   6   |                                    Date A Live II: Kurumi Star Festival                                   |  8 months ago | 02/27/2022 |  02/27/2022 |
 | [36896](https://myanimelist.net/anime/36896) |  movie  |  2018  |   8   |                             Boku no Hero Academia the Movie 1: Futari no Hero                             |  8 months ago | 02/26/2022 |  02/26/2022 |
@@ -95,7 +95,7 @@
 | [31964](https://myanimelist.net/anime/31964) |    tv   |  2016  |   8   |                                           Boku no Hero Academia                                           |  9 months ago | 01/09/2022 |  01/09/2022 |
 | [50768](https://myanimelist.net/anime/50768) | special |  2022  |   8   |                                Vanitas no Karte: En Route Pour le Gévaudan                                |  9 months ago | 01/08/2022 |  01/08/2022 |
 | [11843](https://myanimelist.net/anime/11843) |    tv   |  2012  |   8   |                                        Danshi Koukousei no Nichijou                                       |  6 months ago | 12/24/2021 |  01/05/2022 |
-| [42897](https://myanimelist.net/anime/42897) |    tv   |  2021  |   8   |                                                  Horimiya                                                 |   5 days ago  | 01/01/2022 |  01/01/2022 |
+| [42897](https://myanimelist.net/anime/42897) |    tv   |  2021  |   8   |                                                  Horimiya                                                 |   6 days ago  | 01/01/2022 |  01/01/2022 |
 |    [30](https://myanimelist.net/anime/30)    |    tv   |  1995  |   9   |                                          Neon Genesis Evangelion                                          |  6 months ago | 12/30/2021 |  12/30/2021 |
 |    [32](https://myanimelist.net/anime/32)    |  movie  |  1997  |   10  |                               Neon Genesis Evangelion: The End of Evangelion                              |  5 months ago | 12/30/2021 |  12/30/2021 |
 | [42351](https://myanimelist.net/anime/42351) |    tv   |  2021  |   7   |                                      Senpai ga Uzai Kouhai no Hanashi                                     | 10 months ago | 11/04/2021 |  12/30/2021 |
