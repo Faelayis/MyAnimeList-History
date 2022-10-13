@@ -1,12 +1,12 @@
-# Plan to Watch (209)
+# Plan to Watch (208)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [52865](https://myanimelist.net/anime/52865) |   ona   |  2022  |     manga    |                                                Romantic Killer                                               |   Last week   |        -        |
-| [53050](https://myanimelist.net/anime/53050) |    tv   |    -   |     manga    |                                        Kanojo, Okarishimasu 3rd Season                                       |  2 weeks ago  |        -        |
-| [52608](https://myanimelist.net/anime/52608) |    tv   |  2023  |  light_novel |                   Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                   |  2 weeks ago  |        -        |
-| [50710](https://myanimelist.net/anime/50710) |    tv   |  2022  |     manga    |                                             Urusei Yatsura (2022)                                            |  2 weeks ago  |        -        |
-| [52289](https://myanimelist.net/anime/52289) | special |  2022  |     manga    |                                  Kanojo, Okarishimasu 2nd Season Mini Anime                                  |  2 weeks ago  |        -        |
+| [53050](https://myanimelist.net/anime/53050) |    tv   |    -   |     manga    |                                        Kanojo, Okarishimasu 3rd Season                                       |  3 weeks ago  |        -        |
+| [52608](https://myanimelist.net/anime/52608) |    tv   |  2023  |  light_novel |                   Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                   |  3 weeks ago  |        -        |
+| [50710](https://myanimelist.net/anime/50710) |    tv   |  2022  |     manga    |                                             Urusei Yatsura (2022)                                            |  3 weeks ago  |        -        |
+| [52289](https://myanimelist.net/anime/52289) | special |  2022  |     manga    |                                  Kanojo, Okarishimasu 2nd Season Mini Anime                                  |  3 weeks ago  |        -        |
 | [28497](https://myanimelist.net/anime/28497) |    tv   |  2015  |  light_novel |                                                Rokka no Yuusha                                               |  3 weeks ago  |        -        |
 | [38409](https://myanimelist.net/anime/38409) |   ona   |  2018  |   original   |                                                 Cike Wu Liuqi                                                |  3 weeks ago  |        -        |
 | [34051](https://myanimelist.net/anime/34051) |    tv   |  2017  |     game     |                                          Akiba's Trip The Animation                                          |  3 weeks ago  |        -        |
@@ -62,7 +62,7 @@
 | [37994](https://myanimelist.net/anime/37994) |   ona   |  2021  |   original   |                                          B: The Beginning Succession                                         |  6 months ago |        -        |
 | [40870](https://myanimelist.net/anime/40870) |    tv   |  2021  |   original   |                                                SSSS.Dynazenon                                                |  6 months ago |        -        |
 | [51498](https://myanimelist.net/anime/51498) |    tv   |    -   |     manga    |                                           Masamune-kun no Revenge R                                          |  6 months ago |        -        |
-| [36296](https://myanimelist.net/anime/36296) |    tv   |  2018  |     manga    |                                               Hinamatsuri (TV)                                               |  6 months ago |        -        |
+| [36296](https://myanimelist.net/anime/36296) |    tv   |  2018  |     manga    |                                               Hinamatsuri (TV)                                               |  7 months ago |        -        |
 |  [9617](https://myanimelist.net/anime/9617)  |  movie  |  2011  | 4_koma_manga |                                                  K-On! Movie                                                 |  7 months ago |        -        |
 | [21511](https://myanimelist.net/anime/21511) |    tv   |  2015  |     game     |                                          Kantai Collection: KanColle                                         |  7 months ago |        -        |
 | [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |     manga    |                                              Mahoutsukai no Yome                                             |  7 months ago |        -        |
@@ -71,7 +71,7 @@
 | [51180](https://myanimelist.net/anime/51180) |    tv   |    -   |  light_novel |                          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season                          |  7 months ago |        -        |
 | [51019](https://myanimelist.net/anime/51019) |    tv   |    -   |     manga    |                                   Kimetsu no Yaiba: Katanakaji no Sato-hen                                   |  7 months ago |        -        |
 | [16353](https://myanimelist.net/anime/16353) |    tv   |  2013  |     manga    |                                                   Love Lab                                                   |  7 months ago |        -        |
-| [49040](https://myanimelist.net/anime/49040) |    tv   |  2021  |     manga    |                                               Lupin III: Part 6                                              |  7 months ago |        -        |
+| [49040](https://myanimelist.net/anime/49040) |    tv   |  2021  |     manga    |                                               Lupin III: Part 6                                              |  8 months ago |        -        |
 |  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  | visual_novel |                                                  Amagami SS                                                  |  8 months ago |        -        |
 |  [5356](https://myanimelist.net/anime/5356)  |    tv   |  2009  | visual_novel |                                                    Canaan                                                    |  8 months ago |        -        |
 | [34176](https://myanimelist.net/anime/34176) |    tv   |  2017  |  light_novel |                                        Zero kara Hajimeru Mahou no Sho                                       |  8 months ago |        -        |
@@ -140,7 +140,6 @@
 | [37823](https://myanimelist.net/anime/37823) |    tv   |  2018  |     game     |                                                  Conception                                                  |   08/25/2021  |        -        |
 | [30307](https://myanimelist.net/anime/30307) |    tv   |  2015  |     manga    |                                        Monster Musume no Iru Nichijou                                        |   08/16/2021  |        -        |
 | [37497](https://myanimelist.net/anime/37497) |    tv   |  2018  |   original   |                                         Irozuku Sekai no Ashita kara                                         |   07/30/2021  |        -        |
-| [44511](https://myanimelist.net/anime/44511) |    tv   |  2022  |     manga    |                                                 Chainsaw Man                                                 |   07/25/2021  |        -        |
 |  [1689](https://myanimelist.net/anime/1689)  |  movie  |  2007  |   original   |                                             Byousoku 5 Centimeter                                            |   07/16/2021  |        -        |
 | [20689](https://myanimelist.net/anime/20689) |    tv   |  2014  |  mixed_media |                                            Hamatora The Animation                                            |   07/15/2021  |        -        |
 | [27989](https://myanimelist.net/anime/27989) |    tv   |  2015  |     novel    |                                               Hibike! Euphonium                                              |   07/11/2021  |        -        |
