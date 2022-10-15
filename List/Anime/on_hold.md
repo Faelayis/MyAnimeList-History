@@ -4,7 +4,7 @@
 | :------------------------------------------: | :-----: | :----: | :---: | :--------------------------------------------------------: | :-----: | :-----------: | :--------: |
 | [49220](https://myanimelist.net/anime/49220) |    tv   |  2022  |   -   |                        Isekai Ojisan                       |   4/13  |   Last week   | 07/08/2022 |
 | [51096](https://myanimelist.net/anime/51096) |    tv   |  2022  |   -   | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season |   1/13  |   Last month  | 07/05/2022 |
-| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |   -   |                          Yuru Yuri                         |   3/12  |   Last month  | 06/30/2022 |
+| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |   -   |                          Yuru Yuri                         |   3/12  |  2 months ago | 06/30/2022 |
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                          Fate/Zero                         |   2/13  |  6 months ago | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                   Madan no Ou to Vanadis                   |   6/13  |  6 months ago | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                      Machikado Mazoku                      |   2/12  |  5 months ago | 04/19/2022 |
@@ -15,7 +15,7 @@
 | [43470](https://myanimelist.net/anime/43470) |    tv   |  2022  |   6   |    Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart   |   2/12  |  5 months ago | 04/01/2022 |
 | [49930](https://myanimelist.net/anime/49930) |    tv   |  2022  |   -   |       Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2      |   2/13  |  7 months ago | 03/01/2022 |
 | [32182](https://myanimelist.net/anime/32182) |    tv   |  2016  |   -   |                       Mob Psycho 100                       |   3/12  |  8 months ago | 02/05/2022 |
-| [49114](https://myanimelist.net/anime/49114) |    tv   |  2022  |   -   |                   Vanitas no Karte Part 2                  |   4/12  |  6 months ago | 01/15/2022 |
+| [49114](https://myanimelist.net/anime/49114) |    tv   |  2022  |   -   |                   Vanitas no Karte Part 2                  |   4/12  |  7 months ago | 01/15/2022 |
 | [40507](https://myanimelist.net/anime/40507) |    tv   |  2022  |   -   |       Arifureta Shokugyou de Sekai Saikyou 2nd Season      |   6/12  |  6 months ago | 01/14/2022 |
 | [49721](https://myanimelist.net/anime/49721) |    tv   |  2022  |   -   |                Karakai Jouzu no Takagi-san 3               |   2/12  |  8 months ago | 01/08/2022 |
 |  [2104](https://myanimelist.net/anime/2104)  |    tv   |  2007  |   -   |                      Seto no Hanayome                      |   8/26  |  9 months ago | 01/05/2022 |
