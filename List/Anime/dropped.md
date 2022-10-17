@@ -2,8 +2,8 @@
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51464](https://myanimelist.net/anime/51464) |  tv  |  2022  |   -   |                        4-nin wa Sorezore Uso wo Tsuku                        |   1/11  | 13 hours ago | 10/16/2022 |
-| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   5   |                                  Engage Kiss                                 |   8/13  | 11 hours ago | 07/03/2022 |
+| [51464](https://myanimelist.net/anime/51464) |  tv  |  2022  |   -   |                        4-nin wa Sorezore Uso wo Tsuku                        |   1/11  |   Yesterday  | 10/16/2022 |
+| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   5   |                                  Engage Kiss                                 |   8/13  |   Yesterday  | 07/03/2022 |
 | [34543](https://myanimelist.net/anime/34543) |  tv  |  2017  |   2   |                                    Dive!!                                    |   6/12  | 5 months ago | 05/03/2022 |
 | [48760](https://myanimelist.net/anime/48760) |  tv  |  2022  |   3   |               Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu              |   1/12  | 5 months ago | 04/12/2022 |
 | [48415](https://myanimelist.net/anime/48415) |  tv  |  2022  |   4   |             Shijou Saikyou no Daimaou, Murabito A ni Tensei suru             |   6/12  | 4 months ago | 04/08/2022 |
@@ -27,7 +27,7 @@
 | [31952](https://myanimelist.net/anime/31952) |  tv  |  2016  |   4   |                      Kono Bijutsubu ni wa Mondai ga Aru!                     |   1/12  |   Last year  |      -     |
 | [41380](https://myanimelist.net/anime/41380) |  tv  |  2020  |   3   |                  100-man no Inochi no Ue ni Ore wa Tatteiru                  |   3/12  |   Last year  |      -     |
 | [38853](https://myanimelist.net/anime/38853) |  tv  |  2021  |   1   |                                    Ex-Arm                                    |   1/12  |   Last year  |      -     |
-| [38909](https://myanimelist.net/anime/38909) |  tv  |  2020  |   4   |                              Infinite Dendrogram                             |   0/13  |   Last year  |      -     |
+| [38909](https://myanimelist.net/anime/38909) |  tv  |  2020  |   4   |                              Infinite Dendrogram                             |   0/13  |  2 years ago |      -     |
 | [19685](https://myanimelist.net/anime/19685) |  tv  |  2014  |   6   |                          Kanojo ga Flag wo Oraretara                         |   6/13  |   Last year  |      -     |
-| [40571](https://myanimelist.net/anime/40571) |  tv  |  2020  |   2   |                               Majo no Tabitabi                               |   2/12  |   Last year  |      -     |
+| [40571](https://myanimelist.net/anime/40571) |  tv  |  2020  |   2   |                               Majo no Tabitabi                               |   2/12  |  2 years ago |      -     |
 | [32899](https://myanimelist.net/anime/32899) |  tv  |  2016  |   4   |                          Watashi ga Motete Dousunda                          |   3/12  | 5 months ago |      -     |

@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                            Title                           | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :--------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [49220](https://myanimelist.net/anime/49220) |    tv   |  2022  |   -   |                        Isekai Ojisan                       |   4/13  |   Last week   | 07/08/2022 |
+| [49220](https://myanimelist.net/anime/49220) |    tv   |  2022  |   -   |                        Isekai Ojisan                       |   4/13  |  2 weeks ago  | 07/08/2022 |
 | [51096](https://myanimelist.net/anime/51096) |    tv   |  2022  |   -   | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season |   1/13  |   Last month  | 07/05/2022 |
 | [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |   -   |                          Yuru Yuri                         |   3/12  |  2 months ago | 06/30/2022 |
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                          Fate/Zero                         |   2/13  |  6 months ago | 04/26/2022 |
@@ -47,8 +47,8 @@
 | [40530](https://myanimelist.net/anime/40530) |    tv   |  2021  |   -   |                   Jaku-Chara Tomozaki-kun                  |   2/12  |   Last year   | 01/09/2021 |
 | [42203](https://myanimelist.net/anime/42203) |    tv   |  2021  |   -   |   Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2  |   3/12  |   Last year   | 01/07/2021 |
 | [39463](https://myanimelist.net/anime/39463) |    tv   |  2020  |   -   |                          Gleipnir                          |   8/13  |   Last year   | 12/16/2020 |
-| [24405](https://myanimelist.net/anime/24405) |    tv   |  2014  |   -   |                        World Trigger                       |  11/73  |   Last year   | 12/01/2020 |
-| [14967](https://myanimelist.net/anime/14967) |    tv   |  2013  |   -   |              Boku wa Tomodachi ga Sukunai Next             |   1/12  |   Last year   | 11/28/2020 |
+| [24405](https://myanimelist.net/anime/24405) |    tv   |  2014  |   -   |                        World Trigger                       |  11/73  |  2 years ago  | 12/01/2020 |
+| [14967](https://myanimelist.net/anime/14967) |    tv   |  2013  |   -   |              Boku wa Tomodachi ga Sukunai Next             |   1/12  |  2 years ago  | 11/28/2020 |
 | [41312](https://myanimelist.net/anime/41312) |    tv   |  2020  |   -   |               Kami-tachi ni Hirowareta Otoko               |   5/12  |   Last year   | 11/18/2020 |
 | [40497](https://myanimelist.net/anime/40497) |    tv   |  2020  |   -   |         Mahouka Koukou no Rettousei: Raihousha-hen         |   8/13  |   Last year   | 10/04/2020 |
 | [34933](https://myanimelist.net/anime/34933) |    tv   |  2017  |   -   |                          Kakegurui                         |   8/12  |  9 months ago |      -     |
