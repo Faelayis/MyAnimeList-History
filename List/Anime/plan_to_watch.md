@@ -1,14 +1,15 @@
-# Plan to Watch (208)
+# Plan to Watch (209)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [50593](https://myanimelist.net/anime/50593) |  movie  |  2022  |  light_novel |                                    Natsu e no Tunnel, Sayonara no Deguchi                                    |   4 days ago  |        -        |
+| [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                         Mahou Shoujo Tokushusen Asuka                                        |  10 hours ago |        -        |
+| [50593](https://myanimelist.net/anime/50593) |  movie  |  2022  |  light_novel |                                    Natsu e no Tunnel, Sayonara no Deguchi                                    |   5 days ago  |        -        |
 | [52865](https://myanimelist.net/anime/52865) |   ona   |  2022  |     manga    |                                                Romantic Killer                                               |  2 weeks ago  |        -        |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |    -   |     manga    |                                        Kanojo, Okarishimasu 3rd Season                                       |  3 weeks ago  |        -        |
 | [52608](https://myanimelist.net/anime/52608) |    tv   |  2023  |  light_novel |                   Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                   |  3 weeks ago  |        -        |
 | [52289](https://myanimelist.net/anime/52289) | special |  2022  |     manga    |                                  Kanojo, Okarishimasu 2nd Season Mini Anime                                  |  3 weeks ago  |        -        |
-| [28497](https://myanimelist.net/anime/28497) |    tv   |  2015  |  light_novel |                                                Rokka no Yuusha                                               |  3 weeks ago  |        -        |
-| [38409](https://myanimelist.net/anime/38409) |   ona   |  2018  |   original   |                                                 Cike Wu Liuqi                                                |  3 weeks ago  |        -        |
+| [28497](https://myanimelist.net/anime/28497) |    tv   |  2015  |  light_novel |                                                Rokka no Yuusha                                               |   Last month  |        -        |
+| [38409](https://myanimelist.net/anime/38409) |   ona   |  2018  |   original   |                                                 Cike Wu Liuqi                                                |   Last month  |        -        |
 | [34051](https://myanimelist.net/anime/34051) |    tv   |  2017  |     game     |                                          Akiba's Trip The Animation                                          |   Last month  |        -        |
 | [52995](https://myanimelist.net/anime/52995) |    tv   |    -   |  light_novel |                                Arifureta Shokugyou de Sekai Saikyou 3rd Season                               |   Last month  |        -        |
 | [34134](https://myanimelist.net/anime/34134) |    tv   |  2019  |   web_manga  |                                           One Punch Man 2nd Season                                           |   Last month  |        -        |
@@ -67,7 +68,7 @@
 | [21511](https://myanimelist.net/anime/21511) |    tv   |  2015  |     game     |                                          Kantai Collection: KanColle                                         |  7 months ago |        -        |
 | [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |     manga    |                                              Mahoutsukai no Yome                                             |  7 months ago |        -        |
 | [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |     manga    |         Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu         |  7 months ago |        -        |
-| [50481](https://myanimelist.net/anime/50481) |    tv   |  2023  |  light_novel |                Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀               |  7 months ago |        -        |
+| [50481](https://myanimelist.net/anime/50481) |    tv   |  2023  |  light_novel |                Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀               |  8 months ago |        -        |
 | [51180](https://myanimelist.net/anime/51180) |    tv   |    -   |  light_novel |                          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season                          |  8 months ago |        -        |
 | [51019](https://myanimelist.net/anime/51019) |    tv   |    -   |     manga    |                                   Kimetsu no Yaiba: Katanakaji no Sato-hen                                   |  8 months ago |        -        |
 | [16353](https://myanimelist.net/anime/16353) |    tv   |  2013  |     manga    |                                                   Love Lab                                                   |  8 months ago |        -        |
@@ -101,7 +102,7 @@
 | [47159](https://myanimelist.net/anime/47159) |    tv   |  2022  |  light_novel |                                    Tensai Ouji no Akaji Kokka Saisei Jutsu                                   | 10 months ago |        -        |
 | [48414](https://myanimelist.net/anime/48414) |    tv   |  2022  |  light_novel |                                                 Sabikui Bisco                                                | 10 months ago |        -        |
 | [45425](https://myanimelist.net/anime/45425) |    tv   |  2022  |     manga    |                                                   Slow Loop                                                  | 10 months ago |        -        |
-| [25159](https://myanimelist.net/anime/25159) |    tv   |  2014  |  light_novel |                                    Inou-Battle wa Nichijou-kei no Naka de                                    | 10 months ago |        -        |
+| [25159](https://myanimelist.net/anime/25159) |    tv   |  2014  |  light_novel |                                    Inou-Battle wa Nichijou-kei no Naka de                                    | 11 months ago |        -        |
 | [26085](https://myanimelist.net/anime/26085) |    tv   |  2015  | 4_koma_manga |                                                   Military!                                                  | 11 months ago |        -        |
 | [37514](https://myanimelist.net/anime/37514) |  movie  |  2019  |   web_manga  |                                   Made in Abyss Movie 1: Tabidachi no Yoake                                  | 11 months ago |        -        |
 | [37515](https://myanimelist.net/anime/37515) |  movie  |  2019  |   web_manga  |                                  Made in Abyss Movie 2: Hourou Suru Tasogare                                 | 11 months ago |        -        |

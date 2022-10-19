@@ -2,8 +2,8 @@
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51464](https://myanimelist.net/anime/51464) |  tv  |  2022  |   -   |                        4-nin wa Sorezore Uso wo Tsuku                        |   1/11  |  2 days ago  | 10/16/2022 |
-| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   5   |                                  Engage Kiss                                 |   8/13  |  2 days ago  | 07/03/2022 |
+| [51464](https://myanimelist.net/anime/51464) |  tv  |  2022  |   -   |                        4-nin wa Sorezore Uso wo Tsuku                        |   1/11  |  3 days ago  | 10/16/2022 |
+| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   5   |                                  Engage Kiss                                 |   8/13  |  3 days ago  | 07/03/2022 |
 | [34543](https://myanimelist.net/anime/34543) |  tv  |  2017  |   2   |                                    Dive!!                                    |   6/12  | 5 months ago | 05/03/2022 |
 | [48760](https://myanimelist.net/anime/48760) |  tv  |  2022  |   3   |               Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu              |   1/12  | 5 months ago | 04/12/2022 |
 | [48415](https://myanimelist.net/anime/48415) |  tv  |  2022  |   4   |             Shijou Saikyou no Daimaou, Murabito A ni Tensei suru             |   6/12  | 4 months ago | 04/08/2022 |
