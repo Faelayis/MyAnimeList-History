@@ -1,10 +1,12 @@
-# Completed (371)
+# Completed (373)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [32182](https://myanimelist.net/anime/32182) |    tv   |  2016  |   7   |                                               Mob Psycho 100                                              |  10 hours ago | 02/05/2022 |  10/23/2022 |
+| [39651](https://myanimelist.net/anime/39651) |   ova   |  2019  |   5   |           Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi          |  6 hours ago  | 10/24/2022 |  10/24/2022 |
+| [37510](https://myanimelist.net/anime/37510) |    tv   |  2019  |   8   |                                             Mob Psycho 100 II                                             |  6 hours ago  | 10/23/2022 |  10/24/2022 |
+| [32182](https://myanimelist.net/anime/32182) |    tv   |  2016  |   7   |                                               Mob Psycho 100                                              |   Yesterday   | 02/05/2022 |  10/23/2022 |
 | [16436](https://myanimelist.net/anime/16436) | special |  2013  |   2   |                                               Tenshi no Drop                                              |   Last week   | 10/16/2022 |  10/16/2022 |
-|  [6213](https://myanimelist.net/anime/6213)  |    tv   |  2009  |   7   |                                          Toaru Kagaku no Railgun                                          |   Yesterday   | 09/06/2022 |  10/16/2022 |
+|  [6213](https://myanimelist.net/anime/6213)  |    tv   |  2009  |   7   |                                          Toaru Kagaku no Railgun                                          |   2 days ago  | 09/06/2022 |  10/16/2022 |
 | [48675](https://myanimelist.net/anime/48675) |    tv   |  2022  |   7   |                                             Kakkou no Iinazuke                                            |   Last week   | 04/25/2022 |  10/16/2022 |
 | [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |   9   |                                              Yofukashi no Uta                                             |  2 weeks ago  | 07/08/2022 |  10/05/2022 |
 | [45653](https://myanimelist.net/anime/45653) |    tv   |  2022  |   6   |                                        Soredemo Ayumu wa Yosetekuru                                       |  3 weeks ago  | 08/24/2022 |  09/30/2022 |
@@ -77,7 +79,7 @@
 | [39565](https://myanimelist.net/anime/39565) |  movie  |  2019  |   7   |                              Boku no Hero Academia the Movie 2: Heroes:Rising                             |  8 months ago | 02/26/2022 |  02/26/2022 |
 |  [5630](https://myanimelist.net/anime/5630)  |    tv   |  2009  |   7   |                                              Higashi no Eden                                              |  8 months ago | 02/21/2022 |  02/23/2022 |
 | [35968](https://myanimelist.net/anime/35968) |    tv   |  2018  |   8   |                                        Wotaku ni Koi wa Muzukashii                                        |  8 months ago | 02/16/2022 |  02/18/2022 |
-| [36793](https://myanimelist.net/anime/36793) |    tv   |  2018  |   9   |                                            3D Kanojo: Real Girl                                           |  8 months ago | 02/14/2022 |  02/14/2022 |
+| [36793](https://myanimelist.net/anime/36793) |    tv   |  2018  |   9   |                                            3D Kanojo: Real Girl                                           |  9 months ago | 02/14/2022 |  02/14/2022 |
 | [37956](https://myanimelist.net/anime/37956) |    tv   |  2019  |   10  |                                      3D Kanojo: Real Girl 2nd Season                                      |  8 months ago | 02/14/2022 |  02/14/2022 |
 | [47778](https://myanimelist.net/anime/47778) |    tv   |  2022  |   9   |                                       Kimetsu no Yaiba: Yuukaku-hen                                       |  8 months ago | 12/06/2021 |  02/14/2022 |
 | [39292](https://myanimelist.net/anime/39292) |    tv   |  2020  |   8   |                                         Princess Connect! Re:Dive                                         |  9 months ago | 02/06/2022 |  02/12/2022 |
@@ -111,8 +113,8 @@
 | [48926](https://myanimelist.net/anime/48926) |    tv   |  2021  |   10  |                                        Komi-san wa, Comyushou desu.                                       | 10 months ago | 10/08/2021 |  12/23/2021 |
 | [46985](https://myanimelist.net/anime/46985) |    tv   |  2021  |   7   |                              Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei                              | 10 months ago | 10/05/2021 |  12/23/2021 |
 | [48753](https://myanimelist.net/anime/48753) |    tv   |  2021  |   9   |                                          Jahy-sama wa Kujikenai!                                          | 10 months ago | 08/19/2021 |  12/21/2021 |
-| [45576](https://myanimelist.net/anime/45576) |    tv   |  2021  |   9   |                              Mushoku Tensei: Isekai Ittara Honki Dasu Part 2                              | 10 months ago | 10/04/2021 |  12/20/2021 |
-| [48483](https://myanimelist.net/anime/48483) |    tv   |  2021  |   8   |                                                Mieruko-chan                                               | 10 months ago | 10/03/2021 |  12/20/2021 |
+| [45576](https://myanimelist.net/anime/45576) |    tv   |  2021  |   9   |                              Mushoku Tensei: Isekai Ittara Honki Dasu Part 2                              | 11 months ago | 10/04/2021 |  12/20/2021 |
+| [48483](https://myanimelist.net/anime/48483) |    tv   |  2021  |   8   |                                                Mieruko-chan                                               | 11 months ago | 10/03/2021 |  12/20/2021 |
 | [49505](https://myanimelist.net/anime/49505) |    tv   |  2021  |   6   |                                              Deji Meets Girl                                              | 11 months ago | 10/16/2021 |  12/19/2021 |
 | [43299](https://myanimelist.net/anime/43299) |    tv   |  2021  |   7   |                                            Wonder Egg Priority                                            | 11 months ago | 01/13/2021 |  12/19/2021 |
 | [40056](https://myanimelist.net/anime/40056) |    tv   |  2020  |   6   |                                                 Deca-Dence                                                | 11 months ago | 12/18/2021 |  12/18/2021 |

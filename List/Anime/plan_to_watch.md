@@ -1,8 +1,8 @@
-# Plan to Watch (209)
+# Plan to Watch (208)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                         Mahou Shoujo Tokushusen Asuka                                        |   4 days ago  |        -        |
+| [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                         Mahou Shoujo Tokushusen Asuka                                        |   5 days ago  |        -        |
 | [50593](https://myanimelist.net/anime/50593) |  movie  |  2022  |  light_novel |                                    Natsu e no Tunnel, Sayonara no Deguchi                                    |   Last week   |        -        |
 | [52865](https://myanimelist.net/anime/52865) |   ona   |  2022  |     manga    |                                                Romantic Killer                                               |  3 weeks ago  |        -        |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |    -   |     manga    |                                        Kanojo, Okarishimasu 3rd Season                                       |   Last month  |        -        |
@@ -16,7 +16,6 @@
 | [52807](https://myanimelist.net/anime/52807) |    tv   |    -   |     manga    |                                                One Punch Man 3                                               |   Last month  |        -        |
 | [52969](https://myanimelist.net/anime/52969) |    tv   |    -   |  light_novel |                                        Jitsu wa Ore, Saikyou deshita?                                        |   Last month  |        -        |
 | [52955](https://myanimelist.net/anime/52955) |    tv   |  2023  |     manga    |                                         Mahoutsukai no Yome Season 2                                         |   Last month  |        -        |
-| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   Last month  |    10/01/2022   |
 | [51678](https://myanimelist.net/anime/51678) |    tv   |  2023  |     manga    |                                             Oniichan wa Oshimai!                                             |   Last month  |    01/01/2023   |
 |  [6372](https://myanimelist.net/anime/6372)  |  movie  |  2009  |   original   |                                   Higashi no Eden Movie I: The King of Eden                                  |   Last month  |        -        |
 |  [6927](https://myanimelist.net/anime/6927)  |  movie  |  2009  |   original   |                                      Higashi no Eden: Air Communication                                      |   Last month  |        -        |
