@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [20583](https://myanimelist.net/anime/20583) |    tv   |  2014  |   7   |                                                 Haikyuu!!                                                 |  10 hours ago | 10/28/2022 |  10/31/2022 |
+| [20583](https://myanimelist.net/anime/20583) |    tv   |  2014  |   7   |                                                 Haikyuu!!                                                 |   Yesterday   | 10/28/2022 |  10/31/2022 |
 | [39651](https://myanimelist.net/anime/39651) |   ova   |  2019  |   5   |           Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi          |   Last week   | 10/24/2022 |  10/24/2022 |
 | [37510](https://myanimelist.net/anime/37510) |    tv   |  2019  |   8   |                                             Mob Psycho 100 II                                             |   Last week   | 10/23/2022 |  10/24/2022 |
 | [32182](https://myanimelist.net/anime/32182) |    tv   |  2016  |   7   |                                               Mob Psycho 100                                              |   Last week   | 02/05/2022 |  10/23/2022 |
@@ -102,7 +102,7 @@
 | [31964](https://myanimelist.net/anime/31964) |    tv   |  2016  |   8   |                                           Boku no Hero Academia                                           | 10 months ago | 01/09/2022 |  01/09/2022 |
 | [50768](https://myanimelist.net/anime/50768) | special |  2022  |   8   |                                Vanitas no Karte: En Route Pour le Gévaudan                                | 10 months ago | 01/08/2022 |  01/08/2022 |
 | [11843](https://myanimelist.net/anime/11843) |    tv   |  2012  |   8   |                                        Danshi Koukousei no Nichijou                                       |  7 months ago | 12/24/2021 |  01/05/2022 |
-| [42897](https://myanimelist.net/anime/42897) |    tv   |  2021  |   8   |                                                  Horimiya                                                 |  3 weeks ago  | 01/01/2022 |  01/01/2022 |
+| [42897](https://myanimelist.net/anime/42897) |    tv   |  2021  |   8   |                                                  Horimiya                                                 |   Last month  | 01/01/2022 |  01/01/2022 |
 |    [30](https://myanimelist.net/anime/30)    |    tv   |  1995  |   9   |                                          Neon Genesis Evangelion                                          |  7 months ago | 12/30/2021 |  12/30/2021 |
 |    [32](https://myanimelist.net/anime/32)    |  movie  |  1997  |   10  |                               Neon Genesis Evangelion: The End of Evangelion                              |  6 months ago | 12/30/2021 |  12/30/2021 |
 | [42351](https://myanimelist.net/anime/42351) |    tv   |  2021  |   7   |                                      Senpai ga Uzai Kouhai no Hanashi                                     | 10 months ago | 11/04/2021 |  12/30/2021 |
