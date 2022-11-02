@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                         Mahou Shoujo Tokushusen Asuka                                        |   Last week   |        -        |
+| [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                         Mahou Shoujo Tokushusen Asuka                                        |  2 weeks ago  |        -        |
 | [50593](https://myanimelist.net/anime/50593) |  movie  |  2022  |  light_novel |                                    Natsu e no Tunnel, Sayonara no Deguchi                                    |  2 weeks ago  |        -        |
 | [52865](https://myanimelist.net/anime/52865) |   ona   |  2022  |     manga    |                                                Romantic Killer                                               |   Last month  |        -        |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |    -   |     manga    |                                        Kanojo, Okarishimasu 3rd Season                                       |   Last month  |        -        |
@@ -63,7 +63,7 @@
 | [40870](https://myanimelist.net/anime/40870) |    tv   |  2021  |   original   |                                                SSSS.Dynazenon                                                |  7 months ago |        -        |
 | [51498](https://myanimelist.net/anime/51498) |    tv   |    -   |     manga    |                                           Masamune-kun no Revenge R                                          |  7 months ago |        -        |
 | [36296](https://myanimelist.net/anime/36296) |    tv   |  2018  |     manga    |                                               Hinamatsuri (TV)                                               |  7 months ago |        -        |
-|  [9617](https://myanimelist.net/anime/9617)  |  movie  |  2011  | 4_koma_manga |                                                  K-On! Movie                                                 |  7 months ago |        -        |
+|  [9617](https://myanimelist.net/anime/9617)  |  movie  |  2011  | 4_koma_manga |                                                  K-On! Movie                                                 |  8 months ago |        -        |
 | [21511](https://myanimelist.net/anime/21511) |    tv   |  2015  |     game     |                                          Kantai Collection: KanColle                                         |  8 months ago |        -        |
 | [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |     manga    |                                              Mahoutsukai no Yome                                             |  8 months ago |        -        |
 | [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |     manga    |         Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu         |  8 months ago |        -        |
