@@ -1,7 +1,8 @@
-# Plan to Watch (208)
+# Plan to Watch (209)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |  14 hours ago |        -        |
 | [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                         Mahou Shoujo Tokushusen Asuka                                        |  2 weeks ago  |        -        |
 | [50593](https://myanimelist.net/anime/50593) |  movie  |  2022  |  light_novel |                                    Natsu e no Tunnel, Sayonara no Deguchi                                    |  2 weeks ago  |        -        |
 | [52865](https://myanimelist.net/anime/52865) |   ona   |  2022  |     manga    |                                                Romantic Killer                                               |   Last month  |        -        |
@@ -14,8 +15,8 @@
 | [52995](https://myanimelist.net/anime/52995) |    tv   |    -   |  light_novel |                                Arifureta Shokugyou de Sekai Saikyou 3rd Season                               |   Last month  |        -        |
 | [34134](https://myanimelist.net/anime/34134) |    tv   |  2019  |   web_manga  |                                           One Punch Man 2nd Season                                           |   Last month  |        -        |
 | [52807](https://myanimelist.net/anime/52807) |    tv   |    -   |     manga    |                                                One Punch Man 3                                               |   Last month  |        -        |
-| [52969](https://myanimelist.net/anime/52969) |    tv   |    -   |  light_novel |                                        Jitsu wa Ore, Saikyou deshita?                                        |   Last month  |        -        |
-| [52955](https://myanimelist.net/anime/52955) |    tv   |  2023  |     manga    |                                         Mahoutsukai no Yome Season 2                                         |   Last month  |        -        |
+| [52969](https://myanimelist.net/anime/52969) |    tv   |    -   |  light_novel |                                        Jitsu wa Ore, Saikyou deshita?                                        |  2 months ago |        -        |
+| [52955](https://myanimelist.net/anime/52955) |    tv   |  2023  |     manga    |                                         Mahoutsukai no Yome Season 2                                         |  2 months ago |        -        |
 | [51678](https://myanimelist.net/anime/51678) |    tv   |  2023  |     manga    |                                             Oniichan wa Oshimai!                                             |  2 months ago |    01/01/2023   |
 |  [6372](https://myanimelist.net/anime/6372)  |  movie  |  2009  |   original   |                                   Higashi no Eden Movie I: The King of Eden                                  |  2 months ago |        -        |
 |  [6927](https://myanimelist.net/anime/6927)  |  movie  |  2009  |   original   |                                      Higashi no Eden: Air Communication                                      |  2 months ago |        -        |
@@ -39,7 +40,7 @@
 | [50739](https://myanimelist.net/anime/50739) |    tv   |  2023  |  light_novel |                      Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                     |  4 months ago |        -        |
 | [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                 Date A Live V                                                |  4 months ago |        -        |
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                      UQ Holder!: Mahou Sensei Negima! 2                                      |  4 months ago |        -        |
-| [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                        Enen no Shouboutai: San no Shou                                       |  5 months ago |        -        |
+| [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                        Enen no Shouboutai: San no Shou                                       |  6 months ago |        -        |
 | [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                         Shokei Shoujo no Virgin Road                                         |  6 months ago |        -        |
 |   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                       Kino no Tabi: The Beautiful World                                      |  6 months ago |        -        |
 | [51252](https://myanimelist.net/anime/51252) |    tv   |  2023  |  light_novel |                                                Spy Kyoushitsu                                                |  6 months ago |        -        |
@@ -81,7 +82,7 @@
 | [41006](https://myanimelist.net/anime/41006) |    tv   |  2020  | visual_novel |                                         Higurashi no Naku Koro ni Gou                                        |  9 months ago |        -        |
 | [37521](https://myanimelist.net/anime/37521) |    tv   |  2019  |     manga    |                                                 Vinland Saga                                                 |  9 months ago |        -        |
 | [48553](https://myanimelist.net/anime/48553) |    tv   |  2022  |   web_manga  |                                           Akebi-chan no Sailor-fuku                                          |  9 months ago |        -        |
-| [10490](https://myanimelist.net/anime/10490) |    tv   |  2011  |   original   |                                                    Blood-C                                                   |  9 months ago |        -        |
+| [10490](https://myanimelist.net/anime/10490) |    tv   |  2011  |   original   |                                                    Blood-C                                                   | 10 months ago |        -        |
 |  [3786](https://myanimelist.net/anime/3786)  |  movie  |  2021  |   original   |                                    Evangelion: 3.0+1.0 Thrice Upon a Time                                    | 10 months ago |        -        |
 |  [3784](https://myanimelist.net/anime/3784)  |  movie  |  2009  |   original   |                                     Evangelion: 2.0 You Can (Not) Advance                                    | 10 months ago |        -        |
 | [50411](https://myanimelist.net/anime/50411) |   ona   |  2022  |   web_manga  |                                             Xiao Mo Tou Baolu La!                                            | 10 months ago |        -        |
