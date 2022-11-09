@@ -28,8 +28,8 @@
 | [44961](https://myanimelist.net/anime/44961) |    tv   |  2021  |   -   |                        Platinum End                        |   5/24  |  9 months ago | 10/23/2021 |
 |  [2966](https://myanimelist.net/anime/2966)  |    tv   |  2008  |   -   |                    Ookami to Koushinryou                   |   2/13  |   Last year   | 10/20/2021 |
 | [42205](https://myanimelist.net/anime/42205) |    tv   |  2021  |   -   |                     Shaman King (2021)                     |   1/52  |   Last year   | 10/14/2021 |
-| [49926](https://myanimelist.net/anime/49926) |    tv   |  2021  |   -   |             Kimetsu no Yaiba: Mugen Ressha-hen             |   3/7   | 11 months ago | 10/11/2021 |
-| [48556](https://myanimelist.net/anime/48556) |    tv   |  2021  |   -   |                      Takt Op. Destiny                      |   1/12  | 11 months ago | 10/06/2021 |
+| [49926](https://myanimelist.net/anime/49926) |    tv   |  2021  |   -   |             Kimetsu no Yaiba: Mugen Ressha-hen             |   3/7   |   Last year   | 10/11/2021 |
+| [48556](https://myanimelist.net/anime/48556) |    tv   |  2021  |   -   |                      Takt Op. Destiny                      |   1/12  |   Last year   | 10/06/2021 |
 | [35241](https://myanimelist.net/anime/35241) |    tv   |  2017  |   -   |                       Konohana Kitan                       |   4/12  |   Last year   | 09/22/2021 |
 | [42544](https://myanimelist.net/anime/42544) |    tv   |  2021  |   -   |                        Kaizoku Oujo                        |   7/12  |   Last year   | 08/30/2021 |
 | [11061](https://myanimelist.net/anime/11061) |    tv   |  2011  |   -   |                   Hunter x Hunter (2011)                   |  83/148 |  2 months ago | 08/24/2021 |

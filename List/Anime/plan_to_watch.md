@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   5 days ago  |        -        |
-| [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                         Mahou Shoujo Tokushusen Asuka                                        |  2 weeks ago  |        -        |
+| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   6 days ago  |        -        |
+| [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                         Mahou Shoujo Tokushusen Asuka                                        |  3 weeks ago  |        -        |
 | [50593](https://myanimelist.net/anime/50593) |  movie  |  2022  |  light_novel |                                    Natsu e no Tunnel, Sayonara no Deguchi                                    |  3 weeks ago  |        -        |
 | [52865](https://myanimelist.net/anime/52865) |   ona   |  2022  |     manga    |                                                Romantic Killer                                               |   Last month  |        -        |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |    -   |     manga    |                                        Kanojo, Okarishimasu 3rd Season                                       |   Last month  |        -        |
@@ -77,7 +77,7 @@
 | [34176](https://myanimelist.net/anime/34176) |    tv   |  2017  |  light_novel |                                        Zero kara Hajimeru Mahou no Sho                                       |  9 months ago |        -        |
 | [14753](https://myanimelist.net/anime/14753) |   ova   |  2012  |   web_manga  |                                           Hori-san to Miyamura-kun                                           |  9 months ago |        -        |
 | [34392](https://myanimelist.net/anime/34392) |    tv   |  2017  |   original   |                                                   One Room                                                   |  9 months ago |        -        |
-| [48997](https://myanimelist.net/anime/48997) |    tv   |  2022  |     manga    |                                       Fantasy Bishoujo Juniku Ojisan to                                      |  9 months ago |        -        |
+| [48997](https://myanimelist.net/anime/48997) |    tv   |  2022  |     manga    |                                       Fantasy Bishoujo Juniku Ojisan to                                      | 10 months ago |        -        |
 | [41006](https://myanimelist.net/anime/41006) |    tv   |  2020  | visual_novel |                                         Higurashi no Naku Koro ni Gou                                        | 10 months ago |        -        |
 | [37521](https://myanimelist.net/anime/37521) |    tv   |  2019  |     manga    |                                                 Vinland Saga                                                 | 10 months ago |        -        |
 | [48553](https://myanimelist.net/anime/48553) |    tv   |  2022  |   web_manga  |                                           Akebi-chan no Sailor-fuku                                          | 10 months ago |        -        |

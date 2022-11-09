@@ -1,7 +1,8 @@
-# Completed (375)
+# Completed (376)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [32935](https://myanimelist.net/anime/32935) |    tv   |  2016  |   7   |                         Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou                         |  18 hours ago | 11/07/2022 |  11/08/2022 |
 | [20583](https://myanimelist.net/anime/20583) |    tv   |  2014  |   7   |                                                 Haikyuu!!                                                 |   Last week   | 10/28/2022 |  10/31/2022 |
 | [39651](https://myanimelist.net/anime/39651) |   ova   |  2019  |   5   |           Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi          |  2 weeks ago  | 10/24/2022 |  10/24/2022 |
 | [37510](https://myanimelist.net/anime/37510) |    tv   |  2019  |   8   |                                             Mob Psycho 100 II                                             |  2 weeks ago  | 10/23/2022 |  10/24/2022 |
@@ -70,9 +71,9 @@
 | [40416](https://myanimelist.net/anime/40416) |  movie  |  2020  |   9   |                                       Date A Bullet: Dead or Bullet                                       |  8 months ago | 03/03/2022 |  03/03/2022 |
 | [42423](https://myanimelist.net/anime/42423) |  movie  |  2020  |   10  |                                     Date A Bullet: Nightmare or Queen                                     |  7 months ago | 03/03/2022 |  03/03/2022 |
 | [24655](https://myanimelist.net/anime/24655) |  movie  |  2015  |   6   |                                     Date A Live Movie: Mayuri Judgment                                    |  8 months ago | 03/03/2022 |  03/03/2022 |
-| [35237](https://myanimelist.net/anime/35237) |   ova   |  2017  |   6   |                                   Hajimete no Gal: Hajimete no Bunkasai                                   |  8 months ago | 03/02/2022 |  03/02/2022 |
-| [44200](https://myanimelist.net/anime/44200) |  movie  |  2021  |   10  |                          Boku no Hero Academia the Movie 3: World Heroes' Mission                         |  8 months ago | 03/01/2022 |  03/01/2022 |
-| [42603](https://myanimelist.net/anime/42603) |   ona   |  2020  |   7   |                        Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren                        |  8 months ago | 03/01/2022 |  03/01/2022 |
+| [35237](https://myanimelist.net/anime/35237) |   ova   |  2017  |   6   |                                   Hajimete no Gal: Hajimete no Bunkasai                                   |  9 months ago | 03/02/2022 |  03/02/2022 |
+| [44200](https://myanimelist.net/anime/44200) |  movie  |  2021  |   10  |                          Boku no Hero Academia the Movie 3: World Heroes' Mission                         |  9 months ago | 03/01/2022 |  03/01/2022 |
+| [42603](https://myanimelist.net/anime/42603) |   ona   |  2020  |   7   |                        Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren                        |  9 months ago | 03/01/2022 |  03/01/2022 |
 | [36633](https://myanimelist.net/anime/36633) |    tv   |  2019  |   8   |                                              Date A Live III                                              |  9 months ago | 02/27/2022 |  02/28/2022 |
 | [19163](https://myanimelist.net/anime/19163) |    tv   |  2014  |   7   |                                               Date A Live II                                              |  9 months ago | 02/27/2022 |  02/27/2022 |
 | [22961](https://myanimelist.net/anime/22961) |   ova   |  2014  |   6   |                                    Date A Live II: Kurumi Star Festival                                   |  9 months ago | 02/27/2022 |  02/27/2022 |
@@ -86,8 +87,8 @@
 | [39292](https://myanimelist.net/anime/39292) |    tv   |  2020  |   8   |                                         Princess Connect! Re:Dive                                         |  9 months ago | 02/06/2022 |  02/12/2022 |
 | [41103](https://myanimelist.net/anime/41103) |    tv   |  2021  |   8   |                                      Koi to Yobu ni wa Kimochi Warui                                      |  9 months ago | 02/07/2022 |  02/08/2022 |
 | [39783](https://myanimelist.net/anime/39783) |    tv   |  2021  |   7   |                                           5-toubun no Hanayome ∬                                          |  9 months ago | 01/08/2021 |  02/08/2022 |
-| [35507](https://myanimelist.net/anime/35507) |    tv   |  2017  |   8   |                              Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e                              |  9 months ago | 02/01/2022 |  02/02/2022 |
-| [32949](https://myanimelist.net/anime/32949) |    tv   |  2017  |   5   |                                               Kuzu no Honkai                                              |  9 months ago | 05/31/2021 |  02/02/2022 |
+| [35507](https://myanimelist.net/anime/35507) |    tv   |  2017  |   8   |                              Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e                              | 10 months ago | 02/01/2022 |  02/02/2022 |
+| [32949](https://myanimelist.net/anime/32949) |    tv   |  2017  |   5   |                                               Kuzu no Honkai                                              | 10 months ago | 05/31/2021 |  02/02/2022 |
 | [13055](https://myanimelist.net/anime/13055) |   ova   |  2012  |   6   |                                                Sankarea OVA                                               | 10 months ago | 01/30/2022 |  01/30/2022 |
 | [11499](https://myanimelist.net/anime/11499) |    tv   |  2012  |   8   |                                                  Sankarea                                                 | 10 months ago | 01/29/2022 |  01/30/2022 |
 | [14749](https://myanimelist.net/anime/14749) |    tv   |  2013  |   9   |                               Ore no Kanojo to Osananajimi ga Shuraba Sugiru                              | 10 months ago | 01/29/2022 |  01/29/2022 |
@@ -120,7 +121,7 @@
 | [43299](https://myanimelist.net/anime/43299) |    tv   |  2021  |   7   |                                            Wonder Egg Priority                                            | 11 months ago | 01/13/2021 |  12/19/2021 |
 | [40056](https://myanimelist.net/anime/40056) |    tv   |  2020  |   6   |                                                 Deca-Dence                                                | 11 months ago | 12/18/2021 |  12/18/2021 |
 | [36862](https://myanimelist.net/anime/36862) |  movie  |  2020  |   10  |                              Made in Abyss Movie 3: Fukaki Tamashii no Reimei                             | 11 months ago | 12/09/2021 |  12/09/2021 |
-| [14345](https://myanimelist.net/anime/14345) |    tv   |  2012  |   6   |                                                  Btooom!                                                  | 11 months ago | 12/08/2021 |  12/08/2021 |
+| [14345](https://myanimelist.net/anime/14345) |    tv   |  2012  |   6   |                                                  Btooom!                                                  |   Last year   | 12/08/2021 |  12/08/2021 |
 | [34599](https://myanimelist.net/anime/34599) |    tv   |  2017  |   10  |                                               Made in Abyss                                               |  6 months ago | 12/08/2021 |  12/08/2021 |
 | [36516](https://myanimelist.net/anime/36516) |    tv   |  2018  |   7   |                                                  Beatless                                                 |   Last year   | 11/18/2021 |  11/18/2021 |
 | [38020](https://myanimelist.net/anime/38020) |    tv   |  2018  |   6   |                                            Beatless Final Stage                                           |   Last year   | 11/18/2021 |  11/18/2021 |
@@ -150,7 +151,7 @@
 | [43523](https://myanimelist.net/anime/43523) |    tv   |  2021  |   8   |                                     Tsuki ga Michibiku Isekai Douchuu                                     |   Last year   | 07/07/2021 |  09/23/2021 |
 | [41487](https://myanimelist.net/anime/41487) |    tv   |  2021  |   8   |                              Tensei shitara Slime Datta Ken 2nd Season Part 2                             |   Last year   | 07/07/2021 |  09/21/2021 |
 | [34451](https://myanimelist.net/anime/34451) |    tv   |  2017  |   7   |                                           Kekkai Sensen & Beyond                                          |   Last year   | 09/20/2021 |  09/20/2021 |
-| [42249](https://myanimelist.net/anime/42249) |    tv   |  2021  |   9   |                                              Tokyo Revengers                                              | 11 months ago | 05/31/2021 |  09/19/2021 |
+| [42249](https://myanimelist.net/anime/42249) |    tv   |  2021  |   9   |                                              Tokyo Revengers                                              |   Last year   | 05/31/2021 |  09/19/2021 |
 | [24439](https://myanimelist.net/anime/24439) |    tv   |  2015  |   8   |                                               Kekkai Sensen                                               |   Last year   | 09/18/2021 |  09/18/2021 |
 | [30915](https://myanimelist.net/anime/30915) | special |  2015  |   5   |                             Kekkai Sensen: Soresaemo Saitei de Saikou na Hibi                             |   Last year   | 09/18/2021 |  09/18/2021 |
 | [48580](https://myanimelist.net/anime/48580) |    tv   |  2021  |   9   |                                              Vanitas no Karte                                             | 11 months ago | 08/24/2021 |  09/18/2021 |
@@ -197,7 +198,7 @@
 | [39017](https://myanimelist.net/anime/39017) |    tv   |  2020  |   7   |                                                Kyokou Suiri                                               |   Last year   | 11/28/2020 |  05/28/2021 |
 | [23385](https://myanimelist.net/anime/23385) | special |  2014  |   8   |                                        Kyoukai no Kanata: Shinonome                                       |   Last year   | 05/27/2021 |  05/27/2021 |
 |  [6547](https://myanimelist.net/anime/6547)  |    tv   |  2010  |   7   |                                                Angel Beats!                                               |   Last year   | 05/24/2021 |  05/24/2021 |
-| [43609](https://myanimelist.net/anime/43609) |   ova   |  2021  |   8   |                      Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen OVA                      |  7 months ago | 05/24/2021 |  05/24/2021 |
+| [43609](https://myanimelist.net/anime/43609) |   ova   |  2021  |   8   |                       Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA                      |  7 months ago | 05/24/2021 |  05/24/2021 |
 | [16067](https://myanimelist.net/anime/16067) |    tv   |  2013  |   10  |                                              Nagi no Asu kara                                             |  6 months ago | 05/20/2021 |  05/20/2021 |
 | [40417](https://myanimelist.net/anime/40417) |    tv   |  2020  |   7   |                                          Fruits Basket 2nd Season                                         |   Last year   | 05/17/2021 |  05/19/2021 |
 | [34572](https://myanimelist.net/anime/34572) |    tv   |  2017  |   7   |                                                Black Clover                                               |   Last year   | 03/18/2021 |  05/19/2021 |
@@ -281,7 +282,7 @@
 | [30276](https://myanimelist.net/anime/30276) |    tv   |  2015  |   5   |                                               One Punch Man                                               |  2 years ago  | 07/24/2020 |  01/30/2020 |
 | [38691](https://myanimelist.net/anime/38691) |    tv   |  2019  |   9   |                                                 Dr. Stone                                                 |  2 years ago  | 07/05/2019 |  12/24/2019 |
 | [38101](https://myanimelist.net/anime/38101) |    tv   |  2019  |   8   |                                            5-toubun no Hanayome                                           |   Last year   | 03/20/2019 |  03/28/2019 |
-| [28891](https://myanimelist.net/anime/28891) |    tv   |  2015  |   8   |                                          Haikyuu!! Second Season                                          |   Yesterday   | 10/31/2022 |      -      |
+| [28891](https://myanimelist.net/anime/28891) |    tv   |  2015  |   8   |                                          Haikyuu!! Second Season                                          |   2 days ago  | 10/31/2022 |      -      |
 | [15809](https://myanimelist.net/anime/15809) |    tv   |  2013  |   7   |                                            Hataraku Maou-sama!                                            |   Last year   | 05/10/2021 |      -      |
 | [41930](https://myanimelist.net/anime/41930) |    tv   |  2020  |   7   |                                            Kamisama ni Natta Hi                                           |  2 years ago  | 11/30/2020 |      -      |
 | [13759](https://myanimelist.net/anime/13759) |    tv   |  2012  |   8   |                                        Sakura-sou no Pet na Kanojo                                        |   Last year   | 11/28/2020 |      -      |
@@ -313,7 +314,7 @@
 | [16904](https://myanimelist.net/anime/16904) |  movie  |  2014  |   7   |                                              K: Missing Kings                                             |   Last year   |      -     |      -      |
 | [27991](https://myanimelist.net/anime/27991) |    tv   |  2015  |   9   |                                             K: Return of Kings                                            |   Last year   |      -     |      -      |
 | [33248](https://myanimelist.net/anime/33248) |  movie  |  2018  |   7   |                                   K: Seven Stories Movie 1 - R:B - Blaze                                  |  2 years ago  |      -     |      -      |
-| [40839](https://myanimelist.net/anime/40839) |    tv   |  2020  |   9   |                                            Kanojo, Okarishimasu                                           | 11 months ago |      -     |      -      |
+| [40839](https://myanimelist.net/anime/40839) |    tv   |  2020  |   9   |                                            Kanojo, Okarishimasu                                           |   Last year   |      -     |      -      |
 | [35860](https://myanimelist.net/anime/35860) |    tv   |  2018  |   8   |                                        Karakai Jouzu no Takagi-san                                        |  2 years ago  |      -     |      -      |
 | [39112](https://myanimelist.net/anime/39112) |  music  |  2019  |   8   |                                              Kawaki wo Ameku                                              |  7 months ago |      -     |      -      |
 | [38000](https://myanimelist.net/anime/38000) |    tv   |  2019  |   10  |                                              Kimetsu no Yaiba                                             |  9 months ago |      -     |      -      |
@@ -349,7 +350,7 @@
 | [37436](https://myanimelist.net/anime/37436) |    tv   |  2019  |   6   |                                                 Revisions                                                 |   Last year   |      -     |      -      |
 | [38992](https://myanimelist.net/anime/38992) |    tv   |  2020  |   8   |                              Rikei ga Koi ni Ochita no de Shoumei shitemita.                              |  7 months ago |      -     |      -      |
 | [32951](https://myanimelist.net/anime/32951) |    tv   |  2017  |   9   |                               Rokudenashi Majutsu Koushi to Akashic Records                               |  2 years ago  |      -     |      -      |
-|   [355](https://myanimelist.net/anime/355)   |    tv   |  2005  |   9   |                                             Shakugan no Shana                                             | 11 months ago |      -     |      -      |
+|   [355](https://myanimelist.net/anime/355)   |    tv   |  2005  |   9   |                                             Shakugan no Shana                                             |   Last year   |      -     |      -      |
 | [38659](https://myanimelist.net/anime/38659) |    tv   |  2019  |   8   |                     Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru                     |  2 years ago  |      -     |      -      |
 | [21469](https://myanimelist.net/anime/21469) |  movie  |  2014  |   7   |                                            Stand By Me Doraemon                                           |   Last year   |      -     |      -      |
 | [11757](https://myanimelist.net/anime/11757) |    tv   |  2012  |   9   |                                              Sword Art Online                                             |  2 years ago  |      -     |      -      |
