@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   6 days ago  |        -        |
+| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   Last week   |        -        |
 | [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                         Mahou Shoujo Tokushusen Asuka                                        |  3 weeks ago  |        -        |
 | [50593](https://myanimelist.net/anime/50593) |  movie  |  2022  |  light_novel |                                    Natsu e no Tunnel, Sayonara no Deguchi                                    |  3 weeks ago  |        -        |
 | [52865](https://myanimelist.net/anime/52865) |   ona   |  2022  |     manga    |                                                Romantic Killer                                               |   Last month  |        -        |
@@ -62,7 +62,7 @@
 | [37994](https://myanimelist.net/anime/37994) |   ona   |  2021  |   original   |                                          B: The Beginning Succession                                         |  7 months ago |        -        |
 | [40870](https://myanimelist.net/anime/40870) |    tv   |  2021  |   original   |                                                SSSS.Dynazenon                                                |  7 months ago |        -        |
 | [51498](https://myanimelist.net/anime/51498) |    tv   |    -   |     manga    |                                           Masamune-kun no Revenge R                                          |  7 months ago |        -        |
-| [36296](https://myanimelist.net/anime/36296) |    tv   |  2018  |     manga    |                                               Hinamatsuri (TV)                                               |  7 months ago |        -        |
+| [36296](https://myanimelist.net/anime/36296) |    tv   |  2018  |     manga    |                                               Hinamatsuri (TV)                                               |  8 months ago |        -        |
 |  [9617](https://myanimelist.net/anime/9617)  |  movie  |  2011  | 4_koma_manga |                                                  K-On! Movie                                                 |  8 months ago |        -        |
 | [21511](https://myanimelist.net/anime/21511) |    tv   |  2015  |     game     |                                          Kantai Collection: KanColle                                         |  8 months ago |        -        |
 | [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |     manga    |                                              Mahoutsukai no Yome                                             |  8 months ago |        -        |
@@ -71,7 +71,7 @@
 | [51180](https://myanimelist.net/anime/51180) |    tv   |    -   |  light_novel |                          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season                          |  8 months ago |        -        |
 | [51019](https://myanimelist.net/anime/51019) |    tv   |    -   |     manga    |                                   Kimetsu no Yaiba: Katanakaji no Sato-hen                                   |  8 months ago |        -        |
 | [16353](https://myanimelist.net/anime/16353) |    tv   |  2013  |     manga    |                                                   Love Lab                                                   |  8 months ago |        -        |
-| [49040](https://myanimelist.net/anime/49040) |    tv   |  2021  |     manga    |                                               Lupin III: Part 6                                              |  8 months ago |        -        |
+| [49040](https://myanimelist.net/anime/49040) |    tv   |  2021  |     manga    |                                               Lupin III: Part 6                                              |  9 months ago |        -        |
 |  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  | visual_novel |                                                  Amagami SS                                                  |  9 months ago |        -        |
 |  [5356](https://myanimelist.net/anime/5356)  |    tv   |  2009  | visual_novel |                                                    Canaan                                                    |  9 months ago |        -        |
 | [34176](https://myanimelist.net/anime/34176) |    tv   |  2017  |  light_novel |                                        Zero kara Hajimeru Mahou no Sho                                       |  9 months ago |        -        |
