@@ -1,10 +1,11 @@
-# Plan to Watch (208)
+# Plan to Watch (209)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [53580](https://myanimelist.net/anime/53580) |    tv   |    -   |     manga    |                                   Tensei shitara Slime Datta Ken 3rd Season                                  |  22 hours ago |        -        |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   Last week   |        -        |
 | [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                         Mahou Shoujo Tokushusen Asuka                                        |  3 weeks ago  |        -        |
-| [50593](https://myanimelist.net/anime/50593) |  movie  |  2022  |  light_novel |                                    Natsu e no Tunnel, Sayonara no Deguchi                                    |  3 weeks ago  |        -        |
+| [50593](https://myanimelist.net/anime/50593) |  movie  |  2022  |  light_novel |                                    Natsu e no Tunnel, Sayonara no Deguchi                                    |   Last month  |        -        |
 | [52865](https://myanimelist.net/anime/52865) |   ona   |  2022  |     manga    |                                                Romantic Killer                                               |   Last month  |        -        |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |    -   |     manga    |                                        Kanojo, Okarishimasu 3rd Season                                       |   Last month  |        -        |
 | [52608](https://myanimelist.net/anime/52608) |    tv   |  2023  |  light_novel |                   Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                   |   Last month  |        -        |
@@ -12,7 +13,7 @@
 | [28497](https://myanimelist.net/anime/28497) |    tv   |  2015  |  light_novel |                                                Rokka no Yuusha                                               |   Last month  |        -        |
 | [38409](https://myanimelist.net/anime/38409) |   ona   |  2018  |   original   |                                                 Cike Wu Liuqi                                                |   Last month  |        -        |
 | [34051](https://myanimelist.net/anime/34051) |    tv   |  2017  |     game     |                                          Akiba's Trip The Animation                                          |   Last month  |        -        |
-| [52995](https://myanimelist.net/anime/52995) |    tv   |    -   |  light_novel |                                Arifureta Shokugyou de Sekai Saikyou 3rd Season                               |   Last month  |        -        |
+| [52995](https://myanimelist.net/anime/52995) |    tv   |    -   |  light_novel |                                Arifureta Shokugyou de Sekai Saikyou 3rd Season                               |  2 months ago |        -        |
 | [34134](https://myanimelist.net/anime/34134) |    tv   |  2019  |   web_manga  |                                           One Punch Man 2nd Season                                           |  2 months ago |        -        |
 | [52807](https://myanimelist.net/anime/52807) |    tv   |    -   |     manga    |                                                One Punch Man 3                                               |  2 months ago |        -        |
 | [52969](https://myanimelist.net/anime/52969) |    tv   |    -   |  light_novel |                                        Jitsu wa Ore, Saikyou deshita?                                        |  2 months ago |        -        |
@@ -32,7 +33,7 @@
 | [52657](https://myanimelist.net/anime/52657) | special |    -   |   web_manga  |                                      Ousama Ranking: Yuuki no Takarabako                                     |  3 months ago |        -        |
 | [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |  3 months ago |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                               Summertime Render                                              |  3 months ago |        -        |
-|  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |  3 months ago |        -        |
+|  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |  4 months ago |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |             Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita             |  4 months ago |        -        |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                            Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho                            |  4 months ago |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                Lovely★Complex                                                |  4 months ago |        -        |
@@ -86,8 +87,8 @@
 |  [3784](https://myanimelist.net/anime/3784)  |  movie  |  2009  |   original   |                                     Evangelion: 2.0 You Can (Not) Advance                                    | 10 months ago |        -        |
 | [50411](https://myanimelist.net/anime/50411) |   ona   |  2022  |   web_manga  |                                             Xiao Mo Tou Baolu La!                                            | 10 months ago |        -        |
 | [35459](https://myanimelist.net/anime/35459) |   ova   |  2017  |     manga    |                                  Boku no Hero Academia: Training of the Dead                                 | 10 months ago |        -        |
-|  [2593](https://myanimelist.net/anime/2593)  |  movie  |  2007  |  light_novel |                                     Kara no Kyoukai Movie 1: Fukan Fuukei                                    | 10 months ago |        -        |
-| [36023](https://myanimelist.net/anime/36023) |    tv   |  2018  |     game     |                                            Persona 5 the Animation                                           | 10 months ago |        -        |
+|  [2593](https://myanimelist.net/anime/2593)  |  movie  |  2007  |  light_novel |                                     Kara no Kyoukai Movie 1: Fukan Fuukei                                    | 11 months ago |        -        |
+| [36023](https://myanimelist.net/anime/36023) |    tv   |  2018  |     game     |                                            Persona 5 the Animation                                           | 11 months ago |        -        |
 | [50664](https://myanimelist.net/anime/50664) |    tv   |    -   |  light_novel |                                         Saihate no Paladin 2nd Season                                        | 11 months ago |        -        |
 | [11597](https://myanimelist.net/anime/11597) |    tv   |  2012  |  light_novel |                                                Nisemonogatari                                                | 11 months ago |        -        |
 | [18497](https://myanimelist.net/anime/18497) |    tv   |  2013  |     manga    |                                         Yozakura Quartet: Hana no Uta                                        | 11 months ago |        -        |
