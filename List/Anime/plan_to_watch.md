@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [53580](https://myanimelist.net/anime/53580) |    tv   |    -   |     manga    |                                   Tensei shitara Slime Datta Ken 3rd Season                                  |   2 days ago  |        -        |
+| [53580](https://myanimelist.net/anime/53580) |    tv   |    -   |     manga    |                                   Tensei shitara Slime Datta Ken 3rd Season                                  |   3 days ago  |        -        |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   Last week   |        -        |
 | [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                         Mahou Shoujo Tokushusen Asuka                                        |  3 weeks ago  |        -        |
 | [50593](https://myanimelist.net/anime/50593) |  movie  |  2022  |  light_novel |                                    Natsu e no Tunnel, Sayonara no Deguchi                                    |   Last month  |        -        |
@@ -61,7 +61,7 @@
 | [47160](https://myanimelist.net/anime/47160) |    tv   |    -   |  light_novel |                                           Goblin Slayer 2nd Season                                           |  7 months ago |        -        |
 | [48417](https://myanimelist.net/anime/48417) |    tv   |  2023  |  light_novel | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II |  7 months ago |        -        |
 | [37994](https://myanimelist.net/anime/37994) |   ona   |  2021  |   original   |                                          B: The Beginning Succession                                         |  7 months ago |        -        |
-| [40870](https://myanimelist.net/anime/40870) |    tv   |  2021  |   original   |                                                SSSS.Dynazenon                                                |  7 months ago |        -        |
+| [40870](https://myanimelist.net/anime/40870) |    tv   |  2021  |   original   |                                                SSSS.Dynazenon                                                |  8 months ago |        -        |
 | [51498](https://myanimelist.net/anime/51498) |    tv   |    -   |     manga    |                                           Masamune-kun no Revenge R                                          |  8 months ago |        -        |
 | [36296](https://myanimelist.net/anime/36296) |    tv   |  2018  |     manga    |                                               Hinamatsuri (TV)                                               |  8 months ago |        -        |
 |  [9617](https://myanimelist.net/anime/9617)  |  movie  |  2011  | 4_koma_manga |                                                  K-On! Movie                                                 |  8 months ago |        -        |
@@ -69,7 +69,7 @@
 | [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |     manga    |                                              Mahoutsukai no Yome                                             |  8 months ago |        -        |
 | [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |     manga    |         Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu         |  8 months ago |        -        |
 | [50481](https://myanimelist.net/anime/50481) |    tv   |  2023  |  light_novel |                Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀               |  8 months ago |        -        |
-| [51180](https://myanimelist.net/anime/51180) |    tv   |    -   |  light_novel |                          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season                          |  8 months ago |        -        |
+| [51180](https://myanimelist.net/anime/51180) |    tv   |    -   |  light_novel |                          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season                          |  9 months ago |        -        |
 | [51019](https://myanimelist.net/anime/51019) |    tv   |    -   |     manga    |                                   Kimetsu no Yaiba: Katanakaji no Sato-hen                                   |  9 months ago |        -        |
 | [16353](https://myanimelist.net/anime/16353) |    tv   |  2013  |     manga    |                                                   Love Lab                                                   |  9 months ago |        -        |
 | [49040](https://myanimelist.net/anime/49040) |    tv   |  2021  |     manga    |                                               Lupin III: Part 6                                              |  9 months ago |        -        |
