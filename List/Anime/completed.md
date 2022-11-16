@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [38883](https://myanimelist.net/anime/38883) |    tv   |  2020  |   7   |                                            Haikyuu!! To the Top                                           |   3 days ago  | 11/10/2022 |  11/12/2022 |
-| [32935](https://myanimelist.net/anime/32935) |    tv   |  2016  |   7   |                         Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou                         |   6 days ago  | 11/07/2022 |  11/08/2022 |
+| [38883](https://myanimelist.net/anime/38883) |    tv   |  2020  |   7   |                                            Haikyuu!! To the Top                                           |   4 days ago  | 11/10/2022 |  11/12/2022 |
+| [32935](https://myanimelist.net/anime/32935) |    tv   |  2016  |   7   |                         Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou                         |   Last week   | 11/07/2022 |  11/08/2022 |
 | [20583](https://myanimelist.net/anime/20583) |    tv   |  2014  |   7   |                                                 Haikyuu!!                                                 |  2 weeks ago  | 10/28/2022 |  10/31/2022 |
 | [39651](https://myanimelist.net/anime/39651) |   ova   |  2019  |   5   |           Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi          |  3 weeks ago  | 10/24/2022 |  10/24/2022 |
 | [37510](https://myanimelist.net/anime/37510) |    tv   |  2019  |   8   |                                             Mob Psycho 100 II                                             |  3 weeks ago  | 10/23/2022 |  10/24/2022 |
@@ -26,7 +26,7 @@
 | [39324](https://myanimelist.net/anime/39324) |    tv   |  2019  |   9   |              Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.              |  2 months ago | 08/26/2022 |  08/26/2022 |
 | [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |  4 months ago | 05/13/2022 |  07/08/2022 |
 |   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  4 months ago | 07/06/2022 |  07/06/2022 |
-| [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |  4 months ago | 04/07/2022 |  06/29/2022 |
+| [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |  5 months ago | 04/07/2022 |  06/29/2022 |
 | [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |  5 months ago | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |  5 months ago | 04/09/2022 |  06/26/2022 |
 | [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |  5 months ago | 04/09/2022 |  06/26/2022 |
@@ -55,7 +55,7 @@
 | [32827](https://myanimelist.net/anime/32827) |   ona   |  2018  |   7   |                                              B: The Beginning                                             |  7 months ago | 04/12/2022 |  04/13/2022 |
 | [39049](https://myanimelist.net/anime/39049) |    tv   |  2020  |   7   |                                           Jashin-chan Dropkick'                                           |  7 months ago | 04/10/2022 |  04/13/2022 |
 | [23277](https://myanimelist.net/anime/23277) |    tv   |  2015  |   5   |                                        Saenai Heroine no Sodatekata                                       |  7 months ago | 04/09/2022 |  04/10/2022 |
-| [33674](https://myanimelist.net/anime/33674) |  movie  |  2017  |   10  |                                           No Game No Life: Zero                                           |  7 months ago | 04/05/2022 |  04/06/2022 |
+| [33674](https://myanimelist.net/anime/33674) |  movie  |  2017  |   10  |                                           No Game No Life: Zero                                           |  8 months ago | 04/05/2022 |  04/06/2022 |
 | [19815](https://myanimelist.net/anime/19815) |    tv   |  2014  |   8   |                                              No Game No Life                                              |  7 months ago | 06/06/2020 |  04/05/2022 |
 | [38383](https://myanimelist.net/anime/38383) |   ona   |  2018  |   6   |                                      Jashin-chan Dropkick Episode 12                                      |  7 months ago | 04/04/2022 |  04/04/2022 |
 | [36906](https://myanimelist.net/anime/36906) |    tv   |  2018  |   7   |                                            Jashin-chan Dropkick                                           |  8 months ago | 04/03/2022 |  04/04/2022 |
