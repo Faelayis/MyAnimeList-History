@@ -1,16 +1,17 @@
-# Plan to Watch (210)
+# Plan to Watch (211)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [31904](https://myanimelist.net/anime/31904) |    tv   |  2016  |     manga    |                                                Big Order (TV)                                                |  11 hours ago |        -        |
-| [53580](https://myanimelist.net/anime/53580) |    tv   |    -   |     manga    |                                   Tensei shitara Slime Datta Ken 3rd Season                                  |   5 days ago  |        -        |
-| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   Last week   |        -        |
+| [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |  light_novel |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |  10 hours ago |        -        |
+| [31904](https://myanimelist.net/anime/31904) |    tv   |  2016  |     manga    |                                                Big Order (TV)                                                |   Yesterday   |        -        |
+| [53580](https://myanimelist.net/anime/53580) |    tv   |    -   |     manga    |                                   Tensei shitara Slime Datta Ken 3rd Season                                  |   6 days ago  |        -        |
+| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |  2 weeks ago  |        -        |
 | [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                         Mahou Shoujo Tokushusen Asuka                                        |   Last month  |        -        |
 | [50593](https://myanimelist.net/anime/50593) |  movie  |  2022  |  light_novel |                                    Natsu e no Tunnel, Sayonara no Deguchi                                    |   Last month  |        -        |
 | [52865](https://myanimelist.net/anime/52865) |   ona   |  2022  |     manga    |                                                Romantic Killer                                               |   Last month  |        -        |
-| [53050](https://myanimelist.net/anime/53050) |    tv   |    -   |     manga    |                                        Kanojo, Okarishimasu 3rd Season                                       |   Last month  |        -        |
-| [52608](https://myanimelist.net/anime/52608) |    tv   |  2023  |  light_novel |                   Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                   |   Last month  |        -        |
-| [52289](https://myanimelist.net/anime/52289) | special |  2022  |     manga    |                                  Kanojo, Okarishimasu 2nd Season Mini Anime                                  |   Last month  |        -        |
+| [53050](https://myanimelist.net/anime/53050) |    tv   |    -   |     manga    |                                        Kanojo, Okarishimasu 3rd Season                                       |  2 months ago |        -        |
+| [52608](https://myanimelist.net/anime/52608) |    tv   |  2023  |  light_novel |                   Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                   |  2 months ago |        -        |
+| [52289](https://myanimelist.net/anime/52289) | special |  2022  |     manga    |                                  Kanojo, Okarishimasu 2nd Season Mini Anime                                  |  2 months ago |        -        |
 | [28497](https://myanimelist.net/anime/28497) |    tv   |  2015  |  light_novel |                                                Rokka no Yuusha                                               |  2 months ago |        -        |
 | [38409](https://myanimelist.net/anime/38409) |   ona   |  2018  |   original   |                                                 Cike Wu Liuqi                                                |  2 months ago |        -        |
 | [34051](https://myanimelist.net/anime/34051) |    tv   |  2017  |     game     |                                          Akiba's Trip The Animation                                          |  2 months ago |        -        |
