@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [38883](https://myanimelist.net/anime/38883) |    tv   |  2020  |   7   |                                            Haikyuu!! To the Top                                           |   5 days ago  | 11/10/2022 |  11/12/2022 |
+| [38883](https://myanimelist.net/anime/38883) |    tv   |  2020  |   7   |                                            Haikyuu!! To the Top                                           |   6 days ago  | 11/10/2022 |  11/12/2022 |
 | [32935](https://myanimelist.net/anime/32935) |    tv   |  2016  |   7   |                         Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou                         |   Last week   | 11/07/2022 |  11/08/2022 |
 | [20583](https://myanimelist.net/anime/20583) |    tv   |  2014  |   7   |                                                 Haikyuu!!                                                 |  2 weeks ago  | 10/28/2022 |  10/31/2022 |
 | [39651](https://myanimelist.net/anime/39651) |   ova   |  2019  |   5   |           Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi          |  3 weeks ago  | 10/24/2022 |  10/24/2022 |
@@ -23,7 +23,7 @@
 | [37105](https://myanimelist.net/anime/37105) |    tv   |  2018  |   7   |                                                 Grand Blue                                                |  2 months ago | 09/03/2022 |  09/03/2022 |
 |   [226](https://myanimelist.net/anime/226)   |    tv   |  2004  |   5   |                                                 Elfen Lied                                                |  2 months ago | 03/29/2021 |  09/03/2022 |
 | [50410](https://myanimelist.net/anime/50410) |  movie  |  2022  |   7   |                                            One Piece Film: Red                                            |  2 months ago | 08/26/2022 |  08/26/2022 |
-| [39324](https://myanimelist.net/anime/39324) |    tv   |  2019  |   9   |              Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.              |  2 months ago | 08/26/2022 |  08/26/2022 |
+| [39324](https://myanimelist.net/anime/39324) |    tv   |  2019  |   9   |              Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.              |  3 months ago | 08/26/2022 |  08/26/2022 |
 | [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |  4 months ago | 05/13/2022 |  07/08/2022 |
 |   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  4 months ago | 07/06/2022 |  07/06/2022 |
 | [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |  5 months ago | 04/07/2022 |  06/29/2022 |
@@ -68,7 +68,7 @@
 | [40540](https://myanimelist.net/anime/40540) |    tv   |  2020  |   8   |                        Sword Art Online: Alicization - War of Underworld 2nd Season                       |  8 months ago | 03/17/2022 |  03/19/2022 |
 | [39597](https://myanimelist.net/anime/39597) |    tv   |  2019  |   7   |                             Sword Art Online: Alicization - War of Underworld                             |  8 months ago | 03/16/2022 |  03/17/2022 |
 | [41120](https://myanimelist.net/anime/41120) |    tv   |  2020  |   8   |                                       Fugou Keiji: Balance:Unlimited                                      |  8 months ago | 03/13/2022 |  03/13/2022 |
-| [41694](https://myanimelist.net/anime/41694) |    tv   |  2021  |   8   |                                           Hataraku Saibou Black                                           |  8 months ago | 03/08/2022 |  03/11/2022 |
+| [41694](https://myanimelist.net/anime/41694) |    tv   |  2021  |   8   |                                           Hataraku Saibou Black                                           |  9 months ago | 03/08/2022 |  03/11/2022 |
 | [40416](https://myanimelist.net/anime/40416) |  movie  |  2020  |   9   |                                       Date A Bullet: Dead or Bullet                                       |  9 months ago | 03/03/2022 |  03/03/2022 |
 | [42423](https://myanimelist.net/anime/42423) |  movie  |  2020  |   10  |                                     Date A Bullet: Nightmare or Queen                                     |  7 months ago | 03/03/2022 |  03/03/2022 |
 | [24655](https://myanimelist.net/anime/24655) |  movie  |  2015  |   6   |                                     Date A Live Movie: Mayuri Judgment                                    |  9 months ago | 03/03/2022 |  03/03/2022 |
@@ -98,7 +98,7 @@
 | [44069](https://myanimelist.net/anime/44069) |   ona   |  2021  |   7   |                                      Xian Wang de Richang Shenghuo 2                                      | 10 months ago | 11/01/2021 |  01/28/2022 |
 | [34497](https://myanimelist.net/anime/34497) |    tv   |  2018  |   7   |                               Death March kara Hajimaru Isekai Kyousoukyoku                               | 10 months ago | 01/21/2022 |  01/21/2022 |
 | [41587](https://myanimelist.net/anime/41587) |    tv   |  2021  |   8   |                                      Boku no Hero Academia 5th Season                                     | 10 months ago | 01/18/2022 |  01/18/2022 |
-| [38408](https://myanimelist.net/anime/38408) |    tv   |  2019  |   8   |                                      Boku no Hero Academia 4th Season                                     | 10 months ago | 01/12/2022 |  01/14/2022 |
+| [38408](https://myanimelist.net/anime/38408) |    tv   |  2019  |   8   |                                      Boku no Hero Academia 4th Season                                     | 11 months ago | 01/12/2022 |  01/14/2022 |
 | [36456](https://myanimelist.net/anime/36456) |    tv   |  2018  |   9   |                                      Boku no Hero Academia 3rd Season                                     |  6 months ago | 01/11/2022 |  01/12/2022 |
 | [33486](https://myanimelist.net/anime/33486) |    tv   |  2017  |   8   |                                      Boku no Hero Academia 2nd Season                                     | 11 months ago | 01/09/2022 |  01/11/2022 |
 | [31964](https://myanimelist.net/anime/31964) |    tv   |  2016  |   8   |                                           Boku no Hero Academia                                           | 11 months ago | 01/09/2022 |  01/09/2022 |
