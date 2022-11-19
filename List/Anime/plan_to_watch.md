@@ -1,9 +1,9 @@
-# Plan to Watch (211)
+# Plan to Watch (210)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |  light_novel |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   Yesterday   |        -        |
-| [31904](https://myanimelist.net/anime/31904) |    tv   |  2016  |     manga    |                                                Big Order (TV)                                                |   2 days ago  |        -        |
+| [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |  light_novel |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   2 days ago  |        -        |
+| [31904](https://myanimelist.net/anime/31904) |    tv   |  2016  |     manga    |                                                Big Order (TV)                                                |   3 days ago  |        -        |
 | [53580](https://myanimelist.net/anime/53580) |    tv   |    -   |     manga    |                                   Tensei shitara Slime Datta Ken 3rd Season                                  |   Last week   |        -        |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |  2 weeks ago  |        -        |
 | [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                         Mahou Shoujo Tokushusen Asuka                                        |   Last month  |        -        |
@@ -92,7 +92,6 @@
 |  [2593](https://myanimelist.net/anime/2593)  |  movie  |  2007  |  light_novel |                                     Kara no Kyoukai Movie 1: Fukan Fuukei                                    | 11 months ago |        -        |
 | [36023](https://myanimelist.net/anime/36023) |    tv   |  2018  |     game     |                                            Persona 5 the Animation                                           | 11 months ago |        -        |
 | [50664](https://myanimelist.net/anime/50664) |    tv   |    -   |  light_novel |                                         Saihate no Paladin 2nd Season                                        | 11 months ago |        -        |
-| [11597](https://myanimelist.net/anime/11597) |    tv   |  2012  |  light_novel |                                                Nisemonogatari                                                | 11 months ago |        -        |
 | [18497](https://myanimelist.net/anime/18497) |    tv   |  2013  |     manga    |                                         Yozakura Quartet: Hana no Uta                                        | 11 months ago |        -        |
 | [12893](https://myanimelist.net/anime/12893) | special |  2012  |   web_manga  |                                     Danshi Koukousei no Nichijou Specials                                    | 11 months ago |        -        |
 | [38186](https://myanimelist.net/anime/38186) |    tv   |  2019  |     manga    |                                        Bokutachi wa Benkyou ga Dekinai                                       | 11 months ago |        -        |
@@ -100,10 +99,10 @@
 | [50608](https://myanimelist.net/anime/50608) |    tv   |  2023  |     manga    |                                       Tokyo Revengers: Seiya Kessen-hen                                      | 11 months ago |        -        |
 | [49310](https://myanimelist.net/anime/49310) |  movie  |  2022  |     manga    |                                            Fruits Basket: Prelude                                            | 11 months ago |        -        |
 | [14829](https://myanimelist.net/anime/14829) |    tv   |  2013  |     manga    |                                        Fate/kaleid liner Prisma☆Illya                                        | 11 months ago |        -        |
-| [33589](https://myanimelist.net/anime/33589) |    tv   |  2016  |   original   |                                                 ViVid Strike!                                                | 11 months ago |        -        |
-| [47159](https://myanimelist.net/anime/47159) |    tv   |  2022  |  light_novel |                                    Tensai Ouji no Akaji Kokka Saisei Jutsu                                   | 11 months ago |        -        |
-| [48414](https://myanimelist.net/anime/48414) |    tv   |  2022  |  light_novel |                                                 Sabikui Bisco                                                | 11 months ago |        -        |
-| [45425](https://myanimelist.net/anime/45425) |    tv   |  2022  |     manga    |                                                   Slow Loop                                                  | 11 months ago |        -        |
+| [33589](https://myanimelist.net/anime/33589) |    tv   |  2016  |   original   |                                                 ViVid Strike!                                                |   12/17/2021  |        -        |
+| [47159](https://myanimelist.net/anime/47159) |    tv   |  2022  |  light_novel |                                    Tensai Ouji no Akaji Kokka Saisei Jutsu                                   |   12/17/2021  |        -        |
+| [48414](https://myanimelist.net/anime/48414) |    tv   |  2022  |  light_novel |                                                 Sabikui Bisco                                                |   12/17/2021  |        -        |
+| [45425](https://myanimelist.net/anime/45425) |    tv   |  2022  |     manga    |                                                   Slow Loop                                                  |   12/17/2021  |        -        |
 | [25159](https://myanimelist.net/anime/25159) |    tv   |  2014  |  light_novel |                                    Inou-Battle wa Nichijou-kei no Naka de                                    |   12/14/2021  |        -        |
 | [26085](https://myanimelist.net/anime/26085) |    tv   |  2015  | 4_koma_manga |                              Military!: Tamatama Shoumetsu Suru Shiroki Hikari!                              |   12/10/2021  |        -        |
 | [37514](https://myanimelist.net/anime/37514) |  movie  |  2019  |   web_manga  |                                   Made in Abyss Movie 1: Tabidachi no Yoake                                  |   12/05/2021  |        -        |
