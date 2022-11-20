@@ -6,36 +6,36 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                       Title                                       | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------: | :-----: | :---------: | :--------: |
-| [11597](https://myanimelist.net/anime/11597) |  tv  |  2012  |   -   |                                   Nisemonogatari                                  |   6/11  | 8 hours ago | 11/19/2022 |
-| [50710](https://myanimelist.net/anime/50710) |  tv  |  2022  |   7   |                               Urusei Yatsura (2022)                               |   6/23  |  Yesterday  | 10/14/2022 |
-| [48316](https://myanimelist.net/anime/48316) |  tv  |  2022  |   -   |                        Kage no Jitsuryokusha ni Naritakute!                       |   7/20  |  2 days ago | 10/06/2022 |
-| [51403](https://myanimelist.net/anime/51403) |  tv  |  2022  |   -   |                                    Renai Flops                                    |   6/12  |  2 days ago | 10/27/2022 |
-| [44511](https://myanimelist.net/anime/44511) |  tv  |  2022  |   -   |                                    Chainsaw Man                                   |   6/12  |  3 days ago | 10/13/2022 |
-| [50425](https://myanimelist.net/anime/50425) |  tv  |  2022  |   8   |                             Fuufu Ijou, Koibito Miman.                            |   6/12  |  4 days ago | 10/24/2022 |
-| [49918](https://myanimelist.net/anime/49918) |  tv  |  2022  |   -   |                          Boku no Hero Academia 6th Season                         |   7/25  |  4 days ago | 10/02/2022 |
-| [40776](https://myanimelist.net/anime/40776) |  tv  |  2020  |   -   |                            Haikyuu!! To the Top Part 2                            |   2/12  |  5 days ago | 11/12/2022 |
-| [49784](https://myanimelist.net/anime/49784) |  tv  |  2022  |   -   |                         Mairimashita! Iruma-kun 3rd Season                        |   6/21  |  6 days ago | 10/09/2022 |
-| [50602](https://myanimelist.net/anime/50602) |  tv  |  2022  |   -   |                                Spy x Family Part 2                                |   7/13  |  6 days ago | 10/02/2022 |
-| [50205](https://myanimelist.net/anime/50205) |  tv  |  2022  |   -   |                              Arknights: Reimei Zensou                             |   1/8   |  Last week  | 11/06/2022 |
+| [17074](https://myanimelist.net/anime/17074) |  tv  |  2013  |   -   |                          Monogatari Series: Second Season                         |   1/26  | 8 hours ago | 11/20/2022 |
+| [50710](https://myanimelist.net/anime/50710) |  tv  |  2022  |   7   |                               Urusei Yatsura (2022)                               |   6/23  |  2 days ago | 10/14/2022 |
+| [48316](https://myanimelist.net/anime/48316) |  tv  |  2022  |   -   |                        Kage no Jitsuryokusha ni Naritakute!                       |   7/20  |  3 days ago | 10/06/2022 |
+| [51403](https://myanimelist.net/anime/51403) |  tv  |  2022  |   -   |                                    Renai Flops                                    |   6/12  |  3 days ago | 10/27/2022 |
+| [44511](https://myanimelist.net/anime/44511) |  tv  |  2022  |   -   |                                    Chainsaw Man                                   |   6/12  |  4 days ago | 10/13/2022 |
+| [50425](https://myanimelist.net/anime/50425) |  tv  |  2022  |   8   |                             Fuufu Ijou, Koibito Miman.                            |   6/12  |  5 days ago | 10/24/2022 |
+| [49918](https://myanimelist.net/anime/49918) |  tv  |  2022  |   -   |                          Boku no Hero Academia 6th Season                         |   7/25  |  5 days ago | 10/02/2022 |
+| [40776](https://myanimelist.net/anime/40776) |  tv  |  2020  |   -   |                            Haikyuu!! To the Top Part 2                            |   2/12  |  6 days ago | 11/12/2022 |
+| [49784](https://myanimelist.net/anime/49784) |  tv  |  2022  |   -   |                         Mairimashita! Iruma-kun 3rd Season                        |   6/21  |  Last week  | 10/09/2022 |
+| [50602](https://myanimelist.net/anime/50602) |  tv  |  2022  |   -   |                                Spy x Family Part 2                                |   7/13  |  Last week  | 10/02/2022 |
+| [50205](https://myanimelist.net/anime/50205) |  tv  |  2022  |   -   |                              Arknights: Reimei Zensou                             |   1/8   | 2 weeks ago | 11/06/2022 |
 
 
 *[5 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``81.22%``
+#### Completed ``81.00%``
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-|  [5081](https://myanimelist.net/anime/5081)  |    tv   |  2009  |   7   |                                               Bakemonogatari                                              |  9 hours ago  | 11/18/2022 |  11/19/2022 |
+| [11597](https://myanimelist.net/anime/11597) |    tv   |  2012  |   7   |                                               Nisemonogatari                                              |  8 hours ago  | 11/19/2022 |  11/20/2022 |
+|  [5081](https://myanimelist.net/anime/5081)  |    tv   |  2009  |   7   |                                               Bakemonogatari                                              |   Yesterday   | 11/18/2022 |  11/19/2022 |
 | [38883](https://myanimelist.net/anime/38883) |    tv   |  2020  |   7   |                                            Haikyuu!! To the Top                                           |   Last week   | 11/10/2022 |  11/12/2022 |
 | [32935](https://myanimelist.net/anime/32935) |    tv   |  2016  |   7   |                         Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou                         |   Last week   | 11/07/2022 |  11/08/2022 |
 | [20583](https://myanimelist.net/anime/20583) |    tv   |  2014  |   7   |                                                 Haikyuu!!                                                 |  2 weeks ago  | 10/28/2022 |  10/31/2022 |
 | [39651](https://myanimelist.net/anime/39651) |   ova   |  2019  |   5   |           Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi          |  3 weeks ago  | 10/24/2022 |  10/24/2022 |
-| [37510](https://myanimelist.net/anime/37510) |    tv   |  2019  |   8   |                                             Mob Psycho 100 II                                             |  3 weeks ago  | 10/23/2022 |  10/24/2022 |
 
 
-*[372 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
+*[373 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``8.21%``
+#### On Hold ``8.20%``
 
 |                      id                      |   Type  | Season | Score |                            Title                           | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :--------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -49,7 +49,7 @@ List Sync From MyAnimeList (update every day)
 
 *[46 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``4.42%``
+#### Dropped ``4.41%``
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
@@ -63,12 +63,12 @@ List Sync From MyAnimeList (update every day)
 
 *[23 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``44.21%``
+#### Plan to Watch ``44.12%``
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |  light_novel |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   2 days ago  |        -        |
-| [31904](https://myanimelist.net/anime/31904) |    tv   |  2016  |     manga    |                                                Big Order (TV)                                                |   3 days ago  |        -        |
+| [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |  light_novel |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   3 days ago  |        -        |
+| [31904](https://myanimelist.net/anime/31904) |    tv   |  2016  |     manga    |                                                Big Order (TV)                                                |   4 days ago  |        -        |
 | [53580](https://myanimelist.net/anime/53580) |    tv   |    -   |     manga    |                                   Tensei shitara Slime Datta Ken 3rd Season                                  |   Last week   |        -        |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |  2 weeks ago  |        -        |
 | [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                         Mahou Shoujo Tokushusen Asuka                                        |   Last month  |        -        |
