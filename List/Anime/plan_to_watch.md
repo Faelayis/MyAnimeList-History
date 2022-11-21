@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |  light_novel |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   3 days ago  |        -        |
-| [31904](https://myanimelist.net/anime/31904) |    tv   |  2016  |     manga    |                                                Big Order (TV)                                                |   4 days ago  |        -        |
+| [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |  light_novel |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   4 days ago  |        -        |
+| [31904](https://myanimelist.net/anime/31904) |    tv   |  2016  |     manga    |                                                Big Order (TV)                                                |   5 days ago  |        -        |
 | [53580](https://myanimelist.net/anime/53580) |    tv   |    -   |     manga    |                                   Tensei shitara Slime Datta Ken 3rd Season                                  |   Last week   |        -        |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |  2 weeks ago  |        -        |
 | [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                         Mahou Shoujo Tokushusen Asuka                                        |   Last month  |        -        |
@@ -51,7 +51,7 @@
 | [15005](https://myanimelist.net/anime/15005) |   ona   |  2012  |     manga    |                                              Kyou no Asuka Show                                              |  6 months ago |        -        |
 | [50738](https://myanimelist.net/anime/50738) |    tv   |    -   |  light_novel |                 Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita 2nd Season                |  7 months ago |        -        |
 | [49981](https://myanimelist.net/anime/49981) |    tv   |    -   |  light_novel |                  Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II                  |  7 months ago |        -        |
-| [51632](https://myanimelist.net/anime/51632) |    tv   |  2023  |  light_novel |                                  Isekai wa Smartphone to Tomo ni. 2nd Season                                 |  7 months ago |        -        |
+| [51632](https://myanimelist.net/anime/51632) |    tv   |  2023  |  light_novel |                                      Isekai wa Smartphone to Tomo ni. 2                                      |  7 months ago |        -        |
 | [51009](https://myanimelist.net/anime/51009) |    tv   |    -   |     manga    |                                           Jujutsu Kaisen 2nd Season                                          |  7 months ago |        -        |
 |  [7592](https://myanimelist.net/anime/7592)  |    tv   |  2010  |     manga    |                                              Nurarihyon no Mago                                              |  7 months ago |        -        |
 | [27831](https://myanimelist.net/anime/27831) |    tv   |  2015  |  light_novel |                                               Durarara!!x2 Ten                                               |  7 months ago |        -        |
