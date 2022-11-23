@@ -2,13 +2,13 @@
 
 |                      id                      | Type | Season | Score |                                       Title                                       | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------: | :-----: | :---------: | :--------: |
-| [50425](https://myanimelist.net/anime/50425) |  tv  |  2022  |   8   |                             Fuufu Ijou, Koibito Miman.                            |   7/12  |  Yesterday  | 10/24/2022 |
-| [50602](https://myanimelist.net/anime/50602) |  tv  |  2022  |   -   |                                Spy x Family Part 2                                |   8/13  |  Yesterday  | 10/02/2022 |
-| [17074](https://myanimelist.net/anime/17074) |  tv  |  2013  |   -   |                          Monogatari Series: Second Season                         |   1/26  |  2 days ago | 11/20/2022 |
-| [50710](https://myanimelist.net/anime/50710) |  tv  |  2022  |   7   |                               Urusei Yatsura (2022)                               |   6/23  |  4 days ago | 10/14/2022 |
-| [48316](https://myanimelist.net/anime/48316) |  tv  |  2022  |   -   |                        Kage no Jitsuryokusha ni Naritakute!                       |   7/20  |  5 days ago | 10/06/2022 |
-| [51403](https://myanimelist.net/anime/51403) |  tv  |  2022  |   -   |                                    Renai Flops                                    |   6/12  |  5 days ago | 10/27/2022 |
-| [44511](https://myanimelist.net/anime/44511) |  tv  |  2022  |   -   |                                    Chainsaw Man                                   |   6/12  |  6 days ago | 10/13/2022 |
+| [17074](https://myanimelist.net/anime/17074) |  tv  |  2013  |   -   |                          Monogatari Series: Second Season                         |  18/26  | 8 hours ago | 11/20/2022 |
+| [50425](https://myanimelist.net/anime/50425) |  tv  |  2022  |   8   |                             Fuufu Ijou, Koibito Miman.                            |   7/12  |  2 days ago | 10/24/2022 |
+| [50602](https://myanimelist.net/anime/50602) |  tv  |  2022  |   -   |                                Spy x Family Part 2                                |   8/13  |  2 days ago | 10/02/2022 |
+| [50710](https://myanimelist.net/anime/50710) |  tv  |  2022  |   7   |                               Urusei Yatsura (2022)                               |   6/23  |  5 days ago | 10/14/2022 |
+| [48316](https://myanimelist.net/anime/48316) |  tv  |  2022  |   -   |                        Kage no Jitsuryokusha ni Naritakute!                       |   7/20  |  6 days ago | 10/06/2022 |
+| [51403](https://myanimelist.net/anime/51403) |  tv  |  2022  |   -   |                                    Renai Flops                                    |   6/12  |  6 days ago | 10/27/2022 |
+| [44511](https://myanimelist.net/anime/44511) |  tv  |  2022  |   -   |                                    Chainsaw Man                                   |   6/12  |  Last week  | 10/13/2022 |
 | [49918](https://myanimelist.net/anime/49918) |  tv  |  2022  |   -   |                          Boku no Hero Academia 6th Season                         |   7/25  |  Last week  | 10/02/2022 |
 | [40776](https://myanimelist.net/anime/40776) |  tv  |  2020  |   -   |                            Haikyuu!! To the Top Part 2                            |   2/12  |  Last week  | 11/12/2022 |
 | [49784](https://myanimelist.net/anime/49784) |  tv  |  2022  |   -   |                         Mairimashita! Iruma-kun 3rd Season                        |   6/21  |  Last week  | 10/09/2022 |

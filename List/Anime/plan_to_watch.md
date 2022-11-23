@@ -1,9 +1,10 @@
-# Plan to Watch (210)
+# Plan to Watch (211)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |  light_novel |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   5 days ago  |        -        |
-| [31904](https://myanimelist.net/anime/31904) |    tv   |  2016  |     manga    |                                                Big Order (TV)                                                |   6 days ago  |        -        |
+| [33731](https://myanimelist.net/anime/33731) |    tv   |  2017  |     manga    |                                                Gabriel DropOut                                               |  18 hours ago |        -        |
+| [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |  light_novel |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   6 days ago  |        -        |
+| [31904](https://myanimelist.net/anime/31904) |    tv   |  2016  |     manga    |                                                Big Order (TV)                                                |   Last week   |        -        |
 | [53580](https://myanimelist.net/anime/53580) |    tv   |    -   |     manga    |                                   Tensei shitara Slime Datta Ken 3rd Season                                  |   Last week   |        -        |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |  2 weeks ago  |        -        |
 | [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                         Mahou Shoujo Tokushusen Asuka                                        |   Last month  |        -        |
@@ -38,7 +39,7 @@
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |  4 months ago |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |             Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita             |  4 months ago |        -        |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                            Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho                            |  4 months ago |        -        |
-|  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                Lovely★Complex                                                |  4 months ago |        -        |
+|  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                Lovely★Complex                                                |  5 months ago |        -        |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                      Kono Subarashii Sekai ni Bakuen wo!                                     |  5 months ago |        -        |
 | [50739](https://myanimelist.net/anime/50739) |    tv   |  2023  |  light_novel |                      Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                     |  5 months ago |        -        |
 | [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                 Date A Live V                                                |  5 months ago |        -        |
@@ -62,7 +63,7 @@
 | [50330](https://myanimelist.net/anime/50330) |    tv   |  2023  |     manga    |                                         Bungou Stray Dogs 4th Season                                         |  7 months ago |        -        |
 | [47160](https://myanimelist.net/anime/47160) |    tv   |    -   |  light_novel |                                           Goblin Slayer 2nd Season                                           |  7 months ago |        -        |
 | [48417](https://myanimelist.net/anime/48417) |    tv   |  2023  |  light_novel | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II |  7 months ago |        -        |
-| [37994](https://myanimelist.net/anime/37994) |   ona   |  2021  |   original   |                                          B: The Beginning Succession                                         |  7 months ago |        -        |
+| [37994](https://myanimelist.net/anime/37994) |   ona   |  2021  |   original   |                                          B: The Beginning Succession                                         |  8 months ago |        -        |
 | [40870](https://myanimelist.net/anime/40870) |    tv   |  2021  |   original   |                                                SSSS.Dynazenon                                                |  8 months ago |        -        |
 | [51498](https://myanimelist.net/anime/51498) |    tv   |    -   |     manga    |                                           Masamune-kun no Revenge R                                          |  8 months ago |        -        |
 | [36296](https://myanimelist.net/anime/36296) |    tv   |  2018  |     manga    |                                               Hinamatsuri (TV)                                               |  8 months ago |        -        |
@@ -94,7 +95,7 @@
 | [50664](https://myanimelist.net/anime/50664) |    tv   |    -   |  light_novel |                                         Saihate no Paladin 2nd Season                                        | 11 months ago |        -        |
 | [18497](https://myanimelist.net/anime/18497) |    tv   |  2013  |     manga    |                                         Yozakura Quartet: Hana no Uta                                        | 11 months ago |        -        |
 | [12893](https://myanimelist.net/anime/12893) | special |  2012  |   web_manga  |                                     Danshi Koukousei no Nichijou Specials                                    | 11 months ago |        -        |
-| [38186](https://myanimelist.net/anime/38186) |    tv   |  2019  |     manga    |                                        Bokutachi wa Benkyou ga Dekinai                                       | 11 months ago |        -        |
+| [38186](https://myanimelist.net/anime/38186) |    tv   |  2019  |     manga    |                                        Bokutachi wa Benkyou ga Dekinai                                       |   12/21/2021  |        -        |
 | [50612](https://myanimelist.net/anime/50612) | special |  2022  |     manga    |                                              Dr. Stone: Ryuusui                                              |   12/20/2021  |        -        |
 | [50608](https://myanimelist.net/anime/50608) |    tv   |  2023  |     manga    |                                       Tokyo Revengers: Seiya Kessen-hen                                      |   12/20/2021  |        -        |
 | [49310](https://myanimelist.net/anime/49310) |  movie  |  2022  |     manga    |                                            Fruits Basket: Prelude                                            |   12/18/2021  |        -        |
