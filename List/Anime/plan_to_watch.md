@@ -1,12 +1,15 @@
-# Plan to Watch (211)
+# Plan to Watch (213)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [33731](https://myanimelist.net/anime/33731) |    tv   |  2017  |     manga    |                                                Gabriel DropOut                                               |  18 hours ago |        -        |
-| [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |  light_novel |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   6 days ago  |        -        |
+|  [9260](https://myanimelist.net/anime/9260)  |  movie  |  2016  |  light_novel |                                        Kizumonogatari I: Tekketsu-hen                                        |  8 hours ago  |        -        |
+| [35247](https://myanimelist.net/anime/35247) |    tv   |  2017  |  light_novel |                                          Owarimonogatari 2nd Season                                          |  8 hours ago  |        -        |
+| [32268](https://myanimelist.net/anime/32268) |   ona   |  2016  |  light_novel |                                               Koyomimonogatari                                               |  9 hours ago  |        -        |
+| [33731](https://myanimelist.net/anime/33731) |    tv   |  2017  |     manga    |                                                Gabriel DropOut                                               |   Yesterday   |        -        |
+| [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |  light_novel |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   Last week   |        -        |
 | [31904](https://myanimelist.net/anime/31904) |    tv   |  2016  |     manga    |                                                Big Order (TV)                                                |   Last week   |        -        |
 | [53580](https://myanimelist.net/anime/53580) |    tv   |    -   |     manga    |                                   Tensei shitara Slime Datta Ken 3rd Season                                  |   Last week   |        -        |
-| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |  2 weeks ago  |        -        |
+| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |  3 weeks ago  |        -        |
 | [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                         Mahou Shoujo Tokushusen Asuka                                        |   Last month  |        -        |
 | [50593](https://myanimelist.net/anime/50593) |  movie  |  2022  |  light_novel |                                    Natsu e no Tunnel, Sayonara no Deguchi                                    |   Last month  |        -        |
 | [52865](https://myanimelist.net/anime/52865) |   ona   |  2022  |     manga    |                                                Romantic Killer                                               |   Last month  |        -        |
@@ -38,7 +41,7 @@
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                               Summertime Render                                              |  3 months ago |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |  4 months ago |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |             Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita             |  4 months ago |        -        |
-| [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                            Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho                            |  4 months ago |        -        |
+| [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                            Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho                            |  5 months ago |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                Lovely★Complex                                                |  5 months ago |        -        |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                      Kono Subarashii Sekai ni Bakuen wo!                                     |  5 months ago |        -        |
 | [50739](https://myanimelist.net/anime/50739) |    tv   |  2023  |  light_novel |                      Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                     |  5 months ago |        -        |
@@ -94,7 +97,7 @@
 | [36023](https://myanimelist.net/anime/36023) |    tv   |  2018  |     game     |                                            Persona 5 the Animation                                           | 11 months ago |        -        |
 | [50664](https://myanimelist.net/anime/50664) |    tv   |    -   |  light_novel |                                         Saihate no Paladin 2nd Season                                        | 11 months ago |        -        |
 | [18497](https://myanimelist.net/anime/18497) |    tv   |  2013  |     manga    |                                         Yozakura Quartet: Hana no Uta                                        | 11 months ago |        -        |
-| [12893](https://myanimelist.net/anime/12893) | special |  2012  |   web_manga  |                                     Danshi Koukousei no Nichijou Specials                                    | 11 months ago |        -        |
+| [12893](https://myanimelist.net/anime/12893) | special |  2012  |   web_manga  |                                     Danshi Koukousei no Nichijou Specials                                    |   12/22/2021  |        -        |
 | [38186](https://myanimelist.net/anime/38186) |    tv   |  2019  |     manga    |                                        Bokutachi wa Benkyou ga Dekinai                                       |   12/21/2021  |        -        |
 | [50612](https://myanimelist.net/anime/50612) | special |  2022  |     manga    |                                              Dr. Stone: Ryuusui                                              |   12/20/2021  |        -        |
 | [50608](https://myanimelist.net/anime/50608) |    tv   |  2023  |     manga    |                                       Tokyo Revengers: Seiya Kessen-hen                                      |   12/20/2021  |        -        |
@@ -130,7 +133,6 @@
 | [49889](https://myanimelist.net/anime/49889) |    tv   |    -   |  light_novel |                                 Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   09/24/2021  |        -        |
 | [48569](https://myanimelist.net/anime/48569) |    tv   |  2021  |  light_novel |                                                   86 Part 2                                                  |   09/21/2021  |        -        |
 | [23289](https://myanimelist.net/anime/23289) |    tv   |  2014  | 4_koma_manga |                                           Gekkan Shoujo Nozaki-kun                                           |   09/20/2021  |        -        |
-| [31181](https://myanimelist.net/anime/31181) |    tv   |  2015  |  light_novel |                                                Owarimonogatari                                               |   09/18/2021  |        -        |
 | [39456](https://myanimelist.net/anime/39456) |    tv   |  2019  |     manga    |                                                Sounan desu ka?                                               |   09/13/2021  |        -        |
 | [49709](https://myanimelist.net/anime/49709) |    tv   |  2022  |     manga    |                                         Fumetsu no Anata e 2nd Season                                        |   08/31/2021  |        -        |
 | [15037](https://myanimelist.net/anime/15037) |   ova   |  2013  | visual_novel |                       Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou                       |   08/30/2021  |        -        |

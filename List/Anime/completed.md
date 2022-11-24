@@ -1,9 +1,12 @@
-# Completed (379)
+# Completed (382)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [11597](https://myanimelist.net/anime/11597) |    tv   |  2012  |   7   |                                               Nisemonogatari                                              |   3 days ago  | 11/19/2022 |  11/20/2022 |
-|  [5081](https://myanimelist.net/anime/5081)  |    tv   |  2009  |   7   |                                               Bakemonogatari                                              |   4 days ago  | 11/18/2022 |  11/19/2022 |
+| [21855](https://myanimelist.net/anime/21855) |    tv   |  2014  |   4   |                                               Hanamonogatari                                              |  10 hours ago | 11/24/2022 |  11/24/2022 |
+| [28025](https://myanimelist.net/anime/28025) |    tv   |  2014  |   5   |                                              Tsukimonogatari                                              |  9 hours ago  | 11/24/2022 |  11/24/2022 |
+| [17074](https://myanimelist.net/anime/17074) |    tv   |  2013  |   8   |                                      Monogatari Series: Second Season                                     |  10 hours ago | 11/20/2022 |  11/24/2022 |
+| [11597](https://myanimelist.net/anime/11597) |    tv   |  2012  |   7   |                                               Nisemonogatari                                              |   4 days ago  | 11/19/2022 |  11/20/2022 |
+|  [5081](https://myanimelist.net/anime/5081)  |    tv   |  2009  |   7   |                                               Bakemonogatari                                              |   5 days ago  | 11/18/2022 |  11/19/2022 |
 | [38883](https://myanimelist.net/anime/38883) |    tv   |  2020  |   7   |                                            Haikyuu!! To the Top                                           |   Last week   | 11/10/2022 |  11/12/2022 |
 | [32935](https://myanimelist.net/anime/32935) |    tv   |  2016  |   7   |                         Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou                         |  2 weeks ago  | 11/07/2022 |  11/08/2022 |
 | [20583](https://myanimelist.net/anime/20583) |    tv   |  2014  |   7   |                                                 Haikyuu!!                                                 |  3 weeks ago  | 10/28/2022 |  10/31/2022 |
@@ -17,7 +20,7 @@
 | [45653](https://myanimelist.net/anime/45653) |    tv   |  2022  |   6   |                                        Soredemo Ayumu wa Yosetekuru                                       |   Last month  | 08/24/2022 |  09/30/2022 |
 | [47164](https://myanimelist.net/anime/47164) |    tv   |  2022  |   8   |            Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen           |   Last month  | 07/22/2022 |  09/30/2022 |
 | [49470](https://myanimelist.net/anime/49470) |    tv   |  2022  |   6   |                                   Mamahaha no Tsurego ga Motokano datta                                   |   Last month  | 07/08/2022 |  09/30/2022 |
-| [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   10  |                                   Made in Abyss: Retsujitsu no Ougonkyou                                  |   Last month  | 07/06/2022 |  09/29/2022 |
+| [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   10  |                                   Made in Abyss: Retsujitsu no Ougonkyou                                  |  2 months ago | 07/06/2022 |  09/29/2022 |
 | [44524](https://myanimelist.net/anime/44524) |    tv   |  2022  |   7   |                                         Isekai Meikyuu de Harem wo                                        |  2 months ago | 09/04/2022 |  09/27/2022 |
 | [42963](https://myanimelist.net/anime/42963) |    tv   |  2022  |   7   |                                      Kanojo, Okarishimasu 2nd Season                                      |  2 months ago | 07/02/2022 |  09/27/2022 |
 | [42310](https://myanimelist.net/anime/42310) |   ona   |  2022  |   6   |                                           Cyberpunk: Edgerunners                                          |  2 months ago | 09/25/2022 |  09/25/2022 |
@@ -116,7 +119,7 @@
 | [48471](https://myanimelist.net/anime/48471) |    tv   |  2021  |   7   |                                        Tsuki to Laika to Nosferatu                                        | 11 months ago | 10/15/2021 |  12/27/2021 |
 | [45055](https://myanimelist.net/anime/45055) |    tv   |  2021  |   7   |                                         Taishou Otome Otogibanashi                                        | 11 months ago | 10/12/2021 |  12/27/2021 |
 | [48926](https://myanimelist.net/anime/48926) |    tv   |  2021  |   10  |                                        Komi-san wa, Comyushou desu.                                       | 11 months ago | 10/08/2021 |  12/23/2021 |
-| [46985](https://myanimelist.net/anime/46985) |    tv   |  2021  |   7   |                              Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei                              | 11 months ago | 10/05/2021 |  12/23/2021 |
+| [46985](https://myanimelist.net/anime/46985) |    tv   |  2021  |   7   |                              Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei                              |   Last year   | 10/05/2021 |  12/23/2021 |
 | [48753](https://myanimelist.net/anime/48753) |    tv   |  2021  |   9   |                                          Jahy-sama wa Kujikenai!                                          |   Last year   | 08/19/2021 |  12/21/2021 |
 | [45576](https://myanimelist.net/anime/45576) |    tv   |  2021  |   9   |                              Mushoku Tensei: Isekai Ittara Honki Dasu Part 2                              |   Last year   | 10/04/2021 |  12/20/2021 |
 | [48483](https://myanimelist.net/anime/48483) |    tv   |  2021  |   8   |                                                Mieruko-chan                                               |   Last year   | 10/03/2021 |  12/20/2021 |
@@ -237,7 +240,7 @@
 | [38656](https://myanimelist.net/anime/38656) |    tv   |  2020  |   8   |                                               Darwin's Game                                               |   Last year   | 02/26/2021 |  02/28/2021 |
 | [28851](https://myanimelist.net/anime/28851) |  movie  |  2016  |   9   |                                               Koe no Katachi                                              |   Last year   | 02/26/2021 |  02/26/2021 |
 | [20787](https://myanimelist.net/anime/20787) |    tv   |  2014  |   7   |                                                Black Bullet                                               |   Last year   | 02/16/2021 |  02/18/2021 |
-| [37711](https://myanimelist.net/anime/37711) |   ova   |  2018  |   6   |                                  Koi to Uso: Isshou no Koi/Koi no Kimochi                                 |  2 months ago | 02/01/2021 |  02/01/2021 |
+| [37711](https://myanimelist.net/anime/37711) |   ova   |  2018  |   6   |                                  Koi to Uso: Isshou no Koi/Koi no Kimochi                                 |  3 months ago | 02/01/2021 |  02/01/2021 |
 | [34934](https://myanimelist.net/anime/34934) |    tv   |  2017  |   6   |                                                 Koi to Uso                                                |   Last year   | 01/25/2021 |  02/01/2021 |
 | [37982](https://myanimelist.net/anime/37982) |    tv   |  2019  |   7   |                                             Domestic na Kanojo                                            |   Last year   | 01/25/2021 |  01/25/2021 |
 | [34498](https://myanimelist.net/anime/34498) |  movie  |  2017  |   10  |                           Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?                          |   Last year   | 01/19/2021 |  01/19/2021 |
@@ -293,7 +296,7 @@
 | [41619](https://myanimelist.net/anime/41619) |    tv   |  2020  |   9   |                                               Munou na Nana                                               |   Last year   | 10/04/2020 |      -      |
 |  [6880](https://myanimelist.net/anime/6880)  |    tv   |  2011  |   7   |                                             Deadman Wonderland                                            |   Last year   | 09/12/2020 |      -      |
 | [37450](https://myanimelist.net/anime/37450) |    tv   |  2018  |   8   |                          Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai                         |   Last year   | 09/12/2020 |      -      |
-| [36474](https://myanimelist.net/anime/36474) |    tv   |  2018  |   5   |                                       Sword Art Online: Alicization                                       |  8 months ago | 06/06/2020 |      -      |
+| [36474](https://myanimelist.net/anime/36474) |    tv   |  2018  |   5   |                                       Sword Art Online: Alicization                                       |  9 months ago | 06/06/2020 |      -      |
 | [22147](https://myanimelist.net/anime/22147) |    tv   |  2014  |   8   |                                            Amagi Brilliant Park                                           |   Last year   |      -     |      -      |
 | [28999](https://myanimelist.net/anime/28999) |    tv   |  2015  |   9   |                                                 Charlotte                                                 |  8 months ago |      -     |      -      |
 | [14741](https://myanimelist.net/anime/14741) |    tv   |  2012  |   7   |                                       Chuunibyou demo Koi ga Shitai!                                      |  2 years ago  |      -     |      -      |
