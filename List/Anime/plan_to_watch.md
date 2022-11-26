@@ -1,11 +1,9 @@
-# Plan to Watch (213)
+# Plan to Watch (211)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-|  [9260](https://myanimelist.net/anime/9260)  |  movie  |  2016  |  light_novel |                                        Kizumonogatari I: Tekketsu-hen                                        |   Yesterday   |        -        |
-| [35247](https://myanimelist.net/anime/35247) |    tv   |  2017  |  light_novel |                                          Owarimonogatari 2nd Season                                          |   Yesterday   |        -        |
-| [32268](https://myanimelist.net/anime/32268) |   ona   |  2016  |  light_novel |                                               Koyomimonogatari                                               |   Yesterday   |        -        |
-| [33731](https://myanimelist.net/anime/33731) |    tv   |  2017  |     manga    |                                                Gabriel DropOut                                               |   2 days ago  |        -        |
+| [35247](https://myanimelist.net/anime/35247) |    tv   |  2017  |  light_novel |                                          Owarimonogatari 2nd Season                                          |   2 days ago  |        -        |
+| [33731](https://myanimelist.net/anime/33731) |    tv   |  2017  |     manga    |                                                Gabriel DropOut                                               |   3 days ago  |        -        |
 | [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |  light_novel |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   Last week   |        -        |
 | [31904](https://myanimelist.net/anime/31904) |    tv   |  2016  |     manga    |                                                Big Order (TV)                                                |   Last week   |        -        |
 | [53580](https://myanimelist.net/anime/53580) |    tv   |    -   |     manga    |                                   Tensei shitara Slime Datta Ken 3rd Season                                  |  2 weeks ago  |        -        |
@@ -25,10 +23,10 @@
 | [52969](https://myanimelist.net/anime/52969) |    tv   |    -   |  light_novel |                                        Jitsu wa Ore, Saikyou deshita?                                        |  2 months ago |        -        |
 | [52955](https://myanimelist.net/anime/52955) |    tv   |  2023  |     manga    |                                         Mahoutsukai no Yome Season 2                                         |  2 months ago |        -        |
 | [51678](https://myanimelist.net/anime/51678) |    tv   |  2023  |     manga    |                                             Oniichan wa Oshimai!                                             |  2 months ago |    01/01/2023   |
-|  [6372](https://myanimelist.net/anime/6372)  |  movie  |  2009  |   original   |                                   Higashi no Eden Movie I: The King of Eden                                  |  2 months ago |        -        |
-|  [6927](https://myanimelist.net/anime/6927)  |  movie  |  2009  |   original   |                                      Higashi no Eden: Air Communication                                      |  2 months ago |        -        |
-|   [585](https://myanimelist.net/anime/585)   |  movie  |  1995  |     manga    |                                               Mimi wo Sumaseba                                               |  2 months ago |        -        |
-| [35078](https://myanimelist.net/anime/35078) |    tv   |  2018  |     manga    |                                               Mitsuboshi Colors                                              |  2 months ago |        -        |
+|  [6372](https://myanimelist.net/anime/6372)  |  movie  |  2009  |   original   |                                   Higashi no Eden Movie I: The King of Eden                                  |  3 months ago |        -        |
+|  [6927](https://myanimelist.net/anime/6927)  |  movie  |  2009  |   original   |                                      Higashi no Eden: Air Communication                                      |  3 months ago |        -        |
+|   [585](https://myanimelist.net/anime/585)   |  movie  |  1995  |     manga    |                                               Mimi wo Sumaseba                                               |  3 months ago |        -        |
+| [35078](https://myanimelist.net/anime/35078) |    tv   |  2018  |     manga    |                                               Mitsuboshi Colors                                              |  3 months ago |        -        |
 |  [7627](https://myanimelist.net/anime/7627)  |    tv   |  2010  |     manga    |                                                  Mitsudomoe                                                  |  3 months ago |        -        |
 | [38759](https://myanimelist.net/anime/38759) |    tv   |  2019  |   web_manga  |                                         Sewayaki Kitsune no Senko-san                                        |  3 months ago |        -        |
 | [38924](https://myanimelist.net/anime/38924) |    tv   |  2020  | visual_novel |                                                   Nekopara                                                   |  3 months ago |        -        |
@@ -49,7 +47,7 @@
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                      UQ Holder!: Mahou Sensei Negima! 2                                      |  5 months ago |        -        |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                        Enen no Shouboutai: San no Shou                                       |  6 months ago |        -        |
 | [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                         Shokei Shoujo no Virgin Road                                         |  6 months ago |        -        |
-|   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                       Kino no Tabi: The Beautiful World                                      |  6 months ago |        -        |
+|   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                       Kino no Tabi: The Beautiful World                                      |  7 months ago |        -        |
 | [51252](https://myanimelist.net/anime/51252) |    tv   |  2023  |  light_novel |                                                Spy Kyoushitsu                                                |  7 months ago |        -        |
 | [51781](https://myanimelist.net/anime/51781) |   ona   |  2022  |     manga    |                                          Boku no Hero Academia (ONA)                                         |  7 months ago |        -        |
 | [15005](https://myanimelist.net/anime/15005) |   ona   |  2012  |     manga    |                                              Kyou no Asuka Show                                              |  7 months ago |        -        |
