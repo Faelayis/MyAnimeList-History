@@ -5,7 +5,7 @@
 |  [5114](https://myanimelist.net/anime/5114)  |    tv   |  2009  |   -   |              Fullmetal Alchemist: Brotherhood              |  47/64  |   Last month  | 10/07/2022 |
 | [48413](https://myanimelist.net/anime/48413) |    tv   |  2022  |   -   |                    Hataraku Maou-sama!!                    |   7/12  |   Last month  | 07/15/2022 |
 | [42994](https://myanimelist.net/anime/42994) |    tv   |  2022  |   -   |                   Jashin-chan Dropkick X                   |   8/12  |   Last month  | 07/15/2022 |
-| [49220](https://myanimelist.net/anime/49220) |    tv   |  2022  |   -   |                        Isekai Ojisan                       |   4/13  |   Last month  | 07/08/2022 |
+| [49220](https://myanimelist.net/anime/49220) |    tv   |  2022  |   -   |                        Isekai Ojisan                       |   4/13  |  2 months ago | 07/08/2022 |
 | [51096](https://myanimelist.net/anime/51096) |    tv   |  2022  |   -   | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season |   1/13  |  3 months ago | 07/05/2022 |
 | [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |   -   |                          Yuru Yuri                         |   3/12  |  3 months ago | 06/30/2022 |
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                          Fate/Zero                         |   2/13  |  7 months ago | 04/26/2022 |

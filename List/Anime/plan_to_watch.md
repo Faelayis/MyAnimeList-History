@@ -1,9 +1,9 @@
-# Plan to Watch (211)
+# Plan to Watch (209)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [35247](https://myanimelist.net/anime/35247) |    tv   |  2017  |  light_novel |                                          Owarimonogatari 2nd Season                                          |   3 days ago  |        -        |
-| [33731](https://myanimelist.net/anime/33731) |    tv   |  2017  |     manga    |                                                Gabriel DropOut                                               |   4 days ago  |        -        |
+| [35247](https://myanimelist.net/anime/35247) |    tv   |  2017  |  light_novel |                                          Owarimonogatari 2nd Season                                          |   4 days ago  |        -        |
+| [33731](https://myanimelist.net/anime/33731) |    tv   |  2017  |     manga    |                                                Gabriel DropOut                                               |   5 days ago  |        -        |
 | [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |  light_novel |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   Last week   |        -        |
 | [31904](https://myanimelist.net/anime/31904) |    tv   |  2016  |     manga    |                                                Big Order (TV)                                                |   Last week   |        -        |
 | [53580](https://myanimelist.net/anime/53580) |    tv   |    -   |     manga    |                                   Tensei shitara Slime Datta Ken 3rd Season                                  |  2 weeks ago  |        -        |
@@ -38,7 +38,7 @@
 | [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |  3 months ago |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                               Summertime Render                                              |  4 months ago |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |  4 months ago |        -        |
-| [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |             Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita             |  4 months ago |        -        |
+| [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |             Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita             |  5 months ago |        -        |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                            Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho                            |  5 months ago |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                Lovely★Complex                                                |  5 months ago |        -        |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |    -   |  light_novel |                                      Kono Subarashii Sekai ni Bakuen wo!                                     |  5 months ago |        -        |
@@ -46,7 +46,6 @@
 | [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                 Date A Live V                                                |  5 months ago |        -        |
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                      UQ Holder!: Mahou Sensei Negima! 2                                      |  5 months ago |        -        |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                        Enen no Shouboutai: San no Shou                                       |  6 months ago |        -        |
-| [47162](https://myanimelist.net/anime/47162) |    tv   |  2022  |  light_novel |                                         Shokei Shoujo no Virgin Road                                         |  7 months ago |        -        |
 |   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                       Kino no Tabi: The Beautiful World                                      |  7 months ago |        -        |
 | [51252](https://myanimelist.net/anime/51252) |    tv   |  2023  |  light_novel |                                                Spy Kyoushitsu                                                |  7 months ago |        -        |
 | [51781](https://myanimelist.net/anime/51781) |   ona   |  2022  |     manga    |                                          Boku no Hero Academia (ONA)                                         |  7 months ago |        -        |
@@ -174,7 +173,6 @@
 |  [2001](https://myanimelist.net/anime/2001)  |    tv   |  2007  |   original   |                                          Tengen Toppa Gurren Lagann                                          |   04/29/2021  |        -        |
 | [22535](https://myanimelist.net/anime/22535) |    tv   |  2014  |     manga    |                                          Kiseijuu: Sei no Kakuritsu                                          |   04/20/2021  |        -        |
 | [28223](https://myanimelist.net/anime/28223) |    tv   |  2015  |   original   |                                                 Death Parade                                                 |   04/04/2021  |        -        |
-| [42916](https://myanimelist.net/anime/42916) |  movie  |  2021  |  light_novel |                         Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria                        |   04/02/2021  |        -        |
 | [20031](https://myanimelist.net/anime/20031) |    tv   |  2014  |     manga    |                                                    D-Frag!                                                   |   04/01/2021  |        -        |
 | [21327](https://myanimelist.net/anime/21327) |    tv   |  2014  | 4_koma_manga |                                              Isshuukan Friends.                                              |   03/29/2021  |        -        |
 | [12477](https://myanimelist.net/anime/12477) |  movie  |  2013  |   original   |                                              Sakasama no Patema                                              |   03/29/2021  |        -        |
