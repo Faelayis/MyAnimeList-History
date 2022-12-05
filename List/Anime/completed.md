@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [42916](https://myanimelist.net/anime/42916) |  movie  |  2021  |   5   |                       Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria                       |   6 days ago  | 11/28/2022 |  11/28/2022 |
+| [42916](https://myanimelist.net/anime/42916) |  movie  |  2021  |   5   |                       Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria                       |   Last week   | 11/28/2022 |  11/28/2022 |
 | [32268](https://myanimelist.net/anime/32268) |   ona   |  2016  |   5   |                                              Koyomimonogatari                                             |   Last week   | 11/26/2022 |  11/26/2022 |
 | [31181](https://myanimelist.net/anime/31181) |    tv   |  2015  |   6   |                                              Owarimonogatari                                              |   Last week   | 11/26/2022 |  11/26/2022 |
 | [21855](https://myanimelist.net/anime/21855) |    tv   |  2014  |   4   |                                               Hanamonogatari                                              |   Last week   | 11/24/2022 |  11/24/2022 |
@@ -58,7 +58,7 @@
 | [28907](https://myanimelist.net/anime/28907) |    tv   |  2015  |   8   |                                 Gate: Jieitai Kanochi nite, Kaku Tatakaeri                                |  8 months ago | 04/20/2022 |  04/20/2022 |
 | [30296](https://myanimelist.net/anime/30296) |    tv   |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         |  8 months ago | 04/18/2022 |  04/18/2022 |
 | [13403](https://myanimelist.net/anime/13403) | special |  2012  |   7   |                           Inu x Boku SS: Miketsukami-kun Henka/Switch/Omamagoto                           |  8 months ago | 04/15/2022 |  04/15/2022 |
-| [11013](https://myanimelist.net/anime/11013) |    tv   |  2012  |   8   |                                               Inu x Boku SS                                               |  7 months ago | 04/14/2022 |  04/15/2022 |
+| [11013](https://myanimelist.net/anime/11013) |    tv   |  2012  |   8   |                                               Inu x Boku SS                                               |  8 months ago | 04/14/2022 |  04/15/2022 |
 | [32827](https://myanimelist.net/anime/32827) |   ona   |  2018  |   7   |                                              B: The Beginning                                             |  8 months ago | 04/12/2022 |  04/13/2022 |
 | [39049](https://myanimelist.net/anime/39049) |    tv   |  2020  |   7   |                                           Jashin-chan Dropkick'                                           |  8 months ago | 04/10/2022 |  04/13/2022 |
 | [23277](https://myanimelist.net/anime/23277) |    tv   |  2015  |   5   |                                        Saenai Heroine no Sodatekata                                       |  8 months ago | 04/09/2022 |  04/10/2022 |
@@ -82,7 +82,7 @@
 | [35237](https://myanimelist.net/anime/35237) |   ova   |  2017  |   6   |                                   Hajimete no Gal: Hajimete no Bunkasai                                   |  9 months ago | 03/02/2022 |  03/02/2022 |
 | [44200](https://myanimelist.net/anime/44200) |  movie  |  2021  |   10  |                          Boku no Hero Academia the Movie 3: World Heroes' Mission                         |  9 months ago | 03/01/2022 |  03/01/2022 |
 | [42603](https://myanimelist.net/anime/42603) |   ona   |  2020  |   7   |                        Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren                        |  9 months ago | 03/01/2022 |  03/01/2022 |
-| [36633](https://myanimelist.net/anime/36633) |    tv   |  2019  |   8   |                                              Date A Live III                                              |  9 months ago | 02/27/2022 |  02/28/2022 |
+| [36633](https://myanimelist.net/anime/36633) |    tv   |  2019  |   8   |                                              Date A Live III                                              | 10 months ago | 02/27/2022 |  02/28/2022 |
 | [19163](https://myanimelist.net/anime/19163) |    tv   |  2014  |   7   |                                               Date A Live II                                              | 10 months ago | 02/27/2022 |  02/27/2022 |
 | [22961](https://myanimelist.net/anime/22961) |   ova   |  2014  |   6   |                                    Date A Live II: Kurumi Star Festival                                   | 10 months ago | 02/27/2022 |  02/27/2022 |
 | [36896](https://myanimelist.net/anime/36896) |  movie  |  2018  |   8   |                             Boku no Hero Academia the Movie 1: Futari no Hero                             | 10 months ago | 02/26/2022 |  02/26/2022 |
@@ -243,7 +243,7 @@
 | [28851](https://myanimelist.net/anime/28851) |  movie  |  2016  |   9   |                                               Koe no Katachi                                              |   Last year   | 02/26/2021 |  02/26/2021 |
 | [20787](https://myanimelist.net/anime/20787) |    tv   |  2014  |   7   |                                                Black Bullet                                               |   Last year   | 02/16/2021 |  02/18/2021 |
 | [37711](https://myanimelist.net/anime/37711) |   ova   |  2018  |   6   |                                  Koi to Uso: Isshou no Koi/Koi no Kimochi                                 |  3 months ago | 02/01/2021 |  02/01/2021 |
-| [34934](https://myanimelist.net/anime/34934) |    tv   |  2017  |   6   |                                                 Koi to Uso                                                |   Last year   | 01/25/2021 |  02/01/2021 |
+| [34934](https://myanimelist.net/anime/34934) |    tv   |  2017  |   6   |                                                 Koi to Uso                                                |  2 years ago  | 01/25/2021 |  02/01/2021 |
 | [37982](https://myanimelist.net/anime/37982) |    tv   |  2019  |   7   |                                             Domestic na Kanojo                                            |   Last year   | 01/25/2021 |  01/25/2021 |
 | [34498](https://myanimelist.net/anime/34498) |  movie  |  2017  |   10  |                           Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?                          |   Last year   | 01/19/2021 |  01/19/2021 |
 | [39195](https://myanimelist.net/anime/39195) |    tv   |  2019  |   7   |                                                  Beastars                                                 |   Last year   | 01/14/2021 |  01/15/2021 |
@@ -290,7 +290,7 @@
 | [30276](https://myanimelist.net/anime/30276) |    tv   |  2015  |   5   |                                               One Punch Man                                               |  2 years ago  | 07/24/2020 |  01/30/2020 |
 | [38691](https://myanimelist.net/anime/38691) |    tv   |  2019  |   9   |                                                 Dr. Stone                                                 |  2 years ago  | 07/05/2019 |  12/24/2019 |
 | [38101](https://myanimelist.net/anime/38101) |    tv   |  2019  |   8   |                                            5-toubun no Hanayome                                           |   Last year   | 03/20/2019 |  03/28/2019 |
-| [28891](https://myanimelist.net/anime/28891) |    tv   |  2015  |   8   |                                          Haikyuu!! Second Season                                          |  3 weeks ago  | 10/31/2022 |      -      |
+| [28891](https://myanimelist.net/anime/28891) |    tv   |  2015  |   8   |                                          Haikyuu!! Second Season                                          |   Last month  | 10/31/2022 |      -      |
 | [15809](https://myanimelist.net/anime/15809) |    tv   |  2013  |   7   |                                            Hataraku Maou-sama!                                            |   Last year   | 05/10/2021 |      -      |
 | [41930](https://myanimelist.net/anime/41930) |    tv   |  2020  |   7   |                                            Kamisama ni Natta Hi                                           |  2 years ago  | 11/30/2020 |      -      |
 | [13759](https://myanimelist.net/anime/13759) |    tv   |  2012  |   8   |                                        Sakura-sou no Pet na Kanojo                                        |   Last year   | 11/28/2020 |      -      |
