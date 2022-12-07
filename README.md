@@ -6,11 +6,11 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |  Type | Season | Score |                                       Title                                       | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :---: | :----: | :---: | :-------------------------------------------------------------------------------: | :-----: | :---------: | :--------: |
-| [50602](https://myanimelist.net/anime/50602) |   tv  |  2022  |   -   |                                Spy x Family Part 2                                |   9/13  | 7 hours ago | 10/02/2022 |
-| [49918](https://myanimelist.net/anime/49918) |   tv  |  2022  |   -   |                          Boku no Hero Academia 6th Season                         |  10/25  |  2 days ago | 10/02/2022 |
-| [49596](https://myanimelist.net/anime/49596) |   tv  |  2022  |   -   |                                     Blue Lock                                     |   8/24  |  3 days ago | 10/16/2022 |
-| [49784](https://myanimelist.net/anime/49784) |   tv  |  2022  |   -   |                         Mairimashita! Iruma-kun 3rd Season                        |   8/21  |  6 days ago | 10/09/2022 |
-| [44511](https://myanimelist.net/anime/44511) |   tv  |  2022  |   -   |                                    Chainsaw Man                                   |   8/12  |  6 days ago | 10/13/2022 |
+| [50602](https://myanimelist.net/anime/50602) |   tv  |  2022  |   -   |                                Spy x Family Part 2                                |   9/13  |  Yesterday  | 10/02/2022 |
+| [49918](https://myanimelist.net/anime/49918) |   tv  |  2022  |   -   |                          Boku no Hero Academia 6th Season                         |  10/25  |  3 days ago | 10/02/2022 |
+| [49596](https://myanimelist.net/anime/49596) |   tv  |  2022  |   -   |                                     Blue Lock                                     |   8/24  |  4 days ago | 10/16/2022 |
+| [49784](https://myanimelist.net/anime/49784) |   tv  |  2022  |   -   |                         Mairimashita! Iruma-kun 3rd Season                        |   8/21  |  Last week  | 10/09/2022 |
+| [44511](https://myanimelist.net/anime/44511) |   tv  |  2022  |   -   |                                    Chainsaw Man                                   |   8/12  |  Last week  | 10/13/2022 |
 | [50425](https://myanimelist.net/anime/50425) |   tv  |  2022  |   8   |                             Fuufu Ijou, Koibito Miman.                            |   8/12  |  Last week  | 10/24/2022 |
 |  [9260](https://myanimelist.net/anime/9260)  | movie |  2016  |   -   |                           Kizumonogatari I: Tekketsu-hen                          |   0/1   |  Last week  | 11/26/2022 |
 | [50710](https://myanimelist.net/anime/50710) |   tv  |  2022  |   7   |                               Urusei Yatsura (2022)                               |   7/23  |  Last week  | 10/14/2022 |
@@ -68,9 +68,9 @@ List Sync From MyAnimeList (update every day)
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [35247](https://myanimelist.net/anime/35247) |    tv   |  2017  |  light_novel |                                          Owarimonogatari 2nd Season                                          |   Last week   |        -        |
-| [33731](https://myanimelist.net/anime/33731) |    tv   |  2017  |     manga    |                                                Gabriel DropOut                                               |   Last week   |        -        |
+| [33731](https://myanimelist.net/anime/33731) |    tv   |  2017  |     manga    |                                                Gabriel DropOut                                               |  2 weeks ago  |        -        |
 | [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |  light_novel |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |  2 weeks ago  |        -        |
-| [31904](https://myanimelist.net/anime/31904) |    tv   |  2016  |     manga    |                                                Big Order (TV)                                                |  2 weeks ago  |        -        |
+| [31904](https://myanimelist.net/anime/31904) |    tv   |  2016  |     manga    |                                                Big Order (TV)                                                |  3 weeks ago  |        -        |
 | [53580](https://myanimelist.net/anime/53580) |    tv   |    -   |     manga    |                                   Tensei shitara Slime Datta Ken 3rd Season                                  |  3 weeks ago  |        -        |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  | 4_koma_manga |                                               Bocchi the Rock!                                               |   Last month  |        -        |
 
