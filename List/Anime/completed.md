@@ -1,7 +1,10 @@
-# Completed (383)
+# Completed (386)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [31757](https://myanimelist.net/anime/31757) |  movie  |  2016  |   6   |                                      Kizumonogatari II: Nekketsu-hen                                      |  4 hours ago  | 12/09/2022 |  12/09/2022 |
+| [31758](https://myanimelist.net/anime/31758) |  movie  |  2017  |   9   |                                      Kizumonogatari III: Reiketsu-hen                                     |  4 hours ago  | 12/09/2022 |  12/09/2022 |
+|  [9260](https://myanimelist.net/anime/9260)  |  movie  |  2016  |   7   |                                       Kizumonogatari I: Tekketsu-hen                                      |  4 hours ago  | 11/26/2022 |  12/09/2022 |
 | [42916](https://myanimelist.net/anime/42916) |  movie  |  2021  |   5   |                       Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria                       |   Last week   | 11/28/2022 |  11/28/2022 |
 | [32268](https://myanimelist.net/anime/32268) |   ona   |  2016  |   5   |                                              Koyomimonogatari                                             |   Last week   | 11/26/2022 |  11/26/2022 |
 | [31181](https://myanimelist.net/anime/31181) |    tv   |  2015  |   6   |                                              Owarimonogatari                                              |   Last week   | 11/26/2022 |  11/26/2022 |
@@ -45,7 +48,7 @@
 | [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |  6 months ago | 05/28/2022 |  06/07/2022 |
 | [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   7   |                                        Toaru Kagaku no Accelerator                                        |  6 months ago | 05/14/2022 |  06/07/2022 |
 | [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             |  6 months ago | 05/27/2022 |  05/28/2022 |
-|  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |  6 months ago | 05/20/2022 |  05/27/2022 |
+|  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |  7 months ago | 05/20/2022 |  05/27/2022 |
 |  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |  7 months ago | 05/14/2022 |  05/20/2022 |
 | [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |  7 months ago | 05/16/2022 |  05/19/2022 |
 | [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |  7 months ago | 05/12/2022 |  05/13/2022 |
@@ -68,7 +71,7 @@
 | [36906](https://myanimelist.net/anime/36906) |    tv   |  2018  |   7   |                                            Jashin-chan Dropkick                                           |  8 months ago | 04/03/2022 |  04/04/2022 |
 |  [9734](https://myanimelist.net/anime/9734)  | special |  2011  |   7   |                                              K-On!!: Keikaku!                                             |  8 months ago | 04/03/2022 |  04/03/2022 |
 |  [7791](https://myanimelist.net/anime/7791)  |    tv   |  2010  |   8   |                                                   K-On!!                                                  |  8 months ago | 03/23/2022 |  04/03/2022 |
-| [48736](https://myanimelist.net/anime/48736) |    tv   |  2022  |   7   |                                      Sono Bisque Doll wa Koi wo Suru                                      |  8 months ago | 01/13/2022 |  04/01/2022 |
+| [48736](https://myanimelist.net/anime/48736) |    tv   |  2022  |   7   |                                      Sono Bisque Doll wa Koi wo Suru                                      |  9 months ago | 01/13/2022 |  04/01/2022 |
 | [42670](https://myanimelist.net/anime/42670) |    tv   |  2022  |   9   |                                     Princess Connect! Re:Dive Season 2                                    |  8 months ago | 02/12/2022 |  03/30/2022 |
 |  [6862](https://myanimelist.net/anime/6862)  | special |  2010  |   7   |                                             K-On!: Live House!                                            |  9 months ago | 03/23/2022 |  03/23/2022 |
 |  [5680](https://myanimelist.net/anime/5680)  |    tv   |  2009  |   9   |                                                   K-On!                                                   |  9 months ago | 03/20/2022 |  03/23/2022 |
@@ -202,7 +205,7 @@
 | [34881](https://myanimelist.net/anime/34881) |    tv   |  2017  |   8   |                                                  Aho Girl                                                 |   Last year   | 06/01/2021 |  06/01/2021 |
 | [32648](https://myanimelist.net/anime/32648) |    tv   |  2016  |   7   |                                                 Handa-kun                                                 |   Last year   | 05/30/2021 |  05/30/2021 |
 | [33487](https://myanimelist.net/anime/33487) |    tv   |  2017  |   7   |                                          Masamune-kun no Revenge                                          |   Last year   | 05/29/2021 |  05/29/2021 |
-| [37377](https://myanimelist.net/anime/37377) |   ova   |  2018  |   5   |    Masamune-kun no Revenge: Uchi no Mama ni Kagitte/Tsunade Shima, Futatabi./12-Ji o Sugita Shinderera    |   Last year   | 05/29/2021 |  05/29/2021 |
+| [37377](https://myanimelist.net/anime/37377) |   ova   |  2018  |   5   |    Masamune-kun no Revenge: Uchi no Mama ni Kagitte/Tsunade Shima, Futatabi./12-Ji wo Sugita Cinderella   |   Last year   | 05/29/2021 |  05/29/2021 |
 | [39017](https://myanimelist.net/anime/39017) |    tv   |  2020  |   7   |                                                Kyokou Suiri                                               |   Last year   | 11/28/2020 |  05/28/2021 |
 | [23385](https://myanimelist.net/anime/23385) | special |  2014  |   8   |                                        Kyoukai no Kanata: Shinonome                                       |   Last year   | 05/27/2021 |  05/27/2021 |
 |  [6547](https://myanimelist.net/anime/6547)  |    tv   |  2010  |   7   |                                                Angel Beats!                                               |   Last year   | 05/24/2021 |  05/24/2021 |
