@@ -11,7 +11,7 @@
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                          Fate/Zero                         |   2/13  |  8 months ago | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                   Madan no Ou to Vanadis                   |   6/13  |  8 months ago | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                      Machikado Mazoku                      |   3/12  |   Last month  | 04/19/2022 |
-| [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |              Kawaii dake ja Nai Shikimori-san              |   5/12  |  4 months ago | 04/10/2022 |
+| [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |              Kawaii dake ja Nai Shikimori-san              |   5/12  |  5 months ago | 04/10/2022 |
 | [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                    Mahoutsukai Reimeiki                    |   2/12  |  7 months ago | 04/09/2022 |
 | [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |            Tate no Yuusha no Nariagari Season 2            |   3/13  |  7 months ago | 04/06/2022 |
 | [49520](https://myanimelist.net/anime/49520) |    tv   |  2022  |   7   |                   Aharen-san wa Hakarenai                  |   4/12  |  3 months ago | 04/01/2022 |
@@ -46,8 +46,8 @@
 | [41025](https://myanimelist.net/anime/41025) |    tv   |  2021  |   7   |                     Fumetsu no Anata e                     |  16/20  | 11 months ago | 04/28/2021 |
 | [46095](https://myanimelist.net/anime/46095) |    tv   |  2021  |   -   |                  Vivy: Fluorite Eye's Song                 |   4/13  |   Last year   | 04/28/2021 |
 |  [2787](https://myanimelist.net/anime/2787)  |    tv   |  2007  |   -   |                Shakugan no Shana II (Second)               |   1/24  |   Last year   | 02/19/2021 |
-| [40530](https://myanimelist.net/anime/40530) |    tv   |  2021  |   -   |                   Jaku-Chara Tomozaki-kun                  |   2/12  |   Last year   | 01/09/2021 |
-| [42203](https://myanimelist.net/anime/42203) |    tv   |  2021  |   -   |   Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2  |   3/12  |   Last year   | 01/07/2021 |
+| [40530](https://myanimelist.net/anime/40530) |    tv   |  2021  |   -   |                   Jaku-Chara Tomozaki-kun                  |   2/12  |  2 years ago  | 01/09/2021 |
+| [42203](https://myanimelist.net/anime/42203) |    tv   |  2021  |   -   |   Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2  |   3/12  |  2 years ago  | 01/07/2021 |
 | [39463](https://myanimelist.net/anime/39463) |    tv   |  2020  |   -   |                          Gleipnir                          |   8/13  |   Last year   | 12/16/2020 |
 | [24405](https://myanimelist.net/anime/24405) |    tv   |  2014  |   -   |                        World Trigger                       |  11/73  |  2 years ago  | 12/01/2020 |
 | [14967](https://myanimelist.net/anime/14967) |    tv   |  2013  |   -   |              Boku wa Tomodachi ga Sukunai Next             |   1/12  |  2 years ago  | 11/28/2020 |
