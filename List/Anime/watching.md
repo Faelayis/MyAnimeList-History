@@ -2,11 +2,11 @@
 
 |                      id                      |  Type | Season | Score |                                       Title                                       | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :---: | :----: | :---: | :-------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [44511](https://myanimelist.net/anime/44511) |   tv  |  2022  |   -   |                                    Chainsaw Man                                   |  10/12  |  2 hours ago | 10/13/2022 |
-| [36999](https://myanimelist.net/anime/36999) | movie |  2018  |   -   |                                Zoku Owarimonogatari                               |   2/6   |   Yesterday  | 12/14/2022 |
-| [50710](https://myanimelist.net/anime/50710) |   tv  |  2022  |   7   |                               Urusei Yatsura (2022)                               |   9/23  |  2 days ago  | 10/14/2022 |
-|    [21](https://myanimelist.net/anime/21)    |   tv  |  1999  |   8   |                                     One Piece                                     |  1044/? |  2 days ago  | 01/01/2013 |
-| [49918](https://myanimelist.net/anime/49918) |   tv  |  2022  |   -   |                          Boku no Hero Academia 6th Season                         |  11/25  |  4 days ago  | 10/02/2022 |
+| [36999](https://myanimelist.net/anime/36999) | movie |  2018  |   -   |                                Zoku Owarimonogatari                               |   3/6   | 15 hours ago | 12/14/2022 |
+| [44511](https://myanimelist.net/anime/44511) |   tv  |  2022  |   -   |                                    Chainsaw Man                                   |  10/12  |   Yesterday  | 10/13/2022 |
+| [50710](https://myanimelist.net/anime/50710) |   tv  |  2022  |   7   |                               Urusei Yatsura (2022)                               |   9/23  |  3 days ago  | 10/14/2022 |
+|    [21](https://myanimelist.net/anime/21)    |   tv  |  1999  |   8   |                                     One Piece                                     |  1044/? |  3 days ago  | 01/01/2013 |
+| [49918](https://myanimelist.net/anime/49918) |   tv  |  2022  |   -   |                          Boku no Hero Academia 6th Season                         |  11/25  |  5 days ago  | 10/02/2022 |
 | [50602](https://myanimelist.net/anime/50602) |   tv  |  2022  |   -   |                                Spy x Family Part 2                                |   9/13  |   Last week  | 10/02/2022 |
 | [49596](https://myanimelist.net/anime/49596) |   tv  |  2022  |   -   |                                     Blue Lock                                     |   8/24  |   Last week  | 10/16/2022 |
 | [49784](https://myanimelist.net/anime/49784) |   tv  |  2022  |   -   |                         Mairimashita! Iruma-kun 3rd Season                        |   8/21  |  2 weeks ago | 10/09/2022 |
