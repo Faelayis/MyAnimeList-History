@@ -6,12 +6,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |  Type | Season | Score |                                       Title                                       | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :---: | :----: | :---: | :-------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [36999](https://myanimelist.net/anime/36999) | movie |  2018  |   -   |                                Zoku Owarimonogatari                               |   5/6   | 14 hours ago | 12/14/2022 |
-| [44511](https://myanimelist.net/anime/44511) |   tv  |  2022  |   -   |                                    Chainsaw Man                                   |  10/12  |  2 days ago  | 10/13/2022 |
-| [50710](https://myanimelist.net/anime/50710) |   tv  |  2022  |   7   |                               Urusei Yatsura (2022)                               |   9/23  |  4 days ago  | 10/14/2022 |
-|    [21](https://myanimelist.net/anime/21)    |   tv  |  1999  |   8   |                                     One Piece                                     |  1044/? |  4 days ago  | 01/01/2013 |
-| [49918](https://myanimelist.net/anime/49918) |   tv  |  2022  |   -   |                          Boku no Hero Academia 6th Season                         |  11/25  |  6 days ago  | 10/02/2022 |
-| [50602](https://myanimelist.net/anime/50602) |   tv  |  2022  |   -   |                                Spy x Family Part 2                                |   9/13  |   Last week  | 10/02/2022 |
+| [50602](https://myanimelist.net/anime/50602) |   tv  |  2022  |   -   |                                Spy x Family Part 2                                |  12/13  |  2 hours ago | 10/02/2022 |
+| [49918](https://myanimelist.net/anime/49918) |   tv  |  2022  |   -   |                          Boku no Hero Academia 6th Season                         |  12/25  |  7 hours ago | 10/02/2022 |
+| [36999](https://myanimelist.net/anime/36999) | movie |  2018  |   -   |                                Zoku Owarimonogatari                               |   5/6   |   Yesterday  | 12/14/2022 |
+| [44511](https://myanimelist.net/anime/44511) |   tv  |  2022  |   -   |                                    Chainsaw Man                                   |  10/12  |  3 days ago  | 10/13/2022 |
+| [50710](https://myanimelist.net/anime/50710) |   tv  |  2022  |   7   |                               Urusei Yatsura (2022)                               |   9/23  |  5 days ago  | 10/14/2022 |
+|    [21](https://myanimelist.net/anime/21)    |   tv  |  1999  |   8   |                                     One Piece                                     |  1044/? |  5 days ago  | 01/01/2013 |
 | [49596](https://myanimelist.net/anime/49596) |   tv  |  2022  |   -   |                                     Blue Lock                                     |   8/24  |  2 weeks ago | 10/16/2022 |
 | [49784](https://myanimelist.net/anime/49784) |   tv  |  2022  |   -   |                         Mairimashita! Iruma-kun 3rd Season                        |   8/21  |  2 weeks ago | 10/09/2022 |
 | [50425](https://myanimelist.net/anime/50425) |   tv  |  2022  |   8   |                             Fuufu Ijou, Koibito Miman.                            |   8/12  |  2 weeks ago | 10/24/2022 |
@@ -25,7 +25,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [35247](https://myanimelist.net/anime/35247) |    tv   |  2017  |   8   |                                         Owarimonogatari 2nd Season                                        |   6 days ago  | 12/09/2022 |  12/11/2022 |
+| [35247](https://myanimelist.net/anime/35247) |    tv   |  2017  |   8   |                                         Owarimonogatari 2nd Season                                        |   Last week   | 12/09/2022 |  12/11/2022 |
 | [31757](https://myanimelist.net/anime/31757) |  movie  |  2016  |   6   |                                      Kizumonogatari II: Nekketsu-hen                                      |   Last week   | 12/09/2022 |  12/09/2022 |
 | [31758](https://myanimelist.net/anime/31758) |  movie  |  2017  |   9   |                                      Kizumonogatari III: Reiketsu-hen                                     |   Last week   | 12/09/2022 |  12/09/2022 |
 |  [9260](https://myanimelist.net/anime/9260)  |  movie  |  2016  |   7   |                                       Kizumonogatari I: Tekketsu-hen                                      |   Last week   | 11/26/2022 |  12/09/2022 |
@@ -67,11 +67,11 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [34914](https://myanimelist.net/anime/34914) |    tv   |  2017  | 4_koma_manga |                                                  New Game!!                                                  |   3 days ago  |        -        |
-| [31953](https://myanimelist.net/anime/31953) |    tv   |  2016  | 4_koma_manga |                                                   New Game!                                                  |   3 days ago  |        -        |
-| [53450](https://myanimelist.net/anime/53450) |   ona   |    -   |     novel    |                                        Xian Wang de Richang Shenghuo 4                                       |   5 days ago  |        -        |
-| [32191](https://myanimelist.net/anime/32191) |   ona   |  2014  |  light_novel |                                  Okitegami Kyouko no Bibouroku x Monogatari                                  |   6 days ago  |        -        |
-| [15689](https://myanimelist.net/anime/15689) |    tv   |  2012  |  light_novel |                                             Nekomonogatari: Kuro                                             |   6 days ago  |        -        |
+| [34914](https://myanimelist.net/anime/34914) |    tv   |  2017  | 4_koma_manga |                                                  New Game!!                                                  |   4 days ago  |        -        |
+| [31953](https://myanimelist.net/anime/31953) |    tv   |  2016  | 4_koma_manga |                                                   New Game!                                                  |   4 days ago  |        -        |
+| [53450](https://myanimelist.net/anime/53450) |   ona   |    -   |     novel    |                                        Xian Wang de Richang Shenghuo 4                                       |   6 days ago  |        -        |
+| [32191](https://myanimelist.net/anime/32191) |   ona   |  2014  |  light_novel |                                  Okitegami Kyouko no Bibouroku x Monogatari                                  |   Last week   |        -        |
+| [15689](https://myanimelist.net/anime/15689) |    tv   |  2012  |  light_novel |                                             Nekomonogatari: Kuro                                             |   Last week   |        -        |
 | [41467](https://myanimelist.net/anime/41467) |    tv   |  2022  |     manga    |                                           Bleach: Sennen Kessen-hen                                          |   Last week   |        -        |
 
 
