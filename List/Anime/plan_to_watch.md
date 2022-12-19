@@ -2,9 +2,9 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [34914](https://myanimelist.net/anime/34914) |    tv   |  2017  | 4_koma_manga |                                                  New Game!!                                                  |   4 days ago  |        -        |
-| [31953](https://myanimelist.net/anime/31953) |    tv   |  2016  | 4_koma_manga |                                                   New Game!                                                  |   4 days ago  |        -        |
-| [53450](https://myanimelist.net/anime/53450) |   ona   |    -   |     novel    |                                        Xian Wang de Richang Shenghuo 4                                       |   6 days ago  |        -        |
+| [34914](https://myanimelist.net/anime/34914) |    tv   |  2017  | 4_koma_manga |                                                  New Game!!                                                  |   5 days ago  |        -        |
+| [31953](https://myanimelist.net/anime/31953) |    tv   |  2016  | 4_koma_manga |                                                   New Game!                                                  |   5 days ago  |        -        |
+| [53450](https://myanimelist.net/anime/53450) |   ona   |    -   |     novel    |                                        Xian Wang de Richang Shenghuo 4                                       |   Last week   |        -        |
 | [32191](https://myanimelist.net/anime/32191) |   ona   |  2014  |  light_novel |                                  Okitegami Kyouko no Bibouroku x Monogatari                                  |   Last week   |        -        |
 | [15689](https://myanimelist.net/anime/15689) |    tv   |  2012  |  light_novel |                                             Nekomonogatari: Kuro                                             |   Last week   |        -        |
 | [41467](https://myanimelist.net/anime/41467) |    tv   |  2022  |     manga    |                                           Bleach: Sennen Kessen-hen                                          |   Last week   |        -        |

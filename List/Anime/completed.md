@@ -1,12 +1,13 @@
-# Completed (387)
+# Completed (388)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [36999](https://myanimelist.net/anime/36999) |  movie  |  2018  |   7   |                                            Zoku Owarimonogatari                                           |  13 hours ago | 12/14/2022 |  12/19/2022 |
 | [35247](https://myanimelist.net/anime/35247) |    tv   |  2017  |   8   |                                         Owarimonogatari 2nd Season                                        |   Last week   | 12/09/2022 |  12/11/2022 |
 | [31757](https://myanimelist.net/anime/31757) |  movie  |  2016  |   6   |                                      Kizumonogatari II: Nekketsu-hen                                      |   Last week   | 12/09/2022 |  12/09/2022 |
 | [31758](https://myanimelist.net/anime/31758) |  movie  |  2017  |   9   |                                      Kizumonogatari III: Reiketsu-hen                                     |   Last week   | 12/09/2022 |  12/09/2022 |
 |  [9260](https://myanimelist.net/anime/9260)  |  movie  |  2016  |   7   |                                       Kizumonogatari I: Tekketsu-hen                                      |   Last week   | 11/26/2022 |  12/09/2022 |
-| [42916](https://myanimelist.net/anime/42916) |  movie  |  2021  |   5   |                       Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria                       |  2 weeks ago  | 11/28/2022 |  11/28/2022 |
+| [42916](https://myanimelist.net/anime/42916) |  movie  |  2021  |   5   |                       Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria                       |  3 weeks ago  | 11/28/2022 |  11/28/2022 |
 | [32268](https://myanimelist.net/anime/32268) |   ona   |  2016  |   5   |                                              Koyomimonogatari                                             |  3 weeks ago  | 11/26/2022 |  11/26/2022 |
 | [31181](https://myanimelist.net/anime/31181) |    tv   |  2015  |   6   |                                              Owarimonogatari                                              |  3 weeks ago  | 11/26/2022 |  11/26/2022 |
 | [21855](https://myanimelist.net/anime/21855) |    tv   |  2014  |   4   |                                               Hanamonogatari                                              |  3 weeks ago  | 11/24/2022 |  11/24/2022 |
@@ -17,8 +18,8 @@
 | [38883](https://myanimelist.net/anime/38883) |    tv   |  2020  |   7   |                                            Haikyuu!! To the Top                                           |   Last month  | 11/10/2022 |  11/12/2022 |
 | [32935](https://myanimelist.net/anime/32935) |    tv   |  2016  |   7   |                         Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou                         |   Last month  | 11/07/2022 |  11/08/2022 |
 | [20583](https://myanimelist.net/anime/20583) |    tv   |  2014  |   7   |                                                 Haikyuu!!                                                 |   Last month  | 10/28/2022 |  10/31/2022 |
-| [39651](https://myanimelist.net/anime/39651) |   ova   |  2019  |   5   |           Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi          |   Last month  | 10/24/2022 |  10/24/2022 |
-| [37510](https://myanimelist.net/anime/37510) |    tv   |  2019  |   8   |                                             Mob Psycho 100 II                                             |   Last month  | 10/23/2022 |  10/24/2022 |
+| [39651](https://myanimelist.net/anime/39651) |   ova   |  2019  |   5   |           Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi          |  2 months ago | 10/24/2022 |  10/24/2022 |
+| [37510](https://myanimelist.net/anime/37510) |    tv   |  2019  |   8   |                                             Mob Psycho 100 II                                             |  2 months ago | 10/23/2022 |  10/24/2022 |
 | [32182](https://myanimelist.net/anime/32182) |    tv   |  2016  |   7   |                                               Mob Psycho 100                                              |  2 months ago | 02/05/2022 |  10/23/2022 |
 | [16436](https://myanimelist.net/anime/16436) | special |  2013  |   2   |                                               Tenshi no Drop                                              |  2 months ago | 10/16/2022 |  10/16/2022 |
 |  [6213](https://myanimelist.net/anime/6213)  |    tv   |  2009  |   7   |                                          Toaru Kagaku no Railgun                                          |  2 months ago | 09/06/2022 |  10/16/2022 |
@@ -93,7 +94,7 @@
 | [39565](https://myanimelist.net/anime/39565) |  movie  |  2019  |   7   |                              Boku no Hero Academia the Movie 2: Heroes:Rising                             | 10 months ago | 02/26/2022 |  02/26/2022 |
 |  [5630](https://myanimelist.net/anime/5630)  |    tv   |  2009  |   7   |                                              Higashi no Eden                                              | 10 months ago | 02/21/2022 |  02/23/2022 |
 | [35968](https://myanimelist.net/anime/35968) |    tv   |  2018  |   8   |                                        Wotaku ni Koi wa Muzukashii                                        | 10 months ago | 02/16/2022 |  02/18/2022 |
-| [36793](https://myanimelist.net/anime/36793) |    tv   |  2018  |   9   |                                            3D Kanojo: Real Girl                                           | 10 months ago | 02/14/2022 |  02/14/2022 |
+| [36793](https://myanimelist.net/anime/36793) |    tv   |  2018  |   9   |                                            3D Kanojo: Real Girl                                           | 11 months ago | 02/14/2022 |  02/14/2022 |
 | [37956](https://myanimelist.net/anime/37956) |    tv   |  2019  |   10  |                                      3D Kanojo: Real Girl 2nd Season                                      | 10 months ago | 02/14/2022 |  02/14/2022 |
 | [47778](https://myanimelist.net/anime/47778) |    tv   |  2022  |   9   |                                       Kimetsu no Yaiba: Yuukaku-hen                                       | 10 months ago | 12/06/2021 |  02/14/2022 |
 | [39292](https://myanimelist.net/anime/39292) |    tv   |  2020  |   8   |                                         Princess Connect! Re:Dive                                         | 11 months ago | 02/06/2022 |  02/12/2022 |
