@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [18679](https://myanimelist.net/anime/18679) |    tv   |  2013  |   original   |                                                 Kill la Kill                                                 |   Yesterday   |        -        |
+| [18679](https://myanimelist.net/anime/18679) |    tv   |  2013  |   original   |                                                 Kill la Kill                                                 |   2 days ago  |        -        |
 | [34914](https://myanimelist.net/anime/34914) |    tv   |  2017  | 4_koma_manga |                                                  New Game!!                                                  |   Last week   |        -        |
 | [31953](https://myanimelist.net/anime/31953) |    tv   |  2016  | 4_koma_manga |                                                   New Game!                                                  |   Last week   |        -        |
 | [53450](https://myanimelist.net/anime/53450) |   ona   |    -   |     novel    |                                        Xian Wang de Richang Shenghuo 4                                       |   Last week   |        -        |
@@ -45,7 +45,7 @@
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                               Summertime Render                                              |  4 months ago |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |  5 months ago |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |             Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita             |  5 months ago |        -        |
-| [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                            Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho                            |  5 months ago |        -        |
+| [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                            Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho                            |  6 months ago |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                Lovely★Complex                                                |  6 months ago |        -        |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |  2023  |  light_novel |                                      Kono Subarashii Sekai ni Bakuen wo!                                     |  6 months ago |        -        |
 | [50739](https://myanimelist.net/anime/50739) |    tv   |  2023  |  light_novel |                      Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                     |  6 months ago |        -        |

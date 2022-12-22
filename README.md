@@ -6,16 +6,16 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                       Title                                       | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [47917](https://myanimelist.net/anime/47917) |  tv  |  2022  |   -   |                                  Bocchi the Rock!                                 |   9/12  |   Yesterday  | 12/20/2022 |
-| [50602](https://myanimelist.net/anime/50602) |  tv  |  2022  |   -   |                                Spy x Family Part 2                                |  12/13  |  3 days ago  | 10/02/2022 |
-| [49918](https://myanimelist.net/anime/49918) |  tv  |  2022  |   -   |                          Boku no Hero Academia 6th Season                         |  12/25  |  3 days ago  | 10/02/2022 |
-| [44511](https://myanimelist.net/anime/44511) |  tv  |  2022  |   -   |                                    Chainsaw Man                                   |  10/12  |  6 days ago  | 10/13/2022 |
+| [48316](https://myanimelist.net/anime/48316) |  tv  |  2022  |   -   |                        Kage no Jitsuryokusha ni Naritakute!                       |  12/20  | 11 hours ago | 10/06/2022 |
+| [44511](https://myanimelist.net/anime/44511) |  tv  |  2022  |   -   |                                    Chainsaw Man                                   |  11/12  | 13 hours ago | 10/13/2022 |
+| [47917](https://myanimelist.net/anime/47917) |  tv  |  2022  |   -   |                                  Bocchi the Rock!                                 |  11/12  | 13 hours ago | 12/20/2022 |
+| [50602](https://myanimelist.net/anime/50602) |  tv  |  2022  |   -   |                                Spy x Family Part 2                                |  12/13  |  4 days ago  | 10/02/2022 |
+| [49918](https://myanimelist.net/anime/49918) |  tv  |  2022  |   -   |                          Boku no Hero Academia 6th Season                         |  12/25  |  4 days ago  | 10/02/2022 |
 | [50710](https://myanimelist.net/anime/50710) |  tv  |  2022  |   7   |                               Urusei Yatsura (2022)                               |   9/23  |   Last week  | 10/14/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                     One Piece                                     |  1044/? |   Last week  | 01/01/2013 |
 | [49596](https://myanimelist.net/anime/49596) |  tv  |  2022  |   -   |                                     Blue Lock                                     |   8/24  |  2 weeks ago | 10/16/2022 |
 | [49784](https://myanimelist.net/anime/49784) |  tv  |  2022  |   -   |                         Mairimashita! Iruma-kun 3rd Season                        |   8/21  |  3 weeks ago | 10/09/2022 |
 | [50425](https://myanimelist.net/anime/50425) |  tv  |  2022  |   8   |                             Fuufu Ijou, Koibito Miman.                            |   8/12  |  3 weeks ago | 10/24/2022 |
-| [48316](https://myanimelist.net/anime/48316) |  tv  |  2022  |   -   |                        Kage no Jitsuryokusha ni Naritakute!                       |   7/20  |  Last month  | 10/06/2022 |
 | [51403](https://myanimelist.net/anime/51403) |  tv  |  2022  |   -   |                                    Renai Flops                                    |   6/12  |  Last month  | 10/27/2022 |
 
 
@@ -25,7 +25,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [36999](https://myanimelist.net/anime/36999) |  movie  |  2018  |   7   |                                            Zoku Owarimonogatari                                           |   2 days ago  | 12/14/2022 |  12/19/2022 |
+| [36999](https://myanimelist.net/anime/36999) |  movie  |  2018  |   7   |                                            Zoku Owarimonogatari                                           |   3 days ago  | 12/14/2022 |  12/19/2022 |
 | [35247](https://myanimelist.net/anime/35247) |    tv   |  2017  |   8   |                                         Owarimonogatari 2nd Season                                        |   Last week   | 12/09/2022 |  12/11/2022 |
 | [31757](https://myanimelist.net/anime/31757) |  movie  |  2016  |   6   |                                      Kizumonogatari II: Nekketsu-hen                                      |   Last week   | 12/09/2022 |  12/09/2022 |
 | [31758](https://myanimelist.net/anime/31758) |  movie  |  2017  |   9   |                                      Kizumonogatari III: Reiketsu-hen                                     |   Last week   | 12/09/2022 |  12/09/2022 |
@@ -67,7 +67,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [18679](https://myanimelist.net/anime/18679) |    tv   |  2013  |   original   |                                                 Kill la Kill                                                 |   Yesterday   |        -        |
+| [18679](https://myanimelist.net/anime/18679) |    tv   |  2013  |   original   |                                                 Kill la Kill                                                 |   2 days ago  |        -        |
 | [34914](https://myanimelist.net/anime/34914) |    tv   |  2017  | 4_koma_manga |                                                  New Game!!                                                  |   Last week   |        -        |
 | [31953](https://myanimelist.net/anime/31953) |    tv   |  2016  | 4_koma_manga |                                                   New Game!                                                  |   Last week   |        -        |
 | [53450](https://myanimelist.net/anime/53450) |   ona   |    -   |     novel    |                                        Xian Wang de Richang Shenghuo 4                                       |   Last week   |        -        |
