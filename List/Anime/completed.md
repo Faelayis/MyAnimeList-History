@@ -1,7 +1,10 @@
-# Completed (388)
+# Completed (391)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  |   8   |                                              Bocchi the Rock!                                             |  12 hours ago | 12/20/2022 |  12/27/2022 |
+| [50425](https://myanimelist.net/anime/50425) |    tv   |  2022  |   7   |                                         Fuufu Ijou, Koibito Miman.                                        |  11 hours ago | 10/24/2022 |  12/27/2022 |
+| [50602](https://myanimelist.net/anime/50602) |    tv   |  2022  |   6   |                                            Spy x Family Part 2                                            |  11 hours ago | 10/02/2022 |  12/27/2022 |
 | [36999](https://myanimelist.net/anime/36999) |  movie  |  2018  |   7   |                                            Zoku Owarimonogatari                                           |   Last week   | 12/14/2022 |  12/19/2022 |
 | [35247](https://myanimelist.net/anime/35247) |    tv   |  2017  |   8   |                                         Owarimonogatari 2nd Season                                        |  2 weeks ago  | 12/09/2022 |  12/11/2022 |
 | [31757](https://myanimelist.net/anime/31757) |  movie  |  2016  |   6   |                                      Kizumonogatari II: Nekketsu-hen                                      |  2 weeks ago  | 12/09/2022 |  12/09/2022 |
@@ -116,7 +119,7 @@
 | [31964](https://myanimelist.net/anime/31964) |    tv   |  2016  |   8   |                                           Boku no Hero Academia                                           |   Last year   | 01/09/2022 |  01/09/2022 |
 | [50768](https://myanimelist.net/anime/50768) | special |  2022  |   8   |                                Vanitas no Karte: En Route Pour le Gévaudan                                |   Last year   | 01/08/2022 |  01/08/2022 |
 | [11843](https://myanimelist.net/anime/11843) |    tv   |  2012  |   8   |                                        Danshi Koukousei no Nichijou                                       |  9 months ago | 12/24/2021 |  01/05/2022 |
-| [42897](https://myanimelist.net/anime/42897) |    tv   |  2021  |   8   |                                                  Horimiya                                                 |  2 months ago | 01/01/2022 |  01/01/2022 |
+| [42897](https://myanimelist.net/anime/42897) |    tv   |  2021  |   8   |                                                  Horimiya                                                 |  3 months ago | 01/01/2022 |  01/01/2022 |
 |    [30](https://myanimelist.net/anime/30)    |    tv   |  1995  |   9   |                                          Neon Genesis Evangelion                                          |  9 months ago | 12/30/2021 |  12/30/2021 |
 |    [32](https://myanimelist.net/anime/32)    |  movie  |  1997  |   10  |                               Neon Genesis Evangelion: The End of Evangelion                              |  8 months ago | 12/30/2021 |  12/30/2021 |
 | [42351](https://myanimelist.net/anime/42351) |    tv   |  2021  |   7   |                                      Senpai ga Uzai Kouhai no Hanashi                                     |   Last year   | 11/04/2021 |  12/30/2021 |

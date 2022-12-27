@@ -1,10 +1,11 @@
-# Plan to Watch (215)
+# Plan to Watch (216)
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [53924](https://myanimelist.net/anime/53924) | unknown |    -   |     manga    |                                Jibaku Shounen Hanako-kun (Anime Shin Project)                                |   3 days ago  |        -        |
-| [53913](https://myanimelist.net/anime/53913) |    tv   |    -   |  light_novel |                                         Tensei shitara Ken deshita 2                                         |   3 days ago  |        -        |
-| [18679](https://myanimelist.net/anime/18679) |    tv   |  2013  |   original   |                                                 Kill la Kill                                                 |   6 days ago  |        -        |
+| [22789](https://myanimelist.net/anime/22789) |    tv   |  2014  |   web_manga  |                                                   Barakamon                                                  |  12 hours ago |        -        |
+| [53924](https://myanimelist.net/anime/53924) | unknown |    -   |     manga    |                                Jibaku Shounen Hanako-kun (Anime Shin Project)                                |   4 days ago  |        -        |
+| [53913](https://myanimelist.net/anime/53913) |    tv   |    -   |  light_novel |                                         Tensei shitara Ken deshita 2                                         |   4 days ago  |        -        |
+| [18679](https://myanimelist.net/anime/18679) |    tv   |  2013  |   original   |                                                 Kill la Kill                                                 |   Last week   |        -        |
 | [34914](https://myanimelist.net/anime/34914) |    tv   |  2017  | 4_koma_manga |                                                  New Game!!                                                  |   Last week   |        -        |
 | [31953](https://myanimelist.net/anime/31953) |    tv   |  2016  | 4_koma_manga |                                                   New Game!                                                  |   Last week   |        -        |
 | [53450](https://myanimelist.net/anime/53450) |   ona   |    -   |     novel    |                                        Xian Wang de Richang Shenghuo 4                                       |  2 weeks ago  |        -        |
@@ -30,7 +31,7 @@
 | [52807](https://myanimelist.net/anime/52807) |    tv   |    -   |     manga    |                                                One Punch Man 3                                               |  3 months ago |        -        |
 | [52969](https://myanimelist.net/anime/52969) |    tv   |    -   |  light_novel |                                        Jitsu wa Ore, Saikyou deshita?                                        |  3 months ago |        -        |
 | [52955](https://myanimelist.net/anime/52955) |    tv   |  2023  |     manga    |                                         Mahoutsukai no Yome Season 2                                         |  3 months ago |        -        |
-| [51678](https://myanimelist.net/anime/51678) |    tv   |  2023  |     manga    |                                             Oniichan wa Oshimai!                                             |  3 months ago |    01/01/2023   |
+| [51678](https://myanimelist.net/anime/51678) |    tv   |  2023  |     manga    |                                             Oniichan wa Oshimai!                                             |  4 months ago |    01/01/2023   |
 |  [6372](https://myanimelist.net/anime/6372)  |  movie  |  2009  |   original   |                                   Higashi no Eden Movie I: The King of Eden                                  |  4 months ago |        -        |
 |  [6927](https://myanimelist.net/anime/6927)  |  movie  |  2009  |   original   |                                      Higashi no Eden: Air Communication                                      |  4 months ago |        -        |
 |   [585](https://myanimelist.net/anime/585)   |  movie  |  1995  |     manga    |                                               Mimi wo Sumaseba                                               |  4 months ago |        -        |
@@ -43,7 +44,7 @@
 | [49782](https://myanimelist.net/anime/49782) |    tv   |  2022  |     manga    |                                           Shadows House 2nd Season                                           |  4 months ago |        -        |
 | [49387](https://myanimelist.net/anime/49387) |    tv   |  2023  |     manga    |                                             Vinland Saga Season 2                                            |  4 months ago |        -        |
 | [52657](https://myanimelist.net/anime/52657) |    tv   |  2023  |   web_manga  |                                      Ousama Ranking: Yuuki no Takarabako                                     |  4 months ago |        -        |
-| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |  4 months ago |        -        |
+| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                Fate/Apocrypha                                                |  5 months ago |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                               Summertime Render                                              |  5 months ago |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                |  5 months ago |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |             Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita             |  6 months ago |        -        |
@@ -86,7 +87,7 @@
 | [49040](https://myanimelist.net/anime/49040) |    tv   |  2021  |     manga    |                                               Lupin III: Part 6                                              | 10 months ago |        -        |
 |  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  | visual_novel |                                                  Amagami SS                                                  | 10 months ago |        -        |
 |  [5356](https://myanimelist.net/anime/5356)  |    tv   |  2009  | visual_novel |                                                    Canaan                                                    | 10 months ago |        -        |
-| [34176](https://myanimelist.net/anime/34176) |    tv   |  2017  |  light_novel |                                        Zero kara Hajimeru Mahou no Sho                                       | 10 months ago |        -        |
+| [34176](https://myanimelist.net/anime/34176) |    tv   |  2017  |  light_novel |                                        Zero kara Hajimeru Mahou no Sho                                       | 11 months ago |        -        |
 | [14753](https://myanimelist.net/anime/14753) |   ova   |  2012  |   web_manga  |                                           Hori-san to Miyamura-kun                                           | 11 months ago |        -        |
 | [34392](https://myanimelist.net/anime/34392) |    tv   |  2017  |   original   |                                                   One Room                                                   | 11 months ago |        -        |
 | [48997](https://myanimelist.net/anime/48997) |    tv   |  2022  |     manga    |                                       Fantasy Bishoujo Juniku Ojisan to                                      | 11 months ago |        -        |
