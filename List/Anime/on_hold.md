@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                            Title                           | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :--------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [40776](https://myanimelist.net/anime/40776) |    tv   |  2020  |   -   |                 Haikyuu!! To the Top Part 2                |   2/12  |  10 hours ago | 11/12/2022 |
+| [40776](https://myanimelist.net/anime/40776) |    tv   |  2020  |   -   |                 Haikyuu!! To the Top Part 2                |   2/12  |   Yesterday   | 11/12/2022 |
 |  [5114](https://myanimelist.net/anime/5114)  |    tv   |  2009  |   -   |              Fullmetal Alchemist: Brotherhood              |  47/64  |  2 months ago | 10/07/2022 |
 | [48413](https://myanimelist.net/anime/48413) |    tv   |  2022  |   -   |                    Hataraku Maou-sama!!                    |   7/12  |  2 months ago | 07/15/2022 |
 | [42994](https://myanimelist.net/anime/42994) |    tv   |  2022  |   -   |                   Jashin-chan Dropkick X                   |   8/12  |  2 months ago | 07/15/2022 |
