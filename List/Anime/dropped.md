@@ -2,7 +2,7 @@
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-|   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                           Higurashi no Naku Koro ni                          |  10/26  |  6 days ago  | 12/23/2022 |
+|   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                           Higurashi no Naku Koro ni                          |  10/26  |   Last week  | 12/23/2022 |
 | [51464](https://myanimelist.net/anime/51464) |  tv  |  2022  |   -   |                        4-nin wa Sorezore Uso wo Tsuku                        |   1/11  | 2 months ago | 10/16/2022 |
 | [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   5   |                                  Engage Kiss                                 |   8/13  | 2 months ago | 07/03/2022 |
 | [34543](https://myanimelist.net/anime/34543) |  tv  |  2017  |   2   |                                    Dive!!                                    |   6/12  | 8 months ago | 05/03/2022 |
@@ -27,7 +27,7 @@
 | [32323](https://myanimelist.net/anime/32323) |  ona |  2015  |   4   |                            Aishen Qiaokeli-ing...                            |   5/15  |   Last year  | 01/05/2021 |
 | [31952](https://myanimelist.net/anime/31952) |  tv  |  2016  |   4   |                     Kono Bijutsu-bu ni wa Mondai ga Aru!                     |   1/12  |   Last year  |      -     |
 | [41380](https://myanimelist.net/anime/41380) |  tv  |  2020  |   3   |                  100-man no Inochi no Ue ni Ore wa Tatteiru                  |   3/12  |   Last year  |      -     |
-| [38853](https://myanimelist.net/anime/38853) |  tv  |  2021  |   1   |                                    Ex-Arm                                    |   1/12  |   Last year  |      -     |
+| [38853](https://myanimelist.net/anime/38853) |  tv  |  2021  |   1   |                                    Ex-Arm                                    |   1/12  |  2 years ago |      -     |
 | [38909](https://myanimelist.net/anime/38909) |  tv  |  2020  |   4   |                              Infinite Dendrogram                             |   0/13  |  2 years ago |      -     |
 | [19685](https://myanimelist.net/anime/19685) |  tv  |  2014  |   6   |                          Kanojo ga Flag wo Oraretara                         |   6/13  |   Last year  |      -     |
 | [40571](https://myanimelist.net/anime/40571) |  tv  |  2020  |   2   |                               Majo no Tabitabi                               |   2/12  |  2 years ago |      -     |
