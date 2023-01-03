@@ -2,10 +2,10 @@
 
 |                      id                      |   Type  | Season | Score |                                       Title                                       | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [40776](https://myanimelist.net/anime/40776) |    tv   |  2020  |   -   |                            Haikyuu!! To the Top Part 2                            |   2/12  |   6 days ago  | 11/12/2022 |
+| [40776](https://myanimelist.net/anime/40776) |    tv   |  2020  |   -   |                            Haikyuu!! To the Top Part 2                            |   2/12  |   Last week   | 11/12/2022 |
 |  [5114](https://myanimelist.net/anime/5114)  |    tv   |  2009  |   -   |                          Fullmetal Alchemist: Brotherhood                         |  47/64  |  2 months ago | 10/07/2022 |
-| [52046](https://myanimelist.net/anime/52046) |    tv   |  2022  |   -   | Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau |   2/13  |   4 days ago  | 10/05/2022 |
-| [49891](https://myanimelist.net/anime/49891) |    tv   |  2022  |   -   |                             Tensei shitara Ken deshita                            |   3/12  |   4 days ago  | 09/30/2022 |
+| [52046](https://myanimelist.net/anime/52046) |    tv   |  2022  |   -   | Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau |   2/13  |   5 days ago  | 10/05/2022 |
+| [49891](https://myanimelist.net/anime/49891) |    tv   |  2022  |   -   |                             Tensei shitara Ken deshita                            |   3/12  |   5 days ago  | 09/30/2022 |
 | [48413](https://myanimelist.net/anime/48413) |    tv   |  2022  |   -   |                                Hataraku Maou-sama!!                               |   7/12  |  2 months ago | 07/15/2022 |
 | [42994](https://myanimelist.net/anime/42994) |    tv   |  2022  |   -   |                               Jashin-chan Dropkick X                              |   8/12  |  2 months ago | 07/15/2022 |
 | [49220](https://myanimelist.net/anime/49220) |    tv   |  2022  |   -   |                                   Isekai Ojisan                                   |   4/13  |  3 months ago | 07/08/2022 |
