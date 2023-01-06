@@ -2,29 +2,30 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (11) ``5.09%``
+#### Watching (12) ``5.58%``
 
 |                      id                      | Type | Season | Score |                                 Title                                 | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [48316](https://myanimelist.net/anime/48316) |  tv  |  2022  |   -   |                  Kage no Jitsuryokusha ni Naritakute!                 |  14/20  | 16 hours ago | 10/06/2022 |
-| [49612](https://myanimelist.net/anime/49612) |  tv  |  2023  |   -   |      Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu      |   1/?   |   Yesterday  | 01/04/2023 |
-| [50205](https://myanimelist.net/anime/50205) |  tv  |  2022  |   -   |                        Arknights: Reimei Zensou                       |   3/8   |   Yesterday  | 11/06/2022 |
-| [41514](https://myanimelist.net/anime/41514) |  tv  |  2023  |   -   | Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2 |   0/12  |  3 days ago  | 01/05/2023 |
+| [51678](https://myanimelist.net/anime/51678) |  tv  |  2023  |   -   |                          Oniichan wa Oshimai!                         |   1/12  | 12 hours ago | 01/05/2023 |
+| [48316](https://myanimelist.net/anime/48316) |  tv  |  2022  |   -   |                  Kage no Jitsuryokusha ni Naritakute!                 |  14/20  |   Yesterday  | 10/06/2022 |
+| [49612](https://myanimelist.net/anime/49612) |  tv  |  2023  |   -   |      Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu      |   1/?   |  2 days ago  | 01/04/2023 |
+| [50205](https://myanimelist.net/anime/50205) |  tv  |  2022  |   -   |                        Arknights: Reimei Zensou                       |   3/8   |  2 days ago  | 11/06/2022 |
+| [41514](https://myanimelist.net/anime/41514) |  tv  |  2023  |   -   | Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2 |   0/12  |  4 days ago  | 01/05/2023 |
 | [51403](https://myanimelist.net/anime/51403) |  tv  |  2022  |   5   |                              Renai Flops                              |  11/12  |   Last week  | 10/27/2022 |
 | [49918](https://myanimelist.net/anime/49918) |  tv  |  2022  |   -   |                    Boku no Hero Academia 6th Season                   |  12/25  |  2 weeks ago | 10/02/2022 |
 | [50710](https://myanimelist.net/anime/50710) |  tv  |  2022  |   7   |                         Urusei Yatsura (2022)                         |   9/23  |  3 weeks ago | 10/14/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                               One Piece                               |  1044/? |  3 weeks ago | 01/01/2013 |
 | [49596](https://myanimelist.net/anime/49596) |  tv  |  2022  |   -   |                               Blue Lock                               |   8/24  |  Last month  | 10/16/2022 |
 | [49784](https://myanimelist.net/anime/49784) |  tv  |  2022  |   -   |                   Mairimashita! Iruma-kun 3rd Season                  |   8/21  |  Last month  | 10/09/2022 |
-| [50404](https://myanimelist.net/anime/50404) |  ona |  2022  |   -   |                    Xian Wang de Richang Shenghuo 3                    |   5/12  | 2 months ago | 10/03/2022 |
 
-*[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
+
+*[1 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
 #### Completed ``79.39%``
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [31043](https://myanimelist.net/anime/31043) |    tv   |  2016  |   9   |                                          Boku dake ga Inai Machi                                          |   3 days ago  | 01/02/2023 |  01/02/2023 |
+| [31043](https://myanimelist.net/anime/31043) |    tv   |  2016  |   9   |                                          Boku dake ga Inai Machi                                          |   4 days ago  | 01/02/2023 |  01/02/2023 |
 | [44511](https://myanimelist.net/anime/44511) |    tv   |  2022  |   7   |                                                Chainsaw Man                                               |   Last week   | 10/13/2022 |  12/29/2022 |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  |   8   |                                              Bocchi the Rock!                                             |   Last week   | 12/20/2022 |  12/27/2022 |
 | [50425](https://myanimelist.net/anime/50425) |    tv   |  2022  |   7   |                                         Fuufu Ijou, Koibito Miman.                                        |   Last week   | 10/24/2022 |  12/27/2022 |
@@ -52,7 +53,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-|   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                           Higurashi no Naku Koro ni                          |  10/26  |   Last week  | 12/23/2022 |
+|   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                           Higurashi no Naku Koro ni                          |  10/26  |  2 weeks ago | 12/23/2022 |
 | [51464](https://myanimelist.net/anime/51464) |  tv  |  2022  |   -   |                        4-nin wa Sorezore Uso wo Tsuku                        |   1/11  | 2 months ago | 10/16/2022 |
 | [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   5   |                                  Engage Kiss                                 |   8/13  | 2 months ago | 07/03/2022 |
 | [34543](https://myanimelist.net/anime/34543) |  tv  |  2017  |   2   |                                    Dive!!                                    |   6/12  | 8 months ago | 05/03/2022 |
@@ -62,16 +63,16 @@ List Sync From MyAnimeList (update every day)
 
 *[24 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``44.17%``
+#### Plan to Watch ``43.88%``
 
 |                      id                      |   Type  | Season |    Source    |                                                     Title                                                    |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :----------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [50384](https://myanimelist.net/anime/50384) |    tv   |  2023  |     manga    |                                                 Mononogatari                                                 |   Yesterday   |        -        |
-| [44204](https://myanimelist.net/anime/44204) |    tv   |  2023  |     manga    |                                             Kyokou Suiri Season 2                                            |   3 days ago  |    01/09/2023   |
-| [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |  light_novel |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   3 days ago  |    01/05/2023   |
-| [50608](https://myanimelist.net/anime/50608) |    tv   |  2023  |     manga    |                                       Tokyo Revengers: Seiya Kessen-hen                                      |   3 days ago  |    01/08/2023   |
-| [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |     manga    |                                      Ijiranaide, Nagatoro-san 2nd Attack                                     |   3 days ago  |    01/08/2023   |
-| [51678](https://myanimelist.net/anime/51678) |    tv   |  2023  |     manga    |                                             Oniichan wa Oshimai!                                             |   3 days ago  |    01/05/2023   |
+| [50384](https://myanimelist.net/anime/50384) |    tv   |  2023  |     manga    |                                                 Mononogatari                                                 |   2 days ago  |        -        |
+| [44204](https://myanimelist.net/anime/44204) |    tv   |  2023  |     manga    |                                             Kyokou Suiri Season 2                                            |   4 days ago  |    01/09/2023   |
+| [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |  light_novel |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   4 days ago  |    01/05/2023   |
+| [50608](https://myanimelist.net/anime/50608) |    tv   |  2023  |     manga    |                                       Tokyo Revengers: Seiya Kessen-hen                                      |   4 days ago  |    01/08/2023   |
+| [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |     manga    |                                      Ijiranaide, Nagatoro-san 2nd Attack                                     |   4 days ago  |    01/08/2023   |
+| [22789](https://myanimelist.net/anime/22789) |    tv   |  2014  |   web_manga  |                                                   Barakamon                                                  |   Last week   |        -        |
 
 
-*[209 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[208 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
