@@ -1,13 +1,15 @@
-# Completed (393)
+# Completed (395)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [31043](https://myanimelist.net/anime/31043) |    tv   |  2016  |   9   |                                          Boku dake ga Inai Machi                                          |   6 days ago  | 01/02/2023 |  01/02/2023 |
+| [16001](https://myanimelist.net/anime/16001) | special |  2012  |   7   |                                        Kokoro Connect: Michi Random                                       |  7 hours ago  | 01/09/2023 |  01/09/2023 |
+| [11887](https://myanimelist.net/anime/11887) |    tv   |  2012  |   7   |                                               Kokoro Connect                                              |  8 hours ago  | 01/07/2023 |  01/09/2023 |
+| [31043](https://myanimelist.net/anime/31043) |    tv   |  2016  |   9   |                                          Boku dake ga Inai Machi                                          |   Last week   | 01/02/2023 |  01/02/2023 |
 | [44511](https://myanimelist.net/anime/44511) |    tv   |  2022  |   7   |                                                Chainsaw Man                                               |   Last week   | 10/13/2022 |  12/29/2022 |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  |   8   |                                              Bocchi the Rock!                                             |   Last week   | 12/20/2022 |  12/27/2022 |
 | [50425](https://myanimelist.net/anime/50425) |    tv   |  2022  |   7   |                                         Fuufu Ijou, Koibito Miman.                                        |   Last week   | 10/24/2022 |  12/27/2022 |
 | [50602](https://myanimelist.net/anime/50602) |    tv   |  2022  |   6   |                                            Spy x Family Part 2                                            |   Last week   | 10/02/2022 |  12/27/2022 |
-| [36999](https://myanimelist.net/anime/36999) |  movie  |  2018  |   7   |                                            Zoku Owarimonogatari                                           |  2 weeks ago  | 12/14/2022 |  12/19/2022 |
+| [36999](https://myanimelist.net/anime/36999) |  movie  |  2018  |   7   |                                            Zoku Owarimonogatari                                           |  3 weeks ago  | 12/14/2022 |  12/19/2022 |
 | [35247](https://myanimelist.net/anime/35247) |    tv   |  2017  |   8   |                                         Owarimonogatari 2nd Season                                        |   Last month  | 12/09/2022 |  12/11/2022 |
 | [31757](https://myanimelist.net/anime/31757) |  movie  |  2016  |   6   |                                      Kizumonogatari II: Nekketsu-hen                                      |   Last month  | 12/09/2022 |  12/09/2022 |
 | [31758](https://myanimelist.net/anime/31758) |  movie  |  2017  |   9   |                                      Kizumonogatari III: Reiketsu-hen                                     |   Last month  | 12/09/2022 |  12/09/2022 |
@@ -44,7 +46,7 @@
 | [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |  6 months ago | 05/13/2022 |  07/08/2022 |
 |   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  6 months ago | 07/06/2022 |  07/06/2022 |
 | [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |  6 months ago | 04/07/2022 |  06/29/2022 |
-| [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |  6 months ago | 06/27/2022 |  06/27/2022 |
+| [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |  7 months ago | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |  7 months ago | 04/09/2022 |  06/26/2022 |
 | [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               |  7 months ago | 04/09/2022 |  06/26/2022 |
 | [41461](https://myanimelist.net/anime/41461) |    tv   |  2022  |   8   |                                               Date A Live IV                                              |  7 months ago | 04/08/2022 |  06/26/2022 |
@@ -75,7 +77,7 @@
 | [33674](https://myanimelist.net/anime/33674) |  movie  |  2017  |   10  |                                           No Game No Life: Zero                                           |  9 months ago | 04/05/2022 |  04/06/2022 |
 | [19815](https://myanimelist.net/anime/19815) |    tv   |  2014  |   8   |                                              No Game No Life                                              |  9 months ago | 06/06/2020 |  04/05/2022 |
 | [38383](https://myanimelist.net/anime/38383) |   ona   |  2018  |   6   |                                      Jashin-chan Dropkick Episode 12                                      |  9 months ago | 04/04/2022 |  04/04/2022 |
-| [36906](https://myanimelist.net/anime/36906) |    tv   |  2018  |   7   |                                            Jashin-chan Dropkick                                           |  9 months ago | 04/03/2022 |  04/04/2022 |
+| [36906](https://myanimelist.net/anime/36906) |    tv   |  2018  |   7   |                                            Jashin-chan Dropkick                                           | 10 months ago | 04/03/2022 |  04/04/2022 |
 |  [9734](https://myanimelist.net/anime/9734)  | special |  2011  |   7   |                                              K-On!!: Keikaku!                                             | 10 months ago | 04/03/2022 |  04/03/2022 |
 |  [7791](https://myanimelist.net/anime/7791)  |    tv   |  2010  |   8   |                                                   K-On!!                                                  | 10 months ago | 03/23/2022 |  04/03/2022 |
 | [48736](https://myanimelist.net/anime/48736) |    tv   |  2022  |   7   |                                      Sono Bisque Doll wa Koi wo Suru                                      | 10 months ago | 01/13/2022 |  04/01/2022 |
@@ -303,7 +305,7 @@
 | [28891](https://myanimelist.net/anime/28891) |    tv   |  2015  |   8   |                                          Haikyuu!! Second Season                                          |  2 months ago | 10/31/2022 |      -      |
 | [15809](https://myanimelist.net/anime/15809) |    tv   |  2013  |   7   |                                            Hataraku Maou-sama!                                            |   Last year   | 05/10/2021 |      -      |
 | [41930](https://myanimelist.net/anime/41930) |    tv   |  2020  |   7   |                                            Kamisama ni Natta Hi                                           |  2 years ago  | 11/30/2020 |      -      |
-| [13759](https://myanimelist.net/anime/13759) |    tv   |  2012  |   8   |                                        Sakura-sou no Pet na Kanojo                                        |   Last year   | 11/28/2020 |      -      |
+| [13759](https://myanimelist.net/anime/13759) |    tv   |  2012  |   8   |                                        Sakura-sou no Pet na Kanojo                                        |  2 years ago  | 11/28/2020 |      -      |
 | [40454](https://myanimelist.net/anime/40454) |    tv   |  2020  |   7   |                        Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III                       |  2 years ago  | 11/22/2020 |      -      |
 | [41619](https://myanimelist.net/anime/41619) |    tv   |  2020  |   9   |                                               Munou na Nana                                               |   Last year   | 10/04/2020 |      -      |
 |  [6880](https://myanimelist.net/anime/6880)  |    tv   |  2011  |   7   |                                             Deadman Wonderland                                            |   Last year   | 09/12/2020 |      -      |
@@ -344,7 +346,7 @@
 | [40496](https://myanimelist.net/anime/40496) |    tv   |  2020  |   6   | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou |  2 years ago  |      -     |      -      |
 |  [9181](https://myanimelist.net/anime/9181)  |    tv   |  2010  |   8   |                                              Motto To LOVE-Ru                                             |  2 years ago  |      -     |      -      |
 | [40111](https://myanimelist.net/anime/40111) |  movie  |  2019  |   7   |                                        Nezha Zhi Mo Tong Jiang Shi                                        |   Last year   |      -     |      -      |
-| [18897](https://myanimelist.net/anime/18897) |    tv   |  2014  |   8   |                                                  Nisekoi                                                  |   Last year   |      -     |      -      |
+| [18897](https://myanimelist.net/anime/18897) |    tv   |  2014  |   8   |                                                  Nisekoi                                                  |  2 years ago  |      -     |      -      |
 | [27787](https://myanimelist.net/anime/27787) |    tv   |  2015  |   8   |                                                  Nisekoi:                                                 |   Last year   |      -     |      -      |
 | [20507](https://myanimelist.net/anime/20507) |    tv   |  2014  |   9   |                                                  Noragami                                                 |  9 months ago |      -     |      -      |
 | [30503](https://myanimelist.net/anime/30503) |    tv   |  2015  |   10  |                                              Noragami Aragoto                                             | 11 months ago |      -     |      -      |
@@ -386,7 +388,7 @@
 | [36511](https://myanimelist.net/anime/36511) |    tv   |  2018  |   4   |                                               Tokyo Ghoul:re                                              |  2 years ago  |      -     |      -      |
 | [37799](https://myanimelist.net/anime/37799) |    tv   |  2018  |   5   |                                         Tokyo Ghoul:re 2nd Season                                         |   Last year   |      -     |      -      |
 | [41226](https://myanimelist.net/anime/41226) |    tv   |  2020  |   8   |                                          Uzaki-chan wa Asobitai!                                          |  2 years ago  |      -     |      -      |
-| [44061](https://myanimelist.net/anime/44061) |  movie  |  2021  |   6   |                                       Xin Shen Bang: Nezha Chonsheng                                      |   Last year   |      -     |      -      |
+| [44061](https://myanimelist.net/anime/44061) |  movie  |  2021  |   6   |                                      Xin Shen Bang: Nezha Chongsheng                                      |   Last year   |      -     |      -      |
 | [14813](https://myanimelist.net/anime/14813) |    tv   |  2013  |   9   |                            Yahari Ore no Seishun Love Comedy wa Machigatteiru.                            |   Last year   |      -     |      -      |
 | [39547](https://myanimelist.net/anime/39547) |    tv   |  2020  |   8   |                          Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan                          |  2 years ago  |      -     |      -      |
 | [18753](https://myanimelist.net/anime/18753) |   ova   |  2013  |   7   |                          Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA                          |  2 years ago  |      -     |      -      |
