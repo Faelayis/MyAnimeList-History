@@ -1,14 +1,15 @@
-# Completed (395)
+# Completed (396)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [16001](https://myanimelist.net/anime/16001) | special |  2012  |   7   |                                        Kokoro Connect: Michi Random                                       |  7 hours ago  | 01/09/2023 |  01/09/2023 |
-| [11887](https://myanimelist.net/anime/11887) |    tv   |  2012  |   7   |                                               Kokoro Connect                                              |  8 hours ago  | 01/07/2023 |  01/09/2023 |
+| [51403](https://myanimelist.net/anime/51403) |    tv   |  2022  |   4   |                                                Renai Flops                                                |  10 hours ago | 10/27/2022 |  01/10/2023 |
+| [16001](https://myanimelist.net/anime/16001) | special |  2012  |   7   |                                        Kokoro Connect: Michi Random                                       |   Yesterday   | 01/09/2023 |  01/09/2023 |
+| [11887](https://myanimelist.net/anime/11887) |    tv   |  2012  |   7   |                                               Kokoro Connect                                              |   Yesterday   | 01/07/2023 |  01/09/2023 |
 | [31043](https://myanimelist.net/anime/31043) |    tv   |  2016  |   9   |                                          Boku dake ga Inai Machi                                          |   Last week   | 01/02/2023 |  01/02/2023 |
 | [44511](https://myanimelist.net/anime/44511) |    tv   |  2022  |   7   |                                                Chainsaw Man                                               |   Last week   | 10/13/2022 |  12/29/2022 |
-| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  |   8   |                                              Bocchi the Rock!                                             |   Last week   | 12/20/2022 |  12/27/2022 |
-| [50425](https://myanimelist.net/anime/50425) |    tv   |  2022  |   7   |                                         Fuufu Ijou, Koibito Miman.                                        |   Last week   | 10/24/2022 |  12/27/2022 |
-| [50602](https://myanimelist.net/anime/50602) |    tv   |  2022  |   6   |                                            Spy x Family Part 2                                            |   Last week   | 10/02/2022 |  12/27/2022 |
+| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  |   8   |                                              Bocchi the Rock!                                             |  2 weeks ago  | 12/20/2022 |  12/27/2022 |
+| [50425](https://myanimelist.net/anime/50425) |    tv   |  2022  |   7   |                                         Fuufu Ijou, Koibito Miman.                                        |  2 weeks ago  | 10/24/2022 |  12/27/2022 |
+| [50602](https://myanimelist.net/anime/50602) |    tv   |  2022  |   6   |                                            Spy x Family Part 2                                            |  2 weeks ago  | 10/02/2022 |  12/27/2022 |
 | [36999](https://myanimelist.net/anime/36999) |  movie  |  2018  |   7   |                                            Zoku Owarimonogatari                                           |  3 weeks ago  | 12/14/2022 |  12/19/2022 |
 | [35247](https://myanimelist.net/anime/35247) |    tv   |  2017  |   8   |                                         Owarimonogatari 2nd Season                                        |   Last month  | 12/09/2022 |  12/11/2022 |
 | [31757](https://myanimelist.net/anime/31757) |  movie  |  2016  |   6   |                                      Kizumonogatari II: Nekketsu-hen                                      |   Last month  | 12/09/2022 |  12/09/2022 |
@@ -65,7 +66,7 @@
 | [35839](https://myanimelist.net/anime/35839) |    tv   |  2018  |   7   |                                          Sora yori mo Tooi Basho                                          |  8 months ago | 05/07/2022 |  05/07/2022 |
 | [40586](https://myanimelist.net/anime/40586) |    tv   |  2021  |   7   |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita                    |  8 months ago | 05/03/2022 |  05/07/2022 |
 | [36632](https://myanimelist.net/anime/36632) |    tv   |  2018  |   6   |                              Ore ga Suki nano wa Imouto dakedo Imouto ja Nai                              |  8 months ago | 05/25/2021 |  05/07/2022 |
-| [50549](https://myanimelist.net/anime/50549) |   ona   |  2022  |   6   |                                                   Bubble                                                  |  8 months ago | 05/03/2022 |  05/03/2022 |
+| [50549](https://myanimelist.net/anime/50549) |   ona   |  2022  |   6   |                                                   Bubble                                                  |  9 months ago | 05/03/2022 |  05/03/2022 |
 | [31637](https://myanimelist.net/anime/31637) |    tv   |  2016  |   7   |                             Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2                             |  9 months ago | 04/20/2022 |  04/22/2022 |
 | [28907](https://myanimelist.net/anime/28907) |    tv   |  2015  |   8   |                                 Gate: Jieitai Kanochi nite, Kaku Tatakaeri                                |  9 months ago | 04/20/2022 |  04/20/2022 |
 | [30296](https://myanimelist.net/anime/30296) |    tv   |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         |  9 months ago | 04/18/2022 |  04/18/2022 |
@@ -105,8 +106,8 @@
 | [37956](https://myanimelist.net/anime/37956) |    tv   |  2019  |   10  |                                      3D Kanojo: Real Girl 2nd Season                                      | 11 months ago | 02/14/2022 |  02/14/2022 |
 | [47778](https://myanimelist.net/anime/47778) |    tv   |  2022  |   9   |                                       Kimetsu no Yaiba: Yuukaku-hen                                       | 11 months ago | 12/06/2021 |  02/14/2022 |
 | [39292](https://myanimelist.net/anime/39292) |    tv   |  2020  |   8   |                                         Princess Connect! Re:Dive                                         | 11 months ago | 02/06/2022 |  02/12/2022 |
-| [41103](https://myanimelist.net/anime/41103) |    tv   |  2021  |   8   |                                      Koi to Yobu ni wa Kimochi Warui                                      | 11 months ago | 02/07/2022 |  02/08/2022 |
-| [39783](https://myanimelist.net/anime/39783) |    tv   |  2021  |   7   |                                           5-toubun no Hanayome ∬                                          | 11 months ago | 01/08/2021 |  02/08/2022 |
+| [41103](https://myanimelist.net/anime/41103) |    tv   |  2021  |   8   |                                      Koi to Yobu ni wa Kimochi Warui                                      |   Last year   | 02/07/2022 |  02/08/2022 |
+| [39783](https://myanimelist.net/anime/39783) |    tv   |  2021  |   7   |                                           5-toubun no Hanayome ∬                                          |   Last year   | 01/08/2021 |  02/08/2022 |
 | [35507](https://myanimelist.net/anime/35507) |    tv   |  2017  |   8   |                              Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e                              |   Last year   | 02/01/2022 |  02/02/2022 |
 | [32949](https://myanimelist.net/anime/32949) |    tv   |  2017  |   5   |                                               Kuzu no Honkai                                              |   Last year   | 05/31/2021 |  02/02/2022 |
 | [13055](https://myanimelist.net/anime/13055) |   ova   |  2012  |   6   |                                                Sankarea OVA                                               |   Last year   | 01/30/2022 |  01/30/2022 |
@@ -249,7 +250,7 @@
 | [35790](https://myanimelist.net/anime/35790) |    tv   |  2019  |   8   |                                        Tate no Yuusha no Nariagari                                        |   Last year   | 03/23/2021 |  03/24/2021 |
 | [39535](https://myanimelist.net/anime/39535) |    tv   |  2021  |   9   |                                  Mushoku Tensei: Isekai Ittara Honki Dasu                                 |   Last year   | 01/26/2021 |  03/22/2021 |
 | [15451](https://myanimelist.net/anime/15451) |    tv   |  2013  |   7   |                                            High School DxD New                                            |   Last year   | 11/23/2020 |  03/19/2021 |
-| [25157](https://myanimelist.net/anime/25157) |    tv   |  2014  |   6   |                                               Trinity Seven                                               |   Last year   |      -     |  03/08/2021 |
+| [25157](https://myanimelist.net/anime/25157) |    tv   |  2014  |   6   |                                               Trinity Seven                                               |  2 years ago  |      -     |  03/08/2021 |
 | [32093](https://myanimelist.net/anime/32093) |    tv   |  2016  |   6   |                                       Tanaka-kun wa Itsumo Kedaruge                                       |   Last year   | 03/04/2021 |  03/06/2021 |
 | [38656](https://myanimelist.net/anime/38656) |    tv   |  2020  |   8   |                                               Darwin's Game                                               |   Last year   | 02/26/2021 |  02/28/2021 |
 | [28851](https://myanimelist.net/anime/28851) |  movie  |  2016  |   9   |                                               Koe no Katachi                                              |   Last year   | 02/26/2021 |  02/26/2021 |
@@ -349,7 +350,7 @@
 | [18897](https://myanimelist.net/anime/18897) |    tv   |  2014  |   8   |                                                  Nisekoi                                                  |  2 years ago  |      -     |      -      |
 | [27787](https://myanimelist.net/anime/27787) |    tv   |  2015  |   8   |                                                  Nisekoi:                                                 |   Last year   |      -     |      -      |
 | [20507](https://myanimelist.net/anime/20507) |    tv   |  2014  |   9   |                                                  Noragami                                                 |  9 months ago |      -     |      -      |
-| [30503](https://myanimelist.net/anime/30503) |    tv   |  2015  |   10  |                                              Noragami Aragoto                                             | 11 months ago |      -     |      -      |
+| [30503](https://myanimelist.net/anime/30503) |    tv   |  2015  |   10  |                                              Noragami Aragoto                                             |   Last year   |      -     |      -      |
 | [31490](https://myanimelist.net/anime/31490) |  movie  |  2016  |   7   |                                            One Piece Film: Gold                                           |  2 years ago  |      -     |      -      |
 |  [4155](https://myanimelist.net/anime/4155)  |  movie  |  2009  |   7   |                                        One Piece Film: Strong World                                       |   Last year   |      -     |      -      |
 | [12859](https://myanimelist.net/anime/12859) |  movie  |  2012  |   6   |                                             One Piece Film: Z                                             |   Last year   |      -     |      -      |
