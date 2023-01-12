@@ -6,17 +6,17 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                                     Title                                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [49612](https://myanimelist.net/anime/49612) |  tv  |  2023  |   -   |                          Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu                         |   2/?   |  9 hours ago | 01/04/2023 |
-| [51815](https://myanimelist.net/anime/51815) |  tv  |  2023  |   -   |                                         Kubo-san wa Mob wo Yurusanai                                         |   1/12  | 10 hours ago | 01/11/2023 |
-| [44204](https://myanimelist.net/anime/44204) |  tv  |  2023  |   -   |                                             Kyokou Suiri Season 2                                            |   1/12  |   Yesterday  | 01/09/2023 |
-| [50384](https://myanimelist.net/anime/50384) |  tv  |  2023  |   -   |                                                 Mononogatari                                                 |   0/12  |   Yesterday  | 01/10/2023 |
-| [50608](https://myanimelist.net/anime/50608) |  tv  |  2023  |   -   |                                       Tokyo Revengers: Seiya Kessen-hen                                      |   1/13  |  3 days ago  | 01/08/2023 |
-| [48417](https://myanimelist.net/anime/48417) |  tv  |  2023  |   -   | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II |   1/?   |  3 days ago  | 01/08/2023 |
-| [53111](https://myanimelist.net/anime/53111) |  tv  |  2023  |   -   |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   1/11  |  4 days ago  | 01/05/2023 |
-| [51678](https://myanimelist.net/anime/51678) |  tv  |  2023  |   -   |                                             Oniichan wa Oshimai!                                             |   1/12  |  5 days ago  | 01/05/2023 |
-| [48316](https://myanimelist.net/anime/48316) |  tv  |  2022  |   -   |                                     Kage no Jitsuryokusha ni Naritakute!                                     |  14/20  |  6 days ago  | 10/06/2022 |
+| [32828](https://myanimelist.net/anime/32828) |  tv  |  2016  |   -   |                                               Amaama to Inazuma                                              |   3/12  |  9 hours ago | 01/12/2023 |
+| [41514](https://myanimelist.net/anime/41514) |  tv  |  2023  |   -   |                     Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                    |   1/12  | 11 hours ago | 01/12/2023 |
+| [49612](https://myanimelist.net/anime/49612) |  tv  |  2023  |   -   |                          Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu                         |   2/?   |   Yesterday  | 01/04/2023 |
+| [51815](https://myanimelist.net/anime/51815) |  tv  |  2023  |   -   |                                         Kubo-san wa Mob wo Yurusanai                                         |   1/12  |   Yesterday  | 01/11/2023 |
+| [44204](https://myanimelist.net/anime/44204) |  tv  |  2023  |   -   |                                             Kyokou Suiri Season 2                                            |   1/12  |  2 days ago  | 01/09/2023 |
+| [50608](https://myanimelist.net/anime/50608) |  tv  |  2023  |   -   |                                       Tokyo Revengers: Seiya Kessen-hen                                      |   1/13  |  4 days ago  | 01/08/2023 |
+| [48417](https://myanimelist.net/anime/48417) |  tv  |  2023  |   -   | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II |   1/?   |  4 days ago  | 01/08/2023 |
+| [53111](https://myanimelist.net/anime/53111) |  tv  |  2023  |   -   |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   1/11  |  5 days ago  | 01/05/2023 |
+| [51678](https://myanimelist.net/anime/51678) |  tv  |  2023  |   -   |                                             Oniichan wa Oshimai!                                             |   1/12  |  6 days ago  | 01/05/2023 |
+| [48316](https://myanimelist.net/anime/48316) |  tv  |  2022  |   -   |                                     Kage no Jitsuryokusha ni Naritakute!                                     |  14/20  |   Last week  | 10/06/2022 |
 | [50205](https://myanimelist.net/anime/50205) |  tv  |  2022  |   -   |                                           Arknights: Reimei Zensou                                           |   3/8   |   Last week  | 11/06/2022 |
-| [41514](https://myanimelist.net/anime/41514) |  tv  |  2023  |   -   |                     Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                    |   0/12  |   Last week  | 01/05/2023 |
 
 
 *[6 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
@@ -25,11 +25,11 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [51403](https://myanimelist.net/anime/51403) |    tv   |  2022  |   4   |                                                Renai Flops                                                |   Yesterday   | 10/27/2022 |  01/10/2023 |
-| [16001](https://myanimelist.net/anime/16001) | special |  2012  |   7   |                                        Kokoro Connect: Michi Random                                       |   2 days ago  | 01/09/2023 |  01/09/2023 |
-| [11887](https://myanimelist.net/anime/11887) |    tv   |  2012  |   7   |                                               Kokoro Connect                                              |   2 days ago  | 01/07/2023 |  01/09/2023 |
+| [51403](https://myanimelist.net/anime/51403) |    tv   |  2022  |   4   |                                                Renai Flops                                                |   2 days ago  | 10/27/2022 |  01/10/2023 |
+| [16001](https://myanimelist.net/anime/16001) | special |  2012  |   7   |                                        Kokoro Connect: Michi Random                                       |   3 days ago  | 01/09/2023 |  01/09/2023 |
+| [11887](https://myanimelist.net/anime/11887) |    tv   |  2012  |   7   |                                               Kokoro Connect                                              |   3 days ago  | 01/07/2023 |  01/09/2023 |
 | [31043](https://myanimelist.net/anime/31043) |    tv   |  2016  |   9   |                                          Boku dake ga Inai Machi                                          |   Last week   | 01/02/2023 |  01/02/2023 |
-| [44511](https://myanimelist.net/anime/44511) |    tv   |  2022  |   7   |                                                Chainsaw Man                                               |   Last week   | 10/13/2022 |  12/29/2022 |
+| [44511](https://myanimelist.net/anime/44511) |    tv   |  2022  |   7   |                                                Chainsaw Man                                               |  2 weeks ago  | 10/13/2022 |  12/29/2022 |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  |   8   |                                              Bocchi the Rock!                                             |  2 weeks ago  | 12/20/2022 |  12/27/2022 |
 
 
@@ -41,8 +41,8 @@ List Sync From MyAnimeList (update every day)
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
 | [40776](https://myanimelist.net/anime/40776) |    tv   |  2020  |   -   |                            Haikyuu!! To the Top Part 2                            |   2/12  |  2 weeks ago  | 11/12/2022 |
 |  [5114](https://myanimelist.net/anime/5114)  |    tv   |  2009  |   -   |                          Fullmetal Alchemist: Brotherhood                         |  47/64  |  2 months ago | 10/07/2022 |
-| [52046](https://myanimelist.net/anime/52046) |    tv   |  2022  |   -   | Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau |   2/13  |   Last week   | 10/05/2022 |
-| [49891](https://myanimelist.net/anime/49891) |    tv   |  2022  |   -   |                             Tensei shitara Ken deshita                            |   3/12  |   Last week   | 09/30/2022 |
+| [52046](https://myanimelist.net/anime/52046) |    tv   |  2022  |   -   | Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau |   2/13  |  2 weeks ago  | 10/05/2022 |
+| [49891](https://myanimelist.net/anime/49891) |    tv   |  2022  |   -   |                             Tensei shitara Ken deshita                            |   3/12  |  2 weeks ago  | 09/30/2022 |
 | [48413](https://myanimelist.net/anime/48413) |    tv   |  2022  |   -   |                                Hataraku Maou-sama!!                               |   7/12  |  2 months ago | 07/15/2022 |
 | [42994](https://myanimelist.net/anime/42994) |    tv   |  2022  |   -   |                               Jashin-chan Dropkick X                              |   8/12  |  2 months ago | 07/15/2022 |
 
@@ -67,12 +67,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [48418](https://myanimelist.net/anime/48418) |    tv   |    -   |  light_novel | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 |   3 days ago  |        -        |
+| [50384](https://myanimelist.net/anime/50384) |    tv   |  2023  |     manga    |                                                     Mononogatari                                                    |  11 hours ago |        -        |
+| [48418](https://myanimelist.net/anime/48418) |    tv   |    -   |  light_novel | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 |   4 days ago  |        -        |
 | [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |     manga    |                                         Ijiranaide, Nagatoro-san 2nd Attack                                         |   Last week   |    01/08/2023   |
 | [22789](https://myanimelist.net/anime/22789) |    tv   |  2014  |   web_manga  |                                                      Barakamon                                                      |  2 weeks ago  |        -        |
 | [53924](https://myanimelist.net/anime/53924) | unknown |    -   |     manga    |                                    Jibaku Shounen Hanako-kun (Anime Shin Project)                                   |  2 weeks ago  |        -        |
 | [53913](https://myanimelist.net/anime/53913) |    tv   |    -   |  light_novel |                                             Tensei shitara Ken deshita 2                                            |  2 weeks ago  |        -        |
-| [18679](https://myanimelist.net/anime/18679) |    tv   |  2013  |   original   |                                                     Kill la Kill                                                    |  3 weeks ago  |        -        |
 
 
 *[203 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
