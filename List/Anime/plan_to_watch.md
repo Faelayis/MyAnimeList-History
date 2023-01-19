@@ -1,9 +1,10 @@
-# Plan to Watch (209)
+# Plan to Watch (210)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [53179](https://myanimelist.net/anime/53179) |    tv   |  2023  |   original   |                                                    Ars no Kyojuu                                                    |   2 days ago  |        -        |
-| [50384](https://myanimelist.net/anime/50384) |    tv   |  2023  |     manga    |                                                     Mononogatari                                                    |   6 days ago  |        -        |
+| [54250](https://myanimelist.net/anime/54250) | unknown |    -   |   web_manga  |                                  Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen)                                  |  9 hours ago  |        -        |
+| [53179](https://myanimelist.net/anime/53179) |    tv   |  2023  |   original   |                                                    Ars no Kyojuu                                                    |   3 days ago  |        -        |
+| [50384](https://myanimelist.net/anime/50384) |    tv   |  2023  |     manga    |                                                     Mononogatari                                                    |   Last week   |        -        |
 | [48418](https://myanimelist.net/anime/48418) |    tv   |    -   |  light_novel | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 |   Last week   |        -        |
 | [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |     manga    |                                         Ijiranaide, Nagatoro-san 2nd Attack                                         |  2 weeks ago  |    01/08/2023   |
 | [22789](https://myanimelist.net/anime/22789) |    tv   |  2014  |   web_manga  |                                                      Barakamon                                                      |  3 weeks ago  |        -        |
@@ -50,7 +51,7 @@
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                                  Summertime Render                                                  |  5 months ago |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                   |  6 months ago |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                |  6 months ago |        -        |
-| [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho                               |  6 months ago |        -        |
+| [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho                               |  7 months ago |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                   |  7 months ago |        -        |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |  2023  |  light_novel |                                         Kono Subarashii Sekai ni Bakuen wo!                                         |  7 months ago |        -        |
 | [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                    Date A Live V                                                    |  7 months ago |        -        |
