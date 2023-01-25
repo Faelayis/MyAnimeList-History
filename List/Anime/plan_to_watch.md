@@ -1,8 +1,9 @@
-# Plan to Watch (210)
+# Plan to Watch (211)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [54250](https://myanimelist.net/anime/54250) | unknown |    -   |   web_manga  |                                  Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen)                                  |   5 days ago  |        -        |
+| [37447](https://myanimelist.net/anime/37447) |    tv   |  2018  |     manga    |                                                   Karakuri Circus                                                   |  10 hours ago |        -        |
+| [54250](https://myanimelist.net/anime/54250) | unknown |    -   |   web_manga  |                                  Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen)                                  |   6 days ago  |        -        |
 | [53179](https://myanimelist.net/anime/53179) |    tv   |  2023  |   original   |                                                    Ars no Kyojuu                                                    |   Last week   |        -        |
 | [50384](https://myanimelist.net/anime/50384) |    tv   |  2023  |     manga    |                                                     Mononogatari                                                    |   Last week   |        -        |
 | [48418](https://myanimelist.net/anime/48418) |    tv   |    -   |  light_novel | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 |  2 weeks ago  |        -        |
@@ -77,7 +78,7 @@
 | [40870](https://myanimelist.net/anime/40870) |    tv   |  2021  |   original   |                                                    SSSS.Dynazenon                                                   | 10 months ago |        -        |
 | [51498](https://myanimelist.net/anime/51498) |    tv   |  2023  |     manga    |                                              Masamune-kun no Revenge R                                              | 10 months ago |        -        |
 | [36296](https://myanimelist.net/anime/36296) |    tv   |  2018  |     manga    |                                                   Hinamatsuri (TV)                                                  | 10 months ago |        -        |
-|  [9617](https://myanimelist.net/anime/9617)  |  movie  |  2011  | 4_koma_manga |                                                     K-On! Movie                                                     | 10 months ago |        -        |
+|  [9617](https://myanimelist.net/anime/9617)  |  movie  |  2011  | 4_koma_manga |                                                     K-On! Movie                                                     | 11 months ago |        -        |
 | [21511](https://myanimelist.net/anime/21511) |    tv   |  2015  |     game     |                                             Kantai Collection: KanColle                                             | 11 months ago |        -        |
 | [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |     manga    |                                                 Mahoutsukai no Yome                                                 | 11 months ago |        -        |
 | [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |     manga    |             Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu            | 11 months ago |        -        |
