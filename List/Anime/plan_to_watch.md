@@ -1,8 +1,10 @@
-# Plan to Watch (211)
+# Plan to Watch (212)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [37447](https://myanimelist.net/anime/37447) |    tv   |  2018  |     manga    |                                                   Karakuri Circus                                                   |   Yesterday   |        -        |
+| [37992](https://myanimelist.net/anime/37992) |    tv   |  2018  | 4_koma_manga |                                                  Jingai-san no Yome                                                 |  23 hours ago |        -        |
+| [37525](https://myanimelist.net/anime/37525) |    tv   |  2019  |     novel    |                                                       Babylon                                                       |  23 hours ago |        -        |
+| [37447](https://myanimelist.net/anime/37447) |    tv   |  2018  |     manga    |                                                   Karakuri Circus                                                   |   2 days ago  |        -        |
 | [54250](https://myanimelist.net/anime/54250) | unknown |    -   |   web_manga  |                                  Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen)                                  |   Last week   |        -        |
 | [53179](https://myanimelist.net/anime/53179) |    tv   |  2023  |   original   |                                                    Ars no Kyojuu                                                    |   Last week   |        -        |
 | [50384](https://myanimelist.net/anime/50384) |    tv   |  2023  |     manga    |                                                     Mononogatari                                                    |  2 weeks ago  |        -        |
@@ -69,8 +71,8 @@
 |  [7592](https://myanimelist.net/anime/7592)  |    tv   |  2010  |     manga    |                                                  Nurarihyon no Mago                                                 |  9 months ago |        -        |
 | [27831](https://myanimelist.net/anime/27831) |    tv   |  2015  |  light_novel |                                                   Durarara!!x2 Ten                                                  |  9 months ago |        -        |
 | [23199](https://myanimelist.net/anime/23199) |    tv   |  2015  |  light_novel |                                                  Durarara!!x2 Shou                                                  |  9 months ago |        -        |
-| [10378](https://myanimelist.net/anime/10378) |    tv   |  2011  |     manga    |                                                Shinryaku!? Ika Musume                                               |  9 months ago |        -        |
-|  [8557](https://myanimelist.net/anime/8557)  |    tv   |  2010  |     manga    |                                                Shinryaku! Ika Musume                                                |  9 months ago |        -        |
+| [10378](https://myanimelist.net/anime/10378) |    tv   |  2011  |     manga    |                                                Shinryaku!? Ika Musume                                               | 10 months ago |        -        |
+|  [8557](https://myanimelist.net/anime/8557)  |    tv   |  2010  |     manga    |                                                Shinryaku! Ika Musume                                                | 10 months ago |        -        |
 | [49785](https://myanimelist.net/anime/49785) |    tv   |    -   |     manga    |                                             Fairy Tail: 100 Years Quest                                             | 10 months ago |        -        |
 | [50330](https://myanimelist.net/anime/50330) |    tv   |  2023  |     manga    |                                             Bungou Stray Dogs 4th Season                                            | 10 months ago |        -        |
 | [47160](https://myanimelist.net/anime/47160) |    tv   |    -   |  light_novel |                                               Goblin Slayer 2nd Season                                              | 10 months ago |        -        |
@@ -127,7 +129,6 @@
 | [39326](https://myanimelist.net/anime/39326) |    tv   |  2019  |  light_novel |                                  Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?                                 |   11/03/2021  |        -        |
 | [49458](https://myanimelist.net/anime/49458) |    tv   |    -   |  light_novel |                                       Kono Subarashii Sekai ni Shukufuku wo! 3                                      |   11/03/2021  |        -        |
 | [14669](https://myanimelist.net/anime/14669) |  movie  |  2013  |  light_novel |                                        Aura: Maryuuin Kouga Saigo no Tatakai                                        |   10/23/2021  |        -        |
-| [49618](https://myanimelist.net/anime/49618) |   ona   |  2023  |     manga    |                                               Shuumatsu no Walküre II                                               |   10/20/2021  |        -        |
 | [38328](https://myanimelist.net/anime/38328) |    tv   |  2019  |     game     |                                                      Azur Lane                                                      |   10/19/2021  |        -        |
 | [46352](https://myanimelist.net/anime/46352) |    tv   |  2021  |     manga    |                                                     Blue Period                                                     |   09/28/2021  |        -        |
 | [49303](https://myanimelist.net/anime/49303) |  movie  |    -   |   original   |                                         Alice to Therese no Maboroshi Koujou                                        |   09/27/2021  |        -        |
