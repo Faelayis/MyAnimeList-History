@@ -1,10 +1,11 @@
-# Plan to Watch (212)
+# Plan to Watch (213)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [37992](https://myanimelist.net/anime/37992) |    tv   |  2018  | 4_koma_manga |                                                  Jingai-san no Yome                                                 |  23 hours ago |        -        |
-| [37525](https://myanimelist.net/anime/37525) |    tv   |  2019  |     novel    |                                                       Babylon                                                       |  23 hours ago |        -        |
-| [37447](https://myanimelist.net/anime/37447) |    tv   |  2018  |     manga    |                                                   Karakuri Circus                                                   |   2 days ago  |        -        |
+| [17247](https://myanimelist.net/anime/17247) |    tv   |  2013  |  light_novel |                                             Machine-Doll wa Kizutsukanai                                            |  13 hours ago |        -        |
+| [37992](https://myanimelist.net/anime/37992) |    tv   |  2018  | 4_koma_manga |                                                  Jingai-san no Yome                                                 |   Yesterday   |        -        |
+| [37525](https://myanimelist.net/anime/37525) |    tv   |  2019  |     novel    |                                                       Babylon                                                       |   Yesterday   |        -        |
+| [37447](https://myanimelist.net/anime/37447) |    tv   |  2018  |     manga    |                                                   Karakuri Circus                                                   |   3 days ago  |        -        |
 | [54250](https://myanimelist.net/anime/54250) | unknown |    -   |   web_manga  |                                  Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen)                                  |   Last week   |        -        |
 | [53179](https://myanimelist.net/anime/53179) |    tv   |  2023  |   original   |                                                    Ars no Kyojuu                                                    |   Last week   |        -        |
 | [50384](https://myanimelist.net/anime/50384) |    tv   |  2023  |     manga    |                                                     Mononogatari                                                    |  2 weeks ago  |        -        |
@@ -49,7 +50,7 @@
 | [50338](https://myanimelist.net/anime/50338) |    tv   |  2022  |     manga    |                                           Kunoichi Tsubaki no Mune no Uchi                                          |  5 months ago |        -        |
 | [49782](https://myanimelist.net/anime/49782) |    tv   |  2022  |     manga    |                                               Shadows House 2nd Season                                              |  5 months ago |        -        |
 | [49387](https://myanimelist.net/anime/49387) |    tv   |  2023  |     manga    |                                                Vinland Saga Season 2                                                |  5 months ago |        -        |
-| [52657](https://myanimelist.net/anime/52657) |    tv   |  2023  |   web_manga  |                                         Ousama Ranking: Yuuki no Takarabako                                         |  5 months ago |        -        |
+| [52657](https://myanimelist.net/anime/52657) |    tv   |  2023  |   web_manga  |                                         Ousama Ranking: Yuuki no Takarabako                                         |  6 months ago |        -        |
 | [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                    Fate/Apocrypha                                                   |  6 months ago |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                                  Summertime Render                                                  |  6 months ago |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                   |  6 months ago |        -        |
@@ -90,7 +91,7 @@
 | [16353](https://myanimelist.net/anime/16353) |    tv   |  2013  |     manga    |                                                       Love Lab                                                      | 11 months ago |        -        |
 | [49040](https://myanimelist.net/anime/49040) |    tv   |  2021  |     manga    |                                                  Lupin III: Part 6                                                  | 11 months ago |        -        |
 |  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  | visual_novel |                                                      Amagami SS                                                     | 11 months ago |        -        |
-|  [5356](https://myanimelist.net/anime/5356)  |    tv   |  2009  | visual_novel |                                                        Canaan                                                       | 11 months ago |        -        |
+|  [5356](https://myanimelist.net/anime/5356)  |    tv   |  2009  | visual_novel |                                                        Canaan                                                       |   02/25/2022  |        -        |
 | [34176](https://myanimelist.net/anime/34176) |    tv   |  2017  |  light_novel |                                           Zero kara Hajimeru Mahou no Sho                                           |   02/21/2022  |        -        |
 | [14753](https://myanimelist.net/anime/14753) |   ova   |  2012  |   web_manga  |                                               Hori-san to Miyamura-kun                                              |   02/04/2022  |        -        |
 | [34392](https://myanimelist.net/anime/34392) |    tv   |  2017  |   original   |                                                       One Room                                                      |   02/04/2022  |        -        |
