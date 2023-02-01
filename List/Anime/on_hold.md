@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                       Title                                       | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |   -   |                                 Amaama to Inazuma                                 |   3/12  |  10 hours ago | 01/12/2023 |
+| [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |   -   |                                 Amaama to Inazuma                                 |   3/12  |   Yesterday   | 01/12/2023 |
 |  [5114](https://myanimelist.net/anime/5114)  |    tv   |  2009  |   -   |                          Fullmetal Alchemist: Brotherhood                         |  47/64  |  3 months ago | 10/07/2022 |
 | [52046](https://myanimelist.net/anime/52046) |    tv   |  2022  |   -   | Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau |   2/13  |   Last month  | 10/05/2022 |
 | [49891](https://myanimelist.net/anime/49891) |    tv   |  2022  |   -   |                             Tensei shitara Ken deshita                            |   3/12  |   Last month  | 09/30/2022 |
