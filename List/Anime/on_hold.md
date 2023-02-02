@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                       Title                                       | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |   -   |                                 Amaama to Inazuma                                 |   3/12  |   Yesterday   | 01/12/2023 |
+| [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |   -   |                                 Amaama to Inazuma                                 |   3/12  |   2 days ago  | 01/12/2023 |
 |  [5114](https://myanimelist.net/anime/5114)  |    tv   |  2009  |   -   |                          Fullmetal Alchemist: Brotherhood                         |  47/64  |  3 months ago | 10/07/2022 |
 | [52046](https://myanimelist.net/anime/52046) |    tv   |  2022  |   -   | Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau |   2/13  |   Last month  | 10/05/2022 |
 | [49891](https://myanimelist.net/anime/49891) |    tv   |  2022  |   -   |                             Tensei shitara Ken deshita                            |   3/12  |   Last month  | 09/30/2022 |
@@ -11,7 +11,7 @@
 | [49220](https://myanimelist.net/anime/49220) |    tv   |  2022  |   -   |                                   Isekai Ojisan                                   |   4/13  |  4 months ago | 07/08/2022 |
 | [51096](https://myanimelist.net/anime/51096) |    tv   |  2022  |   -   |             Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season            |   1/13  |  5 months ago | 07/05/2022 |
 | [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |   -   |                                     Yuru Yuri                                     |   3/12  |  5 months ago | 06/30/2022 |
-| [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                                     Fate/Zero                                     |   2/13  |  9 months ago | 04/26/2022 |
+| [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                                     Fate/Zero                                     |   2/13  | 10 months ago | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                               Madan no Ou to Vanadis                              |   6/13  | 10 months ago | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                                  Machikado Mazoku                                 |   3/12  |  3 months ago | 04/19/2022 |
 | [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |                          Kawaii dake ja Nai Shikimori-san                         |   5/12  |  6 months ago | 04/10/2022 |

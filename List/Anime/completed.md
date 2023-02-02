@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [40776](https://myanimelist.net/anime/40776) |    tv   |  2020  |   7   |                                        Haikyuu!! To the Top Part 2                                        |   Yesterday   | 11/12/2022 |  01/31/2023 |
+| [40776](https://myanimelist.net/anime/40776) |    tv   |  2020  |   7   |                                        Haikyuu!! To the Top Part 2                                        |   2 days ago  | 11/12/2022 |  01/31/2023 |
 | [10020](https://myanimelist.net/anime/10020) |   ona   |  2011  |   6   |                            Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials                           |  2 weeks ago  | 01/17/2023 |  01/17/2023 |
 | [13659](https://myanimelist.net/anime/13659) |    tv   |  2013  |   7   |                                Ore no Imouto ga Konnani Kawaii Wake ga Nai.                               |  2 weeks ago  | 01/17/2023 |  01/17/2023 |
 | [18857](https://myanimelist.net/anime/18857) |   ona   |  2013  |   6   |                           Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials                           |  2 weeks ago  | 01/17/2023 |  01/17/2023 |
@@ -94,9 +94,9 @@
 | [39597](https://myanimelist.net/anime/39597) |    tv   |  2019  |   7   |                             Sword Art Online: Alicization - War of Underworld                             | 11 months ago | 03/16/2022 |  03/17/2022 |
 | [41120](https://myanimelist.net/anime/41120) |    tv   |  2020  |   8   |                                       Fugou Keiji: Balance:Unlimited                                      | 11 months ago | 03/13/2022 |  03/13/2022 |
 | [41694](https://myanimelist.net/anime/41694) |    tv   |  2021  |   8   |                                           Hataraku Saibou Black                                           | 11 months ago | 03/08/2022 |  03/11/2022 |
-| [40416](https://myanimelist.net/anime/40416) |  movie  |  2020  |   9   |                                       Date A Bullet: Dead or Bullet                                       | 11 months ago | 03/03/2022 |  03/03/2022 |
+| [40416](https://myanimelist.net/anime/40416) |  movie  |  2020  |   9   |                                       Date A Bullet: Dead or Bullet                                       |   Last year   | 03/03/2022 |  03/03/2022 |
 | [42423](https://myanimelist.net/anime/42423) |  movie  |  2020  |   10  |                                     Date A Bullet: Nightmare or Queen                                     | 10 months ago | 03/03/2022 |  03/03/2022 |
-| [24655](https://myanimelist.net/anime/24655) |  movie  |  2015  |   6   |                                     Date A Live Movie: Mayuri Judgment                                    | 11 months ago | 03/03/2022 |  03/03/2022 |
+| [24655](https://myanimelist.net/anime/24655) |  movie  |  2015  |   6   |                                     Date A Live Movie: Mayuri Judgment                                    |   Last year   | 03/03/2022 |  03/03/2022 |
 | [35237](https://myanimelist.net/anime/35237) |   ova   |  2017  |   6   |                                   Hajimete no Gal: Hajimete no Bunkasai                                   |   Last year   | 03/02/2022 |  03/02/2022 |
 | [44200](https://myanimelist.net/anime/44200) |  movie  |  2021  |   10  |                          Boku no Hero Academia the Movie 3: World Heroes' Mission                         |   Last year   | 03/01/2022 |  03/01/2022 |
 | [42603](https://myanimelist.net/anime/42603) |   ona   |  2020  |   7   |                        Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren                        |   Last year   | 03/01/2022 |  03/01/2022 |
