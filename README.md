@@ -6,17 +6,17 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                                     Title                                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51678](https://myanimelist.net/anime/51678) |  tv  |  2023  |   9   |                                             Oniichan wa Oshimai!                                             |   6/12  | 11 hours ago | 01/05/2023 |
-| [53111](https://myanimelist.net/anime/53111) |  tv  |  2023  |   9   |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   6/11  | 11 hours ago | 01/05/2023 |
-| [41514](https://myanimelist.net/anime/41514) |  tv  |  2023  |   6   |                     Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                    |   5/12  |   Yesterday  | 01/12/2023 |
-| [51815](https://myanimelist.net/anime/51815) |  tv  |  2023  |   -   |                                         Kubo-san wa Mob wo Yurusanai                                         |   5/12  |   Yesterday  | 01/11/2023 |
-| [49612](https://myanimelist.net/anime/49612) |  tv  |  2023  |   -   |                          Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu                         |   6/12  |   Yesterday  | 01/04/2023 |
-| [52305](https://myanimelist.net/anime/52305) |  tv  |  2023  |   -   |                                            Tomo-chan wa Onnanoko!                                            |   6/13  |   Yesterday  | 01/16/2023 |
-| [50739](https://myanimelist.net/anime/50739) |  tv  |  2023  |   8   |                      Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                     |   5/12  |  4 days ago  | 01/16/2023 |
-| [50608](https://myanimelist.net/anime/50608) |  tv  |  2023  |   8   |                                       Tokyo Revengers: Seiya Kessen-hen                                      |   5/13  |  4 days ago  | 01/08/2023 |
+| [48316](https://myanimelist.net/anime/48316) |  tv  |  2022  |   8   |                                     Kage no Jitsuryokusha ni Naritakute!                                     |  19/20  | 11 hours ago | 10/06/2022 |
+| [51678](https://myanimelist.net/anime/51678) |  tv  |  2023  |   9   |                                             Oniichan wa Oshimai!                                             |   6/12  |   Yesterday  | 01/05/2023 |
+| [53111](https://myanimelist.net/anime/53111) |  tv  |  2023  |   9   |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   6/11  |   Yesterday  | 01/05/2023 |
+| [41514](https://myanimelist.net/anime/41514) |  tv  |  2023  |   6   |                     Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                    |   5/12  |  2 days ago  | 01/12/2023 |
+| [51815](https://myanimelist.net/anime/51815) |  tv  |  2023  |   -   |                                         Kubo-san wa Mob wo Yurusanai                                         |   5/12  |  2 days ago  | 01/11/2023 |
+| [49612](https://myanimelist.net/anime/49612) |  tv  |  2023  |   -   |                          Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu                         |   6/12  |  2 days ago  | 01/04/2023 |
+| [52305](https://myanimelist.net/anime/52305) |  tv  |  2023  |   -   |                                            Tomo-chan wa Onnanoko!                                            |   6/13  |  2 days ago  | 01/16/2023 |
+| [50739](https://myanimelist.net/anime/50739) |  tv  |  2023  |   8   |                      Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                     |   5/12  |  5 days ago  | 01/16/2023 |
+| [50608](https://myanimelist.net/anime/50608) |  tv  |  2023  |   8   |                                       Tokyo Revengers: Seiya Kessen-hen                                      |   5/13  |  5 days ago  | 01/08/2023 |
 | [49784](https://myanimelist.net/anime/49784) |  tv  |  2022  |   -   |                                      Mairimashita! Iruma-kun 3rd Season                                      |  16/21  |   Last week  | 10/09/2022 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                   One Piece                                                  |  1049/? |   Last week  | 01/01/2013 |
-| [48417](https://myanimelist.net/anime/48417) |  tv  |  2023  |   -   | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II |   3/?   |   Last week  | 01/08/2023 |
 
 
 *[8 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
@@ -51,14 +51,14 @@ List Sync From MyAnimeList (update every day)
 
 #### Dropped ``4.35%``
 
-|                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-|   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                           Higurashi no Naku Koro ni                          |  10/26  |  Last month  | 12/23/2022 |
-| [51464](https://myanimelist.net/anime/51464) |  tv  |  2022  |   -   |                        4-nin wa Sorezore Uso wo Tsuku                        |   1/11  | 4 months ago | 10/16/2022 |
-| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   5   |                                  Engage Kiss                                 |   8/13  | 4 months ago | 07/03/2022 |
-| [34543](https://myanimelist.net/anime/34543) |  tv  |  2017  |   2   |                                    Dive!!                                    |   6/12  | 9 months ago | 05/03/2022 |
-| [48760](https://myanimelist.net/anime/48760) |  tv  |  2022  |   3   |               Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu              |   1/12  | 9 months ago | 04/12/2022 |
-| [48415](https://myanimelist.net/anime/48415) |  tv  |  2022  |   4   |             Shijou Saikyou no Daimaou, Murabito A ni Tensei suru             |   6/12  | 8 months ago | 04/08/2022 |
+|                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated    | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
+|   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                           Higurashi no Naku Koro ni                          |  10/26  |   Last month  | 12/23/2022 |
+| [51464](https://myanimelist.net/anime/51464) |  tv  |  2022  |   -   |                        4-nin wa Sorezore Uso wo Tsuku                        |   1/11  |  4 months ago | 10/16/2022 |
+| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   5   |                                  Engage Kiss                                 |   8/13  |  4 months ago | 07/03/2022 |
+| [34543](https://myanimelist.net/anime/34543) |  tv  |  2017  |   2   |                                    Dive!!                                    |   6/12  | 10 months ago | 05/03/2022 |
+| [48760](https://myanimelist.net/anime/48760) |  tv  |  2022  |   3   |               Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu              |   1/12  | 10 months ago | 04/12/2022 |
+| [48415](https://myanimelist.net/anime/48415) |  tv  |  2022  |   4   |             Shijou Saikyou no Daimaou, Murabito A ni Tensei suru             |   6/12  |  8 months ago | 04/08/2022 |
 
 
 *[24 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
@@ -67,9 +67,9 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [51064](https://myanimelist.net/anime/51064) |    tv   |  2022  |  light_novel |                                                  Kuro no Shoukanshi                                                 |   2 days ago  |        -        |
+| [51064](https://myanimelist.net/anime/51064) |    tv   |  2022  |  light_novel |                                                  Kuro no Shoukanshi                                                 |   3 days ago  |        -        |
 | [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |  light_novel |                                             Mahou Shoujo Ikusei Keikaku                                             |   Last week   |        -        |
-| [17247](https://myanimelist.net/anime/17247) |    tv   |  2013  |  light_novel |                                             Machine-Doll wa Kizutsukanai                                            |   Last week   |        -        |
+| [17247](https://myanimelist.net/anime/17247) |    tv   |  2013  |  light_novel |                                             Machine-Doll wa Kizutsukanai                                            |  2 weeks ago  |        -        |
 | [37525](https://myanimelist.net/anime/37525) |    tv   |  2019  |     novel    |                                                       Babylon                                                       |  2 weeks ago  |        -        |
 | [37447](https://myanimelist.net/anime/37447) |    tv   |  2018  |     manga    |                                                   Karakuri Circus                                                   |  2 weeks ago  |        -        |
 | [54250](https://myanimelist.net/anime/54250) | unknown |    -   |   web_manga  |                                  Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen)                                  |  3 weeks ago  |        -        |

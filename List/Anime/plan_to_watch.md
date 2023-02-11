@@ -2,9 +2,9 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [51064](https://myanimelist.net/anime/51064) |    tv   |  2022  |  light_novel |                                                  Kuro no Shoukanshi                                                 |   2 days ago  |        -        |
+| [51064](https://myanimelist.net/anime/51064) |    tv   |  2022  |  light_novel |                                                  Kuro no Shoukanshi                                                 |   3 days ago  |        -        |
 | [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |  light_novel |                                             Mahou Shoujo Ikusei Keikaku                                             |   Last week   |        -        |
-| [17247](https://myanimelist.net/anime/17247) |    tv   |  2013  |  light_novel |                                             Machine-Doll wa Kizutsukanai                                            |   Last week   |        -        |
+| [17247](https://myanimelist.net/anime/17247) |    tv   |  2013  |  light_novel |                                             Machine-Doll wa Kizutsukanai                                            |  2 weeks ago  |        -        |
 | [37525](https://myanimelist.net/anime/37525) |    tv   |  2019  |     novel    |                                                       Babylon                                                       |  2 weeks ago  |        -        |
 | [37447](https://myanimelist.net/anime/37447) |    tv   |  2018  |     manga    |                                                   Karakuri Circus                                                   |  2 weeks ago  |        -        |
 | [54250](https://myanimelist.net/anime/54250) | unknown |    -   |   web_manga  |                                  Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen)                                  |  3 weeks ago  |        -        |
