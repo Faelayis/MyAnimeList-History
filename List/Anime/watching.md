@@ -1,16 +1,15 @@
-# Watching (19)
+# Watching (18)
 
 |                      id                      | Type | Season | Score |                                                     Title                                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51815](https://myanimelist.net/anime/51815) |  tv  |  2023  |   -   |                                         Kubo-san wa Mob wo Yurusanai                                         |   6/12  |  8 hours ago | 01/11/2023 |
-| [49612](https://myanimelist.net/anime/49612) |  tv  |  2023  |   -   |                          Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu                         |   7/12  |  9 hours ago | 01/04/2023 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                   One Piece                                                  |  1051/? |  9 hours ago | 01/01/2013 |
-| [50739](https://myanimelist.net/anime/50739) |  tv  |  2023  |   9   |                      Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                     |   6/12  |  3 days ago  | 01/16/2023 |
-| [48316](https://myanimelist.net/anime/48316) |  tv  |  2022  |   8   |                                     Kage no Jitsuryokusha ni Naritakute!                                     |  19/20  |  4 days ago  | 10/06/2022 |
-| [51678](https://myanimelist.net/anime/51678) |  tv  |  2023  |   9   |                                             Oniichan wa Oshimai!                                             |   6/12  |  5 days ago  | 01/05/2023 |
-| [53111](https://myanimelist.net/anime/53111) |  tv  |  2023  |   9   |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   6/11  |  5 days ago  | 01/05/2023 |
-| [41514](https://myanimelist.net/anime/41514) |  tv  |  2023  |   6   |                     Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                    |   5/12  |  6 days ago  | 01/12/2023 |
-| [52305](https://myanimelist.net/anime/52305) |  tv  |  2023  |   -   |                                            Tomo-chan wa Onnanoko!                                            |   6/13  |  6 days ago  | 01/16/2023 |
+| [41514](https://myanimelist.net/anime/41514) |  tv  |  2023  |   6   |                     Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                    |   6/12  | 13 hours ago | 01/12/2023 |
+| [52305](https://myanimelist.net/anime/52305) |  tv  |  2023  |   -   |                                            Tomo-chan wa Onnanoko!                                            |   7/13  | 13 hours ago | 01/16/2023 |
+| [51815](https://myanimelist.net/anime/51815) |  tv  |  2023  |   -   |                                         Kubo-san wa Mob wo Yurusanai                                         |   6/12  |   Yesterday  | 01/11/2023 |
+| [49612](https://myanimelist.net/anime/49612) |  tv  |  2023  |   -   |                          Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu                         |   7/12  |   Yesterday  | 01/04/2023 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                   One Piece                                                  |  1051/? |   Yesterday  | 01/01/2013 |
+| [50739](https://myanimelist.net/anime/50739) |  tv  |  2023  |   9   |                      Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                     |   6/12  |  4 days ago  | 01/16/2023 |
+| [51678](https://myanimelist.net/anime/51678) |  tv  |  2023  |   9   |                                             Oniichan wa Oshimai!                                             |   6/12  |  6 days ago  | 01/05/2023 |
+| [53111](https://myanimelist.net/anime/53111) |  tv  |  2023  |   9   |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   6/11  |  6 days ago  | 01/05/2023 |
 | [50608](https://myanimelist.net/anime/50608) |  tv  |  2023  |   8   |                                       Tokyo Revengers: Seiya Kessen-hen                                      |   5/13  |   Last week  | 01/08/2023 |
 | [49784](https://myanimelist.net/anime/49784) |  tv  |  2022  |   -   |                                      Mairimashita! Iruma-kun 3rd Season                                      |  16/21  |  2 weeks ago | 10/09/2022 |
 | [48417](https://myanimelist.net/anime/48417) |  tv  |  2023  |   -   | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II |   3/?   |  2 weeks ago | 01/08/2023 |
@@ -20,4 +19,4 @@
 | [50205](https://myanimelist.net/anime/50205) |  tv  |  2022  |   -   |                                           Arknights: Reimei Zensou                                           |   3/8   |  Last month  | 11/06/2022 |
 | [50710](https://myanimelist.net/anime/50710) |  tv  |  2022  |   7   |                                             Urusei Yatsura (2022)                                            |   9/23  | 2 months ago | 10/14/2022 |
 | [49596](https://myanimelist.net/anime/49596) |  tv  |  2022  |   -   |                                                   Blue Lock                                                  |   8/24  | 2 months ago | 10/16/2022 |
-| [50404](https://myanimelist.net/anime/50404) |  ona |  2022  |   -   |                                        Xian Wang de Richang Shenghuo 3                                       |   5/12  | 3 months ago | 10/03/2022 |
+| [50404](https://myanimelist.net/anime/50404) |  ona |  2022  |   -   |                                        Xian Wang de Richang Shenghuo 3                                       |   5/12  | 4 months ago | 10/03/2022 |
