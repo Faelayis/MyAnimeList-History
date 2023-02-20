@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [36316](https://myanimelist.net/anime/36316) |    tv   |  2018  |  light_novel |                                                 Shichisei no Subaru                                                 |   5 days ago  |        -        |
+| [36316](https://myanimelist.net/anime/36316) |    tv   |  2018  |  light_novel |                                                 Shichisei no Subaru                                                 |   6 days ago  |        -        |
 | [51064](https://myanimelist.net/anime/51064) |    tv   |  2022  |  light_novel |                                                  Kuro no Shoukanshi                                                 |   Last week   |        -        |
 | [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |  light_novel |                                             Mahou Shoujo Ikusei Keikaku                                             |  2 weeks ago  |        -        |
 | [17247](https://myanimelist.net/anime/17247) |    tv   |  2013  |  light_novel |                                             Machine-Doll wa Kizutsukanai                                            |  3 weeks ago  |        -        |
@@ -56,7 +56,7 @@
 | [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                    Fate/Apocrypha                                                   |  6 months ago |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                                  Summertime Render                                                  |  7 months ago |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                   |  7 months ago |        -        |
-| [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                |  7 months ago |        -        |
+| [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                |  8 months ago |        -        |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho                               |  8 months ago |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                   |  8 months ago |        -        |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |  2023  |  light_novel |                                         Kono Subarashii Sekai ni Bakuen wo!                                         |  8 months ago |        -        |

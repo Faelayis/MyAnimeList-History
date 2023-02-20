@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [48316](https://myanimelist.net/anime/48316) |    tv   |  2022  |   8   |                                    Kage no Jitsuryokusha ni Naritakute!                                   |   3 days ago  | 10/06/2022 |  02/16/2023 |
+| [48316](https://myanimelist.net/anime/48316) |    tv   |  2022  |   8   |                                    Kage no Jitsuryokusha ni Naritakute!                                   |   4 days ago  | 10/06/2022 |  02/16/2023 |
 | [40776](https://myanimelist.net/anime/40776) |    tv   |  2020  |   7   |                                        Haikyuu!! To the Top Part 2                                        |  2 weeks ago  | 11/12/2022 |  01/31/2023 |
 | [10020](https://myanimelist.net/anime/10020) |   ona   |  2011  |   6   |                            Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials                           |   Last month  | 01/17/2023 |  01/17/2023 |
 | [13659](https://myanimelist.net/anime/13659) |    tv   |  2013  |   7   |                                Ore no Imouto ga Konnani Kawaii Wake ga Nai.                               |   Last month  | 01/17/2023 |  01/17/2023 |
@@ -21,7 +21,7 @@
 | [31757](https://myanimelist.net/anime/31757) |  movie  |  2016  |   6   |                                      Kizumonogatari II: Nekketsu-hen                                      |  2 months ago | 12/09/2022 |  12/09/2022 |
 | [31758](https://myanimelist.net/anime/31758) |  movie  |  2017  |   9   |                                      Kizumonogatari III: Reiketsu-hen                                     |  2 months ago | 12/09/2022 |  12/09/2022 |
 |  [9260](https://myanimelist.net/anime/9260)  |  movie  |  2016  |   7   |                                       Kizumonogatari I: Tekketsu-hen                                      |  2 months ago | 11/26/2022 |  12/09/2022 |
-| [42916](https://myanimelist.net/anime/42916) |  movie  |  2021  |   5   |                       Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria                       |  2 months ago | 11/28/2022 |  11/28/2022 |
+| [42916](https://myanimelist.net/anime/42916) |  movie  |  2021  |   5   |                       Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria                       |  3 months ago | 11/28/2022 |  11/28/2022 |
 | [32268](https://myanimelist.net/anime/32268) |   ona   |  2016  |   5   |                                              Koyomimonogatari                                             |  3 months ago | 11/26/2022 |  11/26/2022 |
 | [31181](https://myanimelist.net/anime/31181) |    tv   |  2015  |   6   |                                              Owarimonogatari                                              |  3 months ago | 11/26/2022 |  11/26/2022 |
 | [21855](https://myanimelist.net/anime/21855) |    tv   |  2014  |   4   |                                               Hanamonogatari                                              |  3 months ago | 11/24/2022 |  11/24/2022 |
@@ -31,7 +31,7 @@
 |  [5081](https://myanimelist.net/anime/5081)  |    tv   |  2009  |   7   |                                               Bakemonogatari                                              |  3 months ago | 11/18/2022 |  11/19/2022 |
 | [38883](https://myanimelist.net/anime/38883) |    tv   |  2020  |   7   |                                            Haikyuu!! To the Top                                           |  3 months ago | 11/10/2022 |  11/12/2022 |
 | [32935](https://myanimelist.net/anime/32935) |    tv   |  2016  |   7   |                         Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou                         |  3 months ago | 11/07/2022 |  11/08/2022 |
-| [20583](https://myanimelist.net/anime/20583) |    tv   |  2014  |   7   |                                                 Haikyuu!!                                                 |  3 months ago | 10/28/2022 |  10/31/2022 |
+| [20583](https://myanimelist.net/anime/20583) |    tv   |  2014  |   7   |                                                 Haikyuu!!                                                 |  4 months ago | 10/28/2022 |  10/31/2022 |
 | [39651](https://myanimelist.net/anime/39651) |   ova   |  2019  |   5   |           Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi          |  4 months ago | 10/24/2022 |  10/24/2022 |
 | [37510](https://myanimelist.net/anime/37510) |    tv   |  2019  |   8   |                                             Mob Psycho 100 II                                             |  4 months ago | 10/23/2022 |  10/24/2022 |
 | [32182](https://myanimelist.net/anime/32182) |    tv   |  2016  |   7   |                                               Mob Psycho 100                                              |  4 months ago | 02/05/2022 |  10/23/2022 |
@@ -75,7 +75,7 @@
 | [50549](https://myanimelist.net/anime/50549) |   ona   |  2022  |   6   |                                                   Bubble                                                  | 10 months ago | 05/03/2022 |  05/03/2022 |
 | [31637](https://myanimelist.net/anime/31637) |    tv   |  2016  |   7   |                             Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2                             | 10 months ago | 04/20/2022 |  04/22/2022 |
 | [28907](https://myanimelist.net/anime/28907) |    tv   |  2015  |   8   |                                 Gate: Jieitai Kanochi nite, Kaku Tatakaeri                                | 10 months ago | 04/20/2022 |  04/20/2022 |
-| [30296](https://myanimelist.net/anime/30296) |    tv   |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         | 10 months ago | 04/18/2022 |  04/18/2022 |
+| [30296](https://myanimelist.net/anime/30296) |    tv   |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         | 11 months ago | 04/18/2022 |  04/18/2022 |
 | [13403](https://myanimelist.net/anime/13403) | special |  2012  |   7   |                           Inu x Boku SS: Miketsukami-kun Henka/Switch/Omamagoto                           | 11 months ago | 04/15/2022 |  04/15/2022 |
 | [11013](https://myanimelist.net/anime/11013) |    tv   |  2012  |   8   |                                               Inu x Boku SS                                               | 10 months ago | 04/14/2022 |  04/15/2022 |
 | [32827](https://myanimelist.net/anime/32827) |   ona   |  2018  |   7   |                                              B: The Beginning                                             | 11 months ago | 04/12/2022 |  04/13/2022 |
@@ -346,7 +346,7 @@
 | [39112](https://myanimelist.net/anime/39112) |  music  |  2019  |   8   |                                              Kawaki wo Ameku                                              | 11 months ago |      -     |      -      |
 | [38000](https://myanimelist.net/anime/38000) |    tv   |  2019  |   10  |                                              Kimetsu no Yaiba                                             |   Last year   |      -     |      -      |
 | [32281](https://myanimelist.net/anime/32281) |  movie  |  2016  |   8   |                                               Kimi no Na wa.                                              |  2 years ago  |      -     |      -      |
-| [36098](https://myanimelist.net/anime/36098) |  movie  |  2018  |   9   |                                         Kimi no Suizou wo Tabetai                                         |   Last year   |      -     |      -      |
+| [36098](https://myanimelist.net/anime/36098) |  movie  |  2018  |   9   |                                         Kimi no Suizou wo Tabetai                                         |  2 years ago  |      -     |      -      |
 | [38040](https://myanimelist.net/anime/38040) |  movie  |  2019  |   9   |                       Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu                      | 10 months ago |      -     |      -      |
 | [40082](https://myanimelist.net/anime/40082) |  movie  |  2019  |   7   |                                            Lupin III: The First                                           |   Last year   |      -     |      -      |
 | [20785](https://myanimelist.net/anime/20785) |    tv   |  2014  |   8   |                                        Mahouka Koukou no Rettousei                                        | 11 months ago |      -     |      -      |
