@@ -1,10 +1,10 @@
-# Plan to Watch (215)
+# Plan to Watch (214)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [36316](https://myanimelist.net/anime/36316) |    tv   |  2018  |  light_novel |                                                 Shichisei no Subaru                                                 |   6 days ago  |        -        |
+| [36316](https://myanimelist.net/anime/36316) |    tv   |  2018  |  light_novel |                                                 Shichisei no Subaru                                                 |   Last week   |        -        |
 | [51064](https://myanimelist.net/anime/51064) |    tv   |  2022  |  light_novel |                                                  Kuro no Shoukanshi                                                 |   Last week   |        -        |
-| [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |  light_novel |                                             Mahou Shoujo Ikusei Keikaku                                             |  2 weeks ago  |        -        |
+| [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |  light_novel |                                             Mahou Shoujo Ikusei Keikaku                                             |  3 weeks ago  |        -        |
 | [17247](https://myanimelist.net/anime/17247) |    tv   |  2013  |  light_novel |                                             Machine-Doll wa Kizutsukanai                                            |  3 weeks ago  |        -        |
 | [37525](https://myanimelist.net/anime/37525) |    tv   |  2019  |     novel    |                                                       Babylon                                                       |  3 weeks ago  |        -        |
 | [37447](https://myanimelist.net/anime/37447) |    tv   |  2018  |     manga    |                                                   Karakuri Circus                                                   |  3 weeks ago  |        -        |
@@ -13,7 +13,7 @@
 | [50384](https://myanimelist.net/anime/50384) |    tv   |  2023  |     manga    |                                                     Mononogatari                                                    |   Last month  |        -        |
 | [48418](https://myanimelist.net/anime/48418) |    tv   |    -   |  light_novel | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 |   Last month  |        -        |
 | [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |     manga    |                                         Ijiranaide, Nagatoro-san 2nd Attack                                         |   Last month  |    01/08/2023   |
-| [22789](https://myanimelist.net/anime/22789) |    tv   |  2014  |   web_manga  |                                                      Barakamon                                                      |   Last month  |        -        |
+| [22789](https://myanimelist.net/anime/22789) |    tv   |  2014  |   web_manga  |                                                      Barakamon                                                      |  2 months ago |        -        |
 | [53924](https://myanimelist.net/anime/53924) | unknown |    -   |     manga    |                                    Jibaku Shounen Hanako-kun (Anime Shin Project)                                   |  2 months ago |        -        |
 | [53913](https://myanimelist.net/anime/53913) |    tv   |    -   |  light_novel |                                             Tensei shitara Ken deshita 2                                            |  2 months ago |        -        |
 | [18679](https://myanimelist.net/anime/18679) |    tv   |  2013  |   original   |                                                     Kill la Kill                                                    |  2 months ago |        -        |
@@ -53,7 +53,7 @@
 | [49782](https://myanimelist.net/anime/49782) |    tv   |  2022  |     manga    |                                               Shadows House 2nd Season                                              |  6 months ago |        -        |
 | [49387](https://myanimelist.net/anime/49387) |    tv   |  2023  |     manga    |                                                Vinland Saga Season 2                                                |  6 months ago |        -        |
 | [52657](https://myanimelist.net/anime/52657) |    tv   |  2023  |   web_manga  |                                         Ousama Ranking: Yuuki no Takarabako                                         |  6 months ago |        -        |
-| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                    Fate/Apocrypha                                                   |  6 months ago |        -        |
+| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                    Fate/Apocrypha                                                   |  7 months ago |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                                  Summertime Render                                                  |  7 months ago |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                   |  7 months ago |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                |  8 months ago |        -        |
@@ -87,7 +87,6 @@
 | [21511](https://myanimelist.net/anime/21511) |    tv   |  2015  |     game     |                                             Kantai Collection: KanColle                                             |   03/14/2022  |        -        |
 | [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |     manga    |                                                 Mahoutsukai no Yome                                                 |   03/12/2022  |        -        |
 | [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |     manga    |             Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu            |   03/10/2022  |        -        |
-| [50481](https://myanimelist.net/anime/50481) |    tv   |  2023  |  light_novel |                   Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀                  |   03/09/2022  |        -        |
 | [51180](https://myanimelist.net/anime/51180) |    tv   |    -   |  light_novel |                              Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season                             |   03/07/2022  |        -        |
 | [51019](https://myanimelist.net/anime/51019) |    tv   |  2023  |     manga    |                                       Kimetsu no Yaiba: Katanakaji no Sato-hen                                      |   03/05/2022  |        -        |
 | [16353](https://myanimelist.net/anime/16353) |    tv   |  2013  |     manga    |                                                       Love Lab                                                      |   03/04/2022  |        -        |

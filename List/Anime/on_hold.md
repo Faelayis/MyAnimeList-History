@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                       Title                                       | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |   -   |                                 Amaama to Inazuma                                 |   3/12  |  2 weeks ago  | 01/12/2023 |
+| [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |   -   |                                 Amaama to Inazuma                                 |   3/12  |  3 weeks ago  | 01/12/2023 |
 |  [5114](https://myanimelist.net/anime/5114)  |    tv   |  2009  |   -   |                          Fullmetal Alchemist: Brotherhood                         |  47/64  |  4 months ago | 10/07/2022 |
 | [52046](https://myanimelist.net/anime/52046) |    tv   |  2022  |   -   | Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau |   2/13  |   Last month  | 10/05/2022 |
 | [49891](https://myanimelist.net/anime/49891) |    tv   |  2022  |   -   |                             Tensei shitara Ken deshita                            |   3/12  |   Last month  | 09/30/2022 |
@@ -27,7 +27,7 @@
 | [44406](https://myanimelist.net/anime/44406) |   ona   |  2021  |   -   |                                  Da Wang Rao Ming                                 |   5/12  |   Last year   | 12/19/2021 |
 | [11759](https://myanimelist.net/anime/11759) |    tv   |  2012  |   -   |                                    Accel World                                    |  10/24  |   Last year   | 12/16/2021 |
 | [40834](https://myanimelist.net/anime/40834) |    tv   |  2021  |   -   |                                   Ousama Ranking                                  |  14/23  | 11 months ago | 12/11/2021 |
-| [32867](https://myanimelist.net/anime/32867) |    tv   |  2016  |   -   |                            Bungou Stray Dogs 2nd Season                           |   2/12  | 10 months ago | 10/25/2021 |
+| [32867](https://myanimelist.net/anime/32867) |    tv   |  2016  |   -   |                            Bungou Stray Dogs 2nd Season                           |   2/12  | 11 months ago | 10/25/2021 |
 | [44961](https://myanimelist.net/anime/44961) |    tv   |  2021  |   -   |                                    Platinum End                                   |   5/24  |   Last year   | 10/23/2021 |
 |  [2966](https://myanimelist.net/anime/2966)  |    tv   |  2008  |   -   |                               Ookami to Koushinryou                               |   2/13  |   Last year   | 10/20/2021 |
 | [42205](https://myanimelist.net/anime/42205) |    tv   |  2021  |   -   |                                 Shaman King (2021)                                |   1/52  |   Last year   | 10/14/2021 |
@@ -45,7 +45,7 @@
 | [18153](https://myanimelist.net/anime/18153) |    tv   |  2013  |   -   |                                 Kyoukai no Kanata                                 |   2/12  |   Last year   | 05/27/2021 |
 | [43007](https://myanimelist.net/anime/43007) |    tv   |  2021  |   -   |                    Osananajimi ga Zettai ni Makenai Love Comedy                   |   5/12  |   Last year   | 05/25/2021 |
 | [35145](https://myanimelist.net/anime/35145) | special |  2017  |   -   |                           Kobayashi-san Chi no OO Dragon                          |   2/7   |   Last year   | 05/14/2021 |
-|  [1642](https://myanimelist.net/anime/1642)  |    tv   |  2005  |   -   |                                  Sugar Sugar Rune                                 |   5/51  |  5 months ago | 05/10/2021 |
+|  [1642](https://myanimelist.net/anime/1642)  |    tv   |  2005  |   -   |                                  Sugar Sugar Rune                                 |   5/51  |  6 months ago | 05/10/2021 |
 | [41025](https://myanimelist.net/anime/41025) |    tv   |  2021  |   7   |                                 Fumetsu no Anata e                                |  16/20  |   Last year   | 04/28/2021 |
 | [46095](https://myanimelist.net/anime/46095) |    tv   |  2021  |   -   |                             Vivy: Fluorite Eye's Song                             |   4/13  |   Last year   | 04/28/2021 |
 |  [2787](https://myanimelist.net/anime/2787)  |    tv   |  2007  |   -   |                           Shakugan no Shana II (Second)                           |   1/24  |  2 years ago  | 02/19/2021 |
