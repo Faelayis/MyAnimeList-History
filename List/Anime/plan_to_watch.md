@@ -1,13 +1,14 @@
-# Plan to Watch (214)
+# Plan to Watch (215)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [36266](https://myanimelist.net/anime/36266) |    tv   |  2018  |     manga    |                                                  Mahou Shoujo Site                                                  |  11 hours ago |        -        |
 | [36316](https://myanimelist.net/anime/36316) |    tv   |  2018  |  light_novel |                                                 Shichisei no Subaru                                                 |   Last week   |        -        |
-| [51064](https://myanimelist.net/anime/51064) |    tv   |  2022  |  light_novel |                                                  Kuro no Shoukanshi                                                 |   Last week   |        -        |
+| [51064](https://myanimelist.net/anime/51064) |    tv   |  2022  |  light_novel |                                                  Kuro no Shoukanshi                                                 |  2 weeks ago  |        -        |
 | [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |  light_novel |                                             Mahou Shoujo Ikusei Keikaku                                             |  3 weeks ago  |        -        |
 | [17247](https://myanimelist.net/anime/17247) |    tv   |  2013  |  light_novel |                                             Machine-Doll wa Kizutsukanai                                            |  3 weeks ago  |        -        |
 | [37525](https://myanimelist.net/anime/37525) |    tv   |  2019  |     novel    |                                                       Babylon                                                       |  3 weeks ago  |        -        |
-| [37447](https://myanimelist.net/anime/37447) |    tv   |  2018  |     manga    |                                                   Karakuri Circus                                                   |  3 weeks ago  |        -        |
+| [37447](https://myanimelist.net/anime/37447) |    tv   |  2018  |     manga    |                                                   Karakuri Circus                                                   |   Last month  |        -        |
 | [54250](https://myanimelist.net/anime/54250) | unknown |    -   |   web_manga  |                                  Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen)                                  |   Last month  |        -        |
 | [53179](https://myanimelist.net/anime/53179) |    tv   |  2023  |   original   |                                                    Ars no Kyojuu                                                    |   Last month  |        -        |
 | [50384](https://myanimelist.net/anime/50384) |    tv   |  2023  |     manga    |                                                     Mononogatari                                                    |   Last month  |        -        |
@@ -83,7 +84,7 @@
 | [40870](https://myanimelist.net/anime/40870) |    tv   |  2021  |   original   |                                                    SSSS.Dynazenon                                                   | 11 months ago |        -        |
 | [51498](https://myanimelist.net/anime/51498) |    tv   |  2023  |     manga    |                                              Masamune-kun no Revenge R                                              | 11 months ago |        -        |
 | [36296](https://myanimelist.net/anime/36296) |    tv   |  2018  |     manga    |                                                   Hinamatsuri (TV)                                                  | 11 months ago |        -        |
-|  [9617](https://myanimelist.net/anime/9617)  |  movie  |  2011  | 4_koma_manga |                                                     K-On! Movie                                                     | 11 months ago |        -        |
+|  [9617](https://myanimelist.net/anime/9617)  |  movie  |  2011  | 4_koma_manga |                                                     K-On! Movie                                                     |   03/22/2022  |        -        |
 | [21511](https://myanimelist.net/anime/21511) |    tv   |  2015  |     game     |                                             Kantai Collection: KanColle                                             |   03/14/2022  |        -        |
 | [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |     manga    |                                                 Mahoutsukai no Yome                                                 |   03/12/2022  |        -        |
 | [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |     manga    |             Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu            |   03/10/2022  |        -        |
@@ -178,7 +179,7 @@
 | [48561](https://myanimelist.net/anime/48561) |  movie  |  2021  |     manga    |                                                Jujutsu Kaisen 0 Movie                                               |   05/10/2021  |        -        |
 | [40842](https://myanimelist.net/anime/40842) |    tv   |  2021  |  mixed_media |                                                     Idoly Pride                                                     |   05/01/2021  |        -        |
 |  [2001](https://myanimelist.net/anime/2001)  |    tv   |  2007  |   original   |                                              Tengen Toppa Gurren Lagann                                             |   04/29/2021  |        -        |
-| [22535](https://myanimelist.net/anime/22535) |    tv   |  2014  |     manga    |                                              Kiseijuu: Sei no Kakuritsu                                             |   04/20/2021  |        -        |
+| [22535](https://myanimelist.net/anime/22535) |    tv   |  2014  |     manga    |                                              Kiseijuu: Sei no Kakuritsu                                             |  2 years ago  |        -        |
 | [28223](https://myanimelist.net/anime/28223) |    tv   |  2015  |   original   |                                                     Death Parade                                                    |  2 years ago  |        -        |
 | [20031](https://myanimelist.net/anime/20031) |    tv   |  2014  |     manga    |                                                       D-Frag!                                                       |  2 years ago  |        -        |
 | [21327](https://myanimelist.net/anime/21327) |    tv   |  2014  | 4_koma_manga |                                                  Isshuukan Friends.                                                 |  2 years ago  |        -        |

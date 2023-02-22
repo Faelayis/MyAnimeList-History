@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [48316](https://myanimelist.net/anime/48316) |    tv   |  2022  |   8   |                                    Kage no Jitsuryokusha ni Naritakute!                                   |   5 days ago  | 10/06/2022 |  02/16/2023 |
+| [48316](https://myanimelist.net/anime/48316) |    tv   |  2022  |   8   |                                    Kage no Jitsuryokusha ni Naritakute!                                   |   6 days ago  | 10/06/2022 |  02/16/2023 |
 | [40776](https://myanimelist.net/anime/40776) |    tv   |  2020  |   7   |                                        Haikyuu!! To the Top Part 2                                        |  3 weeks ago  | 11/12/2022 |  01/31/2023 |
 | [10020](https://myanimelist.net/anime/10020) |   ona   |  2011  |   6   |                            Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials                           |   Last month  | 01/17/2023 |  01/17/2023 |
 | [13659](https://myanimelist.net/anime/13659) |    tv   |  2013  |   7   |                                Ore no Imouto ga Konnani Kawaii Wake ga Nai.                               |   Last month  | 01/17/2023 |  01/17/2023 |
@@ -38,7 +38,7 @@
 | [16436](https://myanimelist.net/anime/16436) | special |  2013  |   2   |                                               Tenshi no Drop                                              |  4 months ago | 10/16/2022 |  10/16/2022 |
 |  [6213](https://myanimelist.net/anime/6213)  |    tv   |  2009  |   7   |                                          Toaru Kagaku no Railgun                                          |  4 months ago | 09/06/2022 |  10/16/2022 |
 | [48675](https://myanimelist.net/anime/48675) |    tv   |  2022  |   7   |                                             Kakkou no Iinazuke                                            |  4 months ago | 04/25/2022 |  10/16/2022 |
-| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |   9   |                                              Yofukashi no Uta                                             |  4 months ago | 07/08/2022 |  10/05/2022 |
+| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |   9   |                                              Yofukashi no Uta                                             |  5 months ago | 07/08/2022 |  10/05/2022 |
 | [45653](https://myanimelist.net/anime/45653) |    tv   |  2022  |   6   |                                        Soredemo Ayumu wa Yosetekuru                                       |  5 months ago | 08/24/2022 |  09/30/2022 |
 | [47164](https://myanimelist.net/anime/47164) |    tv   |  2022  |   8   |            Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen           |  5 months ago | 07/22/2022 |  09/30/2022 |
 | [49470](https://myanimelist.net/anime/49470) |    tv   |  2022  |   6   |                                   Mamahaha no Tsurego ga Motokano datta                                   |  5 months ago | 07/08/2022 |  09/30/2022 |
@@ -74,7 +74,7 @@
 | [36632](https://myanimelist.net/anime/36632) |    tv   |  2018  |   6   |                              Ore ga Suki nano wa Imouto dakedo Imouto ja Nai                              | 10 months ago | 05/25/2021 |  05/07/2022 |
 | [50549](https://myanimelist.net/anime/50549) |   ona   |  2022  |   6   |                                                   Bubble                                                  | 10 months ago | 05/03/2022 |  05/03/2022 |
 | [31637](https://myanimelist.net/anime/31637) |    tv   |  2016  |   7   |                             Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2                             | 10 months ago | 04/20/2022 |  04/22/2022 |
-| [28907](https://myanimelist.net/anime/28907) |    tv   |  2015  |   8   |                                 Gate: Jieitai Kanochi nite, Kaku Tatakaeri                                | 10 months ago | 04/20/2022 |  04/20/2022 |
+| [28907](https://myanimelist.net/anime/28907) |    tv   |  2015  |   8   |                                 Gate: Jieitai Kanochi nite, Kaku Tatakaeri                                | 11 months ago | 04/20/2022 |  04/20/2022 |
 | [30296](https://myanimelist.net/anime/30296) |    tv   |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         | 11 months ago | 04/18/2022 |  04/18/2022 |
 | [13403](https://myanimelist.net/anime/13403) | special |  2012  |   7   |                           Inu x Boku SS: Miketsukami-kun Henka/Switch/Omamagoto                           | 11 months ago | 04/15/2022 |  04/15/2022 |
 | [11013](https://myanimelist.net/anime/11013) |    tv   |  2012  |   8   |                                               Inu x Boku SS                                               | 10 months ago | 04/14/2022 |  04/15/2022 |
@@ -89,8 +89,8 @@
 |  [7791](https://myanimelist.net/anime/7791)  |    tv   |  2010  |   8   |                                                   K-On!!                                                  | 11 months ago | 03/23/2022 |  04/03/2022 |
 | [48736](https://myanimelist.net/anime/48736) |    tv   |  2022  |   7   |                                      Sono Bisque Doll wa Koi wo Suru                                      | 11 months ago | 01/13/2022 |  04/01/2022 |
 | [42670](https://myanimelist.net/anime/42670) |    tv   |  2022  |   9   |                                     Princess Connect! Re:Dive Season 2                                    | 11 months ago | 02/12/2022 |  03/30/2022 |
-|  [6862](https://myanimelist.net/anime/6862)  | special |  2010  |   7   |                                             K-On!: Live House!                                            | 11 months ago | 03/23/2022 |  03/23/2022 |
-|  [5680](https://myanimelist.net/anime/5680)  |    tv   |  2009  |   9   |                                                   K-On!                                                   | 11 months ago | 03/20/2022 |  03/23/2022 |
+|  [6862](https://myanimelist.net/anime/6862)  | special |  2010  |   7   |                                             K-On!: Live House!                                            |   Last year   | 03/23/2022 |  03/23/2022 |
+|  [5680](https://myanimelist.net/anime/5680)  |    tv   |  2009  |   9   |                                                   K-On!                                                   |   Last year   | 03/20/2022 |  03/23/2022 |
 | [40540](https://myanimelist.net/anime/40540) |    tv   |  2020  |   8   |                        Sword Art Online: Alicization - War of Underworld 2nd Season                       |   Last year   | 03/17/2022 |  03/19/2022 |
 | [39597](https://myanimelist.net/anime/39597) |    tv   |  2019  |   7   |                             Sword Art Online: Alicization - War of Underworld                             |   Last year   | 03/16/2022 |  03/17/2022 |
 | [41120](https://myanimelist.net/anime/41120) |    tv   |  2020  |   8   |                                       Fugou Keiji: Balance:Unlimited                                      |   Last year   | 03/13/2022 |  03/13/2022 |
