@@ -1,8 +1,8 @@
-# Plan to Watch (215)
+# Plan to Watch (214)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [36266](https://myanimelist.net/anime/36266) |    tv   |  2018  |     manga    |                                                  Mahou Shoujo Site                                                  |  11 hours ago |        -        |
+| [36266](https://myanimelist.net/anime/36266) |    tv   |  2018  |     manga    |                                                  Mahou Shoujo Site                                                  |   Yesterday   |        -        |
 | [36316](https://myanimelist.net/anime/36316) |    tv   |  2018  |  light_novel |                                                 Shichisei no Subaru                                                 |   Last week   |        -        |
 | [51064](https://myanimelist.net/anime/51064) |    tv   |  2022  |  light_novel |                                                  Kuro no Shoukanshi                                                 |  2 weeks ago  |        -        |
 | [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |  light_novel |                                             Mahou Shoujo Ikusei Keikaku                                             |  3 weeks ago  |        -        |
@@ -40,8 +40,8 @@
 | [52995](https://myanimelist.net/anime/52995) |    tv   |    -   |  light_novel |                                   Arifureta Shokugyou de Sekai Saikyou 3rd Season                                   |  5 months ago |        -        |
 | [34134](https://myanimelist.net/anime/34134) |    tv   |  2019  |   web_manga  |                                               One Punch Man 2nd Season                                              |  5 months ago |        -        |
 | [52807](https://myanimelist.net/anime/52807) |    tv   |    -   |     manga    |                                                   One Punch Man 3                                                   |  5 months ago |        -        |
-| [52969](https://myanimelist.net/anime/52969) |    tv   |    -   |  light_novel |                                            Jitsu wa Ore, Saikyou deshita?                                           |  5 months ago |        -        |
-| [52955](https://myanimelist.net/anime/52955) |    tv   |  2023  |     manga    |                                             Mahoutsukai no Yome Season 2                                            |  5 months ago |        -        |
+| [52969](https://myanimelist.net/anime/52969) |    tv   |    -   |  light_novel |                                            Jitsu wa Ore, Saikyou deshita?                                           |  6 months ago |        -        |
+| [52955](https://myanimelist.net/anime/52955) |    tv   |  2023  |     manga    |                                             Mahoutsukai no Yome Season 2                                            |  6 months ago |        -        |
 |  [6372](https://myanimelist.net/anime/6372)  |  movie  |  2009  |   original   |                                      Higashi no Eden Movie I: The King of Eden                                      |  6 months ago |        -        |
 |  [6927](https://myanimelist.net/anime/6927)  |  movie  |  2009  |   original   |                                          Higashi no Eden: Air Communication                                         |  6 months ago |        -        |
 |   [585](https://myanimelist.net/anime/585)   |  movie  |  1995  |     manga    |                                                   Mimi wo Sumaseba                                                  |  6 months ago |        -        |
@@ -63,7 +63,7 @@
 | [51958](https://myanimelist.net/anime/51958) |    tv   |  2023  |  light_novel |                                         Kono Subarashii Sekai ni Bakuen wo!                                         |  8 months ago |        -        |
 | [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                    Date A Live V                                                    |  8 months ago |        -        |
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                          UQ Holder! Mahou Sensei Negima! 2                                          |  8 months ago |        -        |
-| [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                           Enen no Shouboutai: San no Shou                                           |  9 months ago |        -        |
+| [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                           Enen no Shouboutai: San no Shou                                           | 10 months ago |        -        |
 |   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                          Kino no Tabi: The Beautiful World                                          | 10 months ago |        -        |
 | [51252](https://myanimelist.net/anime/51252) |    tv   |  2023  |  light_novel |                                                    Spy Kyoushitsu                                                   | 10 months ago |        -        |
 | [51781](https://myanimelist.net/anime/51781) |   ona   |  2022  |     manga    |                                             Boku no Hero Academia (ONA)                                             | 10 months ago |        -        |
@@ -125,7 +125,6 @@
 | [37515](https://myanimelist.net/anime/37515) |  movie  |  2019  |   web_manga  |                                     Made in Abyss Movie 2: Hourou Suru Tasogare                                     |   12/05/2021  |        -        |
 | [18277](https://myanimelist.net/anime/18277) |    tv   |  2013  |  light_novel |                                                   Strike the Blood                                                  |   12/05/2021  |        -        |
 | [33286](https://myanimelist.net/anime/33286) |   ova   |  2016  |  light_novel |                                                 Strike the Blood II                                                 |   12/05/2021  |        -        |
-| [14513](https://myanimelist.net/anime/14513) |    tv   |  2012  |     manga    |                                             Magi: The Labyrinth of Magic                                            |   11/19/2021  |        -        |
 | [50275](https://myanimelist.net/anime/50275) |  movie  |  2022  |  light_novel |                           Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo                           |   11/14/2021  |        -        |
 | [50306](https://myanimelist.net/anime/50306) |    tv   |    -   |  light_novel |                                              Seirei Gensouki 2nd Season                                             |   11/14/2021  |        -        |
 | [50307](https://myanimelist.net/anime/50307) |    tv   |  2023  |     manga    |                                              Tonikaku Kawaii 2nd Season                                             |   11/14/2021  |        -        |
