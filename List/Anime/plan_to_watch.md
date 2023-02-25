@@ -1,13 +1,14 @@
-# Plan to Watch (215)
+# Plan to Watch (216)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [54595](https://myanimelist.net/anime/54595) |    tv   |    -   |  light_novel |                                   Kage no Jitsuryokusha ni Naritakute! 2nd Season                                   |  18 hours ago |        -        |
-| [36266](https://myanimelist.net/anime/36266) |    tv   |  2018  |     manga    |                                                  Mahou Shoujo Site                                                  |   2 days ago  |        -        |
+| [36864](https://myanimelist.net/anime/36864) |    tv   |  2018  |     manga    |                                                   Akkun to Kanojo                                                   |  17 hours ago |        -        |
+| [54595](https://myanimelist.net/anime/54595) |    tv   |    -   |  light_novel |                                   Kage no Jitsuryokusha ni Naritakute! 2nd Season                                   |   Yesterday   |        -        |
+| [36266](https://myanimelist.net/anime/36266) |    tv   |  2018  |     manga    |                                                  Mahou Shoujo Site                                                  |   3 days ago  |        -        |
 | [36316](https://myanimelist.net/anime/36316) |    tv   |  2018  |  light_novel |                                                 Shichisei no Subaru                                                 |   Last week   |        -        |
 | [51064](https://myanimelist.net/anime/51064) |    tv   |  2022  |  light_novel |                                                  Kuro no Shoukanshi                                                 |  2 weeks ago  |        -        |
 | [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |  light_novel |                                             Mahou Shoujo Ikusei Keikaku                                             |  3 weeks ago  |        -        |
-| [17247](https://myanimelist.net/anime/17247) |    tv   |  2013  |  light_novel |                                             Machine-Doll wa Kizutsukanai                                            |  3 weeks ago  |        -        |
+| [17247](https://myanimelist.net/anime/17247) |    tv   |  2013  |  light_novel |                                             Machine-Doll wa Kizutsukanai                                            |   Last month  |        -        |
 | [37525](https://myanimelist.net/anime/37525) |    tv   |  2019  |     novel    |                                                       Babylon                                                       |   Last month  |        -        |
 | [37447](https://myanimelist.net/anime/37447) |    tv   |  2018  |     manga    |                                                   Karakuri Circus                                                   |   Last month  |        -        |
 | [54250](https://myanimelist.net/anime/54250) | unknown |    -   |   web_manga  |                                  Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen)                                  |   Last month  |        -        |
@@ -54,7 +55,7 @@
 | [50338](https://myanimelist.net/anime/50338) |    tv   |  2022  |     manga    |                                           Kunoichi Tsubaki no Mune no Uchi                                          |  6 months ago |        -        |
 | [49782](https://myanimelist.net/anime/49782) |    tv   |  2022  |     manga    |                                               Shadows House 2nd Season                                              |  6 months ago |        -        |
 | [49387](https://myanimelist.net/anime/49387) |    tv   |  2023  |     manga    |                                                Vinland Saga Season 2                                                |  6 months ago |        -        |
-| [52657](https://myanimelist.net/anime/52657) |    tv   |  2023  |   web_manga  |                                         Ousama Ranking: Yuuki no Takarabako                                         |  6 months ago |        -        |
+| [52657](https://myanimelist.net/anime/52657) |    tv   |  2023  |   web_manga  |                                         Ousama Ranking: Yuuki no Takarabako                                         |  7 months ago |        -        |
 | [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                    Fate/Apocrypha                                                   |  7 months ago |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                                  Summertime Render                                                  |  7 months ago |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                   |  7 months ago |        -        |

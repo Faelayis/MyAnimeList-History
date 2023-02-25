@@ -1,7 +1,8 @@
-# Completed (402)
+# Completed (403)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [14513](https://myanimelist.net/anime/14513) |    tv   |  2012  |   6   |                                        Magi: The Labyrinth of Magic                                       |  11 hours ago | 02/23/2023 |  02/25/2023 |
 | [48316](https://myanimelist.net/anime/48316) |    tv   |  2022  |   8   |                                    Kage no Jitsuryokusha ni Naritakute!                                   |   Last week   | 10/06/2022 |  02/16/2023 |
 | [40776](https://myanimelist.net/anime/40776) |    tv   |  2020  |   7   |                                        Haikyuu!! To the Top Part 2                                        |  3 weeks ago  | 11/12/2022 |  01/31/2023 |
 | [10020](https://myanimelist.net/anime/10020) |   ona   |  2011  |   6   |                            Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials                           |   Last month  | 01/17/2023 |  01/17/2023 |
@@ -26,7 +27,7 @@
 | [31181](https://myanimelist.net/anime/31181) |    tv   |  2015  |   6   |                                              Owarimonogatari                                              |  3 months ago | 11/26/2022 |  11/26/2022 |
 | [21855](https://myanimelist.net/anime/21855) |    tv   |  2014  |   4   |                                               Hanamonogatari                                              |  3 months ago | 11/24/2022 |  11/24/2022 |
 | [28025](https://myanimelist.net/anime/28025) |    tv   |  2014  |   5   |                                              Tsukimonogatari                                              |  3 months ago | 11/24/2022 |  11/24/2022 |
-| [17074](https://myanimelist.net/anime/17074) |    tv   |  2013  |   10  |                                      Monogatari Series: Second Season                                     |  2 weeks ago  | 11/20/2022 |  11/24/2022 |
+| [17074](https://myanimelist.net/anime/17074) |    tv   |  2013  |   10  |                                      Monogatari Series: Second Season                                     |  3 weeks ago  | 11/20/2022 |  11/24/2022 |
 | [11597](https://myanimelist.net/anime/11597) |    tv   |  2012  |   7   |                                               Nisemonogatari                                              |  3 months ago | 11/19/2022 |  11/20/2022 |
 |  [5081](https://myanimelist.net/anime/5081)  |    tv   |  2009  |   7   |                                               Bakemonogatari                                              |  3 months ago | 11/18/2022 |  11/19/2022 |
 | [38883](https://myanimelist.net/anime/38883) |    tv   |  2020  |   7   |                                            Haikyuu!! To the Top                                           |  3 months ago | 11/10/2022 |  11/12/2022 |
@@ -238,7 +239,7 @@
 | [12467](https://myanimelist.net/anime/12467) |    tv   |  2012  |   6   |                                              Nazo no Kanojo X                                             |   Last year   | 04/27/2021 |  04/27/2021 |
 | [13093](https://myanimelist.net/anime/13093) |   ova   |  2012  |   6   |                                  Nazo no Kanojo X: Nazo no Natsu Matsuri                                  |   Last year   | 04/27/2021 |  04/27/2021 |
 | [27775](https://myanimelist.net/anime/27775) |    tv   |  2015  |   7   |                                              Plastic Memories                                             |   Last year   | 04/25/2021 |  04/25/2021 |
-| [37141](https://myanimelist.net/anime/37141) |    tv   |  2018  |   6   |                                              Hataraku Saibou                                              |   Last year   | 03/11/2021 |  04/24/2021 |
+| [37141](https://myanimelist.net/anime/37141) |    tv   |  2018  |   6   |                                              Hataraku Saibou                                              |  2 years ago  | 03/11/2021 |  04/24/2021 |
 | [28701](https://myanimelist.net/anime/28701) |    tv   |  2015  |   5   |                             Fate/stay night: Unlimited Blade Works 2nd Season                             | 10 months ago | 04/22/2021 |  04/22/2021 |
 | [22297](https://myanimelist.net/anime/22297) |    tv   |  2014  |   7   |                                   Fate/stay night: Unlimited Blade Works                                  | 10 months ago | 04/21/2021 |  04/22/2021 |
 | [39534](https://myanimelist.net/anime/39534) |    tv   |  2020  |   10  |                                         Jibaku Shounen Hanako-kun                                         | 10 months ago | 04/14/2021 |  04/15/2021 |
