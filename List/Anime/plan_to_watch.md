@@ -1,10 +1,12 @@
-# Plan to Watch (216)
+# Plan to Watch (218)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [36864](https://myanimelist.net/anime/36864) |    tv   |  2018  |     manga    |                                                   Akkun to Kanojo                                                   |  17 hours ago |        -        |
-| [54595](https://myanimelist.net/anime/54595) |    tv   |    -   |  light_novel |                                   Kage no Jitsuryokusha ni Naritakute! 2nd Season                                   |   Yesterday   |        -        |
-| [36266](https://myanimelist.net/anime/36266) |    tv   |  2018  |     manga    |                                                  Mahou Shoujo Site                                                  |   3 days ago  |        -        |
+| [54440](https://myanimelist.net/anime/54440) | unknown |    -   |   original   |                                         Lycoris Recoil (Shinsaku Animation)                                         |  10 hours ago |        -        |
+| [51462](https://myanimelist.net/anime/51462) |    tv   |  2023  |  light_novel |                                                 Isekai Nonbiri Nouka                                                |  11 hours ago |        -        |
+| [36864](https://myanimelist.net/anime/36864) |    tv   |  2018  |     manga    |                                                   Akkun to Kanojo                                                   |   Yesterday   |        -        |
+| [54595](https://myanimelist.net/anime/54595) |    tv   |    -   |  light_novel |                                   Kage no Jitsuryokusha ni Naritakute! 2nd Season                                   |   2 days ago  |        -        |
+| [36266](https://myanimelist.net/anime/36266) |    tv   |  2018  |     manga    |                                                  Mahou Shoujo Site                                                  |   4 days ago  |        -        |
 | [36316](https://myanimelist.net/anime/36316) |    tv   |  2018  |  light_novel |                                                 Shichisei no Subaru                                                 |   Last week   |        -        |
 | [51064](https://myanimelist.net/anime/51064) |    tv   |  2022  |  light_novel |                                                  Kuro no Shoukanshi                                                 |  2 weeks ago  |        -        |
 | [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |  light_novel |                                             Mahou Shoujo Ikusei Keikaku                                             |  3 weeks ago  |        -        |
@@ -75,8 +77,8 @@
 | [51632](https://myanimelist.net/anime/51632) |    tv   |  2023  |  light_novel |                                          Isekai wa Smartphone to Tomo ni. 2                                         | 10 months ago |        -        |
 | [51009](https://myanimelist.net/anime/51009) |    tv   |  2023  |     manga    |                                              Jujutsu Kaisen 2nd Season                                              | 10 months ago |        -        |
 |  [7592](https://myanimelist.net/anime/7592)  |    tv   |  2010  |     manga    |                                                  Nurarihyon no Mago                                                 | 10 months ago |        -        |
-| [27831](https://myanimelist.net/anime/27831) |    tv   |  2015  |  light_novel |                                                   Durarara!!x2 Ten                                                  | 10 months ago |        -        |
-| [23199](https://myanimelist.net/anime/23199) |    tv   |  2015  |  light_novel |                                                  Durarara!!x2 Shou                                                  | 10 months ago |        -        |
+| [27831](https://myanimelist.net/anime/27831) |    tv   |  2015  |  light_novel |                                                   Durarara!!x2 Ten                                                  | 11 months ago |        -        |
+| [23199](https://myanimelist.net/anime/23199) |    tv   |  2015  |  light_novel |                                                  Durarara!!x2 Shou                                                  | 11 months ago |        -        |
 | [10378](https://myanimelist.net/anime/10378) |    tv   |  2011  |     manga    |                                                Shinryaku!? Ika Musume                                               | 11 months ago |        -        |
 |  [8557](https://myanimelist.net/anime/8557)  |    tv   |  2010  |     manga    |                                                Shinryaku! Ika Musume                                                | 11 months ago |        -        |
 | [49785](https://myanimelist.net/anime/49785) |    tv   |    -   |     manga    |                                             Fairy Tail: 100 Years Quest                                             | 11 months ago |        -        |
