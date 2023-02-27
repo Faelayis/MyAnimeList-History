@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [50404](https://myanimelist.net/anime/50404) |   ona   |  2022  |   6   |                                      Xian Wang de Richang Shenghuo 3                                      |  10 hours ago | 10/03/2022 |  02/26/2023 |
-| [14513](https://myanimelist.net/anime/14513) |    tv   |  2012  |   6   |                                        Magi: The Labyrinth of Magic                                       |   Yesterday   | 02/23/2023 |  02/25/2023 |
+| [50404](https://myanimelist.net/anime/50404) |   ona   |  2022  |   6   |                                      Xian Wang de Richang Shenghuo 3                                      |   Yesterday   | 10/03/2022 |  02/26/2023 |
+| [14513](https://myanimelist.net/anime/14513) |    tv   |  2012  |   6   |                                        Magi: The Labyrinth of Magic                                       |   2 days ago  | 02/23/2023 |  02/25/2023 |
 | [48316](https://myanimelist.net/anime/48316) |    tv   |  2022  |   8   |                                    Kage no Jitsuryokusha ni Naritakute!                                   |   Last week   | 10/06/2022 |  02/16/2023 |
 | [40776](https://myanimelist.net/anime/40776) |    tv   |  2020  |   7   |                                        Haikyuu!! To the Top Part 2                                        |  3 weeks ago  | 11/12/2022 |  01/31/2023 |
 | [10020](https://myanimelist.net/anime/10020) |   ona   |  2011  |   6   |                            Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials                           |   Last month  | 01/17/2023 |  01/17/2023 |
@@ -13,7 +13,7 @@
 | [51403](https://myanimelist.net/anime/51403) |    tv   |  2022  |   4   |                                                Renai Flops                                                |   Last month  | 10/27/2022 |  01/10/2023 |
 | [16001](https://myanimelist.net/anime/16001) | special |  2012  |   7   |                                        Kokoro Connect: Michi Random                                       |   Last month  | 01/09/2023 |  01/09/2023 |
 | [11887](https://myanimelist.net/anime/11887) |    tv   |  2012  |   7   |                                               Kokoro Connect                                              |   Last month  | 01/07/2023 |  01/09/2023 |
-| [31043](https://myanimelist.net/anime/31043) |    tv   |  2016  |   9   |                                          Boku dake ga Inai Machi                                          |   Last month  | 01/02/2023 |  01/02/2023 |
+| [31043](https://myanimelist.net/anime/31043) |    tv   |  2016  |   9   |                                          Boku dake ga Inai Machi                                          |  2 months ago | 01/02/2023 |  01/02/2023 |
 | [44511](https://myanimelist.net/anime/44511) |    tv   |  2022  |   7   |                                                Chainsaw Man                                               |  2 months ago | 10/13/2022 |  12/29/2022 |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  |   8   |                                              Bocchi the Rock!                                             |  2 months ago | 12/20/2022 |  12/27/2022 |
 | [50425](https://myanimelist.net/anime/50425) |    tv   |  2022  |   7   |                                         Fuufu Ijou, Koibito Miman.                                        |  2 months ago | 10/24/2022 |  12/27/2022 |
@@ -79,7 +79,7 @@
 | [28907](https://myanimelist.net/anime/28907) |    tv   |  2015  |   8   |                                 Gate: Jieitai Kanochi nite, Kaku Tatakaeri                                | 11 months ago | 04/20/2022 |  04/20/2022 |
 | [30296](https://myanimelist.net/anime/30296) |    tv   |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         | 11 months ago | 04/18/2022 |  04/18/2022 |
 | [13403](https://myanimelist.net/anime/13403) | special |  2012  |   7   |                           Inu x Boku SS: Miketsukami-kun Henka/Switch/Omamagoto                           | 11 months ago | 04/15/2022 |  04/15/2022 |
-| [11013](https://myanimelist.net/anime/11013) |    tv   |  2012  |   8   |                                               Inu x Boku SS                                               | 10 months ago | 04/14/2022 |  04/15/2022 |
+| [11013](https://myanimelist.net/anime/11013) |    tv   |  2012  |   8   |                                               Inu x Boku SS                                               | 11 months ago | 04/14/2022 |  04/15/2022 |
 | [32827](https://myanimelist.net/anime/32827) |   ona   |  2018  |   7   |                                              B: The Beginning                                             | 11 months ago | 04/12/2022 |  04/13/2022 |
 | [39049](https://myanimelist.net/anime/39049) |    tv   |  2020  |   7   |                                           Jashin-chan Dropkick'                                           | 11 months ago | 04/10/2022 |  04/13/2022 |
 | [23277](https://myanimelist.net/anime/23277) |    tv   |  2015  |   5   |                                        Saenai Heroine no Sodatekata                                       | 11 months ago | 04/09/2022 |  04/10/2022 |
@@ -311,7 +311,7 @@
 | [30276](https://myanimelist.net/anime/30276) |    tv   |  2015  |   5   |                                               One Punch Man                                               |  2 years ago  | 07/24/2020 |  01/30/2020 |
 | [38691](https://myanimelist.net/anime/38691) |    tv   |  2019  |   9   |                                                 Dr. Stone                                                 |  2 years ago  | 07/05/2019 |  12/24/2019 |
 | [38101](https://myanimelist.net/anime/38101) |    tv   |  2019  |   8   |                                            5-toubun no Hanayome                                           |  2 years ago  | 03/20/2019 |  03/28/2019 |
-| [28891](https://myanimelist.net/anime/28891) |    tv   |  2015  |   8   |                                          Haikyuu!! Second Season                                          |  3 months ago | 10/31/2022 |      -      |
+| [28891](https://myanimelist.net/anime/28891) |    tv   |  2015  |   8   |                                          Haikyuu!! Second Season                                          |  4 months ago | 10/31/2022 |      -      |
 | [15809](https://myanimelist.net/anime/15809) |    tv   |  2013  |   7   |                                            Hataraku Maou-sama!                                            |   Last year   | 05/10/2021 |      -      |
 | [41930](https://myanimelist.net/anime/41930) |    tv   |  2020  |   7   |                                            Kamisama ni Natta Hi                                           |  2 years ago  | 11/30/2020 |      -      |
 | [13759](https://myanimelist.net/anime/13759) |    tv   |  2012  |   8   |                                        Sakura-sou no Pet na Kanojo                                        |  2 years ago  | 11/28/2020 |      -      |
