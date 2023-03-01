@@ -2,32 +2,32 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (19) ``8.52%``
+#### Watching (20) ``9.01%``
 
 |                      id                      | Type | Season | Score |                                                     Title                                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [50608](https://myanimelist.net/anime/50608) |  tv  |  2023  |   7   |                                       Tokyo Revengers: Seiya Kessen-hen                                      |   8/13  |   Yesterday  | 01/08/2023 |
-| [53111](https://myanimelist.net/anime/53111) |  tv  |  2023  |   9   |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   8/11  |  2 days ago  | 01/05/2023 |
-| [49918](https://myanimelist.net/anime/49918) |  tv  |  2022  |   -   |                                       Boku no Hero Academia 6th Season                                       |  21/25  |  2 days ago  | 10/02/2022 |
-| [50739](https://myanimelist.net/anime/50739) |  tv  |  2023  |   9   |                      Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                     |   8/12  |  2 days ago  | 01/16/2023 |
-| [52173](https://myanimelist.net/anime/52173) |  tv  |  2023  |   -   |                                 Koori Zokusei Danshi to Cool na Douryou Joshi                                |   8/12  |  3 days ago  | 02/25/2023 |
-| [51678](https://myanimelist.net/anime/51678) |  tv  |  2023  |   9   |                                             Oniichan wa Oshimai!                                             |   8/12  |  4 days ago  | 01/05/2023 |
-| [52305](https://myanimelist.net/anime/52305) |  tv  |  2023  |   -   |                                            Tomo-chan wa Onnanoko!                                            |   8/13  |  5 days ago  | 01/16/2023 |
-| [49612](https://myanimelist.net/anime/49612) |  tv  |  2023  |   -   |                          Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu                         |   8/12  |  6 days ago  | 01/04/2023 |
-| [50481](https://myanimelist.net/anime/50481) |  tv  |  2023  |   -   |               Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀               |   7/12  |   Last week  | 02/21/2023 |
+| [35062](https://myanimelist.net/anime/35062) |  tv  |  2017  |   -   |                                              Mahoutsukai no Yome                                             |   2/24  | 10 hours ago | 03/01/2023 |
+| [50481](https://myanimelist.net/anime/50481) |  tv  |  2023  |   -   |               Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀               |   8/12  | 11 hours ago | 02/21/2023 |
+| [52173](https://myanimelist.net/anime/52173) |  tv  |  2023  |   -   |                                 Koori Zokusei Danshi to Cool na Douryou Joshi                                |   9/12  | 11 hours ago | 02/25/2023 |
+| [50608](https://myanimelist.net/anime/50608) |  tv  |  2023  |   7   |                                       Tokyo Revengers: Seiya Kessen-hen                                      |   8/13  |  2 days ago  | 01/08/2023 |
+| [53111](https://myanimelist.net/anime/53111) |  tv  |  2023  |   9   |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |   8/11  |  3 days ago  | 01/05/2023 |
+| [49918](https://myanimelist.net/anime/49918) |  tv  |  2022  |   -   |                                       Boku no Hero Academia 6th Season                                       |  21/25  |  3 days ago  | 10/02/2022 |
+| [50739](https://myanimelist.net/anime/50739) |  tv  |  2023  |   9   |                      Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                     |   8/12  |  3 days ago  | 01/16/2023 |
+| [51678](https://myanimelist.net/anime/51678) |  tv  |  2023  |   9   |                                             Oniichan wa Oshimai!                                             |   8/12  |  5 days ago  | 01/05/2023 |
+| [52305](https://myanimelist.net/anime/52305) |  tv  |  2023  |   -   |                                            Tomo-chan wa Onnanoko!                                            |   8/13  |  6 days ago  | 01/16/2023 |
+| [49612](https://myanimelist.net/anime/49612) |  tv  |  2023  |   -   |                          Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu                         |   8/12  |   Last week  | 01/04/2023 |
 | [41514](https://myanimelist.net/anime/41514) |  tv  |  2023  |   6   |                     Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                    |   6/12  |   Last week  | 01/12/2023 |
-| [51815](https://myanimelist.net/anime/51815) |  tv  |  2023  |   -   |                                         Kubo-san wa Mob wo Yurusanai                                         |   6/12  |   Last week  | 01/11/2023 |
 
 
-*[8 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
+*[9 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
 #### Completed ``80.74%``
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |   8   |                                        Mahou Shoujo Ikusei Keikaku                                        |  10 hours ago | 02/27/2023 |  02/28/2023 |
-| [50404](https://myanimelist.net/anime/50404) |   ona   |  2022  |   6   |                                      Xian Wang de Richang Shenghuo 3                                      |   2 days ago  | 10/03/2022 |  02/26/2023 |
-| [14513](https://myanimelist.net/anime/14513) |    tv   |  2012  |   6   |                                        Magi: The Labyrinth of Magic                                       |   3 days ago  | 02/23/2023 |  02/25/2023 |
+| [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |   8   |                                        Mahou Shoujo Ikusei Keikaku                                        |   Yesterday   | 02/27/2023 |  02/28/2023 |
+| [50404](https://myanimelist.net/anime/50404) |   ona   |  2022  |   6   |                                      Xian Wang de Richang Shenghuo 3                                      |   3 days ago  | 10/03/2022 |  02/26/2023 |
+| [14513](https://myanimelist.net/anime/14513) |    tv   |  2012  |   6   |                                        Magi: The Labyrinth of Magic                                       |   4 days ago  | 02/23/2023 |  02/25/2023 |
 | [48316](https://myanimelist.net/anime/48316) |    tv   |  2022  |   8   |                                    Kage no Jitsuryokusha ni Naritakute!                                   |   Last week   | 10/06/2022 |  02/16/2023 |
 | [40776](https://myanimelist.net/anime/40776) |    tv   |  2020  |   7   |                                        Haikyuu!! To the Top Part 2                                        |   Last month  | 11/12/2022 |  01/31/2023 |
 | [10020](https://myanimelist.net/anime/10020) |   ona   |  2011  |   6   |                            Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials                           |   Last month  | 01/17/2023 |  01/17/2023 |
@@ -63,16 +63,16 @@ List Sync From MyAnimeList (update every day)
 
 *[24 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``43.81%``
+#### Plan to Watch ``43.53%``
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [51535](https://myanimelist.net/anime/51535) | special |  2023  |     manga    |                                  Shingeki no Kyojin: The Final Season - Kanketsu-hen                                 |  10 hours ago |        -        |
-| [52198](https://myanimelist.net/anime/52198) |  movie  |  2022  |     manga    |                                  Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai                                  |  10 hours ago |        -        |
-| [52635](https://myanimelist.net/anime/52635) |    tv   |    -   |   web_manga  |                                                Kami no Tou 2nd Season                                                |  10 hours ago |        -        |
-| [53488](https://myanimelist.net/anime/53488) |    tv   |    -   |  light_novel | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd Season |  10 hours ago |        -        |
-| [53889](https://myanimelist.net/anime/53889) |    tv   |    -   |     manga    |                                             Ao no Exorcist (Shin Series)                                             |  10 hours ago |        -        |
-| [54344](https://myanimelist.net/anime/54344) | unknown |    -   |  light_novel |                                         Mahou Shoujo Ikusei Keikaku: Restart                                         |  10 hours ago |        -        |
+| [51535](https://myanimelist.net/anime/51535) | special |  2023  |     manga    |                                  Shingeki no Kyojin: The Final Season - Kanketsu-hen                                 |   Yesterday   |        -        |
+| [52198](https://myanimelist.net/anime/52198) |  movie  |  2022  |     manga    |                                  Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai                                  |   Yesterday   |        -        |
+| [52635](https://myanimelist.net/anime/52635) |    tv   |    -   |   web_manga  |                                                Kami no Tou 2nd Season                                                |   Yesterday   |        -        |
+| [53488](https://myanimelist.net/anime/53488) |    tv   |    -   |  light_novel | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd Season |   Yesterday   |        -        |
+| [53889](https://myanimelist.net/anime/53889) |    tv   |    -   |     manga    |                                             Ao no Exorcist (Shin Series)                                             |   Yesterday   |        -        |
+| [54344](https://myanimelist.net/anime/54344) | unknown |    -   |  light_novel |                                         Mahou Shoujo Ikusei Keikaku: Restart                                         |   Yesterday   |        -        |
 
 
-*[216 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[215 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
