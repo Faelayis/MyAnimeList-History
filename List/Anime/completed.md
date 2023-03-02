@@ -2,10 +2,10 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |   8   |                                        Mahou Shoujo Ikusei Keikaku                                        |   Yesterday   | 02/27/2023 |  02/28/2023 |
-| [50404](https://myanimelist.net/anime/50404) |   ona   |  2022  |   6   |                                      Xian Wang de Richang Shenghuo 3                                      |   3 days ago  | 10/03/2022 |  02/26/2023 |
-| [14513](https://myanimelist.net/anime/14513) |    tv   |  2012  |   6   |                                        Magi: The Labyrinth of Magic                                       |   4 days ago  | 02/23/2023 |  02/25/2023 |
-| [48316](https://myanimelist.net/anime/48316) |    tv   |  2022  |   8   |                                    Kage no Jitsuryokusha ni Naritakute!                                   |   Last week   | 10/06/2022 |  02/16/2023 |
+| [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |   8   |                                        Mahou Shoujo Ikusei Keikaku                                        |   2 days ago  | 02/27/2023 |  02/28/2023 |
+| [50404](https://myanimelist.net/anime/50404) |   ona   |  2022  |   6   |                                      Xian Wang de Richang Shenghuo 3                                      |   4 days ago  | 10/03/2022 |  02/26/2023 |
+| [14513](https://myanimelist.net/anime/14513) |    tv   |  2012  |   6   |                                        Magi: The Labyrinth of Magic                                       |   5 days ago  | 02/23/2023 |  02/25/2023 |
+| [48316](https://myanimelist.net/anime/48316) |    tv   |  2022  |   8   |                                    Kage no Jitsuryokusha ni Naritakute!                                   |  2 weeks ago  | 10/06/2022 |  02/16/2023 |
 | [40776](https://myanimelist.net/anime/40776) |    tv   |  2020  |   7   |                                        Haikyuu!! To the Top Part 2                                        |   Last month  | 11/12/2022 |  01/31/2023 |
 | [10020](https://myanimelist.net/anime/10020) |   ona   |  2011  |   6   |                            Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials                           |   Last month  | 01/17/2023 |  01/17/2023 |
 | [13659](https://myanimelist.net/anime/13659) |    tv   |  2013  |   7   |                                Ore no Imouto ga Konnani Kawaii Wake ga Nai.                               |   Last month  | 01/17/2023 |  01/17/2023 |
