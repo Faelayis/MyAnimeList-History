@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |   8   |                                        Mahou Shoujo Ikusei Keikaku                                        |   6 days ago  | 02/27/2023 |  02/28/2023 |
+| [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |   8   |                                        Mahou Shoujo Ikusei Keikaku                                        |   Last week   | 02/27/2023 |  02/28/2023 |
 | [50404](https://myanimelist.net/anime/50404) |   ona   |  2022  |   6   |                                      Xian Wang de Richang Shenghuo 3                                      |   Last week   | 10/03/2022 |  02/26/2023 |
 | [14513](https://myanimelist.net/anime/14513) |    tv   |  2012  |   6   |                                        Magi: The Labyrinth of Magic                                       |   Last week   | 02/23/2023 |  02/25/2023 |
 | [48316](https://myanimelist.net/anime/48316) |    tv   |  2022  |   8   |                                    Kage no Jitsuryokusha ni Naritakute!                                   |  2 weeks ago  | 10/06/2022 |  02/16/2023 |
@@ -11,7 +11,7 @@
 | [13659](https://myanimelist.net/anime/13659) |    tv   |  2013  |   7   |                                Ore no Imouto ga Konnani Kawaii Wake ga Nai.                               |   Last month  | 01/17/2023 |  01/17/2023 |
 | [18857](https://myanimelist.net/anime/18857) |   ona   |  2013  |   6   |                           Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials                           |   Last month  | 01/17/2023 |  01/17/2023 |
 |  [8769](https://myanimelist.net/anime/8769)  |    tv   |  2010  |   7   |                                Ore no Imouto ga Konnani Kawaii Wake ga Nai                                |   Last month  | 01/16/2023 |  01/17/2023 |
-| [51403](https://myanimelist.net/anime/51403) |    tv   |  2022  |   4   |                                                Renai Flops                                                |   Last month  | 10/27/2022 |  01/10/2023 |
+| [51403](https://myanimelist.net/anime/51403) |    tv   |  2022  |   4   |                                                Renai Flops                                                |  2 months ago | 10/27/2022 |  01/10/2023 |
 | [16001](https://myanimelist.net/anime/16001) | special |  2012  |   7   |                                        Kokoro Connect: Michi Random                                       |  2 months ago | 01/09/2023 |  01/09/2023 |
 | [11887](https://myanimelist.net/anime/11887) |    tv   |  2012  |   7   |                                               Kokoro Connect                                              |  2 months ago | 01/07/2023 |  01/09/2023 |
 | [31043](https://myanimelist.net/anime/31043) |    tv   |  2016  |   9   |                                          Boku dake ga Inai Machi                                          |  2 months ago | 01/02/2023 |  01/02/2023 |
@@ -75,7 +75,7 @@
 | [35839](https://myanimelist.net/anime/35839) |    tv   |  2018  |   7   |                                          Sora yori mo Tooi Basho                                          | 10 months ago | 05/07/2022 |  05/07/2022 |
 | [40586](https://myanimelist.net/anime/40586) |    tv   |  2021  |   7   |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita                    | 10 months ago | 05/03/2022 |  05/07/2022 |
 | [36632](https://myanimelist.net/anime/36632) |    tv   |  2018  |   6   |                              Ore ga Suki nano wa Imouto dakedo Imouto ja Nai                              | 10 months ago | 05/25/2021 |  05/07/2022 |
-| [50549](https://myanimelist.net/anime/50549) |   ona   |  2022  |   6   |                                                   Bubble                                                  | 10 months ago | 05/03/2022 |  05/03/2022 |
+| [50549](https://myanimelist.net/anime/50549) |   ona   |  2022  |   6   |                                                   Bubble                                                  | 11 months ago | 05/03/2022 |  05/03/2022 |
 | [31637](https://myanimelist.net/anime/31637) |    tv   |  2016  |   7   |                             Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2                             | 11 months ago | 04/20/2022 |  04/22/2022 |
 | [28907](https://myanimelist.net/anime/28907) |    tv   |  2015  |   8   |                                 Gate: Jieitai Kanochi nite, Kaku Tatakaeri                                | 11 months ago | 04/20/2022 |  04/20/2022 |
 | [30296](https://myanimelist.net/anime/30296) |    tv   |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         | 11 months ago | 04/18/2022 |  04/18/2022 |
