@@ -3,8 +3,8 @@
 |                      id                      |   Type  | Season | Score |                                       Title                                       | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
 | [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |   -   |                                 Amaama to Inazuma                                 |   3/12  |   Last month  | 01/12/2023 |
-| [50205](https://myanimelist.net/anime/50205) |    tv   |  2022  |   -   |                              Arknights: Reimei Zensou                             |   3/8   |   5 days ago  | 11/06/2022 |
-| [49596](https://myanimelist.net/anime/49596) |    tv   |  2022  |   -   |                                     Blue Lock                                     |   8/24  |   5 days ago  | 10/16/2022 |
+| [50205](https://myanimelist.net/anime/50205) |    tv   |  2022  |   -   |                              Arknights: Reimei Zensou                             |   3/8   |   6 days ago  | 11/06/2022 |
+| [49596](https://myanimelist.net/anime/49596) |    tv   |  2022  |   -   |                                     Blue Lock                                     |   8/24  |   6 days ago  | 10/16/2022 |
 |  [5114](https://myanimelist.net/anime/5114)  |    tv   |  2009  |   -   |                          Fullmetal Alchemist: Brotherhood                         |  47/64  |  4 months ago | 10/07/2022 |
 | [52046](https://myanimelist.net/anime/52046) |    tv   |  2022  |   -   | Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau |   2/13  |  2 months ago | 10/05/2022 |
 | [49891](https://myanimelist.net/anime/49891) |    tv   |  2022  |   -   |                             Tensei shitara Ken deshita                            |   3/12  |  2 months ago | 09/30/2022 |
@@ -16,7 +16,7 @@
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                                     Fate/Zero                                     |   2/13  | 11 months ago | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                               Madan no Ou to Vanadis                              |   6/13  | 11 months ago | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                                  Machikado Mazoku                                 |   3/12  |  4 months ago | 04/19/2022 |
-| [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |                          Kawaii dake ja Nai Shikimori-san                         |   5/12  |  7 months ago | 04/10/2022 |
+| [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |                          Kawaii dake ja Nai Shikimori-san                         |   5/12  |  8 months ago | 04/10/2022 |
 | [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                                Mahoutsukai Reimeiki                               |   2/12  | 10 months ago | 04/09/2022 |
 | [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |                        Tate no Yuusha no Nariagari Season 2                       |   3/13  | 10 months ago | 04/06/2022 |
 | [49520](https://myanimelist.net/anime/49520) |    tv   |  2022  |   7   |                              Aharen-san wa Hakarenai                              |   4/12  |  6 months ago | 04/01/2022 |
