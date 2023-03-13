@@ -1,12 +1,14 @@
-# Watching (18)
+# Watching (20)
 
 |                      id                      | Type | Season | Score |                                                     Title                                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [35062](https://myanimelist.net/anime/35062) |  tv  |  2017  |   -   |                                              Mahoutsukai no Yome                                             |   5/24  |  9 hours ago | 03/01/2023 |
-| [50739](https://myanimelist.net/anime/50739) |  tv  |  2023  |   7   |                      Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                     |  10/12  | 10 hours ago | 01/16/2023 |
-| [49918](https://myanimelist.net/anime/49918) |  tv  |  2022  |   -   |                                       Boku no Hero Academia 6th Season                                       |  23/25  | 11 hours ago | 10/02/2022 |
-| [53111](https://myanimelist.net/anime/53111) |  tv  |  2023  |   9   |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |  10/11  |   Yesterday  | 01/05/2023 |
-| [50608](https://myanimelist.net/anime/50608) |  tv  |  2023  |   7   |                                       Tokyo Revengers: Seiya Kessen-hen                                      |   9/13  |   Last week  | 01/08/2023 |
+| [33478](https://myanimelist.net/anime/33478) |  tv  |  2017  |   -   |                                       UQ Holder! Mahou Sensei Negima! 2                                      |   5/12  |  8 hours ago | 03/13/2023 |
+| [48553](https://myanimelist.net/anime/48553) |  tv  |  2022  |   -   |                                           Akebi-chan no Sailor-fuku                                          |   3/12  | 10 hours ago | 03/13/2023 |
+| [50608](https://myanimelist.net/anime/50608) |  tv  |  2023  |   8   |                                       Tokyo Revengers: Seiya Kessen-hen                                      |  10/13  | 12 hours ago | 01/08/2023 |
+| [35062](https://myanimelist.net/anime/35062) |  tv  |  2017  |   -   |                                              Mahoutsukai no Yome                                             |   5/24  |   Yesterday  | 03/01/2023 |
+| [50739](https://myanimelist.net/anime/50739) |  tv  |  2023  |   7   |                      Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                     |  10/12  |   Yesterday  | 01/16/2023 |
+| [49918](https://myanimelist.net/anime/49918) |  tv  |  2022  |   -   |                                       Boku no Hero Academia 6th Season                                       |  23/25  |   Yesterday  | 10/02/2022 |
+| [53111](https://myanimelist.net/anime/53111) |  tv  |  2023  |   9   |             Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen             |  10/11  |  2 days ago  | 01/05/2023 |
 | [51678](https://myanimelist.net/anime/51678) |  tv  |  2023  |   7   |                                             Oniichan wa Oshimai!                                             |   8/12  |   Last week  | 01/05/2023 |
 | [50710](https://myanimelist.net/anime/50710) |  tv  |  2022  |   6   |                                             Urusei Yatsura (2022)                                            |   9/23  |   Last week  | 10/14/2022 |
 | [49612](https://myanimelist.net/anime/49612) |  tv  |  2023  |   -   |                          Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu                         |   9/12  |   Last week  | 01/04/2023 |

@@ -1,7 +1,8 @@
-# Plan to Watch (222)
+# Plan to Watch (221)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [54703](https://myanimelist.net/anime/54703) |    tv   |    -   |     manga    |                                              Fumetsu no Anata e Season 3                                             |  15 hours ago |        -        |
 | [51535](https://myanimelist.net/anime/51535) | special |  2023  |     manga    |                                  Shingeki no Kyojin: The Final Season - Kanketsu-hen                                 |   Last week   |        -        |
 | [52198](https://myanimelist.net/anime/52198) |  movie  |  2022  |     manga    |                                  Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai                                  |   Last week   |        -        |
 | [52635](https://myanimelist.net/anime/52635) |    tv   |    -   |   web_manga  |                                                Kami no Tou 2nd Season                                                |   Last week   |        -        |
@@ -19,7 +20,7 @@
 | [37525](https://myanimelist.net/anime/37525) |    tv   |  2019  |     novel    |                                                        Babylon                                                       |   Last month  |        -        |
 | [37447](https://myanimelist.net/anime/37447) |    tv   |  2018  |     manga    |                                                    Karakuri Circus                                                   |   Last month  |        -        |
 | [54250](https://myanimelist.net/anime/54250) | unknown |    -   |   web_manga  |                                   Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen)                                  |   Last month  |        -        |
-| [53179](https://myanimelist.net/anime/53179) |    tv   |  2023  |   original   |                                                     Ars no Kyojuu                                                    |   Last month  |        -        |
+| [53179](https://myanimelist.net/anime/53179) |    tv   |  2023  |   original   |                                                     Ars no Kyojuu                                                    |  2 months ago |        -        |
 | [50384](https://myanimelist.net/anime/50384) |    tv   |  2023  |     manga    |                                                     Mononogatari                                                     |  2 months ago |        -        |
 | [48418](https://myanimelist.net/anime/48418) |    tv   |    -   |  light_novel |  Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 |  2 months ago |        -        |
 | [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |     manga    |                                          Ijiranaide, Nagatoro-san 2nd Attack                                         |  2 months ago |    01/08/2023   |
@@ -71,7 +72,6 @@
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |  8 months ago |        -        |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |  2023  |  light_novel |                                          Kono Subarashii Sekai ni Bakuen wo!                                         |  8 months ago |        -        |
 | [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                     Date A Live V                                                    |  9 months ago |        -        |
-| [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |     manga    |                                           UQ Holder! Mahou Sensei Negima! 2                                          |  9 months ago |        -        |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                            Enen no Shouboutai: San no Shou                                           | 10 months ago |        -        |
 |   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                           Kino no Tabi: The Beautiful World                                          | 10 months ago |        -        |
 | [51252](https://myanimelist.net/anime/51252) |    tv   |  2023  |  light_novel |                                                    Spy Kyoushitsu                                                    | 10 months ago |        -        |
@@ -108,7 +108,6 @@
 | [48997](https://myanimelist.net/anime/48997) |    tv   |  2022  |     manga    |                                           Fantasy Bishoujo Juniku Ojisan to                                          |   02/01/2022  |        -        |
 | [41006](https://myanimelist.net/anime/41006) |    tv   |  2020  | visual_novel |                                             Higurashi no Naku Koro ni Gou                                            |   01/31/2022  |        -        |
 | [37521](https://myanimelist.net/anime/37521) |    tv   |  2019  |     manga    |                                                     Vinland Saga                                                     |   01/30/2022  |        -        |
-| [48553](https://myanimelist.net/anime/48553) |    tv   |  2022  |   web_manga  |                                               Akebi-chan no Sailor-fuku                                              |   01/29/2022  |        -        |
 | [10490](https://myanimelist.net/anime/10490) |    tv   |  2011  |   original   |                                                        Blood-C                                                       |   01/26/2022  |        -        |
 |  [3786](https://myanimelist.net/anime/3786)  |  movie  |  2021  |   original   |                                        Evangelion: 3.0+1.0 Thrice Upon a Time                                        |   01/22/2022  |        -        |
 |  [3784](https://myanimelist.net/anime/3784)  |  movie  |  2009  |   original   |                                         Evangelion: 2.0 You Can (Not) Advance                                        |   01/22/2022  |        -        |
@@ -149,7 +148,7 @@
 | [48569](https://myanimelist.net/anime/48569) |    tv   |  2021  |  light_novel |                                                       86 Part 2                                                      |   09/21/2021  |        -        |
 | [23289](https://myanimelist.net/anime/23289) |    tv   |  2014  | 4_koma_manga |                                               Gekkan Shoujo Nozaki-kun                                               |   09/20/2021  |        -        |
 | [39456](https://myanimelist.net/anime/39456) |    tv   |  2019  |     manga    |                                                    Sounan desu ka?                                                   |   09/13/2021  |        -        |
-| [49709](https://myanimelist.net/anime/49709) |    tv   |  2022  |     manga    |                                             Fumetsu no Anata e 2nd Season                                            |   08/31/2021  |        -        |
+| [49709](https://myanimelist.net/anime/49709) |    tv   |  2022  |     manga    |                                              Fumetsu no Anata e Season 2                                             |   08/31/2021  |        -        |
 | [15037](https://myanimelist.net/anime/15037) |   ova   |  2013  | visual_novel |                           Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou                           |   08/30/2021  |        -        |
 | [37055](https://myanimelist.net/anime/37055) |  movie  |  2019  |  light_novel |                                                   Youjo Senki Movie                                                  |   08/29/2021  |        -        |
 | [49233](https://myanimelist.net/anime/49233) |    tv   |    -   |  light_novel |                                                    Youjo Senki II                                                    |   08/29/2021  |        -        |
