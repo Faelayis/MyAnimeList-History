@@ -1,9 +1,10 @@
-# Completed (407)
+# Completed (408)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [34604](https://myanimelist.net/anime/34604) |   ova   |  2017  |   7   |                                   UQ Holder! Mahou Sensei Negima! 2 OVA                                   |  10 hours ago | 03/14/2023 |  03/14/2023 |
-| [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |   7   |                                     UQ Holder! Mahou Sensei Negima! 2                                     |  10 hours ago | 03/13/2023 |  03/14/2023 |
+| [29803](https://myanimelist.net/anime/29803) |    tv   |  2015  |   8   |                                                  Overlord                                                 |  7 hours ago  | 03/15/2023 |  03/15/2023 |
+| [34604](https://myanimelist.net/anime/34604) |   ova   |  2017  |   7   |                                   UQ Holder! Mahou Sensei Negima! 2 OVA                                   |   Yesterday   | 03/14/2023 |  03/14/2023 |
+| [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |   7   |                                     UQ Holder! Mahou Sensei Negima! 2                                     |   Yesterday   | 03/13/2023 |  03/14/2023 |
 | [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |   8   |                                        Mahou Shoujo Ikusei Keikaku                                        |  2 weeks ago  | 02/27/2023 |  02/28/2023 |
 | [50404](https://myanimelist.net/anime/50404) |   ona   |  2022  |   6   |                                      Xian Wang de Richang Shenghuo 3                                      |  2 weeks ago  | 10/03/2022 |  02/26/2023 |
 | [14513](https://myanimelist.net/anime/14513) |    tv   |  2012  |   6   |                                        Magi: The Labyrinth of Magic                                       |  2 weeks ago  | 02/23/2023 |  02/25/2023 |
@@ -56,7 +57,7 @@
 | [50410](https://myanimelist.net/anime/50410) |  movie  |  2022  |   7   |                                            One Piece Film: Red                                            |  7 months ago | 08/26/2022 |  08/26/2022 |
 | [39324](https://myanimelist.net/anime/39324) |    tv   |  2019  |   9   |              Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.              |  7 months ago | 08/26/2022 |  08/26/2022 |
 | [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |  8 months ago | 05/13/2022 |  07/08/2022 |
-|   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  8 months ago | 07/06/2022 |  07/06/2022 |
+|   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |  9 months ago | 07/06/2022 |  07/06/2022 |
 | [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |  9 months ago | 04/07/2022 |  06/29/2022 |
 | [42847](https://myanimelist.net/anime/42847) |  movie  |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |  9 months ago | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |    tv   |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |  9 months ago | 04/09/2022 |  06/26/2022 |
@@ -83,8 +84,8 @@
 | [30296](https://myanimelist.net/anime/30296) |    tv   |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         | 11 months ago | 04/18/2022 |  04/18/2022 |
 | [13403](https://myanimelist.net/anime/13403) | special |  2012  |   7   |                           Inu x Boku SS: Miketsukami-kun Henka/Switch/Omamagoto                           | 11 months ago | 04/15/2022 |  04/15/2022 |
 | [11013](https://myanimelist.net/anime/11013) |    tv   |  2012  |   8   |                                               Inu x Boku SS                                               | 11 months ago | 04/14/2022 |  04/15/2022 |
-| [32827](https://myanimelist.net/anime/32827) |   ona   |  2018  |   7   |                                              B: The Beginning                                             | 11 months ago | 04/12/2022 |  04/13/2022 |
-| [39049](https://myanimelist.net/anime/39049) |    tv   |  2020  |   7   |                                           Jashin-chan Dropkick'                                           | 11 months ago | 04/10/2022 |  04/13/2022 |
+| [32827](https://myanimelist.net/anime/32827) |   ona   |  2018  |   7   |                                              B: The Beginning                                             |   Last year   | 04/12/2022 |  04/13/2022 |
+| [39049](https://myanimelist.net/anime/39049) |    tv   |  2020  |   7   |                                           Jashin-chan Dropkick'                                           |   Last year   | 04/10/2022 |  04/13/2022 |
 | [23277](https://myanimelist.net/anime/23277) |    tv   |  2015  |   5   |                                        Saenai Heroine no Sodatekata                                       |   Last year   | 04/09/2022 |  04/10/2022 |
 | [33674](https://myanimelist.net/anime/33674) |  movie  |  2017  |   10  |                                           No Game No Life: Zero                                           |   Last year   | 04/05/2022 |  04/06/2022 |
 | [19815](https://myanimelist.net/anime/19815) |    tv   |  2014  |   8   |                                              No Game No Life                                              |   Last year   | 06/06/2020 |  04/05/2022 |
@@ -212,7 +213,7 @@
 | [15583](https://myanimelist.net/anime/15583) |    tv   |  2013  |   7   |                                                Date A Live                                                |   Last year   | 06/21/2021 |  06/21/2021 |
 | [17641](https://myanimelist.net/anime/17641) |   ova   |  2013  |   6   |                                         Date A Live: Date to Date                                         |   Last year   | 06/21/2021 |  06/21/2021 |
 | [44942](https://myanimelist.net/anime/44942) |   ona   |  2021  |   6   |                                            Shuumatsu no Walküre                                           |   Last year   | 06/20/2021 |  06/20/2021 |
-| [41456](https://myanimelist.net/anime/41456) |    tv   |  2021  |   7   |                                          Sentouin, Hakenshimasu!                                          | 11 months ago | 04/04/2021 |  06/20/2021 |
+| [41456](https://myanimelist.net/anime/41456) |    tv   |  2021  |   7   |                                          Sentouin, Hakenshimasu!                                          |   Last year   | 04/04/2021 |  06/20/2021 |
 |  [3712](https://myanimelist.net/anime/3712)  |    tv   |  2008  |   6   |                                   Zero no Tsukaima: Princesses no Rondo                                   |   Last year   | 06/14/2021 |  06/17/2021 |
 |  [1840](https://myanimelist.net/anime/1840)  |    tv   |  2007  |   7   |                                    Zero no Tsukaima: Futatsuki no Kishi                                   |   Last year   | 06/13/2021 |  06/14/2021 |
 | [33513](https://myanimelist.net/anime/33513) |  movie  |  2016  |   6   |                                   Ansatsu Kyoushitsu: 365-nichi no Jikan                                  |   Last year   | 06/13/2021 |  06/13/2021 |
