@@ -1,10 +1,9 @@
-# Plan to Watch (223)
+# Plan to Watch (221)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [54234](https://myanimelist.net/anime/54234) |    tv   |  2023  |     manga    |                                           Suki na Ko ga Megane wo Wasureta                                           |   2 days ago  |        -        |
-| [12293](https://myanimelist.net/anime/12293) |    tv   |  2012  |  light_novel |                                 Campione! Matsurowanu Kamigami to Kamigoroshi no Maou                                |   3 days ago  |        -        |
-| [54703](https://myanimelist.net/anime/54703) |    tv   |    -   |     manga    |                                              Fumetsu no Anata e Season 3                                             |   6 days ago  |        -        |
+| [54234](https://myanimelist.net/anime/54234) |    tv   |  2023  |     manga    |                                           Suki na Ko ga Megane wo Wasureta                                           |   3 days ago  |        -        |
+| [54703](https://myanimelist.net/anime/54703) |    tv   |    -   |     manga    |                                              Fumetsu no Anata e Season 3                                             |   Last week   |        -        |
 | [51535](https://myanimelist.net/anime/51535) | special |  2023  |     manga    |                                  Shingeki no Kyojin: The Final Season - Kanketsu-hen                                 |  2 weeks ago  |        -        |
 | [52198](https://myanimelist.net/anime/52198) |  movie  |  2022  |     manga    |                                  Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai                                  |  2 weeks ago  |        -        |
 | [52635](https://myanimelist.net/anime/52635) |    tv   |    -   |   web_manga  |                                                Kami no Tou 2nd Season                                                |  2 weeks ago  |        -        |
@@ -25,7 +24,6 @@
 | [53179](https://myanimelist.net/anime/53179) |    tv   |  2023  |   original   |                                                     Ars no Kyojuu                                                    |  2 months ago |        -        |
 | [50384](https://myanimelist.net/anime/50384) |    tv   |  2023  |     manga    |                                                     Mononogatari                                                     |  2 months ago |        -        |
 | [48418](https://myanimelist.net/anime/48418) |    tv   |    -   |  light_novel |  Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 |  2 months ago |        -        |
-| [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |     manga    |                                          Ijiranaide, Nagatoro-san 2nd Attack                                         |  2 months ago |    01/08/2023   |
 | [22789](https://myanimelist.net/anime/22789) |    tv   |  2014  |   web_manga  |                                                       Barakamon                                                      |  2 months ago |        -        |
 | [53924](https://myanimelist.net/anime/53924) | unknown |    -   |     manga    |                                    Jibaku Shounen Hanako-kun (Anime Shin Project)                                    |  3 months ago |        -        |
 | [53913](https://myanimelist.net/anime/53913) |    tv   |    -   |  light_novel |                                             Tensei shitara Ken deshita 2                                             |  3 months ago |        -        |
@@ -69,7 +67,7 @@
 | [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                    Fate/Apocrypha                                                    |  7 months ago |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                                   Summertime Render                                                  |  8 months ago |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                    |  8 months ago |        -        |
-| [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |  8 months ago |        -        |
+| [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                 |  9 months ago |        -        |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho                                |  9 months ago |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                    |  9 months ago |        -        |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |  2023  |  light_novel |                                          Kono Subarashii Sekai ni Bakuen wo!                                         |  9 months ago |        -        |

@@ -1,12 +1,13 @@
-# Watching (18)
+# Watching (19)
 
 |                      id                      | Type | Season | Score |                                                     Title                                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [49918](https://myanimelist.net/anime/49918) |  tv  |  2022  |   -   |                                       Boku no Hero Academia 6th Season                                       |  24/25  | 10 hours ago | 10/02/2022 |
-| [50608](https://myanimelist.net/anime/50608) |  tv  |  2023  |   8   |                                       Tokyo Revengers: Seiya Kessen-hen                                      |  11/13  | 10 hours ago | 01/08/2023 |
-| [52173](https://myanimelist.net/anime/52173) |  tv  |  2023  |   7   |                                 Koori Zokusei Danshi to Cool na Douryou Joshi                                |  11/12  |  4 days ago  | 02/25/2023 |
-| [50481](https://myanimelist.net/anime/50481) |  tv  |  2023  |   -   |               Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀               |   9/12  |  4 days ago  | 02/21/2023 |
-| [48553](https://myanimelist.net/anime/48553) |  tv  |  2022  |   -   |                                           Akebi-chan no Sailor-fuku                                          |   3/12  |  6 days ago  | 03/13/2023 |
+| [50197](https://myanimelist.net/anime/50197) |  tv  |  2023  |   -   |                                      Ijiranaide, Nagatoro-san 2nd Attack                                     |   2/12  |  9 hours ago | 03/20/2023 |
+| [49918](https://myanimelist.net/anime/49918) |  tv  |  2022  |   -   |                                       Boku no Hero Academia 6th Season                                       |  24/25  |   Yesterday  | 10/02/2022 |
+| [50608](https://myanimelist.net/anime/50608) |  tv  |  2023  |   8   |                                       Tokyo Revengers: Seiya Kessen-hen                                      |  11/13  |   Yesterday  | 01/08/2023 |
+| [52173](https://myanimelist.net/anime/52173) |  tv  |  2023  |   7   |                                 Koori Zokusei Danshi to Cool na Douryou Joshi                                |  11/12  |  5 days ago  | 02/25/2023 |
+| [50481](https://myanimelist.net/anime/50481) |  tv  |  2023  |   -   |               Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀               |   9/12  |  5 days ago  | 02/21/2023 |
+| [48553](https://myanimelist.net/anime/48553) |  tv  |  2022  |   -   |                                           Akebi-chan no Sailor-fuku                                          |   3/12  |   Last week  | 03/13/2023 |
 | [35062](https://myanimelist.net/anime/35062) |  tv  |  2017  |   -   |                                              Mahoutsukai no Yome                                             |   5/24  |   Last week  | 03/01/2023 |
 | [50739](https://myanimelist.net/anime/50739) |  tv  |  2023  |   7   |                      Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                     |  10/12  |   Last week  | 01/16/2023 |
 | [51678](https://myanimelist.net/anime/51678) |  tv  |  2023  |   7   |                                             Oniichan wa Oshimai!                                             |   8/12  |  2 weeks ago | 01/05/2023 |
