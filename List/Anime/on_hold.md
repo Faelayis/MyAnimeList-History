@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |   -   |                                               Amaama to Inazuma                                              |   3/12  |   Last month  | 01/12/2023 |
-| [48417](https://myanimelist.net/anime/48417) |    tv   |  2023  |   -   | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II |   3/?   |   3 days ago  | 01/08/2023 |
+| [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |   -   |                                               Amaama to Inazuma                                              |   3/12  |  2 months ago | 01/12/2023 |
+| [48417](https://myanimelist.net/anime/48417) |    tv   |  2023  |   -   | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II |   3/?   |   4 days ago  | 01/08/2023 |
 | [50205](https://myanimelist.net/anime/50205) |    tv   |  2022  |   -   |                                           Arknights: Reimei Zensou                                           |   3/8   |  3 weeks ago  | 11/06/2022 |
 | [49596](https://myanimelist.net/anime/49596) |    tv   |  2022  |   -   |                                                   Blue Lock                                                  |   8/24  |  3 weeks ago  | 10/16/2022 |
 |  [5114](https://myanimelist.net/anime/5114)  |    tv   |  2009  |   -   |                                       Fullmetal Alchemist: Brotherhood                                       |  47/64  |  5 months ago | 10/07/2022 |
