@@ -1,17 +1,21 @@
-# Completed (418)
+# Completed (422)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [50854](https://myanimelist.net/anime/50854) |    tv   |  2023  |   7   |                                     Benriya Saitou-san, Isekai ni Iku                                     |  10 hours ago | 03/29/2023 |  03/29/2023 |
-| [50481](https://myanimelist.net/anime/50481) |    tv   |  2023  |   6   |              Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀             |  10 hours ago | 02/21/2023 |  03/29/2023 |
-| [50739](https://myanimelist.net/anime/50739) |    tv   |  2023  |   7   |                    Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                    |  10 hours ago | 01/16/2023 |  03/29/2023 |
-| [49877](https://myanimelist.net/anime/49877) |  movie  |  2022  |   8   |                         Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen                         |   5 days ago  | 03/24/2023 |  03/24/2023 |
+| [52305](https://myanimelist.net/anime/52305) |    tv   |  2023  |   6   |                                           Tomo-chan wa Onnanoko!                                          |  10 hours ago | 01/16/2023 |  03/30/2023 |
+| [51678](https://myanimelist.net/anime/51678) |    tv   |  2023  |   7   |                                            Oniichan wa Oshimai!                                           |  10 hours ago | 01/05/2023 |  03/30/2023 |
+| [49784](https://myanimelist.net/anime/49784) |    tv   |  2022  |   6   |                                     Mairimashita! Iruma-kun 3rd Season                                    |  10 hours ago | 10/09/2022 |  03/30/2023 |
+| [49918](https://myanimelist.net/anime/49918) |    tv   |  2022  |   8   |                                      Boku no Hero Academia 6th Season                                     |  10 hours ago | 10/02/2022 |  03/30/2023 |
+| [50854](https://myanimelist.net/anime/50854) |    tv   |  2023  |   7   |                                     Benriya Saitou-san, Isekai ni Iku                                     |   Yesterday   | 03/29/2023 |  03/29/2023 |
+| [50481](https://myanimelist.net/anime/50481) |    tv   |  2023  |   6   |              Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀             |   Yesterday   | 02/21/2023 |  03/29/2023 |
+| [50739](https://myanimelist.net/anime/50739) |    tv   |  2023  |   7   |                    Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                    |   Yesterday   | 01/16/2023 |  03/29/2023 |
+| [49877](https://myanimelist.net/anime/49877) |  movie  |  2022  |   8   |                         Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen                         |   6 days ago  | 03/24/2023 |  03/24/2023 |
 | [52173](https://myanimelist.net/anime/52173) |    tv   |  2023  |   7   |                               Koori Zokusei Danshi to Cool na Douryou Joshi                               |   Last week   | 02/25/2023 |  03/22/2023 |
 | [49612](https://myanimelist.net/anime/49612) |    tv   |  2023  |   5   |                        Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu                        |   Last week   | 01/04/2023 |  03/22/2023 |
 | [48895](https://myanimelist.net/anime/48895) |    tv   |  2022  |   8   |                                                Overlord IV                                                |   Last week   | 03/18/2023 |  03/19/2023 |
 | [37675](https://myanimelist.net/anime/37675) |    tv   |  2018  |   7   |                                                Overlord III                                               |   Last week   | 03/16/2023 |  03/18/2023 |
 | [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |   9   |            Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen           |   Last week   | 01/05/2023 |  03/18/2023 |
-| [35073](https://myanimelist.net/anime/35073) |    tv   |  2018  |   6   |                                                Overlord II                                                |   Last week   | 03/16/2023 |  03/16/2023 |
+| [35073](https://myanimelist.net/anime/35073) |    tv   |  2018  |   6   |                                                Overlord II                                                |  2 weeks ago  | 03/16/2023 |  03/16/2023 |
 | [29803](https://myanimelist.net/anime/29803) |    tv   |  2015  |   8   |                                                  Overlord                                                 |  2 weeks ago  | 03/15/2023 |  03/15/2023 |
 | [34604](https://myanimelist.net/anime/34604) |   ova   |  2017  |   7   |                                   UQ Holder! Mahou Sensei Negima! 2 OVA                                   |  2 weeks ago  | 03/14/2023 |  03/14/2023 |
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |   7   |                                     UQ Holder! Mahou Sensei Negima! 2                                     |  2 weeks ago  | 03/13/2023 |  03/14/2023 |
@@ -239,7 +243,7 @@
 | [33487](https://myanimelist.net/anime/33487) |    tv   |  2017  |   7   |                                          Masamune-kun no Revenge                                          |   Last year   | 05/29/2021 |  05/29/2021 |
 | [37377](https://myanimelist.net/anime/37377) |   ova   |  2018  |   5   |    Masamune-kun no Revenge: Uchi no Mama ni Kagitte/Tsunade Shima, Futatabi./12-Ji wo Sugita Cinderella   |   Last year   | 05/29/2021 |  05/29/2021 |
 | [39017](https://myanimelist.net/anime/39017) |    tv   |  2020  |   7   |                                                Kyokou Suiri                                               |   Last year   | 11/28/2020 |  05/28/2021 |
-| [23385](https://myanimelist.net/anime/23385) | special |  2014  |   8   |                                        Kyoukai no Kanata: Shinonome                                       |   Last year   | 05/27/2021 |  05/27/2021 |
+| [23385](https://myanimelist.net/anime/23385) | special |  2014  |   8   |                                        Kyoukai no Kanata: Shinonome                                       |  2 years ago  | 05/27/2021 |  05/27/2021 |
 |  [6547](https://myanimelist.net/anime/6547)  |    tv   |  2010  |   7   |                                                Angel Beats!                                               |   Last year   | 05/24/2021 |  05/24/2021 |
 | [43609](https://myanimelist.net/anime/43609) |   ova   |  2021  |   8   |                       Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA                      |   Last year   | 05/24/2021 |  05/24/2021 |
 | [16067](https://myanimelist.net/anime/16067) |    tv   |  2013  |   10  |                                              Nagi no Asu kara                                             | 11 months ago | 05/20/2021 |  05/20/2021 |

@@ -1,13 +1,16 @@
-# On Hold (60)
+# On Hold (63)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
+|  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  |   -   |                                                  Amagami SS                                                  |   7/25  |  10 hours ago | 03/23/2023 |
+| [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |   -   |                                      Ijiranaide, Nagatoro-san 2nd Attack                                     |   2/12  |  10 hours ago | 03/20/2023 |
+| [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |   -   |                                              Mahoutsukai no Yome                                             |   5/24  |  10 hours ago | 03/01/2023 |
 | [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |   -   |                                               Amaama to Inazuma                                              |   3/12  |  2 months ago | 01/12/2023 |
-| [44204](https://myanimelist.net/anime/44204) |    tv   |  2023  |   -   |                                             Kyokou Suiri Season 2                                            |   1/12  |  10 hours ago | 01/09/2023 |
-| [48417](https://myanimelist.net/anime/48417) |    tv   |  2023  |   -   | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II |   3/?   |   5 days ago  | 01/08/2023 |
+| [44204](https://myanimelist.net/anime/44204) |    tv   |  2023  |   -   |                                             Kyokou Suiri Season 2                                            |   1/12  |   Yesterday   | 01/09/2023 |
+| [48417](https://myanimelist.net/anime/48417) |    tv   |  2023  |   -   | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II |   3/?   |   6 days ago  | 01/08/2023 |
 | [50205](https://myanimelist.net/anime/50205) |    tv   |  2022  |   -   |                                           Arknights: Reimei Zensou                                           |   3/8   |  3 weeks ago  | 11/06/2022 |
 | [49596](https://myanimelist.net/anime/49596) |    tv   |  2022  |   -   |                                                   Blue Lock                                                  |   8/24  |  3 weeks ago  | 10/16/2022 |
-| [50710](https://myanimelist.net/anime/50710) |    tv   |  2022  |   6   |                                             Urusei Yatsura (2022)                                            |   9/23  |  10 hours ago | 10/14/2022 |
+| [50710](https://myanimelist.net/anime/50710) |    tv   |  2022  |   6   |                                             Urusei Yatsura (2022)                                            |   9/23  |   Yesterday   | 10/14/2022 |
 |  [5114](https://myanimelist.net/anime/5114)  |    tv   |  2009  |   -   |                                       Fullmetal Alchemist: Brotherhood                                       |  47/64  |  5 months ago | 10/07/2022 |
 | [52046](https://myanimelist.net/anime/52046) |    tv   |  2022  |   -   |               Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau              |   2/13  |  3 months ago | 10/05/2022 |
 | [49891](https://myanimelist.net/anime/49891) |    tv   |  2022  |   -   |                                          Tensei shitara Ken deshita                                          |   3/12  |  3 months ago | 09/30/2022 |
@@ -16,7 +19,7 @@
 | [49220](https://myanimelist.net/anime/49220) |    tv   |  2022  |   -   |                                                 Isekai Ojisan                                                |   4/13  |  6 months ago | 07/08/2022 |
 | [51096](https://myanimelist.net/anime/51096) |    tv   |  2022  |   -   |                          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season                          |   1/13  |  7 months ago | 07/05/2022 |
 | [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |   -   |                                                   Yuru Yuri                                                  |   3/12  |  7 months ago | 06/30/2022 |
-| [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                                                   Fate/Zero                                                  |   2/13  | 11 months ago | 04/26/2022 |
+| [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                                                   Fate/Zero                                                  |   2/13  |   Last year   | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                                            Madan no Ou to Vanadis                                            |   6/13  |   Last week   | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                                               Machikado Mazoku                                               |   3/12  |  5 months ago | 04/19/2022 |
 | [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |                                       Kawaii dake ja Nai Shikimori-san                                       |   5/12  |  8 months ago | 04/10/2022 |
