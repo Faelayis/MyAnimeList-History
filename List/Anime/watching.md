@@ -1,18 +1,17 @@
-# Watching (14)
+# Watching (13)
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [28171](https://myanimelist.net/anime/28171) |  tv  |  2015  |   -   |                                             Shokugeki no Souma                                            |  12/24  | 10 hours ago | 04/05/2023 |
-| [18153](https://myanimelist.net/anime/18153) |  tv  |  2013  |   -   |                                             Kyoukai no Kanata                                             |   5/12  |   Yesterday  | 05/27/2021 |
-| [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   -   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   1/?   |   Yesterday  | 04/04/2023 |
-| [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   6   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   1/12  |  2 days ago  | 04/03/2023 |
-| [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   9   |                                                 Jigokuraku                                                |   1/13  |  2 days ago  | 04/02/2023 |
-| [53126](https://myanimelist.net/anime/53126) |  tv  |  2023  |   6   |                                     Yamada-kun to Lv999 no Koi wo Suru                                    |   1/13  |  3 days ago  | 04/02/2023 |
-| [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                                       Boku no Kokoro no Yabai Yatsu                                       |   1/12  |  3 days ago  | 04/02/2023 |
-| [53393](https://myanimelist.net/anime/53393) |  tv  |  2023  |   8   |                                             Tengoku Daimakyou                                             |   1/13  |  3 days ago  | 04/02/2023 |
-| [32867](https://myanimelist.net/anime/32867) |  tv  |  2016  |   -   |                                        Bungou Stray Dogs 2nd Season                                       |   4/12  |  4 days ago  | 10/25/2021 |
-| [41514](https://myanimelist.net/anime/41514) |  tv  |  2023  |   6   |                   Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                   |  10/12  |  4 days ago  | 01/12/2023 |
-| [48553](https://myanimelist.net/anime/48553) |  tv  |  2022  |   -   |                                         Akebi-chan no Sailor-fuku                                         |   3/12  |  3 weeks ago | 03/13/2023 |
+| [53126](https://myanimelist.net/anime/53126) |  tv  |  2023  |   7   |                                     Yamada-kun to Lv999 no Koi wo Suru                                    |   1/13  | 10 hours ago | 04/02/2023 |
+| [35788](https://myanimelist.net/anime/35788) |  tv  |  2017  |   -   |                                      Shokugeki no Souma: San no Sara                                      |   1/12  | 10 hours ago | 04/06/2023 |
+| [51958](https://myanimelist.net/anime/51958) |  tv  |  2023  |   -   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   1/12  | 12 hours ago | 04/06/2023 |
+| [18153](https://myanimelist.net/anime/18153) |  tv  |  2013  |   -   |                                             Kyoukai no Kanata                                             |   5/12  |  2 days ago  | 05/27/2021 |
+| [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   -   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   1/?   |  2 days ago  | 04/04/2023 |
+| [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   6   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   1/12  |  3 days ago  | 04/03/2023 |
+| [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   9   |                                                 Jigokuraku                                                |   1/13  |  3 days ago  | 04/02/2023 |
+| [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                                       Boku no Kokoro no Yabai Yatsu                                       |   1/12  |  4 days ago  | 04/02/2023 |
+| [53393](https://myanimelist.net/anime/53393) |  tv  |  2023  |   8   |                                             Tengoku Daimakyou                                             |   1/13  |  4 days ago  | 04/02/2023 |
+| [41514](https://myanimelist.net/anime/41514) |  tv  |  2023  |   6   |                   Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                   |  10/12  |  5 days ago  | 01/12/2023 |
 | [51815](https://myanimelist.net/anime/51815) |  tv  |  2023  |   -   |                                        Kubo-san wa Mob wo Yurusanai                                       |   6/12  |  Last month  | 01/11/2023 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1051/? |  Last month  | 01/01/2013 |
 | [49618](https://myanimelist.net/anime/49618) |  ona |  2023  |   -   |                                          Shuumatsu no Walküre II                                          |  10/15  | 2 months ago | 01/27/2023 |
