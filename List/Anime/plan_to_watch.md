@@ -1,12 +1,10 @@
-# Plan to Watch (224)
+# Plan to Watch (222)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [51019](https://myanimelist.net/anime/51019) |    tv   |  2023  |     manga    |                                       Kimetsu no Yaiba: Katanakaji no Sato-hen                                       |   Yesterday   |    04/09/2023   |
-| [50307](https://myanimelist.net/anime/50307) |    tv   |  2023  |     manga    |                                              Tonikaku Kawaii 2nd Season                                              |   Yesterday   |    04/08/2023   |
-| [54918](https://myanimelist.net/anime/54918) |    tv   |    -   |     manga    |                                             Tokyo Revengers: Tenjiku-hen                                             |   3 days ago  |        -        |
-| [52211](https://myanimelist.net/anime/52211) |    tv   |  2023  |     manga    |                                                        Mashle                                                        |   4 days ago  |    04/08/2023   |
-| [40961](https://myanimelist.net/anime/40961) |    tv   |  2021  |     game     |                                                    Hortensia Saga                                                    |   5 days ago  |        -        |
+| [51019](https://myanimelist.net/anime/51019) |    tv   |  2023  |     manga    |                                       Kimetsu no Yaiba: Katanakaji no Sato-hen                                       |   2 days ago  |    04/09/2023   |
+| [54918](https://myanimelist.net/anime/54918) |    tv   |    -   |     manga    |                                             Tokyo Revengers: Tenjiku-hen                                             |   4 days ago  |        -        |
+| [40961](https://myanimelist.net/anime/40961) |    tv   |  2021  |     game     |                                                    Hortensia Saga                                                    |   6 days ago  |        -        |
 | [54865](https://myanimelist.net/anime/54865) |    tv   |    -   |     manga    |                                                 Blue Lock 2nd Season                                                 |   Last week   |        -        |
 | [52299](https://myanimelist.net/anime/52299) |    tv   |  2024  |   web_manga  |                                               Ore dake Level Up na Ken                                               |   Last week   |        -        |
 | [31245](https://myanimelist.net/anime/31245) |  movie  |  2016  |     music    |                                  Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai                                 |   Last week   |        -        |
@@ -197,7 +195,7 @@
 | [15039](https://myanimelist.net/anime/15039) |  movie  |  2013  |   original   |                            Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie                            |  2 years ago  |        -        |
 | [39569](https://myanimelist.net/anime/39569) |  movie  |  2019  |   original   |                                             Sora no Aosa wo Shiru Hito yo                                            |  2 years ago  |        -        |
 | [48548](https://myanimelist.net/anime/48548) |  movie  |  2022  |     manga    |                                              5-toubun no Hanayome Movie                                              |  2 years ago  |        -        |
-| [40357](https://myanimelist.net/anime/40357) |    tv   |    -   |  light_novel |                                         Tate no Yuusha no Nariagari Season 3                                         |  2 years ago  |        -        |
+| [40357](https://myanimelist.net/anime/40357) |    tv   |  2023  |  light_novel |                                         Tate no Yuusha no Nariagari Season 3                                         |  2 years ago  |        -        |
 | [29095](https://myanimelist.net/anime/29095) |    tv   |  2015  | visual_novel |                                                   Grisaia no Rakuen                                                  |  2 years ago  |        -        |
 | [46431](https://myanimelist.net/anime/46431) |   ova   |  2023  |  light_novel |                              Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan OVA                             |  2 years ago  |        -        |
 | [33004](https://myanimelist.net/anime/33004) | special |  2016  |     manga    |                                            Tanaka-kun wa Kyou mo Kedaruge                                            |  2 years ago  |        -        |
