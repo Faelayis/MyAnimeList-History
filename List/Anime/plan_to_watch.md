@@ -1,10 +1,11 @@
-# Plan to Watch (222)
+# Plan to Watch (223)
 
 |                      id                      |   Type  | Season |    Source    |                                                         Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [51019](https://myanimelist.net/anime/51019) |    tv   |  2023  |     manga    |                                       Kimetsu no Yaiba: Katanakaji no Sato-hen                                       |   2 days ago  |    04/09/2023   |
-| [54918](https://myanimelist.net/anime/54918) |    tv   |    -   |     manga    |                                             Tokyo Revengers: Tenjiku-hen                                             |   4 days ago  |        -        |
-| [40961](https://myanimelist.net/anime/40961) |    tv   |  2021  |     game     |                                                    Hortensia Saga                                                    |   6 days ago  |        -        |
+| [51536](https://myanimelist.net/anime/51536) |    tv   |  2023  |   web_manga  |                                         The IDOLM@STER Cinderella Girls: U149                                        |  7 hours ago  |        -        |
+| [51019](https://myanimelist.net/anime/51019) |    tv   |  2023  |     manga    |                                       Kimetsu no Yaiba: Katanakaji no Sato-hen                                       |   3 days ago  |    04/09/2023   |
+| [54918](https://myanimelist.net/anime/54918) |    tv   |    -   |     manga    |                                             Tokyo Revengers: Tenjiku-hen                                             |   5 days ago  |        -        |
+| [40961](https://myanimelist.net/anime/40961) |    tv   |  2021  |     game     |                                                    Hortensia Saga                                                    |   Last week   |        -        |
 | [54865](https://myanimelist.net/anime/54865) |    tv   |    -   |     manga    |                                                 Blue Lock 2nd Season                                                 |   Last week   |        -        |
 | [52299](https://myanimelist.net/anime/52299) |    tv   |  2024  |   web_manga  |                                               Ore dake Level Up na Ken                                               |   Last week   |        -        |
 | [31245](https://myanimelist.net/anime/31245) |  movie  |  2016  |     music    |                                  Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai                                 |   Last week   |        -        |
@@ -66,8 +67,8 @@
 |  [6372](https://myanimelist.net/anime/6372)  |  movie  |  2009  |   original   |                                       Higashi no Eden Movie I: The King of Eden                                      |  7 months ago |        -        |
 |  [6927](https://myanimelist.net/anime/6927)  |  movie  |  2009  |   original   |                                          Higashi no Eden: Air Communication                                          |  7 months ago |        -        |
 |   [585](https://myanimelist.net/anime/585)   |  movie  |  1995  |     manga    |                                                   Mimi wo Sumaseba                                                   |  7 months ago |        -        |
-|  [7627](https://myanimelist.net/anime/7627)  |    tv   |  2010  |     manga    |                                                      Mitsudomoe                                                      |  7 months ago |        -        |
-| [38759](https://myanimelist.net/anime/38759) |    tv   |  2019  |   web_manga  |                                             Sewayaki Kitsune no Senko-san                                            |  7 months ago |        -        |
+|  [7627](https://myanimelist.net/anime/7627)  |    tv   |  2010  |     manga    |                                                      Mitsudomoe                                                      |  8 months ago |        -        |
+| [38759](https://myanimelist.net/anime/38759) |    tv   |  2019  |   web_manga  |                                             Sewayaki Kitsune no Senko-san                                            |  8 months ago |        -        |
 | [38924](https://myanimelist.net/anime/38924) |    tv   |  2020  | visual_novel |                                                       Nekopara                                                       |  8 months ago |        -        |
 | [15051](https://myanimelist.net/anime/15051) |    tv   |  2013  |     other    |                                            Love Live! School Idol Project                                            |  8 months ago |        -        |
 | [50338](https://myanimelist.net/anime/50338) |    tv   |  2022  |     manga    |                                           Kunoichi Tsubaki no Mune no Uchi                                           |  8 months ago |        -        |
