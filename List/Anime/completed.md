@@ -1,14 +1,15 @@
-# Completed (431)
+# Completed (432)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [35788](https://myanimelist.net/anime/35788) |    tv   |  2017  |   8   |                                      Shokugeki no Souma: San no Sara                                      |  8 hours ago  | 04/06/2023 |  04/09/2023 |
-| [50612](https://myanimelist.net/anime/50612) | special |  2022  |   5   |                                             Dr. Stone: Ryuusui                                            |   3 days ago  | 04/06/2023 |  04/06/2023 |
-| [48561](https://myanimelist.net/anime/48561) |  movie  |  2021  |   7   |                                           Jujutsu Kaisen 0 Movie                                          |   3 days ago  | 04/06/2023 |  04/06/2023 |
-| [32282](https://myanimelist.net/anime/32282) |    tv   |  2016  |   6   |                                       Shokugeki no Souma: Ni no Sara                                      |   3 days ago  | 04/06/2023 |  04/06/2023 |
-| [28171](https://myanimelist.net/anime/28171) |    tv   |  2015  |   7   |                                             Shokugeki no Souma                                            |   3 days ago  | 04/05/2023 |  04/06/2023 |
-| [34822](https://myanimelist.net/anime/34822) |    tv   |  2017  |   8   |                                               Tsuki ga Kirei                                              |   6 days ago  | 04/02/2023 |  04/03/2023 |
-| [40530](https://myanimelist.net/anime/40530) |    tv   |  2021  |   9   |                                          Jaku-Chara Tomozaki-kun                                          |   6 days ago  | 01/09/2021 |  04/03/2023 |
+| [36949](https://myanimelist.net/anime/36949) |    tv   |  2018  |   8   |                           Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen                           |  9 hours ago  | 04/09/2023 |  04/10/2023 |
+| [35788](https://myanimelist.net/anime/35788) |    tv   |  2017  |   8   |                                      Shokugeki no Souma: San no Sara                                      |   Yesterday   | 04/06/2023 |  04/09/2023 |
+| [50612](https://myanimelist.net/anime/50612) | special |  2022  |   5   |                                             Dr. Stone: Ryuusui                                            |   4 days ago  | 04/06/2023 |  04/06/2023 |
+| [48561](https://myanimelist.net/anime/48561) |  movie  |  2021  |   7   |                                           Jujutsu Kaisen 0 Movie                                          |   4 days ago  | 04/06/2023 |  04/06/2023 |
+| [32282](https://myanimelist.net/anime/32282) |    tv   |  2016  |   6   |                                       Shokugeki no Souma: Ni no Sara                                      |   4 days ago  | 04/06/2023 |  04/06/2023 |
+| [28171](https://myanimelist.net/anime/28171) |    tv   |  2015  |   7   |                                             Shokugeki no Souma                                            |   4 days ago  | 04/05/2023 |  04/06/2023 |
+| [34822](https://myanimelist.net/anime/34822) |    tv   |  2017  |   8   |                                               Tsuki ga Kirei                                              |   Last week   | 04/02/2023 |  04/03/2023 |
+| [40530](https://myanimelist.net/anime/40530) |    tv   |  2021  |   9   |                                          Jaku-Chara Tomozaki-kun                                          |   Last week   | 01/09/2021 |  04/03/2023 |
 | [50932](https://myanimelist.net/anime/50932) |    tv   |  2023  |   8   |                                    Saikyou Onmyouji no Isekai Tenseiki                                    |   Last week   | 03/30/2023 |  04/02/2023 |
 | [50608](https://myanimelist.net/anime/50608) |    tv   |  2023  |   8   |                                     Tokyo Revengers: Seiya Kessen-hen                                     |   Last week   | 01/08/2023 |  04/02/2023 |
 | [52305](https://myanimelist.net/anime/52305) |    tv   |  2023  |   6   |                                           Tomo-chan wa Onnanoko!                                          |   Last week   | 01/16/2023 |  03/30/2023 |
@@ -45,7 +46,7 @@
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  |   8   |                                              Bocchi the Rock!                                             |  3 months ago | 12/20/2022 |  12/27/2022 |
 | [50425](https://myanimelist.net/anime/50425) |    tv   |  2022  |   7   |                                         Fuufu Ijou, Koibito Miman.                                        |  3 months ago | 10/24/2022 |  12/27/2022 |
 | [50602](https://myanimelist.net/anime/50602) |    tv   |  2022  |   6   |                                            Spy x Family Part 2                                            |  3 months ago | 10/02/2022 |  12/27/2022 |
-| [36999](https://myanimelist.net/anime/36999) |  movie  |  2018  |   7   |                                            Zoku Owarimonogatari                                           |  3 months ago | 12/14/2022 |  12/19/2022 |
+| [36999](https://myanimelist.net/anime/36999) |  movie  |  2018  |   7   |                                            Zoku Owarimonogatari                                           |  4 months ago | 12/14/2022 |  12/19/2022 |
 | [35247](https://myanimelist.net/anime/35247) |    tv   |  2017  |   8   |                                         Owarimonogatari 2nd Season                                        |  4 months ago | 12/09/2022 |  12/11/2022 |
 | [31757](https://myanimelist.net/anime/31757) |  movie  |  2016  |   6   |                                      Kizumonogatari II: Nekketsu-hen                                      |  4 months ago | 12/09/2022 |  12/09/2022 |
 | [31758](https://myanimelist.net/anime/31758) |  movie  |  2017  |   9   |                                      Kizumonogatari III: Reiketsu-hen                                     |  4 months ago | 12/09/2022 |  12/09/2022 |
@@ -61,8 +62,8 @@
 | [38883](https://myanimelist.net/anime/38883) |    tv   |  2020  |   7   |                                            Haikyuu!! To the Top                                           |  5 months ago | 11/10/2022 |  11/12/2022 |
 | [32935](https://myanimelist.net/anime/32935) |    tv   |  2016  |   7   |                         Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou                         |  5 months ago | 11/07/2022 |  11/08/2022 |
 | [20583](https://myanimelist.net/anime/20583) |    tv   |  2014  |   7   |                                                 Haikyuu!!                                                 |  5 months ago | 10/28/2022 |  10/31/2022 |
-| [39651](https://myanimelist.net/anime/39651) |   ova   |  2019  |   5   |           Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi          |  5 months ago | 10/24/2022 |  10/24/2022 |
-| [37510](https://myanimelist.net/anime/37510) |    tv   |  2019  |   8   |                                             Mob Psycho 100 II                                             |  5 months ago | 10/23/2022 |  10/24/2022 |
+| [39651](https://myanimelist.net/anime/39651) |   ova   |  2019  |   5   |           Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi          |  6 months ago | 10/24/2022 |  10/24/2022 |
+| [37510](https://myanimelist.net/anime/37510) |    tv   |  2019  |   8   |                                             Mob Psycho 100 II                                             |  6 months ago | 10/23/2022 |  10/24/2022 |
 | [32182](https://myanimelist.net/anime/32182) |    tv   |  2016  |   7   |                                               Mob Psycho 100                                              |  6 months ago | 02/05/2022 |  10/23/2022 |
 | [16436](https://myanimelist.net/anime/16436) | special |  2013  |   2   |                                               Tenshi no Drop                                              |  6 months ago | 10/16/2022 |  10/16/2022 |
 |  [6213](https://myanimelist.net/anime/6213)  |    tv   |  2009  |   7   |                                          Toaru Kagaku no Railgun                                          |  6 months ago | 09/06/2022 |  10/16/2022 |
