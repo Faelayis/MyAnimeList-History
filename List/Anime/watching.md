@@ -1,18 +1,20 @@
-# Watching (17)
+# Watching (19)
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [39940](https://myanimelist.net/anime/39940) |  tv  |  2019  |   -   |                                      Shokugeki no Souma: Shin no Sara                                     |   8/12  |  8 hours ago | 04/10/2023 |
-| [50307](https://myanimelist.net/anime/50307) |  tv  |  2023  |   7   |                                         Tonikaku Kawaii 2nd Season                                        |   1/?   |  8 hours ago | 04/08/2023 |
-| [48549](https://myanimelist.net/anime/48549) |  tv  |  2023  |   7   |                                            Dr. Stone: New World                                           |   1/?   |  8 hours ago | 04/06/2023 |
-| [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   9   |                                                "Oshi no Ko"                                               |   1/11  |  8 hours ago | 04/12/2023 |
-| [51958](https://myanimelist.net/anime/51958) |  tv  |  2023  |   -   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   2/12  |  9 hours ago | 04/06/2023 |
-| [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   6   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   2/12  |   Yesterday  | 04/03/2023 |
-| [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   -   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   2/13  |   Yesterday  | 04/04/2023 |
-| [51019](https://myanimelist.net/anime/51019) |  tv  |  2023  |   -   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |   1/?   |  2 days ago  | 04/09/2023 |
-| [53393](https://myanimelist.net/anime/53393) |  tv  |  2023  |   8   |                                             Tengoku Daimakyou                                             |   2/13  |  4 days ago  | 04/02/2023 |
-| [53126](https://myanimelist.net/anime/53126) |  tv  |  2023  |   7   |                                     Yamada-kun to Lv999 no Koi wo Suru                                    |   2/13  |  4 days ago  | 04/02/2023 |
-| [52211](https://myanimelist.net/anime/52211) |  tv  |  2023  |   -   |                                                   Mashle                                                  |   1/12  |  5 days ago  | 04/08/2023 |
+| [10110](https://myanimelist.net/anime/10110) |  tv  |  2011  |   -   |                                                Mayo Chiki!                                                |   4/13  |  9 hours ago | 04/14/2023 |
+| [51536](https://myanimelist.net/anime/51536) |  tv  |  2023  |   -   |                                   The IDOLM@STER Cinderella Girls: U149                                   |   0/12  | 20 hours ago | 04/13/2023 |
+| [39940](https://myanimelist.net/anime/39940) |  tv  |  2019  |   -   |                                      Shokugeki no Souma: Shin no Sara                                     |   8/12  |   Yesterday  | 04/10/2023 |
+| [50307](https://myanimelist.net/anime/50307) |  tv  |  2023  |   7   |                                         Tonikaku Kawaii 2nd Season                                        |   1/?   |   Yesterday  | 04/08/2023 |
+| [48549](https://myanimelist.net/anime/48549) |  tv  |  2023  |   7   |                                            Dr. Stone: New World                                           |   1/?   |   Yesterday  | 04/06/2023 |
+| [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   9   |                                                "Oshi no Ko"                                               |   1/11  |   Yesterday  | 04/12/2023 |
+| [51958](https://myanimelist.net/anime/51958) |  tv  |  2023  |   -   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   2/12  |   Yesterday  | 04/06/2023 |
+| [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   6   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   2/12  |  2 days ago  | 04/03/2023 |
+| [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   -   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   2/13  |  2 days ago  | 04/04/2023 |
+| [51019](https://myanimelist.net/anime/51019) |  tv  |  2023  |   -   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |   1/?   |  3 days ago  | 04/09/2023 |
+| [53393](https://myanimelist.net/anime/53393) |  tv  |  2023  |   8   |                                             Tengoku Daimakyou                                             |   2/13  |  5 days ago  | 04/02/2023 |
+| [53126](https://myanimelist.net/anime/53126) |  tv  |  2023  |   7   |                                     Yamada-kun to Lv999 no Koi wo Suru                                    |   2/13  |  5 days ago  | 04/02/2023 |
+| [52211](https://myanimelist.net/anime/52211) |  tv  |  2023  |   -   |                                                   Mashle                                                  |   1/12  |  6 days ago  | 04/08/2023 |
 | [18153](https://myanimelist.net/anime/18153) |  tv  |  2013  |   -   |                                             Kyoukai no Kanata                                             |   5/12  |   Last week  | 05/27/2021 |
 | [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   9   |                                                 Jigokuraku                                                |   1/13  |   Last week  | 04/02/2023 |
 | [41514](https://myanimelist.net/anime/41514) |  tv  |  2023  |   6   |                   Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                   |  10/12  |   Last week  | 01/12/2023 |
