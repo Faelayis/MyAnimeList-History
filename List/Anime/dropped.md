@@ -1,7 +1,8 @@
-# Dropped (32)
+# Dropped (33)
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
+| [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |   Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito   |   3/12  |  9 hours ago  | 04/03/2023 |
 | [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                         Boku no Kokoro no Yabai Yatsu                        |   2/12  |   Last week   | 04/02/2023 |
 | [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |             Campione! Matsurowanu Kamigami to Kamigoroshi no Maou            |   1/13  |   Last month  | 03/20/2023 |
 |   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                           Higurashi no Naku Koro ni                          |  10/26  |  4 months ago | 12/23/2022 |
@@ -16,7 +17,7 @@
 | [46471](https://myanimelist.net/anime/46471) |  tv  |  2021  |   5   |                           Tantei wa Mou, Shindeiru.                          |   2/12  |   Last year   | 07/04/2021 |
 | [19221](https://myanimelist.net/anime/19221) |  tv  |  2013  |   5   | Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru |   5/10  |  3 weeks ago  | 06/20/2021 |
 | [11319](https://myanimelist.net/anime/11319) |  tv  |  2012  |   5   |                              Zero no Tsukaima F                              |   1/12  |   Last year   | 06/17/2021 |
-| [30383](https://myanimelist.net/anime/30383) |  tv  |  2015  |   -   |                               Classroom☆Crisis                               |   2/13  |   Last year   | 06/07/2021 |
+| [30383](https://myanimelist.net/anime/30383) |  tv  |  2015  |   -   |                               Classroom☆Crisis                               |   2/13  |  2 years ago  | 06/07/2021 |
 |  [2167](https://myanimelist.net/anime/2167)  |  tv  |  2007  |   -   |                                    Clannad                                   |   1/23  |  2 years ago  | 06/05/2021 |
 | [42307](https://myanimelist.net/anime/42307) |  tv  |  2021  |   2   |                     Subarashiki Kono Sekai The Animation                     |   2/12  |  2 years ago  | 04/24/2021 |
 | [42826](https://myanimelist.net/anime/42826) |  tv  |  2021  |   4   |                        Seijo no Maryoku wa Bannou desu                       |   1/12  |   Last year   | 04/07/2021 |
