@@ -1,8 +1,9 @@
-# Completed (433)
+# Completed (434)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [39940](https://myanimelist.net/anime/39940) |    tv   |  2019  |   9   |                                      Shokugeki no Souma: Shin no Sara                                     |   4 days ago  | 04/10/2023 |  04/16/2023 |
+| [39940](https://myanimelist.net/anime/39940) |    tv   |  2019  |   9   |                                      Shokugeki no Souma: Shin no Sara                                     |   5 days ago  | 04/10/2023 |  04/16/2023 |
+| [55016](https://myanimelist.net/anime/55016) |  music  |  2023  |   9   |                                                    Idol                                                   |  23 hours ago | 04/12/2023 |  04/12/2023 |
 | [36949](https://myanimelist.net/anime/36949) |    tv   |  2018  |   8   |                           Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen                           |   Last week   | 04/09/2023 |  04/10/2023 |
 | [35788](https://myanimelist.net/anime/35788) |    tv   |  2017  |   8   |                                      Shokugeki no Souma: San no Sara                                      |   Last week   | 04/06/2023 |  04/09/2023 |
 | [50612](https://myanimelist.net/anime/50612) | special |  2022  |   5   |                                             Dr. Stone: Ryuusui                                            |  2 weeks ago  | 04/06/2023 |  04/06/2023 |
@@ -20,7 +21,7 @@
 | [50854](https://myanimelist.net/anime/50854) |    tv   |  2023  |   7   |                                     Benriya Saitou-san, Isekai ni Iku                                     |  3 weeks ago  | 03/29/2023 |  03/29/2023 |
 | [50481](https://myanimelist.net/anime/50481) |    tv   |  2023  |   6   |              Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀             |  3 weeks ago  | 02/21/2023 |  03/29/2023 |
 | [50739](https://myanimelist.net/anime/50739) |    tv   |  2023  |   7   |                    Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                    |  3 weeks ago  | 01/16/2023 |  03/29/2023 |
-| [49877](https://myanimelist.net/anime/49877) |  movie  |  2022  |   8   |                         Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen                         |  3 weeks ago  | 03/24/2023 |  03/24/2023 |
+| [49877](https://myanimelist.net/anime/49877) |  movie  |  2022  |   8   |                         Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen                         |   Last month  | 03/24/2023 |  03/24/2023 |
 | [52173](https://myanimelist.net/anime/52173) |    tv   |  2023  |   7   |                               Koori Zokusei Danshi to Cool na Douryou Joshi                               |   Last month  | 02/25/2023 |  03/22/2023 |
 | [49612](https://myanimelist.net/anime/49612) |    tv   |  2023  |   5   |                        Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu                        |   Last month  | 01/04/2023 |  03/22/2023 |
 | [48895](https://myanimelist.net/anime/48895) |    tv   |  2022  |   8   |                                                Overlord IV                                                |   Last month  | 03/18/2023 |  03/19/2023 |
@@ -89,14 +90,14 @@
 | [50265](https://myanimelist.net/anime/50265) |    tv   |  2022  |   10  |                                                Spy x Family                                               | 10 months ago | 04/09/2022 |  06/26/2022 |
 | [41461](https://myanimelist.net/anime/41461) |    tv   |  2022  |   8   |                                               Date A Live IV                                              |   Last month  | 04/08/2022 |  06/26/2022 |
 | [50175](https://myanimelist.net/anime/50175) |    tv   |  2022  |   7   |                                              Yuusha, Yamemasu                                             | 10 months ago | 04/06/2022 |  06/26/2022 |
-| [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               | 10 months ago | 05/01/2022 |  06/17/2022 |
+| [50380](https://myanimelist.net/anime/50380) |    tv   |  2022  |   6   |                                               Paripi Koumei                                               | 11 months ago | 05/01/2022 |  06/17/2022 |
 | [48761](https://myanimelist.net/anime/48761) |    tv   |  2021  |   6   |                                             Saihate no Paladin                                            |   Last month  | 06/10/2022 |  06/10/2022 |
 | [50474](https://myanimelist.net/anime/50474) | special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |   Last month  | 06/10/2022 |  06/10/2022 |
 | [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        | 11 months ago | 05/28/2022 |  06/07/2022 |
 | [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   7   |                                        Toaru Kagaku no Accelerator                                        | 11 months ago | 05/14/2022 |  06/07/2022 |
 | [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             | 11 months ago | 05/27/2022 |  05/28/2022 |
 |  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         | 11 months ago | 05/20/2022 |  05/27/2022 |
-|  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          | 11 months ago | 05/14/2022 |  05/20/2022 |
+|  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |   Last year   | 05/14/2022 |  05/20/2022 |
 | [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |   Last year   | 05/16/2022 |  05/19/2022 |
 | [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |   Last year   | 05/12/2022 |  05/13/2022 |
 | [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   10  |                                              Owari no Seraph                                              | 11 months ago | 05/12/2022 |  05/12/2022 |
