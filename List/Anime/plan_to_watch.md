@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [34177](https://myanimelist.net/anime/34177) |    tv   |  2017  |  light_novel |                                                    Tenshi no 3P!                                                    |   5 days ago  |        -        |
-| [51536](https://myanimelist.net/anime/51536) |    tv   |  2023  |   web_manga  |                                        The IDOLM@STER Cinderella Girls: U149                                        |   5 days ago  |        -        |
+| [34177](https://myanimelist.net/anime/34177) |    tv   |  2017  |  light_novel |                                                    Tenshi no 3P!                                                    |   6 days ago  |        -        |
+| [51536](https://myanimelist.net/anime/51536) |    tv   |  2023  |   web_manga  |                                        The IDOLM@STER Cinderella Girls: U149                                        |   6 days ago  |        -        |
 | [55005](https://myanimelist.net/anime/55005) | special |  2020  |     manga    |                                       Munou na Nana Mini Anime: Yaminabe Party                                      |   Last week   |        -        |
 | [40046](https://myanimelist.net/anime/40046) |    tv   |  2020  |   original   |                                                      Id:Invaded                                                     |   Last week   |        -        |
 | [54918](https://myanimelist.net/anime/54918) |    tv   |    -   |     manga    |                                             Tokyo Revengers: Tenjiku-hen                                            |  3 weeks ago  |        -        |
