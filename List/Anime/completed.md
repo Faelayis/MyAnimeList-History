@@ -1,9 +1,11 @@
-# Completed (434)
+# Completed (436)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [10863](https://myanimelist.net/anime/10863) | special |  2012  |   8   |                                   Steins;Gate: Oukoubakko no Poriomania                                   |  10 hours ago | 04/28/2023 |  04/28/2023 |
+|  [9253](https://myanimelist.net/anime/9253)  |    tv   |  2011  |   8   |                                                Steins;Gate                                                |  10 hours ago | 04/26/2023 |  04/28/2023 |
 | [39940](https://myanimelist.net/anime/39940) |    tv   |  2019  |   9   |                                      Shokugeki no Souma: Shin no Sara                                     |   Last week   | 04/10/2023 |  04/16/2023 |
-| [55016](https://myanimelist.net/anime/55016) |  music  |  2023  |   9   |                                                    Idol                                                   |   6 days ago  | 04/12/2023 |  04/12/2023 |
+| [55016](https://myanimelist.net/anime/55016) |  music  |  2023  |   9   |                                                    Idol                                                   |   Last week   | 04/12/2023 |  04/12/2023 |
 | [36949](https://myanimelist.net/anime/36949) |    tv   |  2018  |   8   |                           Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen                           |  2 weeks ago  | 04/09/2023 |  04/10/2023 |
 | [35788](https://myanimelist.net/anime/35788) |    tv   |  2017  |   8   |                                      Shokugeki no Souma: San no Sara                                      |  2 weeks ago  | 04/06/2023 |  04/09/2023 |
 | [50612](https://myanimelist.net/anime/50612) | special |  2022  |   5   |                                             Dr. Stone: Ryuusui                                            |  3 weeks ago  | 04/06/2023 |  04/06/2023 |
@@ -50,9 +52,9 @@
 | [50602](https://myanimelist.net/anime/50602) |    tv   |  2022  |   6   |                                            Spy x Family Part 2                                            |  4 months ago | 10/02/2022 |  12/27/2022 |
 | [36999](https://myanimelist.net/anime/36999) |  movie  |  2018  |   7   |                                            Zoku Owarimonogatari                                           |  4 months ago | 12/14/2022 |  12/19/2022 |
 | [35247](https://myanimelist.net/anime/35247) |    tv   |  2017  |   8   |                                         Owarimonogatari 2nd Season                                        |  4 months ago | 12/09/2022 |  12/11/2022 |
-| [31757](https://myanimelist.net/anime/31757) |  movie  |  2016  |   6   |                                      Kizumonogatari II: Nekketsu-hen                                      |  4 months ago | 12/09/2022 |  12/09/2022 |
-| [31758](https://myanimelist.net/anime/31758) |  movie  |  2017  |   9   |                                      Kizumonogatari III: Reiketsu-hen                                     |  4 months ago | 12/09/2022 |  12/09/2022 |
-|  [9260](https://myanimelist.net/anime/9260)  |  movie  |  2016  |   7   |                                       Kizumonogatari I: Tekketsu-hen                                      |  4 months ago | 11/26/2022 |  12/09/2022 |
+| [31757](https://myanimelist.net/anime/31757) |  movie  |  2016  |   6   |                                      Kizumonogatari II: Nekketsu-hen                                      |  5 months ago | 12/09/2022 |  12/09/2022 |
+| [31758](https://myanimelist.net/anime/31758) |  movie  |  2017  |   9   |                                      Kizumonogatari III: Reiketsu-hen                                     |  5 months ago | 12/09/2022 |  12/09/2022 |
+|  [9260](https://myanimelist.net/anime/9260)  |  movie  |  2016  |   7   |                                       Kizumonogatari I: Tekketsu-hen                                      |  5 months ago | 11/26/2022 |  12/09/2022 |
 | [42916](https://myanimelist.net/anime/42916) |  movie  |  2021  |   5   |                       Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria                       |  5 months ago | 11/28/2022 |  11/28/2022 |
 | [32268](https://myanimelist.net/anime/32268) |   ona   |  2016  |   5   |                                              Koyomimonogatari                                             |  5 months ago | 11/26/2022 |  11/26/2022 |
 | [31181](https://myanimelist.net/anime/31181) |    tv   |  2015  |   6   |                                              Owarimonogatari                                              |  5 months ago | 11/26/2022 |  11/26/2022 |
@@ -96,7 +98,7 @@
 | [36432](https://myanimelist.net/anime/36432) |    tv   |  2018  |   8   |                                         Toaru Majutsu no Index III                                        | 11 months ago | 05/28/2022 |  06/07/2022 |
 | [38480](https://myanimelist.net/anime/38480) |    tv   |  2019  |   7   |                                        Toaru Kagaku no Accelerator                                        | 11 months ago | 05/14/2022 |  06/07/2022 |
 | [11743](https://myanimelist.net/anime/11743) |  movie  |  2013  |   7   |                              Toaru Majutsu no Index Movie: Endymion no Kiseki                             | 11 months ago | 05/27/2022 |  05/28/2022 |
-|  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         | 11 months ago | 05/20/2022 |  05/27/2022 |
+|  [8937](https://myanimelist.net/anime/8937)  |    tv   |  2010  |   8   |                                         Toaru Majutsu no Index II                                         |   Last year   | 05/20/2022 |  05/27/2022 |
 |  [4654](https://myanimelist.net/anime/4654)  |    tv   |  2008  |   7   |                                           Toaru Majutsu no Index                                          |   Last year   | 05/14/2022 |  05/20/2022 |
 | [39518](https://myanimelist.net/anime/39518) |   ona   |  2022  |   8   |                                           Vampire in the Garden                                           |   Last year   | 05/16/2022 |  05/19/2022 |
 | [28927](https://myanimelist.net/anime/28927) |    tv   |  2015  |   9   |                                     Owari no Seraph: Nagoya Kessen-hen                                    |   Last year   | 05/12/2022 |  05/13/2022 |
@@ -231,9 +233,9 @@
 | [36407](https://myanimelist.net/anime/36407) |    tv   |  2019  |   7   |                                               Kenja no Mago                                               |   Last year   | 06/30/2021 |  07/01/2021 |
 | [42361](https://myanimelist.net/anime/42361) |    tv   |  2021  |   7   |                                          Ijiranaide, Nagatoro-san                                         |   Last year   | 04/19/2021 |  06/30/2021 |
 | [40938](https://myanimelist.net/anime/40938) |    tv   |  2021  |   7   |                                Hige wo Soru. Soshite Joshikousei wo Hirou.                                |   Last year   | 04/06/2021 |  06/30/2021 |
-| [41623](https://myanimelist.net/anime/41623) |    tv   |  2021  |   6   |                              Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω                             |   Last year   | 04/13/2021 |  06/25/2021 |
-| [44276](https://myanimelist.net/anime/44276) |    tv   |  2021  |   7   |                  Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara                  |   Last year   | 04/10/2021 |  06/25/2021 |
-| [41488](https://myanimelist.net/anime/41488) |    tv   |  2021  |   8   |                               Tensura Nikki: Tensei shitara Slime Datta Ken                               |   Last year   | 04/10/2021 |  06/25/2021 |
+| [41623](https://myanimelist.net/anime/41623) |    tv   |  2021  |   6   |                              Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω                             |  2 years ago  | 04/13/2021 |  06/25/2021 |
+| [44276](https://myanimelist.net/anime/44276) |    tv   |  2021  |   7   |                  Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara                  |  2 years ago  | 04/10/2021 |  06/25/2021 |
+| [41488](https://myanimelist.net/anime/41488) |    tv   |  2021  |   8   |                               Tensura Nikki: Tensei shitara Slime Datta Ken                               |  2 years ago  | 04/10/2021 |  06/25/2021 |
 | [28623](https://myanimelist.net/anime/28623) |    tv   |  2016  |   8   |                                          Koutetsujou no Kabaneri                                          |  2 years ago  | 06/23/2021 |  06/23/2021 |
 | [33352](https://myanimelist.net/anime/33352) |    tv   |  2018  |   7   |                                             Violet Evergarden                                             |  2 years ago  | 06/04/2021 |  06/23/2021 |
 | [15583](https://myanimelist.net/anime/15583) |    tv   |  2013  |   7   |                                                Date A Live                                                |  2 years ago  | 06/21/2021 |  06/21/2021 |
