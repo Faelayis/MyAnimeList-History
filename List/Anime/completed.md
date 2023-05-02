@@ -2,9 +2,9 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |   7   |        Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu       |  9 hours ago  | 04/29/2023 |  05/01/2023 |
-| [10863](https://myanimelist.net/anime/10863) | special |  2012  |   8   |                                   Steins;Gate: Oukoubakko no Poriomania                                   |   3 days ago  | 04/28/2023 |  04/28/2023 |
-|  [9253](https://myanimelist.net/anime/9253)  |    tv   |  2011  |   8   |                                                Steins;Gate                                                |   3 days ago  | 04/26/2023 |  04/28/2023 |
+| [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |   7   |        Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu       |   Yesterday   | 04/29/2023 |  05/01/2023 |
+| [10863](https://myanimelist.net/anime/10863) | special |  2012  |   8   |                                   Steins;Gate: Oukoubakko no Poriomania                                   |   4 days ago  | 04/28/2023 |  04/28/2023 |
+|  [9253](https://myanimelist.net/anime/9253)  |    tv   |  2011  |   8   |                                                Steins;Gate                                                |   4 days ago  | 04/26/2023 |  04/28/2023 |
 | [39940](https://myanimelist.net/anime/39940) |    tv   |  2019  |   9   |                                      Shokugeki no Souma: Shin no Sara                                     |  2 weeks ago  | 04/10/2023 |  04/16/2023 |
 | [55016](https://myanimelist.net/anime/55016) |  music  |  2023  |   9   |                                                    Idol                                                   |   Last week   | 04/12/2023 |  04/12/2023 |
 | [36949](https://myanimelist.net/anime/36949) |    tv   |  2018  |   8   |                           Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen                           |  3 weeks ago  | 04/09/2023 |  04/10/2023 |
@@ -43,7 +43,7 @@
 | [13659](https://myanimelist.net/anime/13659) |    tv   |  2013  |   7   |                                Ore no Imouto ga Konnani Kawaii Wake ga Nai.                               |  3 months ago | 01/17/2023 |  01/17/2023 |
 | [18857](https://myanimelist.net/anime/18857) |   ona   |  2013  |   6   |                           Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials                           |  3 months ago | 01/17/2023 |  01/17/2023 |
 |  [8769](https://myanimelist.net/anime/8769)  |    tv   |  2010  |   7   |                                Ore no Imouto ga Konnani Kawaii Wake ga Nai                                |  3 months ago | 01/16/2023 |  01/17/2023 |
-| [51403](https://myanimelist.net/anime/51403) |    tv   |  2022  |   4   |                                                Renai Flops                                                |  3 months ago | 10/27/2022 |  01/10/2023 |
+| [51403](https://myanimelist.net/anime/51403) |    tv   |  2022  |   4   |                                                Renai Flops                                                |  4 months ago | 10/27/2022 |  01/10/2023 |
 | [16001](https://myanimelist.net/anime/16001) | special |  2012  |   7   |                                        Kokoro Connect: Michi Random                                       |  4 months ago | 01/09/2023 |  01/09/2023 |
 | [11887](https://myanimelist.net/anime/11887) |    tv   |  2012  |   7   |                                               Kokoro Connect                                              |  4 months ago | 01/07/2023 |  01/09/2023 |
 | [31043](https://myanimelist.net/anime/31043) |    tv   |  2016  |   9   |                                          Boku dake ga Inai Machi                                          |  4 months ago | 01/02/2023 |  01/02/2023 |
