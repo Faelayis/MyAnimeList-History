@@ -6,16 +6,16 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |  Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :---: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [53393](https://myanimelist.net/anime/53393) |   tv  |  2023  |   6   |                                             Tengoku Daimakyou                                             |   6/13  | 12 hours ago | 04/02/2023 |
-| [46569](https://myanimelist.net/anime/46569) |   tv  |  2023  |   8   |                                                 Jigokuraku                                                |   6/13  | 13 hours ago | 04/02/2023 |
-| [51019](https://myanimelist.net/anime/51019) |   tv  |  2023  |   9   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |   5/?   | 13 hours ago | 04/09/2023 |
-| [52211](https://myanimelist.net/anime/52211) |   tv  |  2023  |   7   |                                                   Mashle                                                  |   5/12  |   Yesterday  | 04/08/2023 |
-| [46422](https://myanimelist.net/anime/46422) |   tv  |  2023  |   -   |                                          Niehime to Kemono no Ou                                          |   0/24  |  2 days ago  | 05/06/2023 |
-| [48549](https://myanimelist.net/anime/48549) |   tv  |  2023  |   7   |                                            Dr. Stone: New World                                           |   5/11  |  3 days ago  | 04/06/2023 |
-| [51536](https://myanimelist.net/anime/51536) |   tv  |  2023  |   9   |                                   The IDOLM@STER Cinderella Girls: U149                                   |   4/12  |  4 days ago  | 05/02/2023 |
-| [51958](https://myanimelist.net/anime/51958) |   tv  |  2023  |   7   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   5/12  |  4 days ago  | 04/06/2023 |
-| [52034](https://myanimelist.net/anime/52034) |   tv  |  2023  |   9   |                                                "Oshi no Ko"                                               |   4/11  |  4 days ago  | 04/12/2023 |
-| [52830](https://myanimelist.net/anime/52830) |   tv  |  2023  |   7   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   5/13  |  6 days ago  | 04/04/2023 |
+| [53393](https://myanimelist.net/anime/53393) |   tv  |  2023  |   6   |                                             Tengoku Daimakyou                                             |   6/13  |   Yesterday  | 04/02/2023 |
+| [46569](https://myanimelist.net/anime/46569) |   tv  |  2023  |   8   |                                                 Jigokuraku                                                |   6/13  |   Yesterday  | 04/02/2023 |
+| [51019](https://myanimelist.net/anime/51019) |   tv  |  2023  |   9   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |   5/?   |   Yesterday  | 04/09/2023 |
+| [52211](https://myanimelist.net/anime/52211) |   tv  |  2023  |   7   |                                                   Mashle                                                  |   5/12  |  2 days ago  | 04/08/2023 |
+| [46422](https://myanimelist.net/anime/46422) |   tv  |  2023  |   -   |                                          Niehime to Kemono no Ou                                          |   0/24  |  3 days ago  | 05/06/2023 |
+| [48549](https://myanimelist.net/anime/48549) |   tv  |  2023  |   7   |                                            Dr. Stone: New World                                           |   5/11  |  4 days ago  | 04/06/2023 |
+| [51536](https://myanimelist.net/anime/51536) |   tv  |  2023  |   9   |                                   The IDOLM@STER Cinderella Girls: U149                                   |   4/12  |  5 days ago  | 05/02/2023 |
+| [51958](https://myanimelist.net/anime/51958) |   tv  |  2023  |   7   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   5/12  |  5 days ago  | 04/06/2023 |
+| [52034](https://myanimelist.net/anime/52034) |   tv  |  2023  |   9   |                                                "Oshi no Ko"                                               |   4/11  |  5 days ago  | 04/12/2023 |
+| [52830](https://myanimelist.net/anime/52830) |   tv  |  2023  |   7   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   5/13  |   Last week  | 04/04/2023 |
 | [53126](https://myanimelist.net/anime/53126) |   tv  |  2023  |   6   |                                     Yamada-kun to Lv999 no Koi wo Suru                                    |   2/13  |   Last week  | 04/02/2023 |
 
 
@@ -53,7 +53,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |   Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito   |   3/12  |  2 weeks ago  | 04/03/2023 |
+| [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |   Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito   |   3/12  |  3 weeks ago  | 04/03/2023 |
 | [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                         Boku no Kokoro no Yabai Yatsu                        |   2/12  |   Last month  | 04/02/2023 |
 | [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |             Campione! Matsurowanu Kamigami to Kamigoroshi no Maou            |   1/13  |   Last month  | 03/20/2023 |
 |   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                           Higurashi no Naku Koro ni                          |  10/26  |  4 months ago | 12/23/2022 |
@@ -67,7 +67,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [50416](https://myanimelist.net/anime/50416) |    tv   |  2023  |     manga    |                                                    Skip to Loafer                                                   |   2 days ago  |        -        |
+| [50416](https://myanimelist.net/anime/50416) |    tv   |  2023  |     manga    |                                                    Skip to Loafer                                                   |   3 days ago  |        -        |
 | [34177](https://myanimelist.net/anime/34177) |    tv   |  2017  |  light_novel |                                                    Tenshi no 3P!                                                    |  2 weeks ago  |        -        |
 | [55005](https://myanimelist.net/anime/55005) | special |  2020  |     manga    |                                       Munou na Nana Mini Anime: Yaminabe Party                                      |  3 weeks ago  |        -        |
 | [40046](https://myanimelist.net/anime/40046) |    tv   |  2020  |   original   |                                                      Id:Invaded                                                     |  3 weeks ago  |        -        |
