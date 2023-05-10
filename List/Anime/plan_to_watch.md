@@ -1,8 +1,7 @@
-# Plan to Watch (221)
+# Plan to Watch (220)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [50416](https://myanimelist.net/anime/50416) |    tv   |  2023  |     manga    |                                                    Skip to Loafer                                                   |   3 days ago  |        -        |
 | [34177](https://myanimelist.net/anime/34177) |    tv   |  2017  |  light_novel |                                                    Tenshi no 3P!                                                    |  2 weeks ago  |        -        |
 | [55005](https://myanimelist.net/anime/55005) | special |  2020  |     manga    |                                       Munou na Nana Mini Anime: Yaminabe Party                                      |  3 weeks ago  |        -        |
 | [40046](https://myanimelist.net/anime/40046) |    tv   |  2020  |   original   |                                                      Id:Invaded                                                     |  3 weeks ago  |        -        |
@@ -48,7 +47,7 @@
 | [32191](https://myanimelist.net/anime/32191) |   ona   |  2014  |  light_novel |                                      Okitegami Kyouko no Bibouroku x Monogatari                                     |  5 months ago |        -        |
 | [15689](https://myanimelist.net/anime/15689) |    tv   |  2012  |  light_novel |                                                 Nekomonogatari: Kuro                                                |  5 months ago |        -        |
 | [41467](https://myanimelist.net/anime/41467) |    tv   |  2022  |     manga    |                                              Bleach: Sennen Kessen-hen                                              |  5 months ago |        -        |
-| [33731](https://myanimelist.net/anime/33731) |    tv   |  2017  |     manga    |                                                   Gabriel DropOut                                                   |  5 months ago |        -        |
+| [33731](https://myanimelist.net/anime/33731) |    tv   |  2017  |     manga    |                                                   Gabriel DropOut                                                   |  6 months ago |        -        |
 | [31904](https://myanimelist.net/anime/31904) |    tv   |  2016  |     manga    |                                                    Big Order (TV)                                                   |  6 months ago |        -        |
 | [53580](https://myanimelist.net/anime/53580) |    tv   |  2024  |     manga    |                                      Tensei shitara Slime Datta Ken 3rd Season                                      |  6 months ago |        -        |
 | [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                            Mahou Shoujo Tokushusen Asuka                                            |  7 months ago |        -        |
@@ -80,7 +79,7 @@
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                   | 10 months ago |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                | 10 months ago |        -        |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho                               | 10 months ago |        -        |
-|  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                   | 10 months ago |        -        |
+|  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                   | 11 months ago |        -        |
 | [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                    Date A Live V                                                    | 11 months ago |        -        |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |    -   |     manga    |                                           Enen no Shouboutai: San no Shou                                           |   05/18/2022  |        -        |
 |   [486](https://myanimelist.net/anime/486)   |    tv   |  2003  |  light_novel |                                          Kino no Tabi: The Beautiful World                                          |   05/13/2022  |        -        |
