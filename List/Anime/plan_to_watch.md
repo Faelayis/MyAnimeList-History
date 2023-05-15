@@ -1,7 +1,10 @@
-# Plan to Watch (220)
+# Plan to Watch (223)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [31706](https://myanimelist.net/anime/31706) |    tv   |  2016  |     manga    |                                        Fate/kaleid liner Prisma☆Illya 3rei!!                                        |  14 hours ago |        -        |
+| [27525](https://myanimelist.net/anime/27525) |    tv   |  2015  |     manga    |                                      Fate/kaleid liner Prisma☆Illya 2wei Herz!                                      |  14 hours ago |        -        |
+| [20509](https://myanimelist.net/anime/20509) |    tv   |  2014  |     manga    |                                         Fate/kaleid liner Prisma☆Illya 2wei!                                        |  14 hours ago |        -        |
 | [34177](https://myanimelist.net/anime/34177) |    tv   |  2017  |  light_novel |                                                    Tenshi no 3P!                                                    |  3 weeks ago  |        -        |
 | [55005](https://myanimelist.net/anime/55005) | special |  2020  |     manga    |                                       Munou na Nana Mini Anime: Yaminabe Party                                      |   Last month  |        -        |
 | [40046](https://myanimelist.net/anime/40046) |    tv   |  2020  |   original   |                                                      Id:Invaded                                                     |   Last month  |        -        |
@@ -77,7 +80,7 @@
 | [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                    Fate/Apocrypha                                                   |  9 months ago |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                                  Summertime Render                                                  | 10 months ago |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                   | 10 months ago |        -        |
-| [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                | 10 months ago |        -        |
+| [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                | 11 months ago |        -        |
 | [52149](https://myanimelist.net/anime/52149) | special |  2022  |     manga    |                                Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho                               | 11 months ago |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |    tv   |  2007  |     manga    |                                                    Lovely★Complex                                                   | 11 months ago |        -        |
 | [52196](https://myanimelist.net/anime/52196) |    tv   |    -   |  light_novel |                                                    Date A Live V                                                    | 11 months ago |        -        |
@@ -163,7 +166,7 @@
 | [37497](https://myanimelist.net/anime/37497) |    tv   |  2018  |   original   |                                             Irozuku Sekai no Ashita kara                                            |   07/30/2021  |        -        |
 |  [1689](https://myanimelist.net/anime/1689)  |  movie  |  2007  |   original   |                                                Byousoku 5 Centimeter                                                |   07/16/2021  |        -        |
 | [20689](https://myanimelist.net/anime/20689) |    tv   |  2014  |  mixed_media |                                                Hamatora The Animation                                               |   07/15/2021  |        -        |
-| [27989](https://myanimelist.net/anime/27989) |    tv   |  2015  |     novel    |                                                  Hibike! Euphonium                                                  |   07/11/2021  |        -        |
+| [27989](https://myanimelist.net/anime/27989) |    tv   |  2015  |     novel    |                                                  Hibike! Euphonium                                                  |  2 years ago  |        -        |
 | [33157](https://myanimelist.net/anime/33157) | special |  2016  |   web_manga  |                                        Tanaka-kun wa Itsumo Kedaruge Specials                                       |  2 years ago  |        -        |
 | [34542](https://myanimelist.net/anime/34542) |    tv   |  2017  |     manga    |                                                      Inuyashiki                                                     |  2 years ago  |        -        |
 | [37475](https://myanimelist.net/anime/37475) |    tv   |  2018  |     manga    |                                               Kishuku Gakkou no Juliet                                              |  2 years ago  |        -        |
