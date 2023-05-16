@@ -1,10 +1,11 @@
-# Plan to Watch (223)
+# Plan to Watch (224)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [31706](https://myanimelist.net/anime/31706) |    tv   |  2016  |     manga    |                                        Fate/kaleid liner Prisma☆Illya 3rei!!                                        |  14 hours ago |        -        |
-| [27525](https://myanimelist.net/anime/27525) |    tv   |  2015  |     manga    |                                      Fate/kaleid liner Prisma☆Illya 2wei Herz!                                      |  14 hours ago |        -        |
-| [20509](https://myanimelist.net/anime/20509) |    tv   |  2014  |     manga    |                                         Fate/kaleid liner Prisma☆Illya 2wei!                                        |  14 hours ago |        -        |
+| [29093](https://myanimelist.net/anime/29093) | special |  2015  | visual_novel |                                        Grisaia no Meikyuu: Caprice no Mayu 0                                        |  8 hours ago  |        -        |
+| [31706](https://myanimelist.net/anime/31706) |    tv   |  2016  |     manga    |                                        Fate/kaleid liner Prisma☆Illya 3rei!!                                        |   Yesterday   |        -        |
+| [27525](https://myanimelist.net/anime/27525) |    tv   |  2015  |     manga    |                                      Fate/kaleid liner Prisma☆Illya 2wei Herz!                                      |   Yesterday   |        -        |
+| [20509](https://myanimelist.net/anime/20509) |    tv   |  2014  |     manga    |                                         Fate/kaleid liner Prisma☆Illya 2wei!                                        |   Yesterday   |        -        |
 | [34177](https://myanimelist.net/anime/34177) |    tv   |  2017  |  light_novel |                                                    Tenshi no 3P!                                                    |  3 weeks ago  |        -        |
 | [55005](https://myanimelist.net/anime/55005) | special |  2020  |     manga    |                                       Munou na Nana Mini Anime: Yaminabe Party                                      |   Last month  |        -        |
 | [40046](https://myanimelist.net/anime/40046) |    tv   |  2020  |   original   |                                                      Id:Invaded                                                     |   Last month  |        -        |
@@ -40,7 +41,7 @@
 | [53179](https://myanimelist.net/anime/53179) |    tv   |  2023  |   original   |                                                    Ars no Kyojuu                                                    |  4 months ago |        -        |
 | [50384](https://myanimelist.net/anime/50384) |    tv   |  2023  |     manga    |                                                     Mononogatari                                                    |  4 months ago |        -        |
 | [48418](https://myanimelist.net/anime/48418) |    tv   |    -   |  light_novel | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 |  4 months ago |        -        |
-| [22789](https://myanimelist.net/anime/22789) |    tv   |  2014  |   web_manga  |                                                      Barakamon                                                      |  4 months ago |        -        |
+| [22789](https://myanimelist.net/anime/22789) |    tv   |  2014  |   web_manga  |                                                      Barakamon                                                      |  5 months ago |        -        |
 | [53924](https://myanimelist.net/anime/53924) | unknown |    -   |     manga    |                                    Jibaku Shounen Hanako-kun (Anime Shin Project)                                   |  5 months ago |        -        |
 | [53913](https://myanimelist.net/anime/53913) |    tv   |    -   |  light_novel |                                             Tensei shitara Ken deshita 2                                            |  5 months ago |        -        |
 | [18679](https://myanimelist.net/anime/18679) |    tv   |  2013  |   original   |                                                     Kill la Kill                                                    |  5 months ago |        -        |
@@ -77,7 +78,7 @@
 | [49782](https://myanimelist.net/anime/49782) |    tv   |  2022  |     manga    |                                               Shadows House 2nd Season                                              |  9 months ago |        -        |
 | [49387](https://myanimelist.net/anime/49387) |    tv   |  2023  |     manga    |                                                Vinland Saga Season 2                                                |  9 months ago |        -        |
 | [52657](https://myanimelist.net/anime/52657) |    tv   |  2023  |   web_manga  |                                         Ousama Ranking: Yuuki no Takarabako                                         |  9 months ago |        -        |
-| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                    Fate/Apocrypha                                                   |  9 months ago |        -        |
+| [34662](https://myanimelist.net/anime/34662) |    tv   |  2017  |  light_novel |                                                    Fate/Apocrypha                                                   | 10 months ago |        -        |
 | [47194](https://myanimelist.net/anime/47194) |    tv   |  2022  |     manga    |                                                  Summertime Render                                                  | 10 months ago |        -        |
 |  [9874](https://myanimelist.net/anime/9874)  |   ova   |  2008  |     game     |                                    Touhou Niji Sousaku Doujin Anime: Musou Kakyou                                   | 10 months ago |        -        |
 | [47163](https://myanimelist.net/anime/47163) |    tv   |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                | 11 months ago |        -        |

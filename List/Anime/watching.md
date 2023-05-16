@@ -2,11 +2,11 @@
 
 |                      id                      |  Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :---: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [52034](https://myanimelist.net/anime/52034) |   tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   5/11  |  2 days ago  | 04/12/2023 |
-| [50416](https://myanimelist.net/anime/50416) |   tv  |  2023  |   7   |                                               Skip to Loafer                                              |   6/12  |  5 days ago  | 05/10/2023 |
-| [52830](https://myanimelist.net/anime/52830) |   tv  |  2023  |   6   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   6/13  |  5 days ago  | 04/04/2023 |
+| [46569](https://myanimelist.net/anime/46569) |   tv  |  2023  |   8   |                                                 Jigokuraku                                                |   7/13  | 18 hours ago | 04/02/2023 |
+| [52034](https://myanimelist.net/anime/52034) |   tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   5/11  |  3 days ago  | 04/12/2023 |
+| [50416](https://myanimelist.net/anime/50416) |   tv  |  2023  |   7   |                                               Skip to Loafer                                              |   6/12  |  6 days ago  | 05/10/2023 |
+| [52830](https://myanimelist.net/anime/52830) |   tv  |  2023  |   6   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   6/13  |  6 days ago  | 04/04/2023 |
 | [53393](https://myanimelist.net/anime/53393) |   tv  |  2023  |   6   |                                             Tengoku Daimakyou                                             |   6/13  |   Last week  | 04/02/2023 |
-| [46569](https://myanimelist.net/anime/46569) |   tv  |  2023  |   8   |                                                 Jigokuraku                                                |   6/13  |   Last week  | 04/02/2023 |
 | [51019](https://myanimelist.net/anime/51019) |   tv  |  2023  |   9   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |   5/?   |   Last week  | 04/09/2023 |
 | [52211](https://myanimelist.net/anime/52211) |   tv  |  2023  |   7   |                                                   Mashle                                                  |   5/12  |   Last week  | 04/08/2023 |
 | [46422](https://myanimelist.net/anime/46422) |   tv  |  2023  |   -   |                                          Niehime to Kemono no Ou                                          |   0/24  |   Last week  | 05/06/2023 |
@@ -14,7 +14,7 @@
 | [51536](https://myanimelist.net/anime/51536) |   tv  |  2023  |   9   |                                   The IDOLM@STER Cinderella Girls: U149                                   |   4/12  |   Last week  | 05/02/2023 |
 | [51958](https://myanimelist.net/anime/51958) |   tv  |  2023  |   7   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   5/12  |   Last week  | 04/06/2023 |
 | [53126](https://myanimelist.net/anime/53126) |   tv  |  2023  |   6   |                                     Yamada-kun to Lv999 no Koi wo Suru                                    |   2/13  |  2 weeks ago | 04/02/2023 |
-| [50307](https://myanimelist.net/anime/50307) |   tv  |  2023  |   7   |                                         Tonikaku Kawaii 2nd Season                                        |   4/?   |  2 weeks ago | 04/08/2023 |
+| [50307](https://myanimelist.net/anime/50307) |   tv  |  2023  |   7   |                                         Tonikaku Kawaii 2nd Season                                        |   4/12  |  2 weeks ago | 04/08/2023 |
 | [11577](https://myanimelist.net/anime/11577) | movie |  2013  |   -   |                                 Steins;Gate Movie: Fuka Ryouiki no Déjà vu                                |   0/1   |  2 weeks ago |      -     |
 | [14199](https://myanimelist.net/anime/14199) |   tv  |  2012  |   -   |                               Oniichan dakedo Ai sae Areba Kankeinai yo ne!                               |   9/12  |  2 weeks ago | 04/21/2023 |
 | [35905](https://myanimelist.net/anime/35905) |   tv  |  2018  |   -   |                                            Ryuuou no Oshigoto!                                            |   1/12  |  3 weeks ago | 04/20/2023 |
