@@ -6,17 +6,17 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |  Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :---: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [46569](https://myanimelist.net/anime/46569) |   tv  |  2023  |   8   |                                                 Jigokuraku                                                |   7/13  | 18 hours ago | 04/02/2023 |
-| [52034](https://myanimelist.net/anime/52034) |   tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   5/11  |  3 days ago  | 04/12/2023 |
-| [50416](https://myanimelist.net/anime/50416) |   tv  |  2023  |   7   |                                               Skip to Loafer                                              |   6/12  |  6 days ago  | 05/10/2023 |
-| [52830](https://myanimelist.net/anime/52830) |   tv  |  2023  |   6   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   6/13  |  6 days ago  | 04/04/2023 |
+| [51815](https://myanimelist.net/anime/51815) |   tv  |  2023  |   -   |                                        Kubo-san wa Mob wo Yurusanai                                       |   7/12  |  9 hours ago | 01/11/2023 |
+| [50416](https://myanimelist.net/anime/50416) |   tv  |  2023  |   7   |                                               Skip to Loafer                                              |   7/12  |  9 hours ago | 05/10/2023 |
+| [46569](https://myanimelist.net/anime/46569) |   tv  |  2023  |   8   |                                                 Jigokuraku                                                |   7/13  |   Yesterday  | 04/02/2023 |
+| [52034](https://myanimelist.net/anime/52034) |   tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   5/11  |  4 days ago  | 04/12/2023 |
+| [52830](https://myanimelist.net/anime/52830) |   tv  |  2023  |   6   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   6/13  |   Last week  | 04/04/2023 |
 | [53393](https://myanimelist.net/anime/53393) |   tv  |  2023  |   6   |                                             Tengoku Daimakyou                                             |   6/13  |   Last week  | 04/02/2023 |
 | [51019](https://myanimelist.net/anime/51019) |   tv  |  2023  |   9   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |   5/?   |   Last week  | 04/09/2023 |
 | [52211](https://myanimelist.net/anime/52211) |   tv  |  2023  |   7   |                                                   Mashle                                                  |   5/12  |   Last week  | 04/08/2023 |
 | [46422](https://myanimelist.net/anime/46422) |   tv  |  2023  |   -   |                                          Niehime to Kemono no Ou                                          |   0/24  |   Last week  | 05/06/2023 |
 | [48549](https://myanimelist.net/anime/48549) |   tv  |  2023  |   7   |                                            Dr. Stone: New World                                           |   5/11  |   Last week  | 04/06/2023 |
 | [51536](https://myanimelist.net/anime/51536) |   tv  |  2023  |   9   |                                   The IDOLM@STER Cinderella Girls: U149                                   |   4/12  |   Last week  | 05/02/2023 |
-| [51958](https://myanimelist.net/anime/51958) |   tv  |  2023  |   7   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   5/12  |   Last week  | 04/06/2023 |
 
 
 *[11 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
@@ -67,10 +67,10 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [29093](https://myanimelist.net/anime/29093) | special |  2015  | visual_novel |                                        Grisaia no Meikyuu: Caprice no Mayu 0                                        |  8 hours ago  |        -        |
-| [31706](https://myanimelist.net/anime/31706) |    tv   |  2016  |     manga    |                                        Fate/kaleid liner Prisma☆Illya 3rei!!                                        |   Yesterday   |        -        |
-| [27525](https://myanimelist.net/anime/27525) |    tv   |  2015  |     manga    |                                      Fate/kaleid liner Prisma☆Illya 2wei Herz!                                      |   Yesterday   |        -        |
-| [20509](https://myanimelist.net/anime/20509) |    tv   |  2014  |     manga    |                                         Fate/kaleid liner Prisma☆Illya 2wei!                                        |   Yesterday   |        -        |
+| [29093](https://myanimelist.net/anime/29093) | special |  2015  | visual_novel |                                        Grisaia no Meikyuu: Caprice no Mayu 0                                        |   Yesterday   |        -        |
+| [31706](https://myanimelist.net/anime/31706) |    tv   |  2016  |     manga    |                                        Fate/kaleid liner Prisma☆Illya 3rei!!                                        |   2 days ago  |        -        |
+| [27525](https://myanimelist.net/anime/27525) |    tv   |  2015  |     manga    |                                      Fate/kaleid liner Prisma☆Illya 2wei Herz!                                      |   2 days ago  |        -        |
+| [20509](https://myanimelist.net/anime/20509) |    tv   |  2014  |     manga    |                                         Fate/kaleid liner Prisma☆Illya 2wei!                                        |   2 days ago  |        -        |
 | [34177](https://myanimelist.net/anime/34177) |    tv   |  2017  |  light_novel |                                                    Tenshi no 3P!                                                    |  3 weeks ago  |        -        |
 | [55005](https://myanimelist.net/anime/55005) | special |  2020  |     manga    |                                       Munou na Nana Mini Anime: Yaminabe Party                                      |   Last month  |        -        |
 
