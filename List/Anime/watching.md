@@ -1,26 +1,22 @@
-# Watching (22)
+# Watching (18)
 
 |                      id                      |  Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :---: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51815](https://myanimelist.net/anime/51815) |   tv  |  2023  |   -   |                                        Kubo-san wa Mob wo Yurusanai                                       |   7/12  |  9 hours ago | 01/11/2023 |
-| [50416](https://myanimelist.net/anime/50416) |   tv  |  2023  |   7   |                                               Skip to Loafer                                              |   7/12  |  9 hours ago | 05/10/2023 |
-| [46569](https://myanimelist.net/anime/46569) |   tv  |  2023  |   8   |                                                 Jigokuraku                                                |   7/13  |   Yesterday  | 04/02/2023 |
-| [52034](https://myanimelist.net/anime/52034) |   tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   5/11  |  4 days ago  | 04/12/2023 |
+| [20509](https://myanimelist.net/anime/20509) |   tv  |  2014  |   -   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |   3/10  |  7 hours ago | 05/18/2023 |
+| [48549](https://myanimelist.net/anime/48549) |   tv  |  2023  |   7   |                                            Dr. Stone: New World                                           |   6/11  | 10 hours ago | 04/06/2023 |
+| [51536](https://myanimelist.net/anime/51536) |   tv  |  2023  |   9   |                                   The IDOLM@STER Cinderella Girls: U149                                   |   5/12  | 11 hours ago | 05/02/2023 |
+| [51958](https://myanimelist.net/anime/51958) |   tv  |  2023  |   7   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   7/12  | 11 hours ago | 04/06/2023 |
+| [51815](https://myanimelist.net/anime/51815) |   tv  |  2023  |   -   |                                        Kubo-san wa Mob wo Yurusanai                                       |   7/12  |   Yesterday  | 01/11/2023 |
+| [50416](https://myanimelist.net/anime/50416) |   tv  |  2023  |   7   |                                               Skip to Loafer                                              |   7/12  |   Yesterday  | 05/10/2023 |
+| [46569](https://myanimelist.net/anime/46569) |   tv  |  2023  |   8   |                                                 Jigokuraku                                                |   7/13  |  2 days ago  | 04/02/2023 |
+| [52034](https://myanimelist.net/anime/52034) |   tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   5/11  |  5 days ago  | 04/12/2023 |
 | [52830](https://myanimelist.net/anime/52830) |   tv  |  2023  |   6   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   6/13  |   Last week  | 04/04/2023 |
 | [53393](https://myanimelist.net/anime/53393) |   tv  |  2023  |   6   |                                             Tengoku Daimakyou                                             |   6/13  |   Last week  | 04/02/2023 |
 | [51019](https://myanimelist.net/anime/51019) |   tv  |  2023  |   9   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |   5/?   |   Last week  | 04/09/2023 |
 | [52211](https://myanimelist.net/anime/52211) |   tv  |  2023  |   7   |                                                   Mashle                                                  |   5/12  |   Last week  | 04/08/2023 |
-| [46422](https://myanimelist.net/anime/46422) |   tv  |  2023  |   -   |                                          Niehime to Kemono no Ou                                          |   0/24  |   Last week  | 05/06/2023 |
-| [48549](https://myanimelist.net/anime/48549) |   tv  |  2023  |   7   |                                            Dr. Stone: New World                                           |   5/11  |   Last week  | 04/06/2023 |
-| [51536](https://myanimelist.net/anime/51536) |   tv  |  2023  |   9   |                                   The IDOLM@STER Cinderella Girls: U149                                   |   4/12  |   Last week  | 05/02/2023 |
-| [51958](https://myanimelist.net/anime/51958) |   tv  |  2023  |   7   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   5/12  |   Last week  | 04/06/2023 |
 | [53126](https://myanimelist.net/anime/53126) |   tv  |  2023  |   6   |                                     Yamada-kun to Lv999 no Koi wo Suru                                    |   2/13  |  2 weeks ago | 04/02/2023 |
 | [50307](https://myanimelist.net/anime/50307) |   tv  |  2023  |   7   |                                         Tonikaku Kawaii 2nd Season                                        |   4/12  |  2 weeks ago | 04/08/2023 |
 | [11577](https://myanimelist.net/anime/11577) | movie |  2013  |   -   |                                 Steins;Gate Movie: Fuka Ryouiki no Déjà vu                                |   0/1   |  2 weeks ago |      -     |
 | [14199](https://myanimelist.net/anime/14199) |   tv  |  2012  |   -   |                               Oniichan dakedo Ai sae Areba Kankeinai yo ne!                               |   9/12  |  3 weeks ago | 04/21/2023 |
-| [35905](https://myanimelist.net/anime/35905) |   tv  |  2018  |   -   |                                            Ryuuou no Oshigoto!                                            |   1/12  |  3 weeks ago | 04/20/2023 |
-| [35078](https://myanimelist.net/anime/35078) |   tv  |  2018  |   -   |                                             Mitsuboshi Colors                                             |   1/12  |  3 weeks ago | 04/20/2023 |
-| [10110](https://myanimelist.net/anime/10110) |   tv  |  2011  |   6   |                                                Mayo Chiki!                                                |   8/13  |  Last month  | 04/14/2023 |
-| [41514](https://myanimelist.net/anime/41514) |   tv  |  2023  |   6   |                    Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                   |  10/12  |  Last month  | 01/12/2023 |
 |    [21](https://myanimelist.net/anime/21)    |   tv  |  1999  |   8   |                                                 One Piece                                                 |  1051/? | 3 months ago | 01/01/2013 |
 | [49618](https://myanimelist.net/anime/49618) |  ona  |  2023  |   -   |                                          Shuumatsu no Walküre II                                          |  10/15  | 3 months ago | 01/27/2023 |
