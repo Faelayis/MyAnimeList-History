@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [34100](https://myanimelist.net/anime/34100) |  movie  |  2017  |     manga    |                                Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai                                |   4 days ago  |        -        |
-| [46422](https://myanimelist.net/anime/46422) |    tv   |  2023  |     manga    |                                               Niehime to Kemono no Ou                                               |   5 days ago  |        -        |
+| [34100](https://myanimelist.net/anime/34100) |  movie  |  2017  |     manga    |                                Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai                                |   6 days ago  |        -        |
+| [46422](https://myanimelist.net/anime/46422) |    tv   |  2023  |     manga    |                                               Niehime to Kemono no Ou                                               |   Last week   |        -        |
 | [29093](https://myanimelist.net/anime/29093) | special |  2015  | visual_novel |                                        Grisaia no Meikyuu: Caprice no Mayu 0                                        |   Last week   |        -        |
 | [31706](https://myanimelist.net/anime/31706) |    tv   |  2016  |     manga    |                                        Fate/kaleid liner Prisma☆Illya 3rei!!                                        |   Last week   |        -        |
 | [27525](https://myanimelist.net/anime/27525) |    tv   |  2015  |     manga    |                                      Fate/kaleid liner Prisma☆Illya 2wei Herz!                                      |   Last week   |        -        |
