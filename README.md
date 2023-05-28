@@ -6,17 +6,17 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |  Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :---: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [52211](https://myanimelist.net/anime/52211) |   tv  |  2023  |   7   |                                                   Mashle                                                  |   6/12  |   Yesterday  | 04/08/2023 |
-| [50416](https://myanimelist.net/anime/50416) |   tv  |  2023  |   7   |                                               Skip to Loafer                                              |   8/12  |  2 days ago  | 05/10/2023 |
-| [52830](https://myanimelist.net/anime/52830) |   tv  |  2023  |   6   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |  4 days ago  | 04/04/2023 |
-| [46569](https://myanimelist.net/anime/46569) |   tv  |  2023  |   8   |                                                 Jigokuraku                                                |   8/13  |  4 days ago  | 04/02/2023 |
-| [51019](https://myanimelist.net/anime/51019) |   tv  |  2023  |   9   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |   7/?   |  4 days ago  | 04/09/2023 |
-| [20509](https://myanimelist.net/anime/20509) |   tv  |  2014  |   -   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |   5/10  |  5 days ago  | 05/18/2023 |
-| [48549](https://myanimelist.net/anime/48549) |   tv  |  2023  |   7   |                                            Dr. Stone: New World                                           |   6/11  |   Last week  | 04/06/2023 |
+| [48549](https://myanimelist.net/anime/48549) |   tv  |  2023  |   7   |                                            Dr. Stone: New World                                           |   8/11  | 13 hours ago | 04/06/2023 |
+| [52211](https://myanimelist.net/anime/52211) |   tv  |  2023  |   7   |                                                   Mashle                                                  |   6/12  |  3 days ago  | 04/08/2023 |
+| [50416](https://myanimelist.net/anime/50416) |   tv  |  2023  |   7   |                                               Skip to Loafer                                              |   8/12  |  4 days ago  | 05/10/2023 |
+| [52830](https://myanimelist.net/anime/52830) |   tv  |  2023  |   6   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |  6 days ago  | 04/04/2023 |
+| [46569](https://myanimelist.net/anime/46569) |   tv  |  2023  |   8   |                                                 Jigokuraku                                                |   8/13  |  6 days ago  | 04/02/2023 |
+| [51019](https://myanimelist.net/anime/51019) |   tv  |  2023  |   9   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |   7/?   |  6 days ago  | 04/09/2023 |
+| [20509](https://myanimelist.net/anime/20509) |   tv  |  2014  |   -   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |   5/10  |   Last week  | 05/18/2023 |
 | [51536](https://myanimelist.net/anime/51536) |   tv  |  2023  |   9   |                                   The IDOLM@STER Cinderella Girls: U149                                   |   5/12  |   Last week  | 05/02/2023 |
 | [51958](https://myanimelist.net/anime/51958) |   tv  |  2023  |   7   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   7/12  |   Last week  | 04/06/2023 |
 | [51815](https://myanimelist.net/anime/51815) |   tv  |  2023  |   -   |                                        Kubo-san wa Mob wo Yurusanai                                       |   7/12  |   Last week  | 01/11/2023 |
-| [52034](https://myanimelist.net/anime/52034) |   tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   5/11  |   Last week  | 04/12/2023 |
+| [52034](https://myanimelist.net/anime/52034) |   tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   5/11  |  2 weeks ago | 04/12/2023 |
 
 
 *[7 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
@@ -57,8 +57,8 @@ List Sync From MyAnimeList (update every day)
 | [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                         Boku no Kokoro no Yabai Yatsu                        |   2/12  |  Last month  | 04/02/2023 |
 | [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |             Campione! Matsurowanu Kamigami to Kamigoroshi no Maou            |   1/13  | 2 months ago | 03/20/2023 |
 |   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                           Higurashi no Naku Koro ni                          |  10/26  | 5 months ago | 12/23/2022 |
-| [51464](https://myanimelist.net/anime/51464) |  tv  |  2022  |   -   |                        4-nin wa Sorezore Uso wo Tsuku                        |   1/11  | 7 months ago | 10/16/2022 |
-| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   5   |                                  Engage Kiss                                 |   8/13  | 7 months ago | 07/03/2022 |
+| [51464](https://myanimelist.net/anime/51464) |  tv  |  2022  |   -   |                        4-nin wa Sorezore Uso wo Tsuku                        |   1/11  | 8 months ago | 10/16/2022 |
+| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   5   |                                  Engage Kiss                                 |   8/13  | 8 months ago | 07/03/2022 |
 
 
 *[27 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*

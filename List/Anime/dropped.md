@@ -6,8 +6,8 @@
 | [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                         Boku no Kokoro no Yabai Yatsu                        |   2/12  |  Last month  | 04/02/2023 |
 | [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |             Campione! Matsurowanu Kamigami to Kamigoroshi no Maou            |   1/13  | 2 months ago | 03/20/2023 |
 |   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                           Higurashi no Naku Koro ni                          |  10/26  | 5 months ago | 12/23/2022 |
-| [51464](https://myanimelist.net/anime/51464) |  tv  |  2022  |   -   |                        4-nin wa Sorezore Uso wo Tsuku                        |   1/11  | 7 months ago | 10/16/2022 |
-| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   5   |                                  Engage Kiss                                 |   8/13  | 7 months ago | 07/03/2022 |
+| [51464](https://myanimelist.net/anime/51464) |  tv  |  2022  |   -   |                        4-nin wa Sorezore Uso wo Tsuku                        |   1/11  | 8 months ago | 10/16/2022 |
+| [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   5   |                                  Engage Kiss                                 |   8/13  | 8 months ago | 07/03/2022 |
 | [34543](https://myanimelist.net/anime/34543) |  tv  |  2017  |   2   |                                    Dive!!                                    |   6/12  |   Last year  | 05/03/2022 |
 | [48760](https://myanimelist.net/anime/48760) |  tv  |  2022  |   3   |               Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu              |   1/12  |   Last year  | 04/12/2022 |
 | [48415](https://myanimelist.net/anime/48415) |  tv  |  2022  |   4   |             Shijou Saikyou no Daimaou, Murabito A ni Tensei suru             |   6/12  |   Last year  | 04/08/2022 |
