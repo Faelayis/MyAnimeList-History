@@ -12,7 +12,7 @@
 | [48760](https://myanimelist.net/anime/48760) |  tv  |  2022  |   3   |               Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu              |   1/12  |   Last year  | 04/12/2022 |
 | [48415](https://myanimelist.net/anime/48415) |  tv  |  2022  |   4   |             Shijou Saikyou no Daimaou, Murabito A ni Tensei suru             |   6/12  |   Last year  | 04/08/2022 |
 | [48583](https://myanimelist.net/anime/48583) |  tv  |  2022  |   5   |                  Shingeki no Kyojin: The Final Season Part 2                 |   3/12  |   Last year  | 01/28/2022 |
-| [40960](https://myanimelist.net/anime/40960) |  tv  |  2021  |   5   |           Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore           |   1/12  |   Last year  | 07/08/2021 |
+| [40960](https://myanimelist.net/anime/40960) |  tv  |  2021  |   5   |           Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore           |   1/12  |  2 years ago | 07/08/2021 |
 | [47257](https://myanimelist.net/anime/47257) |  tv  |  2021  |   4   |                        Shinigami Bocchan to Kuro Maid                        |   1/12  |   Last year  | 07/05/2021 |
 | [46471](https://myanimelist.net/anime/46471) |  tv  |  2021  |   5   |                           Tantei wa Mou, Shindeiru.                          |   2/12  |   Last year  | 07/04/2021 |
 | [19221](https://myanimelist.net/anime/19221) |  tv  |  2013  |   5   | Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru |   5/10  | 2 months ago | 06/20/2021 |
