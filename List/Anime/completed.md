@@ -1,7 +1,8 @@
-# Completed (438)
+# Completed (439)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [20509](https://myanimelist.net/anime/20509) |    tv   |  2014  |   8   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |   Yesterday   | 05/18/2023 |  06/11/2023 |
 | [14829](https://myanimelist.net/anime/14829) |    tv   |  2013  |   8   |                                       Fate/kaleid liner Prisma☆Illya                                      |  3 weeks ago  | 05/18/2023 |  05/18/2023 |
 | [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |   7   |        Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu       |   Last month  | 04/29/2023 |  05/01/2023 |
 | [10863](https://myanimelist.net/anime/10863) | special |  2012  |   8   |                                   Steins;Gate: Oukoubakko no Poriomania                                   |   Last month  | 04/28/2023 |  04/28/2023 |
@@ -49,15 +50,15 @@
 | [11887](https://myanimelist.net/anime/11887) |    tv   |  2012  |   7   |                                               Kokoro Connect                                              |  5 months ago | 01/07/2023 |  01/09/2023 |
 | [31043](https://myanimelist.net/anime/31043) |    tv   |  2016  |   9   |                                          Boku dake ga Inai Machi                                          |  5 months ago | 01/02/2023 |  01/02/2023 |
 | [44511](https://myanimelist.net/anime/44511) |    tv   |  2022  |   7   |                                                Chainsaw Man                                               |  5 months ago | 10/13/2022 |  12/29/2022 |
-| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  |   8   |                                              Bocchi the Rock!                                             |  5 months ago | 12/20/2022 |  12/27/2022 |
-| [50425](https://myanimelist.net/anime/50425) |    tv   |  2022  |   7   |                                         Fuufu Ijou, Koibito Miman.                                        |  5 months ago | 10/24/2022 |  12/27/2022 |
-| [50602](https://myanimelist.net/anime/50602) |    tv   |  2022  |   6   |                                            Spy x Family Part 2                                            |  5 months ago | 10/02/2022 |  12/27/2022 |
+| [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  |   8   |                                              Bocchi the Rock!                                             |  6 months ago | 12/20/2022 |  12/27/2022 |
+| [50425](https://myanimelist.net/anime/50425) |    tv   |  2022  |   7   |                                         Fuufu Ijou, Koibito Miman.                                        |  6 months ago | 10/24/2022 |  12/27/2022 |
+| [50602](https://myanimelist.net/anime/50602) |    tv   |  2022  |   6   |                                            Spy x Family Part 2                                            |  6 months ago | 10/02/2022 |  12/27/2022 |
 | [36999](https://myanimelist.net/anime/36999) |  movie  |  2018  |   7   |                                            Zoku Owarimonogatari                                           |  6 months ago | 12/14/2022 |  12/19/2022 |
 | [35247](https://myanimelist.net/anime/35247) |    tv   |  2017  |   8   |                                         Owarimonogatari 2nd Season                                        |  6 months ago | 12/09/2022 |  12/11/2022 |
 | [31757](https://myanimelist.net/anime/31757) |  movie  |  2016  |   6   |                                      Kizumonogatari II: Nekketsu-hen                                      |  6 months ago | 12/09/2022 |  12/09/2022 |
 | [31758](https://myanimelist.net/anime/31758) |  movie  |  2017  |   9   |                                      Kizumonogatari III: Reiketsu-hen                                     |  6 months ago | 12/09/2022 |  12/09/2022 |
 |  [9260](https://myanimelist.net/anime/9260)  |  movie  |  2016  |   7   |                                       Kizumonogatari I: Tekketsu-hen                                      |  6 months ago | 11/26/2022 |  12/09/2022 |
-| [42916](https://myanimelist.net/anime/42916) |  movie  |  2021  |   5   |                       Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria                       |  6 months ago | 11/28/2022 |  11/28/2022 |
+| [42916](https://myanimelist.net/anime/42916) |  movie  |  2021  |   5   |                       Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria                       |  7 months ago | 11/28/2022 |  11/28/2022 |
 | [32268](https://myanimelist.net/anime/32268) |   ona   |  2016  |   5   |                                              Koyomimonogatari                                             |  7 months ago | 11/26/2022 |  11/26/2022 |
 | [31181](https://myanimelist.net/anime/31181) |    tv   |  2015  |   6   |                                              Owarimonogatari                                              |  7 months ago | 11/26/2022 |  11/26/2022 |
 | [21855](https://myanimelist.net/anime/21855) |    tv   |  2014  |   4   |                                               Hanamonogatari                                              |  7 months ago | 11/24/2022 |  11/24/2022 |
@@ -67,7 +68,7 @@
 |  [5081](https://myanimelist.net/anime/5081)  |    tv   |  2009  |   7   |                                               Bakemonogatari                                              |  7 months ago | 11/18/2022 |  11/19/2022 |
 | [38883](https://myanimelist.net/anime/38883) |    tv   |  2020  |   7   |                                            Haikyuu!! To the Top                                           |  7 months ago | 11/10/2022 |  11/12/2022 |
 | [32935](https://myanimelist.net/anime/32935) |    tv   |  2016  |   7   |                         Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou                         |  7 months ago | 11/07/2022 |  11/08/2022 |
-| [20583](https://myanimelist.net/anime/20583) |    tv   |  2014  |   7   |                                                 Haikyuu!!                                                 |  7 months ago | 10/28/2022 |  10/31/2022 |
+| [20583](https://myanimelist.net/anime/20583) |    tv   |  2014  |   7   |                                                 Haikyuu!!                                                 |  8 months ago | 10/28/2022 |  10/31/2022 |
 | [39651](https://myanimelist.net/anime/39651) |   ova   |  2019  |   5   |           Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi          |  8 months ago | 10/24/2022 |  10/24/2022 |
 | [37510](https://myanimelist.net/anime/37510) |    tv   |  2019  |   8   |                                             Mob Psycho 100 II                                             |  8 months ago | 10/23/2022 |  10/24/2022 |
 | [32182](https://myanimelist.net/anime/32182) |    tv   |  2016  |   7   |                                               Mob Psycho 100                                              |  8 months ago | 02/05/2022 |  10/23/2022 |
@@ -166,7 +167,7 @@
 | [31964](https://myanimelist.net/anime/31964) |    tv   |  2016  |   8   |                                           Boku no Hero Academia                                           |   Last year   | 01/09/2022 |  01/09/2022 |
 | [50768](https://myanimelist.net/anime/50768) | special |  2022  |   8   |                                Vanitas no Karte: En Route Pour le Gévaudan                                |   Last year   | 01/08/2022 |  01/08/2022 |
 | [11843](https://myanimelist.net/anime/11843) |    tv   |  2012  |   8   |                                        Danshi Koukousei no Nichijou                                       |   Last year   | 12/24/2021 |  01/05/2022 |
-| [42897](https://myanimelist.net/anime/42897) |    tv   |  2021  |   8   |                                                  Horimiya                                                 |  8 months ago | 01/01/2022 |  01/01/2022 |
+| [42897](https://myanimelist.net/anime/42897) |    tv   |  2021  |   8   |                                                  Horimiya                                                 |  9 months ago | 01/01/2022 |  01/01/2022 |
 |    [30](https://myanimelist.net/anime/30)    |    tv   |  1995  |   9   |                                          Neon Genesis Evangelion                                          |   Last year   | 12/30/2021 |  12/30/2021 |
 |    [32](https://myanimelist.net/anime/32)    |  movie  |  1997  |   10  |                               Neon Genesis Evangelion: The End of Evangelion                              |   Last year   | 12/30/2021 |  12/30/2021 |
 | [42351](https://myanimelist.net/anime/42351) |    tv   |  2021  |   7   |                                      Senpai ga Uzai Kouhai no Hanashi                                     |   Last year   | 11/04/2021 |  12/30/2021 |
