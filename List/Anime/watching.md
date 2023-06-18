@@ -2,13 +2,13 @@
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |  2 days ago  | 04/12/2023 |
-| [51958](https://myanimelist.net/anime/51958) |  tv  |  2023  |   7   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   8/12  |  5 days ago  | 04/06/2023 |
-| [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   1/10  |  5 days ago  | 06/11/2023 |
-| [48549](https://myanimelist.net/anime/48549) |  tv  |  2023  |   7   |                                            Dr. Stone: New World                                           |  10/11  |  6 days ago  | 04/06/2023 |
+| [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |  3 days ago  | 04/12/2023 |
+| [51958](https://myanimelist.net/anime/51958) |  tv  |  2023  |   7   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   8/12  |  6 days ago  | 04/06/2023 |
+| [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   1/10  |  6 days ago  | 06/11/2023 |
+| [48549](https://myanimelist.net/anime/48549) |  tv  |  2023  |   7   |                                            Dr. Stone: New World                                           |  10/11  |   Last week  | 04/06/2023 |
 | [52211](https://myanimelist.net/anime/52211) |  tv  |  2023  |   7   |                                                   Mashle                                                  |   9/12  |   Last week  | 04/08/2023 |
 | [51019](https://myanimelist.net/anime/51019) |  tv  |  2023  |   9   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |   9/11  |   Last week  | 04/09/2023 |
-| [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   8   |                                                 Jigokuraku                                                |   9/13  |   Last week  | 04/02/2023 |
+| [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   8   |                                                 Jigokuraku                                                |   9/13  |  2 weeks ago | 04/02/2023 |
 | [50416](https://myanimelist.net/anime/50416) |  tv  |  2023  |   7   |                                               Skip to Loafer                                              |   8/12  |  3 weeks ago | 05/10/2023 |
 | [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   6   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |  3 weeks ago | 04/04/2023 |
 | [51536](https://myanimelist.net/anime/51536) |  tv  |  2023  |   9   |                                   The IDOLM@STER Cinderella Girls: U149                                   |   5/12  |  Last month  | 05/02/2023 |
