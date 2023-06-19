@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [20509](https://myanimelist.net/anime/20509) |    tv   |  2014  |   8   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |   6 days ago  | 05/18/2023 |  06/11/2023 |
+| [20509](https://myanimelist.net/anime/20509) |    tv   |  2014  |   8   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |   Last week   | 05/18/2023 |  06/11/2023 |
 | [14829](https://myanimelist.net/anime/14829) |    tv   |  2013  |   8   |                                       Fate/kaleid liner Prisma☆Illya                                      |   Last month  | 05/18/2023 |  05/18/2023 |
 | [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |   7   |        Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu       |   Last month  | 04/29/2023 |  05/01/2023 |
 | [10863](https://myanimelist.net/anime/10863) | special |  2012  |   8   |                                   Steins;Gate: Oukoubakko no Poriomania                                   |   Last month  | 04/28/2023 |  04/28/2023 |
@@ -48,7 +48,7 @@
 | [51403](https://myanimelist.net/anime/51403) |    tv   |  2022  |   4   |                                                Renai Flops                                                |  5 months ago | 10/27/2022 |  01/10/2023 |
 | [16001](https://myanimelist.net/anime/16001) | special |  2012  |   7   |                                        Kokoro Connect: Michi Random                                       |  5 months ago | 01/09/2023 |  01/09/2023 |
 | [11887](https://myanimelist.net/anime/11887) |    tv   |  2012  |   7   |                                               Kokoro Connect                                              |  5 months ago | 01/07/2023 |  01/09/2023 |
-| [31043](https://myanimelist.net/anime/31043) |    tv   |  2016  |   9   |                                          Boku dake ga Inai Machi                                          |  5 months ago | 01/02/2023 |  01/02/2023 |
+| [31043](https://myanimelist.net/anime/31043) |    tv   |  2016  |   9   |                                          Boku dake ga Inai Machi                                          |  6 months ago | 01/02/2023 |  01/02/2023 |
 | [44511](https://myanimelist.net/anime/44511) |    tv   |  2022  |   7   |                                                Chainsaw Man                                               |  6 months ago | 10/13/2022 |  12/29/2022 |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  |   8   |                                              Bocchi the Rock!                                             |  6 months ago | 12/20/2022 |  12/27/2022 |
 | [50425](https://myanimelist.net/anime/50425) |    tv   |  2022  |   7   |                                         Fuufu Ijou, Koibito Miman.                                        |  6 months ago | 10/24/2022 |  12/27/2022 |
@@ -346,7 +346,7 @@
 | [30276](https://myanimelist.net/anime/30276) |    tv   |  2015  |   5   |                                               One Punch Man                                               |  2 years ago  | 07/24/2020 |  01/30/2020 |
 | [38691](https://myanimelist.net/anime/38691) |    tv   |  2019  |   9   |                                                 Dr. Stone                                                 |  2 years ago  | 07/05/2019 |  12/24/2019 |
 | [38101](https://myanimelist.net/anime/38101) |    tv   |  2019  |   8   |                                            5-toubun no Hanayome                                           |  2 years ago  | 03/20/2019 |  03/28/2019 |
-| [28891](https://myanimelist.net/anime/28891) |    tv   |  2015  |   8   |                                          Haikyuu!! Second Season                                          |  7 months ago | 10/31/2022 |      -      |
+| [28891](https://myanimelist.net/anime/28891) |    tv   |  2015  |   8   |                                          Haikyuu!! Second Season                                          |  8 months ago | 10/31/2022 |      -      |
 | [15809](https://myanimelist.net/anime/15809) |    tv   |  2013  |   7   |                                            Hataraku Maou-sama!                                            |  2 years ago  | 05/10/2021 |      -      |
 | [41930](https://myanimelist.net/anime/41930) |    tv   |  2020  |   7   |                                            Kamisama ni Natta Hi                                           |  2 years ago  | 11/30/2020 |      -      |
 | [13759](https://myanimelist.net/anime/13759) |    tv   |  2012  |   8   |                                        Sakura-sou no Pet na Kanojo                                        |  2 years ago  | 11/28/2020 |      -      |
