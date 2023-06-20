@@ -2,8 +2,8 @@
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51019](https://myanimelist.net/anime/51019) |  tv  |  2023  |   9   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |  10/11  | 19 hours ago | 04/09/2023 |
-| [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |  4 days ago  | 04/12/2023 |
+| [51019](https://myanimelist.net/anime/51019) |  tv  |  2023  |   9   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |  10/11  |   Yesterday  | 04/09/2023 |
+| [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |  5 days ago  | 04/12/2023 |
 | [51958](https://myanimelist.net/anime/51958) |  tv  |  2023  |   7   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   8/12  |   Last week  | 04/06/2023 |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   1/10  |   Last week  | 06/11/2023 |
 | [48549](https://myanimelist.net/anime/48549) |  tv  |  2023  |   7   |                                            Dr. Stone: New World                                           |  10/11  |   Last week  | 04/06/2023 |
@@ -18,4 +18,4 @@
 | [50307](https://myanimelist.net/anime/50307) |  tv  |  2023  |   7   |                                         Tonikaku Kawaii 2nd Season                                        |   4/12  |  Last month  | 04/08/2023 |
 | [14199](https://myanimelist.net/anime/14199) |  tv  |  2012  |   -   |                               Oniichan dakedo Ai sae Areba Kankeinai yo ne!                               |   9/12  |  Last month  | 04/21/2023 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1051/? | 4 months ago | 01/01/2013 |
-| [49618](https://myanimelist.net/anime/49618) |  ona |  2023  |   -   |                                          Shuumatsu no Walküre II                                          |  10/10  | 4 months ago | 01/27/2023 |
+| [49618](https://myanimelist.net/anime/49618) |  ona |  2023  |   -   |                                          Shuumatsu no Walküre II                                          |  10/10  | 5 months ago | 01/27/2023 |
