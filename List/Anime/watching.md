@@ -2,8 +2,8 @@
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   8   |                                                 Jigokuraku                                                |  10/13  | 16 hours ago | 04/02/2023 |
-| [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |  6 days ago  | 04/12/2023 |
+| [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   8   |                                                 Jigokuraku                                                |  11/13  | 19 hours ago | 04/02/2023 |
+| [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |   Last week  | 04/12/2023 |
 | [51958](https://myanimelist.net/anime/51958) |  tv  |  2023  |   7   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   8/12  |   Last week  | 04/06/2023 |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   1/10  |   Last week  | 06/11/2023 |
 | [48549](https://myanimelist.net/anime/48549) |  tv  |  2023  |   7   |                                            Dr. Stone: New World                                           |  10/11  |   Last week  | 04/06/2023 |

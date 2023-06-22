@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   8   |                                                 Jigokuraku                                                |  10/13  | 16 hours ago | 04/02/2023 |
-| [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |  6 days ago  | 04/12/2023 |
+| [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   8   |                                                 Jigokuraku                                                |  11/13  | 19 hours ago | 04/02/2023 |
+| [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |   Last week  | 04/12/2023 |
 | [51958](https://myanimelist.net/anime/51958) |  tv  |  2023  |   7   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   8/12  |   Last week  | 04/06/2023 |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   1/10  |   Last week  | 06/11/2023 |
 | [48549](https://myanimelist.net/anime/48549) |  tv  |  2023  |   7   |                                            Dr. Stone: New World                                           |  10/11  |   Last week  | 04/06/2023 |
@@ -25,7 +25,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [51019](https://myanimelist.net/anime/51019) |    tv   |  2023  |   10  |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |  17 hours ago | 04/09/2023 |  06/20/2023 |
+| [51019](https://myanimelist.net/anime/51019) |    tv   |  2023  |   8   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |  16 hours ago | 04/09/2023 |  06/20/2023 |
 | [20509](https://myanimelist.net/anime/20509) |    tv   |  2014  |   8   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |   Last week   | 05/18/2023 |  06/11/2023 |
 | [14829](https://myanimelist.net/anime/14829) |    tv   |  2013  |   8   |                                       Fate/kaleid liner Prisma☆Illya                                      |   Last month  | 05/18/2023 |  05/18/2023 |
 | [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |   7   |        Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu       |   Last month  | 04/29/2023 |  05/01/2023 |
@@ -42,8 +42,8 @@ List Sync From MyAnimeList (update every day)
 | [35078](https://myanimelist.net/anime/35078) |    tv   |  2018  |   -   |                                               Mitsuboshi Colors                                              |   1/12  |   Last month  | 04/20/2023 |
 | [35905](https://myanimelist.net/anime/35905) |    tv   |  2018  |   -   |                                              Ryuuou no Oshigoto!                                             |   1/12  |   Last month  | 04/20/2023 |
 | [10110](https://myanimelist.net/anime/10110) |    tv   |  2011  |   6   |                                                  Mayo Chiki!                                                 |   8/13  |   Last month  | 04/14/2023 |
-|  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  |   -   |                                                  Amagami SS                                                  |   7/25  |  2 months ago | 03/23/2023 |
-| [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |   -   |                                      Ijiranaide, Nagatoro-san 2nd Attack                                     |   2/12  |  2 months ago | 03/20/2023 |
+|  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  |   -   |                                                  Amagami SS                                                  |   7/25  |  3 months ago | 03/23/2023 |
+| [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |   -   |                                      Ijiranaide, Nagatoro-san 2nd Attack                                     |   2/12  |  3 months ago | 03/20/2023 |
 | [48553](https://myanimelist.net/anime/48553) |    tv   |  2022  |   -   |                                           Akebi-chan no Sailor-fuku                                          |   3/12  |  2 months ago | 03/13/2023 |
 
 
@@ -67,7 +67,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [11577](https://myanimelist.net/anime/11577) |  movie  |  2013  | visual_novel |                                      Steins;Gate Movie: Fuka Ryouiki no Déjà vu                                     |  2 weeks ago  |        -        |
+| [11577](https://myanimelist.net/anime/11577) |  movie  |  2013  | visual_novel |                                      Steins;Gate Movie: Fuka Ryouiki no Déjà vu                                     |  3 weeks ago  |        -        |
 | [34100](https://myanimelist.net/anime/34100) |  movie  |  2017  |     manga    |                                Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai                                |   Last month  |        -        |
 | [46422](https://myanimelist.net/anime/46422) |    tv   |  2023  |     manga    |                                               Niehime to Kemono no Ou                                               |   Last month  |        -        |
 | [29093](https://myanimelist.net/anime/29093) | special |  2015  | visual_novel |                                        Grisaia no Meikyuu: Caprice no Mayu 0                                        |   Last month  |        -        |
