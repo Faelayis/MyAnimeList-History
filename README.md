@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   8   |                                                 Jigokuraku                                                |  11/13  | 19 hours ago | 04/02/2023 |
+| [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   8   |                                                 Jigokuraku                                                |  11/13  |   Yesterday  | 04/02/2023 |
 | [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |   Last week  | 04/12/2023 |
 | [51958](https://myanimelist.net/anime/51958) |  tv  |  2023  |   7   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   8/12  |   Last week  | 04/06/2023 |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   1/10  |   Last week  | 06/11/2023 |
@@ -25,12 +25,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [51019](https://myanimelist.net/anime/51019) |    tv   |  2023  |   8   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |  16 hours ago | 04/09/2023 |  06/20/2023 |
+| [51019](https://myanimelist.net/anime/51019) |    tv   |  2023  |   8   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |   Yesterday   | 04/09/2023 |  06/20/2023 |
 | [20509](https://myanimelist.net/anime/20509) |    tv   |  2014  |   8   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |   Last week   | 05/18/2023 |  06/11/2023 |
 | [14829](https://myanimelist.net/anime/14829) |    tv   |  2013  |   8   |                                       Fate/kaleid liner Prisma☆Illya                                      |   Last month  | 05/18/2023 |  05/18/2023 |
 | [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |   7   |        Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu       |   Last month  | 04/29/2023 |  05/01/2023 |
-| [10863](https://myanimelist.net/anime/10863) | special |  2012  |   8   |                                   Steins;Gate: Oukoubakko no Poriomania                                   |   Last month  | 04/28/2023 |  04/28/2023 |
-|  [9253](https://myanimelist.net/anime/9253)  |    tv   |  2011  |   8   |                                                Steins;Gate                                                |   Last month  | 04/26/2023 |  04/28/2023 |
+| [10863](https://myanimelist.net/anime/10863) | special |  2012  |   8   |                                   Steins;Gate: Oukoubakko no Poriomania                                   |  2 months ago | 04/28/2023 |  04/28/2023 |
+|  [9253](https://myanimelist.net/anime/9253)  |    tv   |  2011  |   8   |                                                Steins;Gate                                                |  2 months ago | 04/26/2023 |  04/28/2023 |
 
 
 *[434 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
