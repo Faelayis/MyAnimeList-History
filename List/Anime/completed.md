@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [51019](https://myanimelist.net/anime/51019) |    tv   |  2023  |   8   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |   4 days ago  | 04/09/2023 |  06/20/2023 |
+| [51019](https://myanimelist.net/anime/51019) |    tv   |  2023  |   8   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |   5 days ago  | 04/09/2023 |  06/20/2023 |
 | [20509](https://myanimelist.net/anime/20509) |    tv   |  2014  |   8   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |  2 weeks ago  | 05/18/2023 |  06/11/2023 |
 | [14829](https://myanimelist.net/anime/14829) |    tv   |  2013  |   8   |                                       Fate/kaleid liner Prisma☆Illya                                      |   Last month  | 05/18/2023 |  05/18/2023 |
 | [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |   7   |        Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu       |  2 months ago | 04/29/2023 |  05/01/2023 |
@@ -46,7 +46,7 @@
 | [13659](https://myanimelist.net/anime/13659) |    tv   |  2013  |   7   |                                Ore no Imouto ga Konnani Kawaii Wake ga Nai.                               |  5 months ago | 01/17/2023 |  01/17/2023 |
 | [18857](https://myanimelist.net/anime/18857) |   ona   |  2013  |   6   |                           Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials                           |  5 months ago | 01/17/2023 |  01/17/2023 |
 |  [8769](https://myanimelist.net/anime/8769)  |    tv   |  2010  |   7   |                                Ore no Imouto ga Konnani Kawaii Wake ga Nai                                |  5 months ago | 01/16/2023 |  01/17/2023 |
-| [51403](https://myanimelist.net/anime/51403) |    tv   |  2022  |   4   |                                                Renai Flops                                                |  5 months ago | 10/27/2022 |  01/10/2023 |
+| [51403](https://myanimelist.net/anime/51403) |    tv   |  2022  |   4   |                                                Renai Flops                                                |  6 months ago | 10/27/2022 |  01/10/2023 |
 | [16001](https://myanimelist.net/anime/16001) | special |  2012  |   7   |                                        Kokoro Connect: Michi Random                                       |  6 months ago | 01/09/2023 |  01/09/2023 |
 | [11887](https://myanimelist.net/anime/11887) |    tv   |  2012  |   7   |                                               Kokoro Connect                                              |  6 months ago | 01/07/2023 |  01/09/2023 |
 | [31043](https://myanimelist.net/anime/31043) |    tv   |  2016  |   9   |                                          Boku dake ga Inai Machi                                          |  6 months ago | 01/02/2023 |  01/02/2023 |
@@ -233,7 +233,7 @@
 | [39175](https://myanimelist.net/anime/39175) |  movie  |  2021  |   7   |                                    Cider no You ni Kotoba ga Wakiagaru                                    |  2 years ago  | 07/24/2021 |  07/24/2021 |
 | [31798](https://myanimelist.net/anime/31798) |    tv   |  2016  |   9   |                                                 Kiznaiver                                                 |  2 years ago  | 07/09/2021 |  07/09/2021 |
 | [49318](https://myanimelist.net/anime/49318) | special |  2021  |   8   |                     Tensei shitara Slime Datta Ken 2nd Season: Kanwa - Veldora Nikki 2                    |  2 years ago  | 07/05/2021 |  07/05/2021 |
-| [42938](https://myanimelist.net/anime/42938) |    tv   |  2021  |   8   |                                          Fruits Basket: The Final                                         |   Last year   | 05/19/2021 |  07/04/2021 |
+| [42938](https://myanimelist.net/anime/42938) |    tv   |  2021  |   8   |                                          Fruits Basket: The Final                                         |  2 years ago  | 05/19/2021 |  07/04/2021 |
 | [36407](https://myanimelist.net/anime/36407) |    tv   |  2019  |   7   |                                               Kenja no Mago                                               |  2 years ago  | 06/30/2021 |  07/01/2021 |
 | [42361](https://myanimelist.net/anime/42361) |    tv   |  2021  |   7   |                                          Ijiranaide, Nagatoro-san                                         |  2 years ago  | 04/19/2021 |  06/30/2021 |
 | [40938](https://myanimelist.net/anime/40938) |    tv   |  2021  |   7   |                                Hige wo Soru. Soshite Joshikousei wo Hirou.                                |  2 years ago  | 04/06/2021 |  06/30/2021 |
