@@ -2,8 +2,9 @@
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   8   |                                                 Jigokuraku                                                |  12/13  | 22 hours ago | 04/02/2023 |
-| [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |   Last week  | 04/12/2023 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1052/? | 19 hours ago | 01/01/2013 |
+| [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   8   |                                                 Jigokuraku                                                |  12/13  |   Yesterday  | 04/02/2023 |
+| [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |  2 weeks ago | 04/12/2023 |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   1/10  |  2 weeks ago | 06/11/2023 |
 | [52211](https://myanimelist.net/anime/52211) |  tv  |  2023  |   7   |                                                   Mashle                                                  |   9/12  |  2 weeks ago | 04/08/2023 |
 | [50416](https://myanimelist.net/anime/50416) |  tv  |  2023  |   7   |                                               Skip to Loafer                                              |   8/12  |  Last month  | 05/10/2023 |
@@ -14,5 +15,4 @@
 | [53126](https://myanimelist.net/anime/53126) |  tv  |  2023  |   6   |                                     Yamada-kun to Lv999 no Koi wo Suru                                    |   2/13  | 2 months ago | 04/02/2023 |
 | [50307](https://myanimelist.net/anime/50307) |  tv  |  2023  |   7   |                                         Tonikaku Kawaii 2nd Season                                        |   4/12  | 2 months ago | 04/08/2023 |
 | [14199](https://myanimelist.net/anime/14199) |  tv  |  2012  |   -   |                               Oniichan dakedo Ai sae Areba Kankeinai yo ne!                               |   9/12  | 2 months ago | 04/21/2023 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1051/? | 4 months ago | 01/01/2013 |
 | [49618](https://myanimelist.net/anime/49618) |  ona |  2023  |   -   |                                          Shuumatsu no Walküre II                                          |  10/10  | 5 months ago | 01/27/2023 |
