@@ -2,12 +2,12 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (14) ``6.25%``
+#### Watching (14) ``6.22%``
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1052/? | 19 hours ago | 01/01/2013 |
-| [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   8   |                                                 Jigokuraku                                                |  12/13  |   Yesterday  | 04/02/2023 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1052/? |   Yesterday  | 01/01/2013 |
+| [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   8   |                                                 Jigokuraku                                                |  12/13  |  2 days ago  | 04/02/2023 |
 | [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |  2 weeks ago | 04/12/2023 |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   1/10  |  2 weeks ago | 06/11/2023 |
 | [52211](https://myanimelist.net/anime/52211) |  tv  |  2023  |   7   |                                                   Mashle                                                  |   9/12  |  2 weeks ago | 04/08/2023 |
@@ -21,12 +21,12 @@ List Sync From MyAnimeList (update every day)
 
 *[3 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``76.47%``
+#### Completed ``76.70%``
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [48549](https://myanimelist.net/anime/48549) |    tv   |  2023  |   7   |                                            Dr. Stone: New World                                           |   Yesterday   | 04/06/2023 |  06/27/2023 |
-| [51958](https://myanimelist.net/anime/51958) |    tv   |  2023  |   8   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   Yesterday   | 04/06/2023 |  06/27/2023 |
+| [48549](https://myanimelist.net/anime/48549) |    tv   |  2023  |   7   |                                            Dr. Stone: New World                                           |   2 days ago  | 04/06/2023 |  06/27/2023 |
+| [51958](https://myanimelist.net/anime/51958) |    tv   |  2023  |   8   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   2 days ago  | 04/06/2023 |  06/27/2023 |
 | [51019](https://myanimelist.net/anime/51019) |    tv   |  2023  |   8   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |   Last week   | 04/09/2023 |  06/20/2023 |
 | [20509](https://myanimelist.net/anime/20509) |    tv   |  2014  |   8   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |  2 weeks ago  | 05/18/2023 |  06/11/2023 |
 | [14829](https://myanimelist.net/anime/14829) |    tv   |  2013  |   8   |                                       Fate/kaleid liner Prisma☆Illya                                      |   Last month  | 05/18/2023 |  05/18/2023 |
@@ -35,7 +35,7 @@ List Sync From MyAnimeList (update every day)
 
 *[436 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``9.40%``
+#### On Hold ``9.38%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -49,7 +49,7 @@ List Sync From MyAnimeList (update every day)
 
 *[61 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``4.42%``
+#### Dropped ``4.41%``
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
@@ -63,16 +63,16 @@ List Sync From MyAnimeList (update every day)
 
 *[27 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``40.29%``
+#### Plan to Watch ``40.47%``
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [55791](https://myanimelist.net/anime/55791) |    tv   |    -   |     manga    |                                                "Oshi no Ko" Season 2                                                |  16 hours ago |        -        |
 | [11577](https://myanimelist.net/anime/11577) |  movie  |  2013  | visual_novel |                                      Steins;Gate Movie: Fuka Ryouiki no Déjà vu                                     |   Last month  |        -        |
 | [34100](https://myanimelist.net/anime/34100) |  movie  |  2017  |     manga    |                                Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai                                |   Last month  |        -        |
 | [46422](https://myanimelist.net/anime/46422) |    tv   |  2023  |     manga    |                                               Niehime to Kemono no Ou                                               |   Last month  |        -        |
 | [29093](https://myanimelist.net/anime/29093) | special |  2015  | visual_novel |                                        Grisaia no Meikyuu: Caprice no Mayu 0                                        |   Last month  |        -        |
 | [31706](https://myanimelist.net/anime/31706) |    tv   |  2016  |     manga    |                                        Fate/kaleid liner Prisma☆Illya 3rei!!                                        |   Last month  |        -        |
-| [34177](https://myanimelist.net/anime/34177) |    tv   |  2017  |  light_novel |                                                    Tenshi no 3P!                                                    |  2 months ago |        -        |
 
 
-*[217 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[218 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*

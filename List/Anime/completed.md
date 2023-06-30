@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [48549](https://myanimelist.net/anime/48549) |    tv   |  2023  |   7   |                                            Dr. Stone: New World                                           |   Yesterday   | 04/06/2023 |  06/27/2023 |
-| [51958](https://myanimelist.net/anime/51958) |    tv   |  2023  |   8   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   Yesterday   | 04/06/2023 |  06/27/2023 |
+| [48549](https://myanimelist.net/anime/48549) |    tv   |  2023  |   7   |                                            Dr. Stone: New World                                           |   2 days ago  | 04/06/2023 |  06/27/2023 |
+| [51958](https://myanimelist.net/anime/51958) |    tv   |  2023  |   8   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   2 days ago  | 04/06/2023 |  06/27/2023 |
 | [51019](https://myanimelist.net/anime/51019) |    tv   |  2023  |   8   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |   Last week   | 04/09/2023 |  06/20/2023 |
 | [20509](https://myanimelist.net/anime/20509) |    tv   |  2014  |   8   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |  2 weeks ago  | 05/18/2023 |  06/11/2023 |
 | [14829](https://myanimelist.net/anime/14829) |    tv   |  2013  |   8   |                                       Fate/kaleid liner Prisma☆Illya                                      |   Last month  | 05/18/2023 |  05/18/2023 |
@@ -89,7 +89,7 @@
 | [37105](https://myanimelist.net/anime/37105) |    tv   |  2018  |   7   |                                                 Grand Blue                                                | 10 months ago | 09/03/2022 |  09/03/2022 |
 |   [226](https://myanimelist.net/anime/226)   |    tv   |  2004  |   5   |                                                 Elfen Lied                                                | 10 months ago | 03/29/2021 |  09/03/2022 |
 | [50410](https://myanimelist.net/anime/50410) |  movie  |  2022  |   7   |                                            One Piece Film: Red                                            | 10 months ago | 08/26/2022 |  08/26/2022 |
-| [39324](https://myanimelist.net/anime/39324) |    tv   |  2019  |   9   |              Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.              | 10 months ago | 08/26/2022 |  08/26/2022 |
+| [39324](https://myanimelist.net/anime/39324) |    tv   |  2019  |   9   |              Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.              | 11 months ago | 08/26/2022 |  08/26/2022 |
 | [40436](https://myanimelist.net/anime/40436) |    tv   |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |   Last year   | 05/13/2022 |  07/08/2022 |
 |   [330](https://myanimelist.net/anime/330)   |    tv   |  2004  |   7   |                                               Midori no Hibi                                              |   Last year   | 07/06/2022 |  07/06/2022 |
 | [50631](https://myanimelist.net/anime/50631) |    tv   |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |   Last year   | 04/07/2022 |  06/29/2022 |

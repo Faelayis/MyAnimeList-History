@@ -2,8 +2,8 @@
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1052/? | 19 hours ago | 01/01/2013 |
-| [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   8   |                                                 Jigokuraku                                                |  12/13  |   Yesterday  | 04/02/2023 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1052/? |   Yesterday  | 01/01/2013 |
+| [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   8   |                                                 Jigokuraku                                                |  12/13  |  2 days ago  | 04/02/2023 |
 | [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |  2 weeks ago | 04/12/2023 |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   1/10  |  2 weeks ago | 06/11/2023 |
 | [52211](https://myanimelist.net/anime/52211) |  tv  |  2023  |   7   |                                                   Mashle                                                  |   9/12  |  2 weeks ago | 04/08/2023 |
