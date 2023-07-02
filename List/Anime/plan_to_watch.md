@@ -1,11 +1,12 @@
-# Plan to Watch (228)
+# Plan to Watch (229)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [54898](https://myanimelist.net/anime/54898) |    tv   |  2023  |     manga    |                                             Bungou Stray Dogs 5th Season                                            |  14 hours ago |        -        |
-| [54915](https://myanimelist.net/anime/54915) | special |  2023  |     manga    |                                                5-toubun no Hanayome∽                                                |  14 hours ago |        -        |
-| [54856](https://myanimelist.net/anime/54856) |    tv   |  2023  |     manga    |                                                   Horimiya: Piece                                                   |  14 hours ago |        -        |
-| [55791](https://myanimelist.net/anime/55791) |    tv   |    -   |     manga    |                                                "Oshi no Ko" Season 2                                                |   Yesterday   |        -        |
+| [55813](https://myanimelist.net/anime/55813) |    tv   |  2024  |     manga    |                                                   Mashle Season 2                                                   |  15 hours ago |        -        |
+| [54898](https://myanimelist.net/anime/54898) |    tv   |  2023  |     manga    |                                             Bungou Stray Dogs 5th Season                                            |   Yesterday   |        -        |
+| [54915](https://myanimelist.net/anime/54915) | special |  2023  |     manga    |                                                5-toubun no Hanayome∽                                                |   Yesterday   |        -        |
+| [54856](https://myanimelist.net/anime/54856) |    tv   |  2023  |     manga    |                                                   Horimiya: Piece                                                   |   Yesterday   |        -        |
+| [55791](https://myanimelist.net/anime/55791) |    tv   |    -   |     manga    |                                                "Oshi no Ko" Season 2                                                |   2 days ago  |        -        |
 | [11577](https://myanimelist.net/anime/11577) |  movie  |  2013  | visual_novel |                                      Steins;Gate Movie: Fuka Ryouiki no Déjà vu                                     |   Last month  |        -        |
 | [34100](https://myanimelist.net/anime/34100) |  movie  |  2017  |     manga    |                                Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai                                |   Last month  |        -        |
 | [46422](https://myanimelist.net/anime/46422) |    tv   |  2023  |     manga    |                                               Niehime to Kemono no Ou                                               |   Last month  |        -        |
@@ -75,8 +76,8 @@
 |  [6372](https://myanimelist.net/anime/6372)  |  movie  |  2009  |   original   |                                      Higashi no Eden Movie I: The King of Eden                                      | 10 months ago |        -        |
 |  [6927](https://myanimelist.net/anime/6927)  |  movie  |  2009  |   original   |                                          Higashi no Eden: Air Communication                                         | 10 months ago |        -        |
 |   [585](https://myanimelist.net/anime/585)   |  movie  |  1995  |     manga    |                                                   Mimi wo Sumaseba                                                  | 10 months ago |        -        |
-|  [7627](https://myanimelist.net/anime/7627)  |    tv   |  2010  |     manga    |                                                      Mitsudomoe                                                     | 10 months ago |        -        |
-| [38759](https://myanimelist.net/anime/38759) |    tv   |  2019  |   web_manga  |                                            Sewayaki Kitsune no Senko-san                                            | 10 months ago |        -        |
+|  [7627](https://myanimelist.net/anime/7627)  |    tv   |  2010  |     manga    |                                                      Mitsudomoe                                                     | 11 months ago |        -        |
+| [38759](https://myanimelist.net/anime/38759) |    tv   |  2019  |   web_manga  |                                            Sewayaki Kitsune no Senko-san                                            | 11 months ago |        -        |
 | [38924](https://myanimelist.net/anime/38924) |    tv   |  2020  | visual_novel |                                                       Nekopara                                                      | 11 months ago |        -        |
 | [15051](https://myanimelist.net/anime/15051) |    tv   |  2013  |     other    |                                            Love Live! School Idol Project                                           | 11 months ago |        -        |
 | [50338](https://myanimelist.net/anime/50338) |    tv   |  2022  |     manga    |                                           Kunoichi Tsubaki no Mune no Uchi                                          | 11 months ago |        -        |

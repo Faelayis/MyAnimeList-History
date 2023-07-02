@@ -2,12 +2,12 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (13) ``5.70%``
+#### Watching (13) ``5.68%``
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1052/? |  2 days ago  | 01/01/2013 |
-| [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   8   |                                                 Jigokuraku                                                |  12/13  |  3 days ago  | 04/02/2023 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1052/? |  3 days ago  | 01/01/2013 |
+| [46569](https://myanimelist.net/anime/46569) |  tv  |  2023  |   8   |                                                 Jigokuraku                                                |  12/13  |  4 days ago  | 04/02/2023 |
 | [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |  2 weeks ago | 04/12/2023 |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   1/10  |  2 weeks ago | 06/11/2023 |
 | [50416](https://myanimelist.net/anime/50416) |  tv  |  2023  |   7   |                                               Skip to Loafer                                              |   8/12  |  Last month  | 05/10/2023 |
@@ -21,13 +21,13 @@ List Sync From MyAnimeList (update every day)
 
 *[2 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``76.98%``
+#### Completed ``77.20%``
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [52211](https://myanimelist.net/anime/52211) |    tv   |  2023  |   6   |                                                   Mashle                                                  |  13 hours ago | 04/08/2023 |  07/01/2023 |
-| [48549](https://myanimelist.net/anime/48549) |    tv   |  2023  |   7   |                                            Dr. Stone: New World                                           |   3 days ago  | 04/06/2023 |  06/27/2023 |
-| [51958](https://myanimelist.net/anime/51958) |    tv   |  2023  |   8   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   3 days ago  | 04/06/2023 |  06/27/2023 |
+| [52211](https://myanimelist.net/anime/52211) |    tv   |  2023  |   6   |                                                   Mashle                                                  |   Yesterday   | 04/08/2023 |  07/01/2023 |
+| [48549](https://myanimelist.net/anime/48549) |    tv   |  2023  |   7   |                                            Dr. Stone: New World                                           |   4 days ago  | 04/06/2023 |  06/27/2023 |
+| [51958](https://myanimelist.net/anime/51958) |    tv   |  2023  |   8   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |   4 days ago  | 04/06/2023 |  06/27/2023 |
 | [51019](https://myanimelist.net/anime/51019) |    tv   |  2023  |   8   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |   Last week   | 04/09/2023 |  06/20/2023 |
 | [20509](https://myanimelist.net/anime/20509) |    tv   |  2014  |   8   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |  2 weeks ago  | 05/18/2023 |  06/11/2023 |
 | [14829](https://myanimelist.net/anime/14829) |    tv   |  2013  |   8   |                                       Fate/kaleid liner Prisma☆Illya                                      |   Last month  | 05/18/2023 |  05/18/2023 |
@@ -35,7 +35,7 @@ List Sync From MyAnimeList (update every day)
 
 *[437 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``9.34%``
+#### On Hold ``9.33%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -54,7 +54,7 @@ List Sync From MyAnimeList (update every day)
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
 | [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |   Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito   |   3/12  | 2 months ago | 04/03/2023 |
-| [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                         Boku no Kokoro no Yabai Yatsu                        |   2/12  | 2 months ago | 04/02/2023 |
+| [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                         Boku no Kokoro no Yabai Yatsu                        |   2/12  | 3 months ago | 04/02/2023 |
 | [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |             Campione! Matsurowanu Kamigami to Kamigoroshi no Maou            |   1/13  | 3 months ago | 03/20/2023 |
 |   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                           Higurashi no Naku Koro ni                          |  10/26  | 6 months ago | 12/23/2022 |
 | [51464](https://myanimelist.net/anime/51464) |  tv  |  2022  |   -   |                        4-nin wa Sorezore Uso wo Tsuku                        |   1/11  | 9 months ago | 10/16/2022 |
@@ -63,16 +63,16 @@ List Sync From MyAnimeList (update every day)
 
 *[27 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``41.01%``
+#### Plan to Watch ``41.19%``
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [54898](https://myanimelist.net/anime/54898) |    tv   |  2023  |     manga    |                                             Bungou Stray Dogs 5th Season                                            |  14 hours ago |        -        |
-| [54915](https://myanimelist.net/anime/54915) | special |  2023  |     manga    |                                                5-toubun no Hanayome∽                                                |  14 hours ago |        -        |
-| [54856](https://myanimelist.net/anime/54856) |    tv   |  2023  |     manga    |                                                   Horimiya: Piece                                                   |  14 hours ago |        -        |
-| [55791](https://myanimelist.net/anime/55791) |    tv   |    -   |     manga    |                                                "Oshi no Ko" Season 2                                                |   Yesterday   |        -        |
+| [55813](https://myanimelist.net/anime/55813) |    tv   |  2024  |     manga    |                                                   Mashle Season 2                                                   |  15 hours ago |        -        |
+| [54898](https://myanimelist.net/anime/54898) |    tv   |  2023  |     manga    |                                             Bungou Stray Dogs 5th Season                                            |   Yesterday   |        -        |
+| [54915](https://myanimelist.net/anime/54915) | special |  2023  |     manga    |                                                5-toubun no Hanayome∽                                                |   Yesterday   |        -        |
+| [54856](https://myanimelist.net/anime/54856) |    tv   |  2023  |     manga    |                                                   Horimiya: Piece                                                   |   Yesterday   |        -        |
+| [55791](https://myanimelist.net/anime/55791) |    tv   |    -   |     manga    |                                                "Oshi no Ko" Season 2                                                |   2 days ago  |        -        |
 | [11577](https://myanimelist.net/anime/11577) |  movie  |  2013  | visual_novel |                                      Steins;Gate Movie: Fuka Ryouiki no Déjà vu                                     |   Last month  |        -        |
-| [34100](https://myanimelist.net/anime/34100) |  movie  |  2017  |     manga    |                                Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai                                |   Last month  |        -        |
 
 
-*[221 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[222 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
