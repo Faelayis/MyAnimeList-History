@@ -2,10 +2,10 @@
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [54234](https://myanimelist.net/anime/54234) |  tv  |  2023  |   -   |                                      Suki na Ko ga Megane wo Wasureta                                     |   1/13  | 12 hours ago | 07/04/2023 |
-| [51498](https://myanimelist.net/anime/51498) |  tv  |  2023  |   -   |                                         Masamune-kun no Revenge R                                         |   1/12  | 17 hours ago | 07/04/2023 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1052/? |  6 days ago  | 01/01/2013 |
-| [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |  2 weeks ago | 04/12/2023 |
+| [54234](https://myanimelist.net/anime/54234) |  tv  |  2023  |   -   |                                      Suki na Ko ga Megane wo Wasureta                                     |   1/13  |   Yesterday  | 07/04/2023 |
+| [51498](https://myanimelist.net/anime/51498) |  tv  |  2023  |   -   |                                         Masamune-kun no Revenge R                                         |   1/12  |   Yesterday  | 07/04/2023 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1052/? |   Last week  | 01/01/2013 |
+| [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |  3 weeks ago | 04/12/2023 |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   1/10  |  3 weeks ago | 06/11/2023 |
 | [50416](https://myanimelist.net/anime/50416) |  tv  |  2023  |   7   |                                               Skip to Loafer                                              |   8/12  |  Last month  | 05/10/2023 |
 | [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   6   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |  Last month  | 04/04/2023 |
