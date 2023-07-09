@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [55813](https://myanimelist.net/anime/55813) |    tv   |  2024  |     manga    |                                                  Mashle 2nd Season                                                  |   6 days ago  |        -        |
+| [55813](https://myanimelist.net/anime/55813) |    tv   |  2024  |     manga    |                                                  Mashle 2nd Season                                                  |   Last week   |        -        |
 | [54898](https://myanimelist.net/anime/54898) |    tv   |  2023  |     manga    |                                             Bungou Stray Dogs 5th Season                                            |   Last week   |        -        |
 | [54915](https://myanimelist.net/anime/54915) | special |  2023  |     manga    |                                                5-toubun no Hanayome∽                                                |   Last week   |        -        |
 | [54856](https://myanimelist.net/anime/54856) |    tv   |  2023  |     manga    |                                                   Horimiya: Piece                                                   |   Last week   |        -        |
@@ -13,7 +13,7 @@
 | [29093](https://myanimelist.net/anime/29093) | special |  2015  | visual_novel |                                        Grisaia no Meikyuu: Caprice no Mayu 0                                        |   Last month  |        -        |
 | [31706](https://myanimelist.net/anime/31706) |    tv   |  2016  |     manga    |                                        Fate/kaleid liner Prisma☆Illya 3rei!!                                        |   Last month  |        -        |
 | [34177](https://myanimelist.net/anime/34177) |    tv   |  2017  |  light_novel |                                                    Tenshi no 3P!                                                    |  2 months ago |        -        |
-| [55005](https://myanimelist.net/anime/55005) | special |  2020  |     manga    |                                       Munou na Nana Mini Anime: Yaminabe Party                                      |  2 months ago |        -        |
+| [55005](https://myanimelist.net/anime/55005) | special |  2020  |     manga    |                                       Munou na Nana Mini Anime: Yaminabe Party                                      |  3 months ago |        -        |
 | [40046](https://myanimelist.net/anime/40046) |    tv   |  2020  |   original   |                                                      Id:Invaded                                                     |  3 months ago |        -        |
 | [54918](https://myanimelist.net/anime/54918) |    tv   |  2023  |     manga    |                                             Tokyo Revengers: Tenjiku-hen                                            |  3 months ago |        -        |
 | [40961](https://myanimelist.net/anime/40961) |    tv   |  2021  |     game     |                                                    Hortensia Saga                                                   |  3 months ago |        -        |
