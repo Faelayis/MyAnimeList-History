@@ -2,26 +2,26 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (16) ``7.08%``
+#### Watching (17) ``7.52%``
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   |                             Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                            |   0/12  | 20 hours ago | 07/09/2023 |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   1/23  |  2 days ago  | 07/08/2023 |
-| [54234](https://myanimelist.net/anime/54234) |  tv  |  2023  |   -   |                                      Suki na Ko ga Megane wo Wasureta                                     |   1/13  |  5 days ago  | 07/04/2023 |
-| [51498](https://myanimelist.net/anime/51498) |  tv  |  2023  |   -   |                                         Masamune-kun no Revenge R                                         |   1/12  |  5 days ago  | 07/04/2023 |
+| [53632](https://myanimelist.net/anime/53632) |  tv  |  2023  |   -   |                                    Yumemiru Danshi wa Genjitsushugisha                                    |   2/12  | 14 hours ago | 07/11/2023 |
+| [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   |                             Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                            |   0/12  |   Yesterday  | 07/09/2023 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   1/23  |  3 days ago  | 07/08/2023 |
+| [54234](https://myanimelist.net/anime/54234) |  tv  |  2023  |   -   |                                      Suki na Ko ga Megane wo Wasureta                                     |   1/13  |  6 days ago  | 07/04/2023 |
+| [51498](https://myanimelist.net/anime/51498) |  tv  |  2023  |   -   |                                         Masamune-kun no Revenge R                                         |   1/12  |  6 days ago  | 07/04/2023 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1052/? |   Last week  | 01/01/2013 |
 | [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |  3 weeks ago | 04/12/2023 |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   1/10  |  Last month  | 06/11/2023 |
 | [50416](https://myanimelist.net/anime/50416) |  tv  |  2023  |   7   |                                               Skip to Loafer                                              |   8/12  |  Last month  | 05/10/2023 |
 | [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   6   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |  Last month  | 04/04/2023 |
 | [51536](https://myanimelist.net/anime/51536) |  tv  |  2023  |   9   |                                   The IDOLM@STER Cinderella Girls: U149                                   |   5/12  |  Last month  | 05/02/2023 |
-| [51815](https://myanimelist.net/anime/51815) |  tv  |  2023  |   -   |                                        Kubo-san wa Mob wo Yurusanai                                       |   7/12  |  Last month  | 01/11/2023 |
 
 
-*[5 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
+*[6 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``77.03%``
+#### Completed ``77.25%``
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -35,7 +35,7 @@ List Sync From MyAnimeList (update every day)
 
 *[438 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``9.32%``
+#### On Hold ``9.31%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -53,7 +53,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |   Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito   |   3/12  | 2 months ago | 04/03/2023 |
+| [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |   Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito   |   3/12  | 3 months ago | 04/03/2023 |
 | [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                         Boku no Kokoro no Yabai Yatsu                        |   2/12  | 3 months ago | 04/02/2023 |
 | [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |             Campione! Matsurowanu Kamigami to Kamigoroshi no Maou            |   1/13  | 4 months ago | 03/20/2023 |
 |   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                           Higurashi no Naku Koro ni                          |  10/26  | 7 months ago | 12/23/2022 |
@@ -63,7 +63,7 @@ List Sync From MyAnimeList (update every day)
 
 *[27 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``40.36%``
+#### Plan to Watch ``40.29%``
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
