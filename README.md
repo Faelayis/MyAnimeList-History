@@ -2,38 +2,38 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (17) ``7.52%``
+#### Watching (16) ``7.08%``
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [54234](https://myanimelist.net/anime/54234) |  tv  |  2023  |   -   |                                      Suki na Ko ga Megane wo Wasureta                                     |   2/13  |  8 hours ago | 07/04/2023 |
-| [53632](https://myanimelist.net/anime/53632) |  tv  |  2023  |   -   |                                    Yumemiru Danshi wa Genjitsushugisha                                    |   2/12  |  2 days ago  | 07/11/2023 |
-| [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   |                             Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                            |   0/12  |  3 days ago  | 07/09/2023 |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   1/23  |  5 days ago  | 07/08/2023 |
+| [54234](https://myanimelist.net/anime/54234) |  tv  |  2023  |   -   |                                      Suki na Ko ga Megane wo Wasureta                                     |   2/13  |   Yesterday  | 07/04/2023 |
+| [53632](https://myanimelist.net/anime/53632) |  tv  |  2023  |   -   |                                    Yumemiru Danshi wa Genjitsushugisha                                    |   2/12  |  3 days ago  | 07/11/2023 |
+| [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   |                             Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                            |   0/12  |  4 days ago  | 07/09/2023 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   1/23  |  6 days ago  | 07/08/2023 |
 | [51498](https://myanimelist.net/anime/51498) |  tv  |  2023  |   -   |                                         Masamune-kun no Revenge R                                         |   1/12  |   Last week  | 07/04/2023 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1052/? |  2 weeks ago | 01/01/2013 |
 | [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |  Last month  | 04/12/2023 |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   1/10  |  Last month  | 06/11/2023 |
 | [50416](https://myanimelist.net/anime/50416) |  tv  |  2023  |   7   |                                               Skip to Loafer                                              |   8/12  |  Last month  | 05/10/2023 |
 | [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   6   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |  Last month  | 04/04/2023 |
-| [51536](https://myanimelist.net/anime/51536) |  tv  |  2023  |   9   |                                   The IDOLM@STER Cinderella Girls: U149                                   |   5/12  | 2 months ago | 05/02/2023 |
+| [51536](https://myanimelist.net/anime/51536) |  tv  |  2023  |   9   |                                   The iDOLM@STER Cinderella Girls: U149                                   |   5/12  | 2 months ago | 05/02/2023 |
 
 
-*[6 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
+*[5 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``77.25%``
+#### Completed ``76.85%``
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [49618](https://myanimelist.net/anime/49618) |   ona   |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |  11 hours ago | 01/27/2023 |  07/14/2023 |
 | [46569](https://myanimelist.net/anime/46569) |    tv   |  2023  |   7   |                                                 Jigokuraku                                                |   Last week   | 04/02/2023 |  07/02/2023 |
 | [52211](https://myanimelist.net/anime/52211) |    tv   |  2023  |   6   |                                                   Mashle                                                  |   Last week   | 04/08/2023 |  07/01/2023 |
 | [48549](https://myanimelist.net/anime/48549) |    tv   |  2023  |   7   |                                            Dr. Stone: New World                                           |  2 weeks ago  | 04/06/2023 |  06/27/2023 |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |  2023  |   8   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |  2 weeks ago  | 04/06/2023 |  06/27/2023 |
 | [51019](https://myanimelist.net/anime/51019) |    tv   |  2023  |   8   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |  3 weeks ago  | 04/09/2023 |  06/20/2023 |
-| [20509](https://myanimelist.net/anime/20509) |    tv   |  2014  |   8   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |   Last month  | 05/18/2023 |  06/11/2023 |
 
 
-*[438 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
+*[439 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
 #### On Hold ``9.31%``
 
@@ -71,7 +71,7 @@ List Sync From MyAnimeList (update every day)
 | [54898](https://myanimelist.net/anime/54898) |    tv   |  2023  |     manga    |                                             Bungou Stray Dogs 5th Season                                            |   Last week   |        -        |
 | [54915](https://myanimelist.net/anime/54915) | special |  2023  |     manga    |                                                5-toubun no Hanayome∽                                                |   Last week   |        -        |
 | [54856](https://myanimelist.net/anime/54856) |    tv   |  2023  |     manga    |                                                   Horimiya: Piece                                                   |   Last week   |        -        |
-| [55791](https://myanimelist.net/anime/55791) |    tv   |    -   |     manga    |                                                "Oshi no Ko" Season 2                                                |   Last week   |        -        |
+| [55791](https://myanimelist.net/anime/55791) |    tv   |    -   |     manga    |                                                "Oshi no Ko" Season 2                                                |  2 weeks ago  |        -        |
 | [11577](https://myanimelist.net/anime/11577) |  movie  |  2013  | visual_novel |                                      Steins;Gate Movie: Fuka Ryouiki no Déjà vu                                     |   Last month  |        -        |
 
 
