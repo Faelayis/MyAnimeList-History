@@ -2,9 +2,9 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [49618](https://myanimelist.net/anime/49618) |   ona   |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |  11 hours ago | 01/27/2023 |  07/14/2023 |
+| [49618](https://myanimelist.net/anime/49618) |   ona   |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |   Yesterday   | 01/27/2023 |  07/14/2023 |
 | [46569](https://myanimelist.net/anime/46569) |    tv   |  2023  |   7   |                                                 Jigokuraku                                                |   Last week   | 04/02/2023 |  07/02/2023 |
-| [52211](https://myanimelist.net/anime/52211) |    tv   |  2023  |   6   |                                                   Mashle                                                  |   Last week   | 04/08/2023 |  07/01/2023 |
+| [52211](https://myanimelist.net/anime/52211) |    tv   |  2023  |   6   |                                                   Mashle                                                  |  2 weeks ago  | 04/08/2023 |  07/01/2023 |
 | [48549](https://myanimelist.net/anime/48549) |    tv   |  2023  |   7   |                                            Dr. Stone: New World                                           |  2 weeks ago  | 04/06/2023 |  06/27/2023 |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |  2023  |   8   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |  2 weeks ago  | 04/06/2023 |  06/27/2023 |
 | [51019](https://myanimelist.net/anime/51019) |    tv   |  2023  |   8   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |  3 weeks ago  | 04/09/2023 |  06/20/2023 |
@@ -44,7 +44,7 @@
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |   7   |                                     UQ Holder! Mahou Sensei Negima! 2                                     |  4 months ago | 03/13/2023 |  03/14/2023 |
 | [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |   8   |                                        Mahou Shoujo Ikusei Keikaku                                        |  4 months ago | 02/27/2023 |  02/28/2023 |
 | [50404](https://myanimelist.net/anime/50404) |   ona   |  2022  |   6   |                                      Xian Wang de Richang Shenghuo 3                                      |  4 months ago | 10/03/2022 |  02/26/2023 |
-| [14513](https://myanimelist.net/anime/14513) |    tv   |  2012  |   6   |                                        Magi: The Labyrinth of Magic                                       |  4 months ago | 02/23/2023 |  02/25/2023 |
+| [14513](https://myanimelist.net/anime/14513) |    tv   |  2012  |   6   |                                        Magi: The Labyrinth of Magic                                       |  5 months ago | 02/23/2023 |  02/25/2023 |
 | [48316](https://myanimelist.net/anime/48316) |    tv   |  2022  |   8   |                                    Kage no Jitsuryokusha ni Naritakute!                                   |  5 months ago | 10/06/2022 |  02/16/2023 |
 | [40776](https://myanimelist.net/anime/40776) |    tv   |  2020  |   7   |                                        Haikyuu!! To the Top Part 2                                        |  5 months ago | 11/12/2022 |  01/31/2023 |
 | [10020](https://myanimelist.net/anime/10020) |   ona   |  2011  |   6   |                            Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials                           |  6 months ago | 01/17/2023 |  01/17/2023 |
@@ -324,7 +324,7 @@
 | [37347](https://myanimelist.net/anime/37347) |    tv   |  2019  |   8   |                        Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II                        |  2 years ago  | 11/21/2020 |  11/22/2020 |
 | [33506](https://myanimelist.net/anime/33506) |    tv   |  2017  |   6   |                                     Ao no Exorcist: Kyoto Fujouou-hen                                     |  2 years ago  | 11/21/2020 |  11/21/2020 |
 |  [9919](https://myanimelist.net/anime/9919)  |    tv   |  2011  |   7   |                                               Ao no Exorcist                                              |  2 years ago  | 11/20/2020 |  11/21/2020 |
-| [14227](https://myanimelist.net/anime/14227) |    tv   |  2012  |   9   |                                           Tonari no Kaibutsu-kun                                          |   Last year   | 11/20/2020 |  11/20/2020 |
+| [14227](https://myanimelist.net/anime/14227) |    tv   |  2012  |   9   |                                           Tonari no Kaibutsu-kun                                          |  2 years ago  | 11/20/2020 |  11/20/2020 |
 | [14833](https://myanimelist.net/anime/14833) |    tv   |  2013  |   7   |                                             Maoyuu Maou Yuusha                                            |  2 years ago  | 11/15/2020 |  11/16/2020 |
 | [40221](https://myanimelist.net/anime/40221) |    tv   |  2020  |   9   |                                                Kami no Tou                                                |  2 years ago  | 11/15/2020 |  11/15/2020 |
 | [29786](https://myanimelist.net/anime/29786) |    tv   |  2015  |   7   |                         Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai                         |  2 years ago  | 11/09/2020 |  11/12/2020 |
