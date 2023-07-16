@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [49618](https://myanimelist.net/anime/49618) |   ona   |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |   Yesterday   | 01/27/2023 |  07/14/2023 |
+| [49618](https://myanimelist.net/anime/49618) |   ona   |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |   2 days ago  | 01/27/2023 |  07/14/2023 |
 | [46569](https://myanimelist.net/anime/46569) |    tv   |  2023  |   7   |                                                 Jigokuraku                                                |   Last week   | 04/02/2023 |  07/02/2023 |
 | [52211](https://myanimelist.net/anime/52211) |    tv   |  2023  |   6   |                                                   Mashle                                                  |  2 weeks ago  | 04/08/2023 |  07/01/2023 |
 | [48549](https://myanimelist.net/anime/48549) |    tv   |  2023  |   7   |                                            Dr. Stone: New World                                           |  2 weeks ago  | 04/06/2023 |  06/27/2023 |
@@ -43,7 +43,7 @@
 | [34604](https://myanimelist.net/anime/34604) |   ova   |  2017  |   7   |                                   UQ Holder! Mahou Sensei Negima! 2 OVA                                   |  4 months ago | 03/14/2023 |  03/14/2023 |
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |   7   |                                     UQ Holder! Mahou Sensei Negima! 2                                     |  4 months ago | 03/13/2023 |  03/14/2023 |
 | [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |   8   |                                        Mahou Shoujo Ikusei Keikaku                                        |  4 months ago | 02/27/2023 |  02/28/2023 |
-| [50404](https://myanimelist.net/anime/50404) |   ona   |  2022  |   6   |                                      Xian Wang de Richang Shenghuo 3                                      |  4 months ago | 10/03/2022 |  02/26/2023 |
+| [50404](https://myanimelist.net/anime/50404) |   ona   |  2022  |   6   |                                      Xian Wang de Richang Shenghuo 3                                      |  5 months ago | 10/03/2022 |  02/26/2023 |
 | [14513](https://myanimelist.net/anime/14513) |    tv   |  2012  |   6   |                                        Magi: The Labyrinth of Magic                                       |  5 months ago | 02/23/2023 |  02/25/2023 |
 | [48316](https://myanimelist.net/anime/48316) |    tv   |  2022  |   8   |                                    Kage no Jitsuryokusha ni Naritakute!                                   |  5 months ago | 10/06/2022 |  02/16/2023 |
 | [40776](https://myanimelist.net/anime/40776) |    tv   |  2020  |   7   |                                        Haikyuu!! To the Top Part 2                                        |  5 months ago | 11/12/2022 |  01/31/2023 |
@@ -88,7 +88,7 @@
 | [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   10  |                                   Made in Abyss: Retsujitsu no Ougonkyou                                  | 10 months ago | 07/06/2022 |  09/29/2022 |
 | [42963](https://myanimelist.net/anime/42963) |    tv   |  2022  |   7   |                                      Kanojo, Okarishimasu 2nd Season                                      | 10 months ago | 07/02/2022 |  09/27/2022 |
 | [42310](https://myanimelist.net/anime/42310) |   ona   |  2022  |   6   |                                           Cyberpunk: Edgerunners                                          | 10 months ago | 09/25/2022 |  09/25/2022 |
-| [49938](https://myanimelist.net/anime/49938) |  movie  |  2022  |   5   |                                       Ame wo Tsugeru Hyouryuu Danchi                                      |  9 months ago | 09/19/2022 |  09/19/2022 |
+| [49938](https://myanimelist.net/anime/49938) |  movie  |  2022  |   5   |                                       Ame wo Tsugeru Hyouryuu Danchi                                      | 10 months ago | 09/19/2022 |  09/19/2022 |
 | [37105](https://myanimelist.net/anime/37105) |    tv   |  2018  |   7   |                                                 Grand Blue                                                | 11 months ago | 09/03/2022 |  09/03/2022 |
 |   [226](https://myanimelist.net/anime/226)   |    tv   |  2004  |   5   |                                                 Elfen Lied                                                | 11 months ago | 03/29/2021 |  09/03/2022 |
 | [50410](https://myanimelist.net/anime/50410) |  movie  |  2022  |   7   |                                            One Piece Film: Red                                            | 11 months ago | 08/26/2022 |  08/26/2022 |
@@ -225,7 +225,7 @@
 | [24439](https://myanimelist.net/anime/24439) |    tv   |  2015  |   8   |                                               Kekkai Sensen                                               |   Last year   | 09/18/2021 |  09/18/2021 |
 | [30915](https://myanimelist.net/anime/30915) | special |  2015  |   5   |                             Kekkai Sensen: Soresaemo Saitei de Saikou na Hibi                             |   Last year   | 09/18/2021 |  09/18/2021 |
 | [48580](https://myanimelist.net/anime/48580) |    tv   |  2021  |   9   |                                              Vanitas no Karte                                             |   Last year   | 08/24/2021 |  09/18/2021 |
-| [41402](https://myanimelist.net/anime/41402) |    tv   |  2021  |   7   |                                     Mairimashita! Iruma-kun 2nd Season                                    |   Last year   | 05/02/2021 |  09/12/2021 |
+| [41402](https://myanimelist.net/anime/41402) |    tv   |  2021  |   7   |                                     Mairimashita! Iruma-kun 2nd Season                                    |  2 years ago  | 05/02/2021 |  09/12/2021 |
 | [44931](https://myanimelist.net/anime/44931) |   ova   |  2021  |   9   |                                            Tonikaku Kawaii: SNS                                           |  2 years ago  | 08/21/2021 |  08/21/2021 |
 | [33836](https://myanimelist.net/anime/33836) |    tv   |  2017  |   6   |                                                   Seiren                                                  |  2 years ago  | 08/19/2021 |  08/19/2021 |
 | [24133](https://myanimelist.net/anime/24133) |    tv   |  2015  |   9   |                                     Taimadou Gakuen 35 Shiken Shoutai                                     |   Last year   | 08/17/2021 |  08/18/2021 |

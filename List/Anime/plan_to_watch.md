@@ -1,8 +1,8 @@
-# Plan to Watch (226)
+# Plan to Watch (225)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [55813](https://myanimelist.net/anime/55813) |    tv   |  2024  |     manga    |                                                  Mashle 2nd Season                                                  |   Last week   |        -        |
+| [55813](https://myanimelist.net/anime/55813) |    tv   |  2024  |     manga    |                                                  Mashle 2nd Season                                                  |  2 weeks ago  |        -        |
 | [54898](https://myanimelist.net/anime/54898) |    tv   |  2023  |     manga    |                                             Bungou Stray Dogs 5th Season                                            |  2 weeks ago  |        -        |
 | [54915](https://myanimelist.net/anime/54915) | special |  2023  |     manga    |                                                5-toubun no Hanayome∽                                                |  2 weeks ago  |        -        |
 | [54856](https://myanimelist.net/anime/54856) |    tv   |  2023  |     manga    |                                                   Horimiya: Piece                                                   |  2 weeks ago  |        -        |
@@ -32,8 +32,8 @@
 | [53488](https://myanimelist.net/anime/53488) |    tv   |    -   |  light_novel |    Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd    |  4 months ago |        -        |
 | [53889](https://myanimelist.net/anime/53889) |    tv   |    -   |     manga    |                                             Ao no Exorcist (Shin Series)                                            |  4 months ago |        -        |
 | [54344](https://myanimelist.net/anime/54344) | unknown |    -   |  light_novel |                                         Mahou Shoujo Ikusei Keikaku: Restart                                        |  4 months ago |        -        |
-| [54440](https://myanimelist.net/anime/54440) | unknown |    -   |   original   |                                         Lycoris Recoil (Shinsaku Animation)                                         |  4 months ago |        -        |
-| [51462](https://myanimelist.net/anime/51462) |    tv   |  2023  |  light_novel |                                                 Isekai Nonbiri Nouka                                                |  4 months ago |        -        |
+| [54440](https://myanimelist.net/anime/54440) | unknown |    -   |   original   |                                         Lycoris Recoil (Shinsaku Animation)                                         |  5 months ago |        -        |
+| [51462](https://myanimelist.net/anime/51462) |    tv   |  2023  |  light_novel |                                                 Isekai Nonbiri Nouka                                                |  5 months ago |        -        |
 | [36864](https://myanimelist.net/anime/36864) |    tv   |  2018  |     manga    |                                                   Akkun to Kanojo                                                   |  5 months ago |        -        |
 | [54595](https://myanimelist.net/anime/54595) |    tv   |  2023  |  light_novel |                                   Kage no Jitsuryokusha ni Naritakute! 2nd Season                                   |  5 months ago |        -        |
 | [36266](https://myanimelist.net/anime/36266) |    tv   |  2018  |     manga    |                                                  Mahou Shoujo Site                                                  |  5 months ago |        -        |
@@ -62,7 +62,6 @@
 | [37979](https://myanimelist.net/anime/37979) |    tv   |  2019  |     manga    |                                            Mahou Shoujo Tokushusen Asuka                                            |  9 months ago |        -        |
 | [50593](https://myanimelist.net/anime/50593) |  movie  |  2022  |  light_novel |                                        Natsu e no Tunnel, Sayonara no Deguchi                                       |  9 months ago |        -        |
 | [52865](https://myanimelist.net/anime/52865) |   ona   |  2022  |     manga    |                                                   Romantic Killer                                                   | 10 months ago |        -        |
-| [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |     manga    |                                           Kanojo, Okarishimasu 3rd Season                                           | 10 months ago |        -        |
 | [52289](https://myanimelist.net/anime/52289) |   ona   |  2022  |     manga    |                                     Kanojo, Okarishimasu 2nd Season: Date Movie                                     | 10 months ago |        -        |
 | [28497](https://myanimelist.net/anime/28497) |    tv   |  2015  |  light_novel |                                                   Rokka no Yuusha                                                   | 10 months ago |        -        |
 | [38409](https://myanimelist.net/anime/38409) |   ona   |  2018  |   original   |                                                    Cike Wu Liuqi                                                    | 10 months ago |        -        |
