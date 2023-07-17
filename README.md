@@ -6,27 +6,27 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [53050](https://myanimelist.net/anime/53050) |  tv  |  2023  |   -   |                                      Kanojo, Okarishimasu 3rd Season                                      |   0/12  | 22 hours ago | 07/15/2023 |
-| [54234](https://myanimelist.net/anime/54234) |  tv  |  2023  |   -   |                                      Suki na Ko ga Megane wo Wasureta                                     |   2/13  |  3 days ago  | 07/04/2023 |
-| [53632](https://myanimelist.net/anime/53632) |  tv  |  2023  |   -   |                                    Yumemiru Danshi wa Genjitsushugisha                                    |   2/12  |  5 days ago  | 07/11/2023 |
-| [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   |                             Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                            |   0/12  |  6 days ago  | 07/09/2023 |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   1/23  |   Last week  | 07/08/2023 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   2/23  | 12 hours ago | 07/08/2023 |
+| [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   |                             Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                            |   2/12  | 13 hours ago | 07/09/2023 |
+| [48633](https://myanimelist.net/anime/48633) |  tv  |  2023  |   -   |                                                 Liar Liar                                                 |   0/12  | 16 hours ago | 07/17/2023 |
+| [53050](https://myanimelist.net/anime/53050) |  tv  |  2023  |   -   |                                      Kanojo, Okarishimasu 3rd Season                                      |   0/12  |   Yesterday  | 07/15/2023 |
+| [54234](https://myanimelist.net/anime/54234) |  tv  |  2023  |   -   |                                      Suki na Ko ga Megane wo Wasureta                                     |   2/13  |  4 days ago  | 07/04/2023 |
+| [53632](https://myanimelist.net/anime/53632) |  tv  |  2023  |   -   |                                    Yumemiru Danshi wa Genjitsushugisha                                    |   2/12  |  6 days ago  | 07/11/2023 |
 | [51498](https://myanimelist.net/anime/51498) |  tv  |  2023  |   -   |                                         Masamune-kun no Revenge R                                         |   1/12  |   Last week  | 07/04/2023 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1052/? |  2 weeks ago | 01/01/2013 |
 | [52034](https://myanimelist.net/anime/52034) |  tv  |  2023  |   8   |                                                "Oshi no Ko"                                               |   6/11  |  Last month  | 04/12/2023 |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   1/10  |  Last month  | 06/11/2023 |
 | [50416](https://myanimelist.net/anime/50416) |  tv  |  2023  |   7   |                                               Skip to Loafer                                              |   8/12  |  Last month  | 05/10/2023 |
-| [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   6   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |  Last month  | 04/04/2023 |
 
 
 *[6 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``76.85%``
+#### Completed ``77.08%``
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [49618](https://myanimelist.net/anime/49618) |   ona   |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |   2 days ago  | 01/27/2023 |  07/14/2023 |
-| [46569](https://myanimelist.net/anime/46569) |    tv   |  2023  |   7   |                                                 Jigokuraku                                                |   Last week   | 04/02/2023 |  07/02/2023 |
+| [49618](https://myanimelist.net/anime/49618) |   ona   |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |   3 days ago  | 01/27/2023 |  07/14/2023 |
+| [46569](https://myanimelist.net/anime/46569) |    tv   |  2023  |   7   |                                                 Jigokuraku                                                |  2 weeks ago  | 04/02/2023 |  07/02/2023 |
 | [52211](https://myanimelist.net/anime/52211) |    tv   |  2023  |   6   |                                                   Mashle                                                  |  2 weeks ago  | 04/08/2023 |  07/01/2023 |
 | [48549](https://myanimelist.net/anime/48549) |    tv   |  2023  |   7   |                                            Dr. Stone: New World                                           |  2 weeks ago  | 04/06/2023 |  06/27/2023 |
 | [51958](https://myanimelist.net/anime/51958) |    tv   |  2023  |   8   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |  2 weeks ago  | 04/06/2023 |  06/27/2023 |
@@ -35,21 +35,21 @@ List Sync From MyAnimeList (update every day)
 
 *[439 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``9.31%``
+#### On Hold ``9.44%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
 | [35078](https://myanimelist.net/anime/35078) |    tv   |  2018  |   -   |                                               Mitsuboshi Colors                                              |   1/12  |  2 months ago | 04/20/2023 |
 | [35905](https://myanimelist.net/anime/35905) |    tv   |  2018  |   -   |                                              Ryuuou no Oshigoto!                                             |   1/12  |  2 months ago | 04/20/2023 |
 | [10110](https://myanimelist.net/anime/10110) |    tv   |  2011  |   6   |                                                  Mayo Chiki!                                                 |   8/13  |  2 months ago | 04/14/2023 |
+| [53393](https://myanimelist.net/anime/53393) |    tv   |  2023  |   6   |                                               Tengoku Daimakyou                                              |   6/13  |  16 hours ago | 04/02/2023 |
 |  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  |   -   |                                                  Amagami SS                                                  |   7/25  |  3 months ago | 03/23/2023 |
 | [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |   -   |                                      Ijiranaide, Nagatoro-san 2nd Attack                                     |   2/12  |  3 months ago | 03/20/2023 |
-| [48553](https://myanimelist.net/anime/48553) |    tv   |  2022  |   -   |                                           Akebi-chan no Sailor-fuku                                          |   3/12  |  3 months ago | 03/13/2023 |
 
 
-*[61 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
+*[62 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``4.38%``
+#### Dropped ``4.37%``
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
@@ -63,7 +63,7 @@ List Sync From MyAnimeList (update every day)
 
 *[27 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``40.04%``
+#### Plan to Watch ``39.96%``
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
