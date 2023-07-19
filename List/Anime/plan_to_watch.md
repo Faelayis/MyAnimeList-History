@@ -1,4 +1,4 @@
-# Plan to Watch (225)
+# Plan to Watch (224)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -187,7 +187,6 @@
 | [41877](https://myanimelist.net/anime/41877) |  movie  |  2021  |   original   |                                                Kamiarizuki no Kodomo                                                |  2 years ago  |        -        |
 | [40632](https://myanimelist.net/anime/40632) |   ona   |    -   |   web_manga  |                                                   Peng Ran Xindong                                                  |  2 years ago  |        -        |
 | [44586](https://myanimelist.net/anime/44586) |  movie  |  2021  |     manga    |                                                  Kakushigoto Movie                                                  |  2 years ago  |        -        |
-| [48585](https://myanimelist.net/anime/48585) |  movie  |  2023  |     manga    |                                            Black Clover: Mahou Tei no Ken                                           |  2 years ago  |        -        |
 | [40842](https://myanimelist.net/anime/40842) |    tv   |  2021  |  mixed_media |                                                     Idoly Pride                                                     |  2 years ago  |        -        |
 |  [2001](https://myanimelist.net/anime/2001)  |    tv   |  2007  |   original   |                                              Tengen Toppa Gurren Lagann                                             |  2 years ago  |        -        |
 | [22535](https://myanimelist.net/anime/22535) |    tv   |  2014  |     manga    |                                              Kiseijuu: Sei no Kakuritsu                                             |  2 years ago  |        -        |

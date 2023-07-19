@@ -1,12 +1,13 @@
-# Completed (445)
+# Completed (446)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [49618](https://myanimelist.net/anime/49618) |   ona   |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |   4 days ago  | 01/27/2023 |  07/14/2023 |
+| [48585](https://myanimelist.net/anime/48585) |  movie  |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |  15 hours ago | 07/19/2023 |  07/19/2023 |
+| [49618](https://myanimelist.net/anime/49618) |   ona   |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |   5 days ago  | 01/27/2023 |  07/14/2023 |
 | [46569](https://myanimelist.net/anime/46569) |    tv   |  2023  |   7   |                                                 Jigokuraku                                                |  2 weeks ago  | 04/02/2023 |  07/02/2023 |
 | [52211](https://myanimelist.net/anime/52211) |    tv   |  2023  |   6   |                                                   Mashle                                                  |  2 weeks ago  | 04/08/2023 |  07/01/2023 |
-| [48549](https://myanimelist.net/anime/48549) |    tv   |  2023  |   7   |                                            Dr. Stone: New World                                           |  2 weeks ago  | 04/06/2023 |  06/27/2023 |
-| [51958](https://myanimelist.net/anime/51958) |    tv   |  2023  |   8   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |  2 weeks ago  | 04/06/2023 |  06/27/2023 |
+| [48549](https://myanimelist.net/anime/48549) |    tv   |  2023  |   7   |                                            Dr. Stone: New World                                           |  3 weeks ago  | 04/06/2023 |  06/27/2023 |
+| [51958](https://myanimelist.net/anime/51958) |    tv   |  2023  |   8   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |  3 weeks ago  | 04/06/2023 |  06/27/2023 |
 | [51019](https://myanimelist.net/anime/51019) |    tv   |  2023  |   8   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |  3 weeks ago  | 04/09/2023 |  06/20/2023 |
 | [20509](https://myanimelist.net/anime/20509) |    tv   |  2014  |   8   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |   Last month  | 05/18/2023 |  06/11/2023 |
 | [14829](https://myanimelist.net/anime/14829) |    tv   |  2013  |   8   |                                       Fate/kaleid liner Prisma☆Illya                                      |  2 months ago | 05/18/2023 |  05/18/2023 |
@@ -29,9 +30,9 @@
 | [51678](https://myanimelist.net/anime/51678) |    tv   |  2023  |   7   |                                            Oniichan wa Oshimai!                                           |  3 months ago | 01/05/2023 |  03/30/2023 |
 | [49784](https://myanimelist.net/anime/49784) |    tv   |  2022  |   6   |                                     Mairimashita! Iruma-kun 3rd Season                                    |  3 months ago | 10/09/2022 |  03/30/2023 |
 | [49918](https://myanimelist.net/anime/49918) |    tv   |  2022  |   8   |                                      Boku no Hero Academia 6th Season                                     |  3 months ago | 10/02/2022 |  03/30/2023 |
-| [50854](https://myanimelist.net/anime/50854) |    tv   |  2023  |   7   |                                     Benriya Saitou-san, Isekai ni Iku                                     |  3 months ago | 03/29/2023 |  03/29/2023 |
-| [50481](https://myanimelist.net/anime/50481) |    tv   |  2023  |   6   |              Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀             |  3 months ago | 02/21/2023 |  03/29/2023 |
-| [50739](https://myanimelist.net/anime/50739) |    tv   |  2023  |   7   |                    Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                    |  3 months ago | 01/16/2023 |  03/29/2023 |
+| [50854](https://myanimelist.net/anime/50854) |    tv   |  2023  |   7   |                                     Benriya Saitou-san, Isekai ni Iku                                     |  4 months ago | 03/29/2023 |  03/29/2023 |
+| [50481](https://myanimelist.net/anime/50481) |    tv   |  2023  |   6   |              Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀             |  4 months ago | 02/21/2023 |  03/29/2023 |
+| [50739](https://myanimelist.net/anime/50739) |    tv   |  2023  |   7   |                    Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                    |  4 months ago | 01/16/2023 |  03/29/2023 |
 | [49877](https://myanimelist.net/anime/49877) |  movie  |  2022  |   8   |                         Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen                         |  4 months ago | 03/24/2023 |  03/24/2023 |
 | [52173](https://myanimelist.net/anime/52173) |    tv   |  2023  |   7   |                               Koori Zokusei Danshi to Cool na Douryou Joshi                               |  4 months ago | 02/25/2023 |  03/22/2023 |
 | [49612](https://myanimelist.net/anime/49612) |    tv   |  2023  |   5   |                        Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu                        |  4 months ago | 01/04/2023 |  03/22/2023 |
@@ -73,7 +74,7 @@
 | [11597](https://myanimelist.net/anime/11597) |    tv   |  2012  |   7   |                                               Nisemonogatari                                              |  8 months ago | 11/19/2022 |  11/20/2022 |
 |  [5081](https://myanimelist.net/anime/5081)  |    tv   |  2009  |   7   |                                               Bakemonogatari                                              |  8 months ago | 11/18/2022 |  11/19/2022 |
 | [38883](https://myanimelist.net/anime/38883) |    tv   |  2020  |   7   |                                            Haikyuu!! To the Top                                           |  8 months ago | 11/10/2022 |  11/12/2022 |
-| [32935](https://myanimelist.net/anime/32935) |    tv   |  2016  |   7   |                         Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou                         |  8 months ago | 11/07/2022 |  11/08/2022 |
+| [32935](https://myanimelist.net/anime/32935) |    tv   |  2016  |   7   |                         Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou                         |  9 months ago | 11/07/2022 |  11/08/2022 |
 | [20583](https://myanimelist.net/anime/20583) |    tv   |  2014  |   7   |                                                 Haikyuu!!                                                 |  9 months ago | 10/28/2022 |  10/31/2022 |
 | [39651](https://myanimelist.net/anime/39651) |   ova   |  2019  |   5   |           Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi          |  9 months ago | 10/24/2022 |  10/24/2022 |
 | [37510](https://myanimelist.net/anime/37510) |    tv   |  2019  |   8   |                                             Mob Psycho 100 II                                             |  9 months ago | 10/23/2022 |  10/24/2022 |
