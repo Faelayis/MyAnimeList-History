@@ -2,9 +2,9 @@
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   2/23  |  6 days ago  | 07/08/2023 |
-| [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   |                             Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                            |   2/12  |  6 days ago  | 07/09/2023 |
-| [48633](https://myanimelist.net/anime/48633) |  tv  |  2023  |   -   |                                                 Liar Liar                                                 |   0/12  |  6 days ago  | 07/17/2023 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   3/23  | 12 hours ago | 07/08/2023 |
+| [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   |                             Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                            |   2/12  |   Last week  | 07/09/2023 |
+| [48633](https://myanimelist.net/anime/48633) |  tv  |  2023  |   -   |                                                 Liar Liar                                                 |   0/12  |   Last week  | 07/17/2023 |
 | [53050](https://myanimelist.net/anime/53050) |  tv  |  2023  |   -   |                                      Kanojo, Okarishimasu 3rd Season                                      |   0/12  |   Last week  | 07/15/2023 |
 | [54234](https://myanimelist.net/anime/54234) |  tv  |  2023  |   -   |                                      Suki na Ko ga Megane wo Wasureta                                     |   2/13  |   Last week  | 07/04/2023 |
 | [53632](https://myanimelist.net/anime/53632) |  tv  |  2023  |   -   |                                    Yumemiru Danshi wa Genjitsushugisha                                    |   2/12  |   Last week  | 07/11/2023 |
@@ -16,6 +16,6 @@
 | [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   6   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  | 2 months ago | 04/04/2023 |
 | [51536](https://myanimelist.net/anime/51536) |  tv  |  2023  |   9   |                                   The iDOLM@STER Cinderella Girls: U149                                   |   5/12  | 2 months ago | 05/02/2023 |
 | [51815](https://myanimelist.net/anime/51815) |  tv  |  2023  |   -   |                                        Kubo-san wa Mob wo Yurusanai                                       |   7/12  | 2 months ago | 01/11/2023 |
-| [53126](https://myanimelist.net/anime/53126) |  tv  |  2023  |   6   |                                     Yamada-kun to Lv999 no Koi wo Suru                                    |   2/13  | 2 months ago | 04/02/2023 |
-| [50307](https://myanimelist.net/anime/50307) |  tv  |  2023  |   7   |                                         Tonikaku Kawaii 2nd Season                                        |   4/12  | 2 months ago | 04/08/2023 |
+| [53126](https://myanimelist.net/anime/53126) |  tv  |  2023  |   6   |                                     Yamada-kun to Lv999 no Koi wo Suru                                    |   2/13  | 3 months ago | 04/02/2023 |
+| [50307](https://myanimelist.net/anime/50307) |  tv  |  2023  |   7   |                                         Tonikaku Kawaii 2nd Season                                        |   4/12  | 3 months ago | 04/08/2023 |
 | [14199](https://myanimelist.net/anime/14199) |  tv  |  2012  |   -   |                               Oniichan dakedo Ai sae Areba Kankeinai yo ne!                               |   9/12  | 3 months ago | 04/21/2023 |

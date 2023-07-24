@@ -1,7 +1,14 @@
-# Plan to Watch (224)
+# Plan to Watch (231)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [55357](https://myanimelist.net/anime/55357) |  movie  |    -   | 4_koma_manga |                                                Bocchi the Rock! Movie                                               |  15 hours ago |        -        |
+| [50803](https://myanimelist.net/anime/50803) |    tv   |  2024  |  light_novel |                                          Jaku-Chara Tomozaki-kun 2nd Stage                                          |  15 hours ago |        -        |
+| [48896](https://myanimelist.net/anime/48896) |  movie  |    -   |  light_novel |                                           Overlord Movie 3: Sei Oukoku-hen                                          |  15 hours ago |        -        |
+| [55825](https://myanimelist.net/anime/55825) |    tv   |    -   |     manga    |                                                Jigokuraku 2nd Season                                                |  15 hours ago |        -        |
+| [52742](https://myanimelist.net/anime/52742) |  movie  |    -   |     manga    |                                                   Haikyuu!! Final                                                   |  15 hours ago |        -        |
+| [55644](https://myanimelist.net/anime/55644) |    tv   |  2023  |     manga    |                                             Dr. Stone: New World Part 2                                             |  15 hours ago |        -        |
+| [54789](https://myanimelist.net/anime/54789) |    tv   |    -   |     manga    |                                           Boku no Hero Academia 7th Season                                          |  15 hours ago |        -        |
 | [55813](https://myanimelist.net/anime/55813) |    tv   |  2024  |     manga    |                                                  Mashle 2nd Season                                                  |  3 weeks ago  |        -        |
 | [54898](https://myanimelist.net/anime/54898) |    tv   |  2023  |     manga    |                                             Bungou Stray Dogs 5th Season                                            |  3 weeks ago  |        -        |
 | [54915](https://myanimelist.net/anime/54915) | special |  2023  |     manga    |                                                5-toubun no Hanayome∽                                                |  3 weeks ago  |        -        |
@@ -52,7 +59,7 @@
 | [18679](https://myanimelist.net/anime/18679) |    tv   |  2013  |   original   |                                                     Kill la Kill                                                    |  7 months ago |        -        |
 | [34914](https://myanimelist.net/anime/34914) |    tv   |  2017  | 4_koma_manga |                                                      New Game!!                                                     |  7 months ago |        -        |
 | [31953](https://myanimelist.net/anime/31953) |    tv   |  2016  | 4_koma_manga |                                                      New Game!                                                      |  7 months ago |        -        |
-| [53450](https://myanimelist.net/anime/53450) |   ona   |    -   |     novel    |                                           Xian Wang de Richang Shenghuo 4                                           |  7 months ago |        -        |
+| [53450](https://myanimelist.net/anime/53450) |   ona   |    -   |     novel    |                                           Xian Wang de Richang Shenghuo 4                                           |  8 months ago |        -        |
 | [32191](https://myanimelist.net/anime/32191) |   ona   |  2014  |  light_novel |                                      Okitegami Kyouko no Bibouroku x Monogatari                                     |  8 months ago |        -        |
 | [15689](https://myanimelist.net/anime/15689) |    tv   |  2012  |  light_novel |                                                 Nekomonogatari: Kuro                                                |  8 months ago |        -        |
 | [41467](https://myanimelist.net/anime/41467) |    tv   |  2022  |     manga    |                                              Bleach: Sennen Kessen-hen                                              |  8 months ago |        -        |
@@ -104,7 +111,7 @@
 |  [8557](https://myanimelist.net/anime/8557)  |    tv   |  2010  |     manga    |                                                Shinryaku! Ika Musume                                                |   04/21/2022  |        -        |
 | [49785](https://myanimelist.net/anime/49785) |    tv   |    -   |     manga    |                                             Fairy Tail: 100 Years Quest                                             |   04/16/2022  |        -        |
 | [50330](https://myanimelist.net/anime/50330) |    tv   |  2023  |     manga    |                                             Bungou Stray Dogs 4th Season                                            |   04/16/2022  |        -        |
-| [47160](https://myanimelist.net/anime/47160) |    tv   |    -   |  light_novel |                                               Goblin Slayer 2nd Season                                              |   04/16/2022  |        -        |
+| [47160](https://myanimelist.net/anime/47160) |    tv   |    -   |  light_novel |                                                   Goblin Slayer II                                                  |   04/16/2022  |        -        |
 | [37994](https://myanimelist.net/anime/37994) |   ona   |  2021  |   original   |                                             B: The Beginning Succession                                             |   04/13/2022  |        -        |
 | [40870](https://myanimelist.net/anime/40870) |    tv   |  2021  |   original   |                                                    SSSS.Dynazenon                                                   |   04/03/2022  |        -        |
 | [36296](https://myanimelist.net/anime/36296) |    tv   |  2018  |     manga    |                                                   Hinamatsuri (TV)                                                  |   03/30/2022  |        -        |
