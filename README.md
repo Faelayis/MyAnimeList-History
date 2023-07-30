@@ -6,11 +6,11 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   4/23  | 11 hours ago | 07/08/2023 |
-| [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   2/10  |  4 days ago  | 06/11/2023 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   4/23  |   Yesterday  | 07/08/2023 |
+| [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   2/10  |  5 days ago  | 06/11/2023 |
 | [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   |                             Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                            |   2/12  |   Last week  | 07/09/2023 |
 | [48633](https://myanimelist.net/anime/48633) |  tv  |  2023  |   -   |                                                 Liar Liar                                                 |   0/12  |   Last week  | 07/17/2023 |
-| [53050](https://myanimelist.net/anime/53050) |  tv  |  2023  |   -   |                                      Kanojo, Okarishimasu 3rd Season                                      |   0/12  |   Last week  | 07/15/2023 |
+| [53050](https://myanimelist.net/anime/53050) |  tv  |  2023  |   -   |                                      Kanojo, Okarishimasu 3rd Season                                      |   0/12  |  2 weeks ago | 07/15/2023 |
 | [54234](https://myanimelist.net/anime/54234) |  tv  |  2023  |   -   |                                      Suki na Ko ga Megane wo Wasureta                                     |   2/13  |  2 weeks ago | 07/04/2023 |
 | [53632](https://myanimelist.net/anime/53632) |  tv  |  2023  |   -   |                                    Yumemiru Danshi wa Genjitsushugisha                                    |   2/12  |  2 weeks ago | 07/11/2023 |
 | [51498](https://myanimelist.net/anime/51498) |  tv  |  2023  |   -   |                                         Masamune-kun no Revenge R                                         |   1/12  |  3 weeks ago | 07/04/2023 |
@@ -54,7 +54,7 @@ List Sync From MyAnimeList (update every day)
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
 | [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |   Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito   |   3/12  |  3 months ago | 04/03/2023 |
-| [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                         Boku no Kokoro no Yabai Yatsu                        |   2/12  |  3 months ago | 04/02/2023 |
+| [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                         Boku no Kokoro no Yabai Yatsu                        |   2/12  |  4 months ago | 04/02/2023 |
 | [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |             Campione! Matsurowanu Kamigami to Kamigoroshi no Maou            |   1/13  |  4 months ago | 03/20/2023 |
 |   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                           Higurashi no Naku Koro ni                          |  10/26  |  7 months ago | 12/23/2022 |
 | [51464](https://myanimelist.net/anime/51464) |  tv  |  2022  |   -   |                        4-nin wa Sorezore Uso wo Tsuku                        |   1/11  | 10 months ago | 10/16/2022 |
@@ -67,12 +67,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [55357](https://myanimelist.net/anime/55357) |  movie  |    -   | 4_koma_manga |                                                Bocchi the Rock! Movie                                               |   5 days ago  |        -        |
-| [50803](https://myanimelist.net/anime/50803) |    tv   |  2024  |  light_novel |                                          Jaku-Chara Tomozaki-kun 2nd Stage                                          |   5 days ago  |        -        |
-| [48896](https://myanimelist.net/anime/48896) |  movie  |    -   |  light_novel |                                           Overlord Movie 3: Sei Oukoku-hen                                          |   5 days ago  |        -        |
-| [55825](https://myanimelist.net/anime/55825) |    tv   |    -   |     manga    |                                                Jigokuraku 2nd Season                                                |   5 days ago  |        -        |
-| [52742](https://myanimelist.net/anime/52742) |  movie  |    -   |     manga    |                                                   Haikyuu!! Final                                                   |   5 days ago  |        -        |
-| [55644](https://myanimelist.net/anime/55644) |    tv   |  2023  |     manga    |                                             Dr. Stone: New World Part 2                                             |   5 days ago  |        -        |
+| [55357](https://myanimelist.net/anime/55357) |  movie  |    -   | 4_koma_manga |                                                Bocchi the Rock! Movie                                               |   6 days ago  |        -        |
+| [50803](https://myanimelist.net/anime/50803) |    tv   |  2024  |  light_novel |                                          Jaku-Chara Tomozaki-kun 2nd Stage                                          |   6 days ago  |        -        |
+| [48896](https://myanimelist.net/anime/48896) |  movie  |    -   |  light_novel |                                           Overlord Movie 3: Sei Oukoku-hen                                          |   6 days ago  |        -        |
+| [55825](https://myanimelist.net/anime/55825) |    tv   |    -   |     manga    |                                                Jigokuraku 2nd Season                                                |   6 days ago  |        -        |
+| [52742](https://myanimelist.net/anime/52742) |  movie  |    -   |     manga    |                                                   Haikyuu!! Final                                                   |   6 days ago  |        -        |
+| [55644](https://myanimelist.net/anime/55644) |    tv   |  2023  |     manga    |                                             Dr. Stone: New World Part 2                                             |   6 days ago  |        -        |
 
 
 *[224 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
