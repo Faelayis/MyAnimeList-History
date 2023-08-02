@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [48585](https://myanimelist.net/anime/48585) |  movie  |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |   Last week   | 07/19/2023 |  07/19/2023 |
+| [48585](https://myanimelist.net/anime/48585) |  movie  |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |  2 weeks ago  | 07/19/2023 |  07/19/2023 |
 | [49618](https://myanimelist.net/anime/49618) |   ona   |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |  2 weeks ago  | 01/27/2023 |  07/14/2023 |
 | [46569](https://myanimelist.net/anime/46569) |    tv   |  2023  |   7   |                                                 Jigokuraku                                                |   Last month  | 04/02/2023 |  07/02/2023 |
 | [52211](https://myanimelist.net/anime/52211) |    tv   |  2023  |   6   |                                                   Mashle                                                  |   Last month  | 04/08/2023 |  07/01/2023 |
@@ -40,7 +40,7 @@
 | [37675](https://myanimelist.net/anime/37675) |    tv   |  2018  |   7   |                                                Overlord III                                               |  4 months ago | 03/16/2023 |  03/18/2023 |
 | [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |   9   |            Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen           |  4 months ago | 01/05/2023 |  03/18/2023 |
 | [35073](https://myanimelist.net/anime/35073) |    tv   |  2018  |   6   |                                                Overlord II                                                |  4 months ago | 03/16/2023 |  03/16/2023 |
-| [29803](https://myanimelist.net/anime/29803) |    tv   |  2015  |   8   |                                                  Overlord                                                 |  4 months ago | 03/15/2023 |  03/15/2023 |
+| [29803](https://myanimelist.net/anime/29803) |    tv   |  2015  |   8   |                                                  Overlord                                                 |  5 months ago | 03/15/2023 |  03/15/2023 |
 | [34604](https://myanimelist.net/anime/34604) |   ova   |  2017  |   7   |                                   UQ Holder! Mahou Sensei Negima! 2 OVA                                   |  5 months ago | 03/14/2023 |  03/14/2023 |
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |   7   |                                     UQ Holder! Mahou Sensei Negima! 2                                     |  5 months ago | 03/13/2023 |  03/14/2023 |
 | [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |   8   |                                        Mahou Shoujo Ikusei Keikaku                                        |  5 months ago | 02/27/2023 |  02/28/2023 |
@@ -208,7 +208,7 @@
 |  [8074](https://myanimelist.net/anime/8074)  |    tv   |  2010  |   7   |                                           Highschool of the Dead                                          |   Last year   | 10/04/2021 |  10/16/2021 |
 | [48849](https://myanimelist.net/anime/48849) |    tv   |  2021  |   9   |                                                 Sonny Boy                                                 |   Last year   | 08/07/2021 |  10/16/2021 |
 | [38329](https://myanimelist.net/anime/38329) |  movie  |  2019  |   9   |                           Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai                          |   Last year   | 10/14/2021 |  10/14/2021 |
-| [42625](https://myanimelist.net/anime/42625) |    tv   |  2021  |   10  |                                        Heion Sedai no Idaten-tachi                                        |   Last year   | 08/10/2021 |  09/29/2021 |
+| [42625](https://myanimelist.net/anime/42625) |    tv   |  2021  |   10  |                                        Heion Sedai no Idaten-tachi                                        |  2 years ago  | 08/10/2021 |  09/29/2021 |
 | [31478](https://myanimelist.net/anime/31478) |    tv   |  2016  |   6   |                                             Bungou Stray Dogs                                             |  2 years ago  | 09/25/2021 |  09/28/2021 |
 | [43814](https://myanimelist.net/anime/43814) |    tv   |  2021  |   7   |                                          Deatte 5-byou de Battle                                          |  2 years ago  | 07/20/2021 |  09/28/2021 |
 | [41710](https://myanimelist.net/anime/41710) |    tv   |  2021  |   7   |                                  Genjitsu Shugi Yuusha no Oukoku Saikenki                                 |  2 years ago  | 07/04/2021 |  09/27/2021 |
