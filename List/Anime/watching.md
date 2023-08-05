@@ -2,7 +2,7 @@
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   4/23  |  5 days ago  | 07/08/2023 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   5/23  |   Yesterday  | 07/08/2023 |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   2/10  |   Last week  | 06/11/2023 |
 | [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   |                             Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                            |   2/12  |  2 weeks ago | 07/09/2023 |
 | [48633](https://myanimelist.net/anime/48633) |  tv  |  2023  |   -   |                                                 Liar Liar                                                 |   0/12  |  2 weeks ago | 07/17/2023 |
