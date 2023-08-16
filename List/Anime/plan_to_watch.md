@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [34012](https://myanimelist.net/anime/34012) |    tv   |  2017  |  light_novel |                                                   Isekai Shokudou                                                   |   5 days ago  |        -        |
-| [56196](https://myanimelist.net/anime/56196) |  movie  |    -   |     manga    |                                           Boku no Hero Academia: The Movie                                          |   5 days ago  |        -        |
+| [34012](https://myanimelist.net/anime/34012) |    tv   |  2017  |  light_novel |                                                   Isekai Shokudou                                                   |   6 days ago  |        -        |
+| [56196](https://myanimelist.net/anime/56196) |  movie  |    -   |     manga    |                                           Boku no Hero Academia: The Movie                                          |   6 days ago  |        -        |
 | [55357](https://myanimelist.net/anime/55357) |  movie  |    -   | 4_koma_manga |                                                Bocchi the Rock! Movie                                               |  3 weeks ago  |        -        |
 | [50803](https://myanimelist.net/anime/50803) |    tv   |  2024  |  light_novel |                                          Jaku-Chara Tomozaki-kun 2nd Stage                                          |  3 weeks ago  |        -        |
 | [48896](https://myanimelist.net/anime/48896) |  movie  |    -   |  light_novel |                                           Overlord Movie 3: Sei Oukoku-hen                                          |  3 weeks ago  |        -        |
