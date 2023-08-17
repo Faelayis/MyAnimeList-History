@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [16049](https://myanimelist.net/anime/16049) |  tv  |  2013  |   -   |                                         Toaru Kagaku no Railgun S                                         |   3/24  |  6 days ago  |      -     |
+| [16049](https://myanimelist.net/anime/16049) |  tv  |  2013  |   -   |                                         Toaru Kagaku no Railgun S                                         |   3/24  |   Last week  |      -     |
 | [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   |                             Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                            |   4/12  |   Last week  | 07/09/2023 |
 | [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   5/23  |   Last week  | 07/08/2023 |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   2/10  |  3 weeks ago | 06/11/2023 |
@@ -43,8 +43,8 @@ List Sync From MyAnimeList (update every day)
 | [35905](https://myanimelist.net/anime/35905) |    tv   |  2018  |   -   |                                              Ryuuou no Oshigoto!                                             |   1/12  |  3 months ago | 04/20/2023 |
 | [10110](https://myanimelist.net/anime/10110) |    tv   |  2011  |   6   |                                                  Mayo Chiki!                                                 |   8/13  |  3 months ago | 04/14/2023 |
 | [53393](https://myanimelist.net/anime/53393) |    tv   |  2023  |   6   |                                               Tengoku Daimakyou                                              |   6/13  |   Last month  | 04/02/2023 |
-|  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  |   -   |                                                  Amagami SS                                                  |   7/25  |  4 months ago | 03/23/2023 |
-| [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |   -   |                                      Ijiranaide, Nagatoro-san 2nd Attack                                     |   2/12  |  4 months ago | 03/20/2023 |
+|  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  |   -   |                                                  Amagami SS                                                  |   7/25  |  5 months ago | 03/23/2023 |
+| [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |   -   |                                      Ijiranaide, Nagatoro-san 2nd Attack                                     |   2/12  |  5 months ago | 03/20/2023 |
 
 
 *[62 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
@@ -67,8 +67,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [34012](https://myanimelist.net/anime/34012) |    tv   |  2017  |  light_novel |                                                   Isekai Shokudou                                                   |   6 days ago  |        -        |
-| [56196](https://myanimelist.net/anime/56196) |  movie  |    -   |     manga    |                                           Boku no Hero Academia: The Movie                                          |   6 days ago  |        -        |
+| [34012](https://myanimelist.net/anime/34012) |    tv   |  2017  |  light_novel |                                                   Isekai Shokudou                                                   |   Last week   |        -        |
+| [56196](https://myanimelist.net/anime/56196) |  movie  |    -   |     manga    |                                           Boku no Hero Academia: The Movie                                          |   Last week   |        -        |
 | [55357](https://myanimelist.net/anime/55357) |  movie  |    -   | 4_koma_manga |                                                Bocchi the Rock! Movie                                               |  3 weeks ago  |        -        |
 | [50803](https://myanimelist.net/anime/50803) |    tv   |  2024  |  light_novel |                                          Jaku-Chara Tomozaki-kun 2nd Stage                                          |  3 weeks ago  |        -        |
 | [48896](https://myanimelist.net/anime/48896) |  movie  |    -   |  light_novel |                                           Overlord Movie 3: Sei Oukoku-hen                                          |  3 weeks ago  |        -        |
