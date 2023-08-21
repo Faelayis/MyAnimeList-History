@@ -69,10 +69,10 @@ List Sync From MyAnimeList (update every day)
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [34012](https://myanimelist.net/anime/34012) |    tv   |  2017  |  light_novel |                                                   Isekai Shokudou                                                   |   Last week   |        -        |
 | [56196](https://myanimelist.net/anime/56196) |  movie  |    -   |     manga    |                                           Boku no Hero Academia: The Movie                                          |   Last week   |        -        |
-| [55357](https://myanimelist.net/anime/55357) |  movie  |    -   | 4_koma_manga |                                                Bocchi the Rock! Movie                                               |  3 weeks ago  |        -        |
-| [50803](https://myanimelist.net/anime/50803) |    tv   |  2024  |  light_novel |                                          Jaku-Chara Tomozaki-kun 2nd Stage                                          |  3 weeks ago  |        -        |
-| [48896](https://myanimelist.net/anime/48896) |  movie  |    -   |  light_novel |                                           Overlord Movie 3: Sei Oukoku-hen                                          |  3 weeks ago  |        -        |
-| [55825](https://myanimelist.net/anime/55825) |    tv   |    -   |     manga    |                                                Jigokuraku 2nd Season                                                |  3 weeks ago  |        -        |
+| [55357](https://myanimelist.net/anime/55357) |  movie  |    -   | 4_koma_manga |                                                Bocchi the Rock! Movie                                               |   Last month  |        -        |
+| [50803](https://myanimelist.net/anime/50803) |    tv   |  2024  |  light_novel |                                          Jaku-Chara Tomozaki-kun 2nd Stage                                          |   Last month  |        -        |
+| [48896](https://myanimelist.net/anime/48896) |  movie  |    -   |  light_novel |                                           Overlord Movie 3: Sei Oukoku-hen                                          |   Last month  |        -        |
+| [55825](https://myanimelist.net/anime/55825) |    tv   |    -   |     manga    |                                                Jigokuraku 2nd Season                                                |   Last month  |        -        |
 
 
 *[226 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*

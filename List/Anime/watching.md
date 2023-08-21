@@ -17,6 +17,6 @@
 | [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   6   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  | 3 months ago | 04/04/2023 |
 | [51536](https://myanimelist.net/anime/51536) |  tv  |  2023  |   9   |                                   The iDOLM@STER Cinderella Girls: U149                                   |   5/12  | 3 months ago | 05/02/2023 |
 | [51815](https://myanimelist.net/anime/51815) |  tv  |  2023  |   -   |                                        Kubo-san wa Mob wo Yurusanai                                       |   7/12  | 3 months ago | 01/11/2023 |
-| [53126](https://myanimelist.net/anime/53126) |  tv  |  2023  |   6   |                                     Yamada-kun to Lv999 no Koi wo Suru                                    |   2/13  | 3 months ago | 04/02/2023 |
-| [50307](https://myanimelist.net/anime/50307) |  tv  |  2023  |   7   |                                         Tonikaku Kawaii 2nd Season                                        |   4/12  | 3 months ago | 04/08/2023 |
+| [53126](https://myanimelist.net/anime/53126) |  tv  |  2023  |   6   |                                     Yamada-kun to Lv999 no Koi wo Suru                                    |   2/13  | 4 months ago | 04/02/2023 |
+| [50307](https://myanimelist.net/anime/50307) |  tv  |  2023  |   7   |                                         Tonikaku Kawaii 2nd Season                                        |   4/12  | 4 months ago | 04/08/2023 |
 | [14199](https://myanimelist.net/anime/14199) |  tv  |  2012  |   -   |                               Oniichan dakedo Ai sae Areba Kankeinai yo ne!                               |   9/12  | 4 months ago | 04/21/2023 |
