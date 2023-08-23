@@ -1,7 +1,8 @@
-# On Hold (68)
+# On Hold (69)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
+| [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |  19 hours ago | 07/11/2023 |
 | [35078](https://myanimelist.net/anime/35078) |    tv   |  2018  |   -   |                                               Mitsuboshi Colors                                              |   1/12  |  3 months ago | 04/20/2023 |
 | [35905](https://myanimelist.net/anime/35905) |    tv   |  2018  |   -   |                                              Ryuuou no Oshigoto!                                             |   1/12  |  3 months ago | 04/20/2023 |
 | [10110](https://myanimelist.net/anime/10110) |    tv   |  2011  |   6   |                                                  Mayo Chiki!                                                 |   8/13  |  3 months ago | 04/14/2023 |
