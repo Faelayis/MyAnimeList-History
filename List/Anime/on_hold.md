@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |   2 days ago  | 07/11/2023 |
+| [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |   3 days ago  | 07/11/2023 |
 | [35078](https://myanimelist.net/anime/35078) |    tv   |  2018  |   -   |                                               Mitsuboshi Colors                                              |   1/12  |  3 months ago | 04/20/2023 |
 | [35905](https://myanimelist.net/anime/35905) |    tv   |  2018  |   -   |                                              Ryuuou no Oshigoto!                                             |   1/12  |  3 months ago | 04/20/2023 |
 | [10110](https://myanimelist.net/anime/10110) |    tv   |  2011  |   6   |                                                  Mayo Chiki!                                                 |   8/13  |  3 months ago | 04/14/2023 |
@@ -28,7 +28,7 @@
 | [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |   -   |                                                   Yuru Yuri                                                  |   4/12  |  5 months ago | 06/30/2022 |
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                                                   Fate/Zero                                                  |   2/13  |   Last year   | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                                            Madan no Ou to Vanadis                                            |   6/13  |  5 months ago | 04/22/2022 |
-| [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                                               Machikado Mazoku                                               |   3/12  | 10 months ago | 04/19/2022 |
+| [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                                               Machikado Mazoku                                               |   3/12  | 11 months ago | 04/19/2022 |
 | [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |                                       Kawaii dake ja Nai Shikimori-san                                       |   5/12  |   Last year   | 04/10/2022 |
 | [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                                             Mahoutsukai Reimeiki                                             |   2/12  |   Last year   | 04/09/2022 |
 | [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |                                     Tate no Yuusha no Nariagari Season 2                                     |   3/13  |  5 months ago | 04/06/2022 |
