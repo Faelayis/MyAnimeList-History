@@ -7,7 +7,7 @@ List Sync From MyAnimeList (update every day)
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1073/? |   Last week  | 01/01/2013 |
-| [16049](https://myanimelist.net/anime/16049) |  tv  |  2013  |   -   |                                         Toaru Kagaku no Railgun S                                         |   3/24  |  2 weeks ago |      -     |
+| [16049](https://myanimelist.net/anime/16049) |  tv  |  2013  |   -   |                                         Toaru Kagaku no Railgun S                                         |   3/24  |  3 weeks ago |      -     |
 | [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   |                             Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                            |   4/12  |  3 weeks ago | 07/09/2023 |
 | [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   5/23  |  3 weeks ago | 07/08/2023 |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   2/10  |  Last month  | 06/11/2023 |
@@ -21,21 +21,21 @@ List Sync From MyAnimeList (update every day)
 
 *[4 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``79.60%``
+#### Completed ``79.42%``
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |  23 hours ago | 08/30/2023 |  08/30/2023 |
 | [48585](https://myanimelist.net/anime/48585) |  movie  |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |   Last month  | 07/19/2023 |  07/19/2023 |
 | [49618](https://myanimelist.net/anime/49618) |   ona   |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |   Last month  | 01/27/2023 |  07/14/2023 |
 | [46569](https://myanimelist.net/anime/46569) |    tv   |  2023  |   7   |                                                 Jigokuraku                                                |  2 months ago | 04/02/2023 |  07/02/2023 |
 | [52211](https://myanimelist.net/anime/52211) |    tv   |  2023  |   6   |                                                   Mashle                                                  |  2 months ago | 04/08/2023 |  07/01/2023 |
 | [48549](https://myanimelist.net/anime/48549) |    tv   |  2023  |   7   |                                            Dr. Stone: New World                                           |  2 months ago | 04/06/2023 |  06/27/2023 |
-| [51958](https://myanimelist.net/anime/51958) |    tv   |  2023  |   8   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |  2 months ago | 04/06/2023 |  06/27/2023 |
 
 
-*[440 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
+*[441 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``9.73%``
+#### On Hold ``9.71%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -43,13 +43,13 @@ List Sync From MyAnimeList (update every day)
 | [35078](https://myanimelist.net/anime/35078) |    tv   |  2018  |   -   |                                               Mitsuboshi Colors                                              |   1/12  |  3 months ago | 04/20/2023 |
 | [35905](https://myanimelist.net/anime/35905) |    tv   |  2018  |   -   |                                              Ryuuou no Oshigoto!                                             |   1/12  |  3 months ago | 04/20/2023 |
 | [10110](https://myanimelist.net/anime/10110) |    tv   |  2011  |   6   |                                                  Mayo Chiki!                                                 |   8/13  |  3 months ago | 04/14/2023 |
-| [50307](https://myanimelist.net/anime/50307) |    tv   |  2023  |   7   |                                          Tonikaku Kawaii 2nd Season                                          |   4/12  |   2 days ago  | 04/08/2023 |
+| [50307](https://myanimelist.net/anime/50307) |    tv   |  2023  |   7   |                                          Tonikaku Kawaii 2nd Season                                          |   4/12  |   3 days ago  | 04/08/2023 |
 | [53393](https://myanimelist.net/anime/53393) |    tv   |  2023  |   6   |                                               Tengoku Daimakyou                                              |   6/13  |   Last month  | 04/02/2023 |
 
 
 *[65 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``4.30%``
+#### Dropped ``4.29%``
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -63,15 +63,15 @@ List Sync From MyAnimeList (update every day)
 
 *[27 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``41.77%``
+#### Plan to Watch ``41.70%``
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [33049](https://myanimelist.net/anime/33049) |  movie  |  2019  | visual_novel |                              Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly                              |   Last week   |        -        |
 | [33050](https://myanimelist.net/anime/33050) |  movie  |  2020  | visual_novel |                               Fate/stay night Movie: Heaven's Feel - III. Spring Song                               |   Last week   |        -        |
 | [25537](https://myanimelist.net/anime/25537) |  movie  |  2017  | visual_novel |                               Fate/stay night Movie: Heaven's Feel - I. Presage Flower                              |   Last week   |        -        |
-| [34012](https://myanimelist.net/anime/34012) |    tv   |  2017  |  light_novel |                                                   Isekai Shokudou                                                   |  2 weeks ago  |        -        |
-| [56196](https://myanimelist.net/anime/56196) |  movie  |    -   |     manga    |                                           Boku no Hero Academia: The Movie                                          |  2 weeks ago  |        -        |
+| [34012](https://myanimelist.net/anime/34012) |    tv   |  2017  |  light_novel |                                                   Isekai Shokudou                                                   |  3 weeks ago  |        -        |
+| [56196](https://myanimelist.net/anime/56196) |  movie  |    -   |     manga    |                                           Boku no Hero Academia: The Movie                                          |  3 weeks ago  |        -        |
 | [55357](https://myanimelist.net/anime/55357) |  movie  |    -   | 4_koma_manga |                                                Bocchi the Rock! Movie                                               |   Last month  |        -        |
 
 

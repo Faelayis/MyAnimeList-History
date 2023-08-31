@@ -1,7 +1,8 @@
-# Completed (446)
+# Completed (447)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |  23 hours ago | 08/30/2023 |  08/30/2023 |
 | [48585](https://myanimelist.net/anime/48585) |  movie  |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |   Last month  | 07/19/2023 |  07/19/2023 |
 | [49618](https://myanimelist.net/anime/49618) |   ona   |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |   Last month  | 01/27/2023 |  07/14/2023 |
 | [46569](https://myanimelist.net/anime/46569) |    tv   |  2023  |   7   |                                                 Jigokuraku                                                |  2 months ago | 04/02/2023 |  07/02/2023 |
@@ -39,14 +40,14 @@
 | [48895](https://myanimelist.net/anime/48895) |    tv   |  2022  |   8   |                                                Overlord IV                                                |  5 months ago | 03/18/2023 |  03/19/2023 |
 | [37675](https://myanimelist.net/anime/37675) |    tv   |  2018  |   7   |                                                Overlord III                                               |  5 months ago | 03/16/2023 |  03/18/2023 |
 | [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |   9   |            Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen           |  5 months ago | 01/05/2023 |  03/18/2023 |
-| [35073](https://myanimelist.net/anime/35073) |    tv   |  2018  |   6   |                                                Overlord II                                                |  5 months ago | 03/16/2023 |  03/16/2023 |
+| [35073](https://myanimelist.net/anime/35073) |    tv   |  2018  |   6   |                                                Overlord II                                                |  6 months ago | 03/16/2023 |  03/16/2023 |
 | [29803](https://myanimelist.net/anime/29803) |    tv   |  2015  |   8   |                                                  Overlord                                                 |  6 months ago | 03/15/2023 |  03/15/2023 |
 | [34604](https://myanimelist.net/anime/34604) |   ova   |  2017  |   7   |                                   UQ Holder! Mahou Sensei Negima! 2 OVA                                   |  6 months ago | 03/14/2023 |  03/14/2023 |
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |   7   |                                     UQ Holder! Mahou Sensei Negima! 2                                     |  6 months ago | 03/13/2023 |  03/14/2023 |
 | [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |   8   |                                        Mahou Shoujo Ikusei Keikaku                                        |  6 months ago | 02/27/2023 |  02/28/2023 |
 | [50404](https://myanimelist.net/anime/50404) |   ona   |  2022  |   6   |                                      Xian Wang de Richang Shenghuo 3                                      |  6 months ago | 10/03/2022 |  02/26/2023 |
 | [14513](https://myanimelist.net/anime/14513) |    tv   |  2012  |   6   |                                        Magi: The Labyrinth of Magic                                       |  6 months ago | 02/23/2023 |  02/25/2023 |
-| [48316](https://myanimelist.net/anime/48316) |    tv   |  2022  |   8   |                                    Kage no Jitsuryokusha ni Naritakute!                                   |  6 months ago | 10/06/2022 |  02/16/2023 |
+| [48316](https://myanimelist.net/anime/48316) |    tv   |  2022  |   8   |                                    Kage no Jitsuryokusha ni Naritakute!                                   |  7 months ago | 10/06/2022 |  02/16/2023 |
 | [40776](https://myanimelist.net/anime/40776) |    tv   |  2020  |   7   |                                        Haikyuu!! To the Top Part 2                                        |  7 months ago | 11/12/2022 |  01/31/2023 |
 | [10020](https://myanimelist.net/anime/10020) |   ona   |  2011  |   6   |                            Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials                           |  8 months ago | 01/17/2023 |  01/17/2023 |
 | [13659](https://myanimelist.net/anime/13659) |    tv   |  2013  |   7   |                                Ore no Imouto ga Konnani Kawaii Wake ga Nai.                               |  8 months ago | 01/17/2023 |  01/17/2023 |
@@ -68,8 +69,8 @@
 | [42916](https://myanimelist.net/anime/42916) |  movie  |  2021  |   5   |                       Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria                       |  9 months ago | 11/28/2022 |  11/28/2022 |
 | [32268](https://myanimelist.net/anime/32268) |   ona   |  2016  |   5   |                                              Koyomimonogatari                                             |  9 months ago | 11/26/2022 |  11/26/2022 |
 | [31181](https://myanimelist.net/anime/31181) |    tv   |  2015  |   6   |                                              Owarimonogatari                                              |  9 months ago | 11/26/2022 |  11/26/2022 |
-| [21855](https://myanimelist.net/anime/21855) |    tv   |  2014  |   4   |                                               Hanamonogatari                                              |  9 months ago | 11/24/2022 |  11/24/2022 |
-| [28025](https://myanimelist.net/anime/28025) |    tv   |  2014  |   5   |                                              Tsukimonogatari                                              |  9 months ago | 11/24/2022 |  11/24/2022 |
+| [21855](https://myanimelist.net/anime/21855) |    tv   |  2014  |   4   |                                               Hanamonogatari                                              | 10 months ago | 11/24/2022 |  11/24/2022 |
+| [28025](https://myanimelist.net/anime/28025) |    tv   |  2014  |   5   |                                              Tsukimonogatari                                              | 10 months ago | 11/24/2022 |  11/24/2022 |
 | [17074](https://myanimelist.net/anime/17074) |    tv   |  2013  |   10  |                                      Monogatari Series: Second Season                                     |  7 months ago | 11/20/2022 |  11/24/2022 |
 | [11597](https://myanimelist.net/anime/11597) |    tv   |  2012  |   7   |                                               Nisemonogatari                                              | 10 months ago | 11/19/2022 |  11/20/2022 |
 |  [5081](https://myanimelist.net/anime/5081)  |    tv   |  2009  |   7   |                                               Bakemonogatari                                              | 10 months ago | 11/18/2022 |  11/19/2022 |
@@ -86,7 +87,7 @@
 | [45653](https://myanimelist.net/anime/45653) |    tv   |  2022  |   6   |                                        Soredemo Ayumu wa Yosetekuru                                       | 11 months ago | 08/24/2022 |  09/30/2022 |
 | [47164](https://myanimelist.net/anime/47164) |    tv   |  2022  |   8   |            Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen           | 11 months ago | 07/22/2022 |  09/30/2022 |
 | [49470](https://myanimelist.net/anime/49470) |    tv   |  2022  |   6   |                                   Mamahaha no Tsurego ga Motokano datta                                   | 11 months ago | 07/08/2022 |  09/30/2022 |
-| [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   10  |                                   Made in Abyss: Retsujitsu no Ougonkyou                                  | 11 months ago | 07/06/2022 |  09/29/2022 |
+| [41084](https://myanimelist.net/anime/41084) |    tv   |  2022  |   10  |                                   Made in Abyss: Retsujitsu no Ougonkyou                                  |   Last year   | 07/06/2022 |  09/29/2022 |
 | [42963](https://myanimelist.net/anime/42963) |    tv   |  2022  |   7   |                                      Kanojo, Okarishimasu 2nd Season                                      |   Last year   | 07/02/2022 |  09/27/2022 |
 | [42310](https://myanimelist.net/anime/42310) |   ona   |  2022  |   6   |                                           Cyberpunk: Edgerunners                                          |   Last year   | 09/25/2022 |  09/25/2022 |
 | [49938](https://myanimelist.net/anime/49938) |  movie  |  2022  |   5   |                                       Ame wo Tsugeru Hyouryuu Danchi                                      | 11 months ago | 09/19/2022 |  09/19/2022 |
@@ -198,7 +199,7 @@
 | [38020](https://myanimelist.net/anime/38020) |    tv   |  2018  |   6   |                                            Beatless Final Stage                                           |   Last year   | 11/18/2021 |  11/18/2021 |
 |  [7311](https://myanimelist.net/anime/7311)  |  movie  |  2010  |   7   |                                       Suzumiya Haruhi no Shoushitsu                                       |   Last year   | 11/01/2021 |  11/01/2021 |
 |  [4382](https://myanimelist.net/anime/4382)  |    tv   |  2009  |   7   |                                     Suzumiya Haruhi no Yuuutsu (2009)                                     |   Last year   | 10/30/2021 |  11/01/2021 |
-| [34213](https://myanimelist.net/anime/34213) |   ona   |  2016  |   6   |                                            Getsuyoubi no Tawawa                                           |   Last year   | 10/12/2021 |  10/28/2021 |
+| [34213](https://myanimelist.net/anime/34213) |   ona   |  2016  |   6   |                                            Getsuyoubi no Tawawa                                           |  2 years ago  | 10/12/2021 |  10/28/2021 |
 |  [4214](https://myanimelist.net/anime/4214)  |    tv   |  2008  |   7   |                                          Rosario to Vampire Capu2                                         |  2 years ago  | 10/27/2021 |  10/27/2021 |
 | [40052](https://myanimelist.net/anime/40052) |    tv   |  2020  |   7   |                                              Great Pretender                                              |  2 years ago  | 10/26/2021 |  10/27/2021 |
 |  [2993](https://myanimelist.net/anime/2993)  |    tv   |  2008  |   7   |                                             Rosario to Vampire                                            |  2 years ago  | 10/26/2021 |  10/27/2021 |
