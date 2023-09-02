@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   6/23  | 10 hours ago | 07/08/2023 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   6/23  |   Yesterday  | 07/08/2023 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1073/? |   Last week  | 01/01/2013 |
 | [16049](https://myanimelist.net/anime/16049) |  tv  |  2013  |   -   |                                         Toaru Kagaku no Railgun S                                         |   3/24  |  3 weeks ago |      -     |
 | [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   |                             Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                            |   4/12  |  3 weeks ago | 07/09/2023 |
@@ -25,7 +25,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |   Yesterday   | 08/30/2023 |  08/30/2023 |
+| [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |   2 days ago  | 08/30/2023 |  08/30/2023 |
 | [48585](https://myanimelist.net/anime/48585) |  movie  |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |   Last month  | 07/19/2023 |  07/19/2023 |
 | [49618](https://myanimelist.net/anime/49618) |   ona   |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |   Last month  | 01/27/2023 |  07/14/2023 |
 | [46569](https://myanimelist.net/anime/46569) |    tv   |  2023  |   7   |                                                 Jigokuraku                                                |  2 months ago | 04/02/2023 |  07/02/2023 |
@@ -43,7 +43,7 @@ List Sync From MyAnimeList (update every day)
 | [35078](https://myanimelist.net/anime/35078) |    tv   |  2018  |   -   |                                               Mitsuboshi Colors                                              |   1/12  |  3 months ago | 04/20/2023 |
 | [35905](https://myanimelist.net/anime/35905) |    tv   |  2018  |   -   |                                              Ryuuou no Oshigoto!                                             |   1/12  |  3 months ago | 04/20/2023 |
 | [10110](https://myanimelist.net/anime/10110) |    tv   |  2011  |   6   |                                                  Mayo Chiki!                                                 |   8/13  |  3 months ago | 04/14/2023 |
-| [50307](https://myanimelist.net/anime/50307) |    tv   |  2023  |   7   |                                          Tonikaku Kawaii 2nd Season                                          |   4/12  |   4 days ago  | 04/08/2023 |
+| [50307](https://myanimelist.net/anime/50307) |    tv   |  2023  |   7   |                                          Tonikaku Kawaii 2nd Season                                          |   4/12  |   5 days ago  | 04/08/2023 |
 | [53393](https://myanimelist.net/anime/53393) |    tv   |  2023  |   6   |                                               Tengoku Daimakyou                                              |   6/13  |   Last month  | 04/02/2023 |
 
 
