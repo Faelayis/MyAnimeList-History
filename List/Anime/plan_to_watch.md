@@ -1,8 +1,9 @@
-# Plan to Watch (237)
+# Plan to Watch (238)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [56425](https://myanimelist.net/anime/56425) |    tv   |  2023  |   web_manga  |                                              Houkago Shounen Hanako-kun                                             |  16 hours ago |        -        |
+| [48633](https://myanimelist.net/anime/48633) |    tv   |  2023  |  light_novel |                                                      Liar Liar                                                      |  7 hours ago  |        -        |
+| [56425](https://myanimelist.net/anime/56425) |    tv   |  2023  |   web_manga  |                                              Houkago Shounen Hanako-kun                                             |   Yesterday   |        -        |
 | [33049](https://myanimelist.net/anime/33049) |  movie  |  2019  | visual_novel |                              Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly                              |   Last week   |        -        |
 | [33050](https://myanimelist.net/anime/33050) |  movie  |  2020  | visual_novel |                               Fate/stay night Movie: Heaven's Feel - III. Spring Song                               |   Last week   |        -        |
 | [25537](https://myanimelist.net/anime/25537) |  movie  |  2017  | visual_novel |                               Fate/stay night Movie: Heaven's Feel - I. Presage Flower                              |   Last week   |        -        |
@@ -24,7 +25,7 @@
 | [34100](https://myanimelist.net/anime/34100) |  movie  |  2017  |     manga    |                                Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai                                |  3 months ago |        -        |
 | [46422](https://myanimelist.net/anime/46422) |    tv   |  2023  |     manga    |                                               Niehime to Kemono no Ou                                               |  3 months ago |        -        |
 | [29093](https://myanimelist.net/anime/29093) | special |  2015  | visual_novel |                                        Grisaia no Meikyuu: Caprice no Mayu 0                                        |  3 months ago |        -        |
-| [31706](https://myanimelist.net/anime/31706) |    tv   |  2016  |     manga    |                                        Fate/kaleid liner Prisma☆Illya 3rei!!                                        |  3 months ago |        -        |
+| [31706](https://myanimelist.net/anime/31706) |    tv   |  2016  |     manga    |                                        Fate/kaleid liner Prisma☆Illya 3rei!!                                        |  4 months ago |        -        |
 | [34177](https://myanimelist.net/anime/34177) |    tv   |  2017  |  light_novel |                                                    Tenshi no 3P!                                                    |  4 months ago |        -        |
 | [55005](https://myanimelist.net/anime/55005) | special |  2020  |     manga    |                                       Munou na Nana Mini Anime: Yaminabe Party                                      |  5 months ago |        -        |
 | [40046](https://myanimelist.net/anime/40046) |    tv   |  2020  |   original   |                                                      Id:Invaded                                                     |  5 months ago |        -        |
@@ -225,7 +226,7 @@
 | [10163](https://myanimelist.net/anime/10163) |    tv   |  2011  |   original   |                                     C: The Money of Soul and Possibility Control                                    |  2 years ago  |        -        |
 | [36817](https://myanimelist.net/anime/36817) |    tv   |  2018  | 4_koma_manga |                                             Sunohara-sou no Kanrinin-san                                            |  2 years ago  |        -        |
 | [40907](https://myanimelist.net/anime/40907) |    tv   |  2021  |     manga    |                                               World Trigger 2nd Season                                              |  2 years ago  |        -        |
-| [10897](https://myanimelist.net/anime/10897) |   ova   |  2011  |  light_novel |                         Boku wa Tomodachi ga Sukunai: Yaminabe wa Bishoujo ga Zannen na Nioi                        |  2 years ago  |        -        |
+| [10897](https://myanimelist.net/anime/10897) |   ova   |  2011  |  light_novel |                         Boku wa Tomodachi ga Sukunai: Yaminabe wa Bishoujo ga Zannen na Nioi                        |  3 years ago  |        -        |
 | [13469](https://myanimelist.net/anime/13469) |   ova   |  2012  |  light_novel |                                              Hyouka: Motsubeki Mono wa                                              |  3 years ago  |        -        |
 | [32887](https://myanimelist.net/anime/32887) |    tv   |  2017  |  light_novel |                   Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria                   |  3 years ago  |        -        |
 | [37348](https://myanimelist.net/anime/37348) |  movie  |  2019  |  light_novel |                     Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya                     |  3 years ago  |        -        |
