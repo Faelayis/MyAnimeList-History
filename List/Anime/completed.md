@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |   5 days ago  | 08/30/2023 |  08/30/2023 |
+| [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |   6 days ago  | 08/30/2023 |  08/30/2023 |
 | [48585](https://myanimelist.net/anime/48585) |  movie  |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |   Last month  | 07/19/2023 |  07/19/2023 |
 | [49618](https://myanimelist.net/anime/49618) |   ona   |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |   Last month  | 01/27/2023 |  07/14/2023 |
 | [46569](https://myanimelist.net/anime/46569) |    tv   |  2023  |   7   |                                                 Jigokuraku                                                |  2 months ago | 04/02/2023 |  07/02/2023 |
@@ -35,8 +35,8 @@
 | [50481](https://myanimelist.net/anime/50481) |    tv   |  2023  |   6   |              Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀              |  5 months ago | 02/21/2023 |  03/29/2023 |
 | [50739](https://myanimelist.net/anime/50739) |    tv   |  2023  |   7   |                    Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                    |  5 months ago | 01/16/2023 |  03/29/2023 |
 | [49877](https://myanimelist.net/anime/49877) |  movie  |  2022  |   8   |                         Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen                         |  5 months ago | 03/24/2023 |  03/24/2023 |
-| [52173](https://myanimelist.net/anime/52173) |    tv   |  2023  |   7   |                               Koori Zokusei Danshi to Cool na Douryou Joshi                               |  5 months ago | 02/25/2023 |  03/22/2023 |
-| [49612](https://myanimelist.net/anime/49612) |    tv   |  2023  |   5   |                        Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu                        |  5 months ago | 01/04/2023 |  03/22/2023 |
+| [52173](https://myanimelist.net/anime/52173) |    tv   |  2023  |   7   |                               Koori Zokusei Danshi to Cool na Douryou Joshi                               |  6 months ago | 02/25/2023 |  03/22/2023 |
+| [49612](https://myanimelist.net/anime/49612) |    tv   |  2023  |   5   |                        Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu                        |  6 months ago | 01/04/2023 |  03/22/2023 |
 | [48895](https://myanimelist.net/anime/48895) |    tv   |  2022  |   8   |                                                Overlord IV                                                |  6 months ago | 03/18/2023 |  03/19/2023 |
 | [37675](https://myanimelist.net/anime/37675) |    tv   |  2018  |   7   |                                                Overlord III                                               |  6 months ago | 03/16/2023 |  03/18/2023 |
 | [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |   9   |            Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen           |  6 months ago | 01/05/2023 |  03/18/2023 |
@@ -83,7 +83,7 @@
 | [16436](https://myanimelist.net/anime/16436) | special |  2013  |   2   |                                               Tenshi no Drop                                              | 11 months ago | 10/16/2022 |  10/16/2022 |
 |  [6213](https://myanimelist.net/anime/6213)  |    tv   |  2009  |   7   |                                          Toaru Kagaku no Railgun                                          | 11 months ago | 09/06/2022 |  10/16/2022 |
 | [48675](https://myanimelist.net/anime/48675) |    tv   |  2022  |   7   |                                             Kakkou no Iinazuke                                            | 11 months ago | 04/25/2022 |  10/16/2022 |
-| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |   9   |                                              Yofukashi no Uta                                             | 11 months ago | 07/08/2022 |  10/05/2022 |
+| [50346](https://myanimelist.net/anime/50346) |    tv   |  2022  |   9   |                                              Yofukashi no Uta                                             |   Last year   | 07/08/2022 |  10/05/2022 |
 | [45653](https://myanimelist.net/anime/45653) |    tv   |  2022  |   6   |                                        Soredemo Ayumu wa Yosetekuru                                       |   Last year   | 08/24/2022 |  09/30/2022 |
 | [47164](https://myanimelist.net/anime/47164) |    tv   |  2022  |   8   |            Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen           |   Last year   | 07/22/2022 |  09/30/2022 |
 | [49470](https://myanimelist.net/anime/49470) |    tv   |  2022  |   6   |                                   Mamahaha no Tsurego ga Motokano datta                                   |   Last year   | 07/08/2022 |  09/30/2022 |
@@ -116,7 +116,7 @@
 | [26243](https://myanimelist.net/anime/26243) |    tv   |  2015  |   10  |                                              Owari no Seraph                                              |   Last year   | 05/12/2022 |  05/12/2022 |
 | [35839](https://myanimelist.net/anime/35839) |    tv   |  2018  |   7   |                                          Sora yori mo Tooi Basho                                          |   Last year   | 05/07/2022 |  05/07/2022 |
 | [40586](https://myanimelist.net/anime/40586) |    tv   |  2021  |   7   |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita                    |   Last year   | 05/03/2022 |  05/07/2022 |
-| [36632](https://myanimelist.net/anime/36632) |    tv   |  2018  |   6   |                              Ore ga Suki nano wa Imouto dakedo Imouto ja Nai                              |  5 months ago | 05/25/2021 |  05/07/2022 |
+| [36632](https://myanimelist.net/anime/36632) |    tv   |  2018  |   6   |                              Ore ga Suki nano wa Imouto dakedo Imouto ja Nai                              |  6 months ago | 05/25/2021 |  05/07/2022 |
 | [50549](https://myanimelist.net/anime/50549) |   ona   |  2022  |   6   |                                                   Bubble                                                  |   Last year   | 05/03/2022 |  05/03/2022 |
 | [31637](https://myanimelist.net/anime/31637) |    tv   |  2016  |   7   |                             Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2                             |   Last year   | 04/20/2022 |  04/22/2022 |
 | [28907](https://myanimelist.net/anime/28907) |    tv   |  2015  |   8   |                                 Gate: Jieitai Kanochi nite, Kaku Tatakaeri                                |   Last year   | 04/20/2022 |  04/20/2022 |
