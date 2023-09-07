@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |   6 days ago  | 08/30/2023 |  08/30/2023 |
+| [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |   Last week   | 08/30/2023 |  08/30/2023 |
 | [48585](https://myanimelist.net/anime/48585) |  movie  |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |   Last month  | 07/19/2023 |  07/19/2023 |
 | [49618](https://myanimelist.net/anime/49618) |   ona   |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |   Last month  | 01/27/2023 |  07/14/2023 |
 | [46569](https://myanimelist.net/anime/46569) |    tv   |  2023  |   7   |                                                 Jigokuraku                                                |  2 months ago | 04/02/2023 |  07/02/2023 |
@@ -57,7 +57,7 @@
 | [16001](https://myanimelist.net/anime/16001) | special |  2012  |   7   |                                        Kokoro Connect: Michi Random                                       |  8 months ago | 01/09/2023 |  01/09/2023 |
 | [11887](https://myanimelist.net/anime/11887) |    tv   |  2012  |   7   |                                               Kokoro Connect                                              |  8 months ago | 01/07/2023 |  01/09/2023 |
 | [31043](https://myanimelist.net/anime/31043) |    tv   |  2016  |   9   |                                          Boku dake ga Inai Machi                                          |  8 months ago | 01/02/2023 |  01/02/2023 |
-| [44511](https://myanimelist.net/anime/44511) |    tv   |  2022  |   7   |                                                Chainsaw Man                                               |  8 months ago | 10/13/2022 |  12/29/2022 |
+| [44511](https://myanimelist.net/anime/44511) |    tv   |  2022  |   7   |                                                Chainsaw Man                                               |  9 months ago | 10/13/2022 |  12/29/2022 |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  |   8   |                                              Bocchi the Rock!                                             |  9 months ago | 12/20/2022 |  12/27/2022 |
 | [50425](https://myanimelist.net/anime/50425) |    tv   |  2022  |   7   |                                         Fuufu Ijou, Koibito Miman.                                        |  9 months ago | 10/24/2022 |  12/27/2022 |
 | [50602](https://myanimelist.net/anime/50602) |    tv   |  2022  |   6   |                                            Spy x Family Part 2                                            |  9 months ago | 10/02/2022 |  12/27/2022 |
