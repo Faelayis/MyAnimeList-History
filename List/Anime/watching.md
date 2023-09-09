@@ -2,9 +2,9 @@
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   7/23  | 12 hours ago | 07/08/2023 |
-| [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   |                             Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                            |   7/12  |  3 days ago  | 07/09/2023 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1074/? |  4 days ago  | 01/01/2013 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   7/23  |   Yesterday  | 07/08/2023 |
+| [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   |                             Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                            |   7/12  |  4 days ago  | 07/09/2023 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1074/? |  5 days ago  | 01/01/2013 |
 | [16049](https://myanimelist.net/anime/16049) |  tv  |  2013  |   -   |                                         Toaru Kagaku no Railgun S                                         |   3/24  |  Last month  |      -     |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   2/10  |  Last month  | 06/11/2023 |
 | [53050](https://myanimelist.net/anime/53050) |  tv  |  2023  |   -   |                                      Kanojo, Okarishimasu 3rd Season                                      |   0/12  |  Last month  | 07/15/2023 |
