@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |  2 weeks ago  | 07/11/2023 |
+| [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |  3 weeks ago  | 07/11/2023 |
 | [35078](https://myanimelist.net/anime/35078) |    tv   |  2018  |   -   |                                               Mitsuboshi Colors                                              |   1/12  |  4 months ago | 04/20/2023 |
 | [35905](https://myanimelist.net/anime/35905) |    tv   |  2018  |   -   |                                              Ryuuou no Oshigoto!                                             |   1/12  |  4 months ago | 04/20/2023 |
 | [10110](https://myanimelist.net/anime/10110) |    tv   |  2011  |   6   |                                                  Mayo Chiki!                                                 |   8/13  |  4 months ago | 04/14/2023 |
@@ -15,11 +15,11 @@
 | [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |   -   |                                              Mahoutsukai no Yome                                             |   5/24  |  5 months ago | 03/01/2023 |
 | [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |   -   |                                               Amaama to Inazuma                                              |   3/12  |  8 months ago | 01/12/2023 |
 | [41514](https://myanimelist.net/anime/41514) |    tv   |  2023  |   6   |                     Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                     |  10/12  |  4 months ago | 01/12/2023 |
-| [44204](https://myanimelist.net/anime/44204) |    tv   |  2023  |   -   |                                             Kyokou Suiri Season 2                                            |   1/12  |  5 months ago | 01/09/2023 |
+| [44204](https://myanimelist.net/anime/44204) |    tv   |  2023  |   -   |                                             Kyokou Suiri Season 2                                            |   1/12  |  6 months ago | 01/09/2023 |
 | [48417](https://myanimelist.net/anime/48417) |    tv   |  2023  |   -   | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II |   3/12  |  6 months ago | 01/08/2023 |
 | [50205](https://myanimelist.net/anime/50205) |    tv   |  2022  |   -   |                                           Arknights: Reimei Zensou                                           |   3/8   |  6 months ago | 11/06/2022 |
 | [49596](https://myanimelist.net/anime/49596) |    tv   |  2022  |   -   |                                                   Blue Lock                                                  |   8/24  |  6 months ago | 10/16/2022 |
-| [50710](https://myanimelist.net/anime/50710) |    tv   |  2022  |   6   |                                             Urusei Yatsura (2022)                                            |   9/23  |  5 months ago | 10/14/2022 |
+| [50710](https://myanimelist.net/anime/50710) |    tv   |  2022  |   6   |                                             Urusei Yatsura (2022)                                            |   9/23  |  6 months ago | 10/14/2022 |
 |  [5114](https://myanimelist.net/anime/5114)  |    tv   |  2009  |   -   |                                       Fullmetal Alchemist: Brotherhood                                       |  47/64  | 11 months ago | 10/07/2022 |
 | [52046](https://myanimelist.net/anime/52046) |    tv   |  2022  |   -   |               Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau              |   2/13  |  9 months ago | 10/05/2022 |
 | [49891](https://myanimelist.net/anime/49891) |    tv   |  2022  |   -   |                                          Tensei shitara Ken deshita                                          |   3/12  |  9 months ago | 09/30/2022 |
