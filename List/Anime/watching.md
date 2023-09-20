@@ -2,9 +2,9 @@
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1076/? |   Yesterday  | 01/01/2013 |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   8/23  |  3 days ago  | 07/08/2023 |
-| [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   6   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |  5 days ago  | 04/04/2023 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1076/? |  2 days ago  | 01/01/2013 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |   8/23  |  4 days ago  | 07/08/2023 |
+| [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   6   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |  6 days ago  | 04/04/2023 |
 | [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   |                             Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                            |   7/12  |  2 weeks ago | 07/09/2023 |
 | [16049](https://myanimelist.net/anime/16049) |  tv  |  2013  |   -   |                                         Toaru Kagaku no Railgun S                                         |   3/24  |  Last month  |      -     |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   2/10  | 2 months ago | 06/11/2023 |
