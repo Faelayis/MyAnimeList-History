@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |  10/23  |   Yesterday  | 07/08/2023 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                                         Jujutsu Kaisen 2nd Season                                         |  10/23  |  2 days ago  | 07/08/2023 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                 One Piece                                                 |  1076/? |   Last week  | 01/01/2013 |
 | [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   6   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |  2 weeks ago | 04/04/2023 |
 | [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   |                             Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                            |   7/12  |  3 weeks ago | 07/09/2023 |
@@ -68,7 +68,7 @@ List Sync From MyAnimeList (update every day)
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [48633](https://myanimelist.net/anime/48633) |    tv   |  2023  |  light_novel |                                                      Liar Liar                                                      |  3 weeks ago  |        -        |
-| [56425](https://myanimelist.net/anime/56425) |    tv   |  2023  |   web_manga  |                                              Houkago Shounen Hanako-kun                                             |  3 weeks ago  |        -        |
+| [56425](https://myanimelist.net/anime/56425) |    tv   |  2023  |   web_manga  |                                              Houkago Shounen Hanako-kun                                             |   Last month  |        -        |
 | [33049](https://myanimelist.net/anime/33049) |  movie  |  2019  | visual_novel |                              Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly                              |   Last month  |        -        |
 | [33050](https://myanimelist.net/anime/33050) |  movie  |  2020  | visual_novel |                               Fate/stay night Movie: Heaven's Feel - III. Spring Song                               |   Last month  |        -        |
 | [25537](https://myanimelist.net/anime/25537) |  movie  |  2017  | visual_novel |                               Fate/stay night Movie: Heaven's Feel - I. Presage Flower                              |   Last month  |        -        |
