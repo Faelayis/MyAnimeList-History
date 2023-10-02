@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [48633](https://myanimelist.net/anime/48633) |    tv   |  2023  |  light_novel |                                                      Liar Liar                                                      |  3 weeks ago  |        -        |
+| [48633](https://myanimelist.net/anime/48633) |    tv   |  2023  |  light_novel |                                                      Liar Liar                                                      |   Last month  |        -        |
 | [56425](https://myanimelist.net/anime/56425) |    tv   |  2023  |   web_manga  |                                              Houkago Shounen Hanako-kun                                             |   Last month  |        -        |
 | [33049](https://myanimelist.net/anime/33049) |  movie  |  2019  | visual_novel |                              Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly                              |   Last month  |        -        |
 | [33050](https://myanimelist.net/anime/33050) |  movie  |  2020  | visual_novel |                               Fate/stay night Movie: Heaven's Feel - III. Spring Song                               |   Last month  |        -        |
@@ -25,7 +25,7 @@
 | [34100](https://myanimelist.net/anime/34100) |  movie  |  2017  |     manga    |                                Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai                                |  4 months ago |        -        |
 | [46422](https://myanimelist.net/anime/46422) |    tv   |  2023  |     manga    |                                               Niehime to Kemono no Ou                                               |  4 months ago |        -        |
 | [29093](https://myanimelist.net/anime/29093) | special |  2015  | visual_novel |                                        Grisaia no Meikyuu: Caprice no Mayu 0                                        |  4 months ago |        -        |
-| [31706](https://myanimelist.net/anime/31706) |    tv   |  2016  |     manga    |                                        Fate/kaleid liner Prisma☆Illya 3rei!!                                        |  4 months ago |        -        |
+| [31706](https://myanimelist.net/anime/31706) |    tv   |  2016  |     manga    |                                        Fate/kaleid liner Prisma☆Illya 3rei!!                                        |  5 months ago |        -        |
 | [34177](https://myanimelist.net/anime/34177) |    tv   |  2017  |  light_novel |                                                    Tenshi no 3P!                                                    |  5 months ago |        -        |
 | [55005](https://myanimelist.net/anime/55005) | special |  2020  |     manga    |                                       Munou na Nana Mini Anime: Yaminabe Party                                      |  6 months ago |        -        |
 | [40046](https://myanimelist.net/anime/40046) |    tv   |  2020  |   original   |                                                      Id:Invaded                                                     |  6 months ago |        -        |
