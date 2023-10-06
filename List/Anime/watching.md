@@ -2,10 +2,10 @@
 
 |                      id                      | Type | Season | Score |                        Title                       | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------: | :-----: | :----------: | :--------: |
-| [50184](https://myanimelist.net/anime/50184) |  tv  |  2023  |   -   |            Seiken Gakuin no Makentsukai            |   1/12  | 15 hours ago | 10/05/2023 |
-| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   |   Kage no Jitsuryokusha ni Naritakute! 2nd Season  |   1/12  | 17 hours ago |      -     |
-| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |            Tokyo Revengers: Tenjiku-hen            |   1/13  | 18 hours ago |      -     |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |              Jujutsu Kaisen 2nd Season             |  10/23  |  6 days ago  | 07/08/2023 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |              Jujutsu Kaisen 2nd Season             |  11/23  | 14 hours ago | 07/08/2023 |
+| [50184](https://myanimelist.net/anime/50184) |  tv  |  2023  |   -   |            Seiken Gakuin no Makentsukai            |   1/12  |   Yesterday  | 10/05/2023 |
+| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   |   Kage no Jitsuryokusha ni Naritakute! 2nd Season  |   1/12  |   Yesterday  |      -     |
+| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |            Tokyo Revengers: Tenjiku-hen            |   1/13  |   Yesterday  |      -     |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                      One Piece                     |  1076/? |  2 weeks ago | 01/01/2013 |
 | [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   | Zom 100: Zombie ni Naru made ni Shitai 100 no Koto |   7/12  |  Last month  | 07/09/2023 |
 | [16049](https://myanimelist.net/anime/16049) |  tv  |  2013  |   -   |              Toaru Kagaku no Railgun S             |   3/24  | 2 months ago |      -     |
