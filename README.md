@@ -6,10 +6,10 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                        Title                       | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |              Jujutsu Kaisen 2nd Season             |  11/23  | 14 hours ago | 07/08/2023 |
-| [50184](https://myanimelist.net/anime/50184) |  tv  |  2023  |   -   |            Seiken Gakuin no Makentsukai            |   1/12  |   Yesterday  | 10/05/2023 |
-| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   |   Kage no Jitsuryokusha ni Naritakute! 2nd Season  |   1/12  |   Yesterday  |      -     |
-| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |            Tokyo Revengers: Tenjiku-hen            |   1/13  |   Yesterday  |      -     |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |              Jujutsu Kaisen 2nd Season             |  11/23  |   Yesterday  | 07/08/2023 |
+| [50184](https://myanimelist.net/anime/50184) |  tv  |  2023  |   -   |            Seiken Gakuin no Makentsukai            |   1/12  |  2 days ago  | 10/05/2023 |
+| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   |   Kage no Jitsuryokusha ni Naritakute! 2nd Season  |   1/12  |  2 days ago  |      -     |
+| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |            Tokyo Revengers: Tenjiku-hen            |   1/13  |  2 days ago  |      -     |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                      One Piece                     |  1076/? |  2 weeks ago | 01/01/2013 |
 | [54112](https://myanimelist.net/anime/54112) |  tv  |  2023  |   -   | Zom 100: Zombie ni Naru made ni Shitai 100 no Koto |   7/12  |  Last month  | 07/09/2023 |
 | [16049](https://myanimelist.net/anime/16049) |  tv  |  2013  |   -   |              Toaru Kagaku no Railgun S             |   3/24  | 2 months ago |      -     |
@@ -53,7 +53,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   5   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |   Yesterday   | 04/04/2023 |
+| [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   5   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |   2 days ago  | 04/04/2023 |
 | [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   3/12  |  6 months ago | 04/03/2023 |
 | [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                                       Boku no Kokoro no Yabai Yatsu                                       |   2/12  |  6 months ago | 04/02/2023 |
 | [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |                           Campione! Matsurowanu Kamigami to Kamigoroshi no Maou                           |   1/13  |  7 months ago | 03/20/2023 |
