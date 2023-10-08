@@ -1,4 +1,4 @@
-# Plan to Watch (236)
+# Plan to Watch (235)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -45,8 +45,8 @@
 | [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |  light_novel |    Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd    |  7 months ago |        -        |
 | [53889](https://myanimelist.net/anime/53889) |    tv   |  2024  |     manga    |                                        Ao no Exorcist: Shimane Illuminati-hen                                       |  7 months ago |        -        |
 | [54344](https://myanimelist.net/anime/54344) | unknown |    -   |  light_novel |                                         Mahou Shoujo Ikusei Keikaku: Restart                                        |  7 months ago |        -        |
-| [54440](https://myanimelist.net/anime/54440) | unknown |    -   |   original   |                                         Lycoris Recoil (Shinsaku Animation)                                         |  7 months ago |        -        |
-| [51462](https://myanimelist.net/anime/51462) |    tv   |  2023  |  light_novel |                                                 Isekai Nonbiri Nouka                                                |  7 months ago |        -        |
+| [54440](https://myanimelist.net/anime/54440) | unknown |    -   |   original   |                                         Lycoris Recoil (Shinsaku Animation)                                         |  8 months ago |        -        |
+| [51462](https://myanimelist.net/anime/51462) |    tv   |  2023  |  light_novel |                                                 Isekai Nonbiri Nouka                                                |  8 months ago |        -        |
 | [36864](https://myanimelist.net/anime/36864) |    tv   |  2018  |     manga    |                                                   Akkun to Kanojo                                                   |  8 months ago |        -        |
 | [36266](https://myanimelist.net/anime/36266) |    tv   |  2018  |     manga    |                                                  Mahou Shoujo Site                                                  |  8 months ago |        -        |
 | [36316](https://myanimelist.net/anime/36316) |    tv   |  2018  |  light_novel |                                                 Shichisei no Subaru                                                 |  8 months ago |        -        |
@@ -139,7 +139,6 @@
 | [35459](https://myanimelist.net/anime/35459) |   ova   |  2017  |     manga    |                                     Boku no Hero Academia: Training of the Dead                                     |   01/10/2022  |        -        |
 |  [2593](https://myanimelist.net/anime/2593)  |  movie  |  2007  |  light_novel |                                        Kara no Kyoukai Movie 1: Fukan Fuukei                                        |   01/06/2022  |        -        |
 | [36023](https://myanimelist.net/anime/36023) |    tv   |  2018  |     game     |                                               Persona 5 the Animation                                               |   01/06/2022  |        -        |
-| [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |  light_novel |                                     Saihate no Paladin: Tetsusabi no Yama no Ou                                     |   01/02/2022  |        -        |
 | [18497](https://myanimelist.net/anime/18497) |    tv   |  2013  |     manga    |                                            Yozakura Quartet: Hana no Uta                                            |   12/25/2021  |        -        |
 | [12893](https://myanimelist.net/anime/12893) | special |  2012  |   web_manga  |                                        Danshi Koukousei no Nichijou Specials                                        |   12/22/2021  |        -        |
 | [38186](https://myanimelist.net/anime/38186) |    tv   |  2019  |     manga    |                                           Bokutachi wa Benkyou ga Dekinai                                           |   12/21/2021  |        -        |
@@ -151,8 +150,8 @@
 | [25159](https://myanimelist.net/anime/25159) |    tv   |  2014  |  light_novel |                                        Inou-Battle wa Nichijou-kei no Naka de                                       |   12/14/2021  |        -        |
 | [37514](https://myanimelist.net/anime/37514) |  movie  |  2019  |   web_manga  |                                      Made in Abyss Movie 1: Tabidachi no Yoake                                      |   12/05/2021  |        -        |
 | [37515](https://myanimelist.net/anime/37515) |  movie  |  2019  |   web_manga  |                                     Made in Abyss Movie 2: Hourou Suru Tasogare                                     |   12/05/2021  |        -        |
-| [18277](https://myanimelist.net/anime/18277) |    tv   |  2013  |  light_novel |                                                   Strike the Blood                                                  |   12/05/2021  |        -        |
-| [33286](https://myanimelist.net/anime/33286) |   ova   |  2016  |  light_novel |                                                 Strike the Blood II                                                 |   12/05/2021  |        -        |
+| [18277](https://myanimelist.net/anime/18277) |    tv   |  2013  |  light_novel |                                                   Strike the Blood                                                  |  2 years ago  |        -        |
+| [33286](https://myanimelist.net/anime/33286) |   ova   |  2016  |  light_novel |                                                 Strike the Blood II                                                 |  2 years ago  |        -        |
 | [50275](https://myanimelist.net/anime/50275) |  movie  |  2022  |  light_novel |                           Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo                           |  2 years ago  |        -        |
 | [50306](https://myanimelist.net/anime/50306) |    tv   |    -   |  light_novel |                                              Seirei Gensouki 2nd Season                                             |  2 years ago  |        -        |
 | [39326](https://myanimelist.net/anime/39326) |    tv   |  2019  |  light_novel |                                  Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?                                 |  2 years ago  |        -        |
