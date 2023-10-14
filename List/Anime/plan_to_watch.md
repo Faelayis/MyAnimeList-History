@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [54362](https://myanimelist.net/anime/54362) |    tv   |  2023  |     manga    |                                                  Hametsu no Oukoku                                                  |  11 hours ago |        -        |
+| [54362](https://myanimelist.net/anime/54362) |    tv   |  2023  |     manga    |                                                  Hametsu no Oukoku                                                  |   Yesterday   |        -        |
 | [48633](https://myanimelist.net/anime/48633) |    tv   |  2023  |  light_novel |                                                      Liar Liar                                                      |   Last month  |        -        |
 | [56425](https://myanimelist.net/anime/56425) |    tv   |  2023  |   web_manga  |                                              Houkago Shounen Hanako-kun                                             |   Last month  |        -        |
 | [33049](https://myanimelist.net/anime/33049) |  movie  |  2019  | visual_novel |                              Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly                              |   Last month  |        -        |
