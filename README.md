@@ -2,19 +2,20 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (10) ``4.26%``
+#### Watching (11) ``4.70%``
 
 |                      id                      | Type | Season | Score |                      Title                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------: | :-----: | :----------: | :--------: |
-| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   2/12  | 10 hours ago | 10/08/2023 |
-| [55644](https://myanimelist.net/anime/55644) |  tv  |  2023  |   -   |           Dr. Stone: New World Part 2           |   1/?   |  2 days ago  | 10/13/2023 |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  12/23  |  2 days ago  | 07/08/2023 |
-| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |           Tokyo Revengers: Tenjiku-hen          |   2/13  |  3 days ago  |      -     |
-| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   2/12  |  3 days ago  | 10/04/2023 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                    One Piece                    |  1079/? |   Yesterday  | 01/01/2013 |
+| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   2/12  |   Yesterday  | 10/16/2023 |
+| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   2/12  |  2 days ago  | 10/08/2023 |
+| [55644](https://myanimelist.net/anime/55644) |  tv  |  2023  |   -   |           Dr. Stone: New World Part 2           |   1/?   |  4 days ago  | 10/13/2023 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  12/23  |  4 days ago  | 07/08/2023 |
+| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |           Tokyo Revengers: Tenjiku-hen          |   2/13  |  5 days ago  |      -     |
+| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   2/12  |  5 days ago  | 10/04/2023 |
 | [50664](https://myanimelist.net/anime/50664) |  tv  |  2023  |   -   |   Saihate no Paladin: Tetsusabi no Yama no Ou   |   1/?   |   Last week  | 10/08/2023 |
 | [50184](https://myanimelist.net/anime/50184) |  tv  |  2023  |   -   |           Seiken Gakuin no Makentsukai          |   1/12  |   Last week  | 10/05/2023 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                    One Piece                    |  1076/? |  3 weeks ago | 01/01/2013 |
-| [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |    Fate/kaleid liner Prisma☆Illya 2wei Herz!    |   2/10  | 2 months ago | 06/11/2023 |
+| [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |    Fate/kaleid liner Prisma☆Illya 2wei Herz!    |   2/10  | 3 months ago | 06/11/2023 |
 | [54234](https://myanimelist.net/anime/54234) |  tv  |  2023  |   -   |         Suki na Ko ga Megane wo Wasureta        |   2/13  | 3 months ago | 07/04/2023 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
@@ -61,16 +62,16 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``41.16%``
+#### Plan to Watch ``40.91%``
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [54362](https://myanimelist.net/anime/54362) |    tv   |  2023  |     manga    |                                                  Hametsu no Oukoku                                                  |   2 days ago  |        -        |
 | [48633](https://myanimelist.net/anime/48633) |    tv   |  2023  |  light_novel |                                                      Liar Liar                                                      |   Last month  |        -        |
 | [56425](https://myanimelist.net/anime/56425) |    tv   |  2023  |   web_manga  |                                              Houkago Shounen Hanako-kun                                             |   Last month  |        -        |
 | [33049](https://myanimelist.net/anime/33049) |  movie  |  2019  | visual_novel |                              Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly                              |   Last month  |        -        |
 | [33050](https://myanimelist.net/anime/33050) |  movie  |  2020  | visual_novel |                               Fate/stay night Movie: Heaven's Feel - III. Spring Song                               |   Last month  |        -        |
 | [25537](https://myanimelist.net/anime/25537) |  movie  |  2017  | visual_novel |                               Fate/stay night Movie: Heaven's Feel - I. Presage Flower                              |   Last month  |        -        |
+| [34012](https://myanimelist.net/anime/34012) |    tv   |  2017  |  light_novel |                                                   Isekai Shokudou                                                   |  2 months ago |        -        |
 
 
-*[228 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[227 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
