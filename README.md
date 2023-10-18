@@ -6,13 +6,13 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                      Title                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------: | :-----: | :----------: | :--------: |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                    One Piece                    |  1079/? |   Yesterday  | 01/01/2013 |
-| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   2/12  |   Yesterday  | 10/16/2023 |
-| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   2/12  |  2 days ago  | 10/08/2023 |
-| [55644](https://myanimelist.net/anime/55644) |  tv  |  2023  |   -   |           Dr. Stone: New World Part 2           |   1/?   |  4 days ago  | 10/13/2023 |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  12/23  |  4 days ago  | 07/08/2023 |
-| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |           Tokyo Revengers: Tenjiku-hen          |   2/13  |  5 days ago  |      -     |
-| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   2/12  |  5 days ago  | 10/04/2023 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                    One Piece                    |  1079/? |  2 days ago  | 01/01/2013 |
+| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   2/12  |  2 days ago  | 10/16/2023 |
+| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   2/12  |  3 days ago  | 10/08/2023 |
+| [55644](https://myanimelist.net/anime/55644) |  tv  |  2023  |   -   |           Dr. Stone: New World Part 2           |   1/?   |  5 days ago  | 10/13/2023 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  12/23  |  5 days ago  | 07/08/2023 |
+| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |           Tokyo Revengers: Tenjiku-hen          |   2/13  |  6 days ago  |      -     |
+| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   2/12  |  6 days ago  | 10/04/2023 |
 | [50664](https://myanimelist.net/anime/50664) |  tv  |  2023  |   -   |   Saihate no Paladin: Tetsusabi no Yama no Ou   |   1/?   |   Last week  | 10/08/2023 |
 | [50184](https://myanimelist.net/anime/50184) |  tv  |  2023  |   -   |           Seiken Gakuin no Makentsukai          |   1/12  |   Last week  | 10/05/2023 |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |    Fate/kaleid liner Prisma☆Illya 2wei Herz!    |   2/10  | 3 months ago | 06/11/2023 |
@@ -29,7 +29,7 @@ List Sync From MyAnimeList (update every day)
 | [49618](https://myanimelist.net/anime/49618) |   ona   |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |  3 months ago | 01/27/2023 |  07/14/2023 |
 | [46569](https://myanimelist.net/anime/46569) |    tv   |  2023  |   7   |                                                 Jigokuraku                                                |  3 months ago | 04/02/2023 |  07/02/2023 |
 | [52211](https://myanimelist.net/anime/52211) |    tv   |  2023  |   6   |                                                   Mashle                                                  |  3 months ago | 04/08/2023 |  07/01/2023 |
-| [48549](https://myanimelist.net/anime/48549) |    tv   |  2023  |   7   |                                            Dr. Stone: New World                                           |  3 months ago | 04/06/2023 |  06/27/2023 |
+| [48549](https://myanimelist.net/anime/48549) |    tv   |  2023  |   7   |                                            Dr. Stone: New World                                           |  4 months ago | 04/06/2023 |  06/27/2023 |
 
 
 *[441 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
@@ -39,7 +39,7 @@ List Sync From MyAnimeList (update every day)
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                       |   0/12  |   Last week   | 07/15/2023 |
-| [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |   Last month  | 07/11/2023 |
+| [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |  2 months ago | 07/11/2023 |
 | [54112](https://myanimelist.net/anime/54112) |    tv   |  2023  |   -   |                              Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                              |   7/12  |   Last week   | 07/09/2023 |
 | [51498](https://myanimelist.net/anime/51498) |    tv   |  2023  |   -   |                                           Masamune-kun no Revenge R                                          |   1/12  |   Last week   | 07/04/2023 |
 | [50416](https://myanimelist.net/anime/50416) |    tv   |  2023  |   7   |                                                Skip to Loafer                                                |   8/12  |   Last week   | 05/10/2023 |
@@ -68,9 +68,9 @@ List Sync From MyAnimeList (update every day)
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [48633](https://myanimelist.net/anime/48633) |    tv   |  2023  |  light_novel |                                                      Liar Liar                                                      |   Last month  |        -        |
 | [56425](https://myanimelist.net/anime/56425) |    tv   |  2023  |   web_manga  |                                              Houkago Shounen Hanako-kun                                             |   Last month  |        -        |
-| [33049](https://myanimelist.net/anime/33049) |  movie  |  2019  | visual_novel |                              Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly                              |   Last month  |        -        |
-| [33050](https://myanimelist.net/anime/33050) |  movie  |  2020  | visual_novel |                               Fate/stay night Movie: Heaven's Feel - III. Spring Song                               |   Last month  |        -        |
-| [25537](https://myanimelist.net/anime/25537) |  movie  |  2017  | visual_novel |                               Fate/stay night Movie: Heaven's Feel - I. Presage Flower                              |   Last month  |        -        |
+| [33049](https://myanimelist.net/anime/33049) |  movie  |  2019  | visual_novel |                              Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly                              |  2 months ago |        -        |
+| [33050](https://myanimelist.net/anime/33050) |  movie  |  2020  | visual_novel |                               Fate/stay night Movie: Heaven's Feel - III. Spring Song                               |  2 months ago |        -        |
+| [25537](https://myanimelist.net/anime/25537) |  movie  |  2017  | visual_novel |                               Fate/stay night Movie: Heaven's Feel - I. Presage Flower                              |  2 months ago |        -        |
 | [34012](https://myanimelist.net/anime/34012) |    tv   |  2017  |  light_novel |                                                   Isekai Shokudou                                                   |  2 months ago |        -        |
 
 
