@@ -2,21 +2,20 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (11) ``4.70%``
+#### Watching (10) ``4.27%``
 
 |                      id                      | Type | Season | Score |                      Title                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------: | :-----: | :----------: | :--------: |
-| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |           Tokyo Revengers: Tenjiku-hen          |   3/13  |   Yesterday  |      -     |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  13/23  |   Yesterday  | 07/08/2023 |
-| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   3/12  |  2 days ago  | 10/04/2023 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                    One Piece                    |  1079/? |  5 days ago  | 01/01/2013 |
-| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   2/12  |  5 days ago  | 10/16/2023 |
-| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   2/12  |  6 days ago  | 10/08/2023 |
+| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   3/12  |  9 hours ago | 10/08/2023 |
+| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   3/12  |  9 hours ago | 10/16/2023 |
+| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |           Tokyo Revengers: Tenjiku-hen          |   3/13  |  2 days ago  |      -     |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  13/23  |  2 days ago  | 07/08/2023 |
+| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   3/12  |  3 days ago  | 10/04/2023 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                    One Piece                    |  1079/? |  6 days ago  | 01/01/2013 |
 | [55644](https://myanimelist.net/anime/55644) |  tv  |  2023  |   -   |           Dr. Stone: New World Part 2           |   1/11  |   Last week  | 10/13/2023 |
-| [50664](https://myanimelist.net/anime/50664) |  tv  |  2023  |   -   |   Saihate no Paladin: Tetsusabi no Yama no Ou   |   1/?   |   Last week  | 10/08/2023 |
+| [50664](https://myanimelist.net/anime/50664) |  tv  |  2023  |   -   |   Saihate no Paladin: Tetsusabi no Yama no Ou   |   1/?   |  2 weeks ago | 10/08/2023 |
 | [50184](https://myanimelist.net/anime/50184) |  tv  |  2023  |   -   |           Seiken Gakuin no Makentsukai          |   1/12  |  2 weeks ago | 10/05/2023 |
 | [27525](https://myanimelist.net/anime/27525) |  tv  |  2015  |   -   |    Fate/kaleid liner Prisma☆Illya 2wei Herz!    |   2/10  | 3 months ago | 06/11/2023 |
-| [54234](https://myanimelist.net/anime/54234) |  tv  |  2023  |   -   |         Suki na Ko ga Megane wo Wasureta        |   2/13  | 3 months ago | 07/04/2023 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -34,19 +33,19 @@ List Sync From MyAnimeList (update every day)
 
 *[441 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``11.02%``
+#### On Hold ``11.17%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                       |   0/12  |   Last week   | 07/15/2023 |
+| [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                       |   0/12  |  2 weeks ago  | 07/15/2023 |
 | [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |  2 months ago | 07/11/2023 |
-| [54112](https://myanimelist.net/anime/54112) |    tv   |  2023  |   -   |                              Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                              |   7/12  |   Last week   | 07/09/2023 |
-| [51498](https://myanimelist.net/anime/51498) |    tv   |  2023  |   -   |                                           Masamune-kun no Revenge R                                          |   1/12  |   Last week   | 07/04/2023 |
-| [50416](https://myanimelist.net/anime/50416) |    tv   |  2023  |   7   |                                                Skip to Loafer                                                |   8/12  |   Last week   | 05/10/2023 |
-| [51536](https://myanimelist.net/anime/51536) |    tv   |  2023  |   9   |                                     The iDOLM@STER Cinderella Girls: U149                                    |   5/12  |   Last week   | 05/02/2023 |
+| [54112](https://myanimelist.net/anime/54112) |    tv   |  2023  |   -   |                              Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                              |   7/12  |  2 weeks ago  | 07/09/2023 |
+| [51498](https://myanimelist.net/anime/51498) |    tv   |  2023  |   -   |                                           Masamune-kun no Revenge R                                          |   1/12  |  2 weeks ago  | 07/04/2023 |
+| [54234](https://myanimelist.net/anime/54234) |    tv   |  2023  |   -   |                                       Suki na Ko ga Megane wo Wasureta                                       |   2/13  |  9 hours ago  | 07/04/2023 |
+| [50416](https://myanimelist.net/anime/50416) |    tv   |  2023  |   7   |                                                Skip to Loafer                                                |   8/12  |  2 weeks ago  | 05/10/2023 |
 
 
-*[74 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
+*[75 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
 #### Dropped ``4.40%``
 
@@ -54,7 +53,7 @@ List Sync From MyAnimeList (update every day)
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
 | [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   5   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |  2 weeks ago  | 04/04/2023 |
 | [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   3/12  |  6 months ago | 04/03/2023 |
-| [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                                       Boku no Kokoro no Yabai Yatsu                                       |   2/12  |  6 months ago | 04/02/2023 |
+| [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                                       Boku no Kokoro no Yabai Yatsu                                       |   2/12  |  7 months ago | 04/02/2023 |
 | [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |                           Campione! Matsurowanu Kamigami to Kamigoroshi no Maou                           |   1/13  |  7 months ago | 03/20/2023 |
 |   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                                         Higurashi no Naku Koro ni                                         |  10/26  | 10 months ago | 12/23/2022 |
 | [51464](https://myanimelist.net/anime/51464) |  tv  |  2022  |   -   |                                       4-nin wa Sorezore Uso wo Tsuku                                      |   1/11  |   Last year   | 10/16/2022 |
