@@ -6,12 +6,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                      Title                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------: | :-----: | :----------: | :--------: |
-| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |           Tokyo Revengers: Tenjiku-hen          |   3/13  |  9 hours ago | 10/04/2023 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                    One Piece                    |  1080/? |  9 hours ago | 01/01/2013 |
-| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   3/12  |   Yesterday  | 10/08/2023 |
-| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   3/12  |   Yesterday  | 10/16/2023 |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  13/23  |  3 days ago  | 07/08/2023 |
-| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   3/12  |  4 days ago  | 10/04/2023 |
+| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |           Tokyo Revengers: Tenjiku-hen          |   3/13  |   Yesterday  | 10/04/2023 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                    One Piece                    |  1080/? |   Yesterday  | 01/01/2013 |
+| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   3/12  |  2 days ago  | 10/08/2023 |
+| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   3/12  |  2 days ago  | 10/16/2023 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  13/23  |  4 days ago  | 07/08/2023 |
+| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   3/12  |  5 days ago  | 10/04/2023 |
 | [55644](https://myanimelist.net/anime/55644) |  tv  |  2023  |   -   |           Dr. Stone: New World Part 2           |   1/11  |   Last week  | 10/13/2023 |
 | [50664](https://myanimelist.net/anime/50664) |  tv  |  2023  |   -   |   Saihate no Paladin: Tetsusabi no Yama no Ou   |   1/?   |  2 weeks ago | 10/08/2023 |
 | [50184](https://myanimelist.net/anime/50184) |  tv  |  2023  |   -   |           Seiken Gakuin no Makentsukai          |   1/12  |  2 weeks ago | 10/05/2023 |
@@ -41,7 +41,7 @@ List Sync From MyAnimeList (update every day)
 | [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |  2 months ago | 07/11/2023 |
 | [54112](https://myanimelist.net/anime/54112) |    tv   |  2023  |   -   |                              Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                              |   7/12  |  2 weeks ago  | 07/09/2023 |
 | [51498](https://myanimelist.net/anime/51498) |    tv   |  2023  |   -   |                                           Masamune-kun no Revenge R                                          |   1/12  |  2 weeks ago  | 07/04/2023 |
-| [54234](https://myanimelist.net/anime/54234) |    tv   |  2023  |   -   |                                       Suki na Ko ga Megane wo Wasureta                                       |   2/13  |   Yesterday   | 07/04/2023 |
+| [54234](https://myanimelist.net/anime/54234) |    tv   |  2023  |   -   |                                       Suki na Ko ga Megane wo Wasureta                                       |   2/13  |   2 days ago  | 07/04/2023 |
 | [50416](https://myanimelist.net/anime/50416) |    tv   |  2023  |   7   |                                                Skip to Loafer                                                |   8/12  |  2 weeks ago  | 05/10/2023 |
 
 
