@@ -6,7 +6,7 @@
 | [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   3/12  |  6 months ago | 04/03/2023 |
 | [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                                       Boku no Kokoro no Yabai Yatsu                                       |   2/12  |  7 months ago | 04/02/2023 |
 | [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |                           Campione! Matsurowanu Kamigami to Kamigoroshi no Maou                           |   1/13  |  7 months ago | 03/20/2023 |
-|   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                                         Higurashi no Naku Koro ni                                         |  10/26  | 10 months ago | 12/23/2022 |
+|   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                                         Higurashi no Naku Koro ni                                         |  10/26  | 11 months ago | 12/23/2022 |
 | [51464](https://myanimelist.net/anime/51464) |  tv  |  2022  |   -   |                                       4-nin wa Sorezore Uso wo Tsuku                                      |   1/11  |   Last year   | 10/16/2022 |
 | [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   5   |                                                Engage Kiss                                                |   8/13  |   Last year   | 07/03/2022 |
 | [34543](https://myanimelist.net/anime/34543) |  tv  |  2017  |   2   |                                                   Dive!!                                                  |   6/12  |   Last year   | 05/03/2022 |
