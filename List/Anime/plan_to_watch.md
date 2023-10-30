@@ -1,11 +1,12 @@
-# Plan to Watch (236)
+# Plan to Watch (237)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [55802](https://myanimelist.net/anime/55802) | special |  2023  |   web_manga  |                                    The iDOLM@STER Cinderella Girls: U149 Special                                    |   Yesterday   |        -        |
-| [53881](https://myanimelist.net/anime/53881) |    tv   |  2023  |     game     |                                                Arknights: Touin Kiro                                                |   Yesterday   |        -        |
-| [53888](https://myanimelist.net/anime/53888) |  movie  |  2023  |     manga    |                                           Spy x Family Movie: Code: White                                           |   Yesterday   |        -        |
-| [48633](https://myanimelist.net/anime/48633) |    tv   |  2023  |  light_novel |                                                      Liar Liar                                                      |   Last month  |        -        |
+| [30749](https://myanimelist.net/anime/30749) |    tv   |  2016  |  light_novel |                                               Saijaku Muhai no Bahamut                                              |  11 hours ago |        -        |
+| [55802](https://myanimelist.net/anime/55802) | special |  2023  |   web_manga  |                                    The iDOLM@STER Cinderella Girls: U149 Special                                    |   2 days ago  |        -        |
+| [53881](https://myanimelist.net/anime/53881) |    tv   |  2023  |     game     |                                                Arknights: Touin Kiro                                                |   2 days ago  |        -        |
+| [53888](https://myanimelist.net/anime/53888) |  movie  |  2023  |     manga    |                                           Spy x Family Movie: Code: White                                           |   2 days ago  |        -        |
+| [48633](https://myanimelist.net/anime/48633) |    tv   |  2023  |  light_novel |                                                      Liar Liar                                                      |  2 months ago |        -        |
 | [56425](https://myanimelist.net/anime/56425) |    tv   |  2023  |   web_manga  |                                              Houkago Shounen Hanako-kun                                             |  2 months ago |        -        |
 | [33049](https://myanimelist.net/anime/33049) |  movie  |  2019  | visual_novel |                              Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly                              |  2 months ago |        -        |
 | [33050](https://myanimelist.net/anime/33050) |  movie  |  2020  | visual_novel |                               Fate/stay night Movie: Heaven's Feel - III. Spring Song                               |  2 months ago |        -        |
@@ -27,7 +28,7 @@
 | [34100](https://myanimelist.net/anime/34100) |  movie  |  2017  |     manga    |                                Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai                                |  5 months ago |        -        |
 | [46422](https://myanimelist.net/anime/46422) |    tv   |  2023  |     manga    |                                               Niehime to Kemono no Ou                                               |  5 months ago |        -        |
 | [29093](https://myanimelist.net/anime/29093) | special |  2015  | visual_novel |                                        Grisaia no Meikyuu: Caprice no Mayu 0                                        |  5 months ago |        -        |
-| [31706](https://myanimelist.net/anime/31706) |    tv   |  2016  |     manga    |                                        Fate/kaleid liner Prisma☆Illya 3rei!!                                        |  5 months ago |        -        |
+| [31706](https://myanimelist.net/anime/31706) |    tv   |  2016  |     manga    |                                        Fate/kaleid liner Prisma☆Illya 3rei!!                                        |  6 months ago |        -        |
 | [34177](https://myanimelist.net/anime/34177) |    tv   |  2017  |  light_novel |                                                    Tenshi no 3P!                                                    |  6 months ago |        -        |
 | [55005](https://myanimelist.net/anime/55005) | special |  2020  |     manga    |                                       Munou na Nana Mini Anime: Yaminabe Party                                      |  7 months ago |        -        |
 | [40046](https://myanimelist.net/anime/40046) |    tv   |  2020  |   original   |                                                      Id:Invaded                                                     |  7 months ago |        -        |
