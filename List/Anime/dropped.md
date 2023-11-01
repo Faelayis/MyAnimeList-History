@@ -16,7 +16,7 @@
 | [40960](https://myanimelist.net/anime/40960) |  tv  |  2021  |   5   |                          Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore                         |   1/12  |  2 years ago  | 07/08/2021 |
 | [47257](https://myanimelist.net/anime/47257) |  tv  |  2021  |   4   |                                       Shinigami Bocchan to Kuro Maid                                      |   1/12  |   Last year   | 07/05/2021 |
 | [46471](https://myanimelist.net/anime/46471) |  tv  |  2021  |   5   |                                         Tantei wa Mou, Shindeiru.                                         |   2/12  |   Last year   | 07/04/2021 |
-| [19221](https://myanimelist.net/anime/19221) |  tv  |  2013  |   5   |                Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru               |   5/10  |  7 months ago | 06/20/2021 |
+| [19221](https://myanimelist.net/anime/19221) |  tv  |  2013  |   5   |                Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru               |   5/10  |  8 months ago | 06/20/2021 |
 | [11319](https://myanimelist.net/anime/11319) |  tv  |  2012  |   5   |                                             Zero no Tsukaima F                                            |   1/12  |   Last year   | 06/17/2021 |
 | [30383](https://myanimelist.net/anime/30383) |  tv  |  2015  |   -   |                                              Classroom☆Crisis                                             |   2/13  |  2 years ago  | 06/07/2021 |
 |  [2167](https://myanimelist.net/anime/2167)  |  tv  |  2007  |   -   |                                                  Clannad                                                  |   1/23  |  2 years ago  | 06/05/2021 |
