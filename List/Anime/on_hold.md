@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                         Seiken Gakuin no Makentsukai                                         |   1/12  |   2 days ago  | 10/05/2023 |
-| [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                       |   0/12  |   5 days ago  | 07/15/2023 |
+| [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                         Seiken Gakuin no Makentsukai                                         |   1/12  |   3 days ago  | 10/05/2023 |
+| [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                       |   0/12  |   6 days ago  | 07/15/2023 |
 | [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |  2 months ago | 07/11/2023 |
 | [54112](https://myanimelist.net/anime/54112) |    tv   |  2023  |   -   |                              Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                              |   7/12  |   Last month  | 07/09/2023 |
 | [51498](https://myanimelist.net/anime/51498) |    tv   |  2023  |   -   |                                           Masamune-kun no Revenge R                                          |   1/12  |   Last month  | 07/04/2023 |
@@ -17,7 +17,7 @@
 | [10110](https://myanimelist.net/anime/10110) |    tv   |  2011  |   6   |                                                  Mayo Chiki!                                                 |   8/13  |  6 months ago | 04/14/2023 |
 | [52034](https://myanimelist.net/anime/52034) |    tv   |  2023  |   8   |                                                 "Oshi no Ko"                                                 |   6/11  |   Last month  | 04/12/2023 |
 | [50307](https://myanimelist.net/anime/50307) |    tv   |  2023  |   7   |                                          Tonikaku Kawaii 2nd Season                                          |   4/12  |  2 months ago | 04/08/2023 |
-| [53393](https://myanimelist.net/anime/53393) |    tv   |  2023  |   6   |                                               Tengoku Daimakyou                                              |   6/13  |  3 months ago | 04/02/2023 |
+| [53393](https://myanimelist.net/anime/53393) |    tv   |  2023  |   6   |                                               Tengoku Daimakyou                                              |   6/13  |  4 months ago | 04/02/2023 |
 | [53126](https://myanimelist.net/anime/53126) |    tv   |  2023  |   6   |                                      Yamada-kun to Lv999 no Koi wo Suru                                      |   2/13  |  2 months ago | 04/02/2023 |
 |  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  |   -   |                                                  Amagami SS                                                  |   7/25  |  7 months ago | 03/23/2023 |
 | [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |   -   |                                      Ijiranaide, Nagatoro-san 2nd Attack                                     |   2/12  |  7 months ago | 03/20/2023 |
@@ -40,7 +40,7 @@
 | [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |   -   |                                                   Yuru Yuri                                                  |   4/12  |  7 months ago | 06/30/2022 |
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                                                   Fate/Zero                                                  |   2/13  |   Last year   | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                                            Madan no Ou to Vanadis                                            |   6/13  |  8 months ago | 04/22/2022 |
-| [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                                               Machikado Mazoku                                               |   4/12  |   5 days ago  | 04/19/2022 |
+| [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                                               Machikado Mazoku                                               |   4/12  |   6 days ago  | 04/19/2022 |
 | [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |                                       Kawaii dake ja Nai Shikimori-san                                       |   5/12  |   Last year   | 04/10/2022 |
 | [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                                             Mahoutsukai Reimeiki                                             |   2/12  |   Last year   | 04/09/2022 |
 | [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |                                     Tate no Yuusha no Nariagari Season 2                                     |   3/13  |  8 months ago | 04/06/2022 |
