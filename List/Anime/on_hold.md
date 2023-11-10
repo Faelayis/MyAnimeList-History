@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                         Seiken Gakuin no Makentsukai                                         |   1/12  |   6 days ago  | 10/05/2023 |
+| [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                         Seiken Gakuin no Makentsukai                                         |   1/12  |   Last week   | 10/05/2023 |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                       |   0/12  |   Last week   | 07/15/2023 |
 | [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |  2 months ago | 07/11/2023 |
 | [54112](https://myanimelist.net/anime/54112) |    tv   |  2023  |   -   |                              Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                              |   7/12  |   Last month  | 07/09/2023 |
@@ -28,7 +28,7 @@
 | [51815](https://myanimelist.net/anime/51815) |    tv   |  2023  |   -   |                                         Kubo-san wa Mob wo Yurusanai                                         |   7/12  |   Last month  | 01/11/2023 |
 | [44204](https://myanimelist.net/anime/44204) |    tv   |  2023  |   -   |                                             Kyokou Suiri Season 2                                            |   1/12  |  8 months ago | 01/09/2023 |
 | [48417](https://myanimelist.net/anime/48417) |    tv   |  2023  |   -   | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II |   3/12  |  8 months ago | 01/08/2023 |
-| [50205](https://myanimelist.net/anime/50205) |    tv   |  2022  |   -   |                                           Arknights: Reimei Zensou                                           |   3/8   |  8 months ago | 11/06/2022 |
+| [50205](https://myanimelist.net/anime/50205) |    tv   |  2022  |   -   |                                           Arknights: Reimei Zensou                                           |   3/8   |  9 months ago | 11/06/2022 |
 | [50710](https://myanimelist.net/anime/50710) |    tv   |  2022  |   6   |                                             Urusei Yatsura (2022)                                            |   9/23  |  8 months ago | 10/14/2022 |
 |  [5114](https://myanimelist.net/anime/5114)  |    tv   |  2009  |   -   |                                       Fullmetal Alchemist: Brotherhood                                       |  47/64  |   Last year   | 10/07/2022 |
 | [52046](https://myanimelist.net/anime/52046) |    tv   |  2022  |   -   |               Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau              |   2/13  | 11 months ago | 10/05/2022 |
@@ -44,7 +44,7 @@
 | [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |                                       Kawaii dake ja Nai Shikimori-san                                       |   5/12  |   Last year   | 04/10/2022 |
 | [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                                             Mahoutsukai Reimeiki                                             |   2/12  |   Last year   | 04/09/2022 |
 | [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |                                     Tate no Yuusha no Nariagari Season 2                                     |   3/13  |  8 months ago | 04/06/2022 |
-| [49520](https://myanimelist.net/anime/49520) |    tv   |  2022  |   7   |                                            Aharen-san wa Hakarenai                                           |   5/12  |  7 months ago | 04/01/2022 |
+| [49520](https://myanimelist.net/anime/49520) |    tv   |  2022  |   7   |                                            Aharen-san wa Hakarenai                                           |   5/12  |  8 months ago | 04/01/2022 |
 | [43470](https://myanimelist.net/anime/43470) |    tv   |  2022  |   6   |                             Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart                            |   2/12  |  8 months ago | 04/01/2022 |
 | [49930](https://myanimelist.net/anime/49930) |    tv   |  2022  |   -   |                                Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2                               |   2/13  |   Last year   | 03/01/2022 |
 | [49114](https://myanimelist.net/anime/49114) |    tv   |  2022  |   -   |                                            Vanitas no Karte Part 2                                           |   4/12  |   Last year   | 01/15/2022 |
