@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [48583](https://myanimelist.net/anime/48583) |    tv   |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |   2 days ago  | 01/28/2022 |  11/08/2023 |
+| [48583](https://myanimelist.net/anime/48583) |    tv   |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |   3 days ago  | 01/28/2022 |  11/08/2023 |
 | [37475](https://myanimelist.net/anime/37475) |    tv   |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |   Last week   | 10/29/2023 |  10/29/2023 |
 | [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |  2 months ago | 08/30/2023 |  08/30/2023 |
 | [48585](https://myanimelist.net/anime/48585) |  movie  |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |  4 months ago | 07/19/2023 |  07/19/2023 |
@@ -73,7 +73,7 @@
 | [31181](https://myanimelist.net/anime/31181) |    tv   |  2015  |   6   |                                              Owarimonogatari                                              |   Last year   | 11/26/2022 |  11/26/2022 |
 | [21855](https://myanimelist.net/anime/21855) |    tv   |  2014  |   4   |                                               Hanamonogatari                                              |   Last year   | 11/24/2022 |  11/24/2022 |
 | [28025](https://myanimelist.net/anime/28025) |    tv   |  2014  |   5   |                                              Tsukimonogatari                                              |   Last year   | 11/24/2022 |  11/24/2022 |
-| [17074](https://myanimelist.net/anime/17074) |    tv   |  2013  |   10  |                                      Monogatari Series: Second Season                                     |  9 months ago | 11/20/2022 |  11/24/2022 |
+| [17074](https://myanimelist.net/anime/17074) |    tv   |  2013  |   10  |                                      Monogatari Series: Second Season                                     | 10 months ago | 11/20/2022 |  11/24/2022 |
 | [11597](https://myanimelist.net/anime/11597) |    tv   |  2012  |   7   |                                               Nisemonogatari                                              |   Last year   | 11/19/2022 |  11/20/2022 |
 |  [5081](https://myanimelist.net/anime/5081)  |    tv   |  2009  |   7   |                                               Bakemonogatari                                              |   Last year   | 11/18/2022 |  11/19/2022 |
 | [38883](https://myanimelist.net/anime/38883) |    tv   |  2020  |   7   |                                            Haikyuu!! To the Top                                           |   Last year   | 11/10/2022 |  11/12/2022 |
