@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [48583](https://myanimelist.net/anime/48583) |    tv   |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |   3 days ago  | 01/28/2022 |  11/08/2023 |
+| [48583](https://myanimelist.net/anime/48583) |    tv   |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |   4 days ago  | 01/28/2022 |  11/08/2023 |
 | [37475](https://myanimelist.net/anime/37475) |    tv   |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |   Last week   | 10/29/2023 |  10/29/2023 |
 | [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |  2 months ago | 08/30/2023 |  08/30/2023 |
 | [48585](https://myanimelist.net/anime/48585) |  movie  |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |  4 months ago | 07/19/2023 |  07/19/2023 |
@@ -27,8 +27,8 @@
 | [28171](https://myanimelist.net/anime/28171) |    tv   |  2015  |   7   |                                             Shokugeki no Souma                                            |  7 months ago | 04/05/2023 |  04/06/2023 |
 | [34822](https://myanimelist.net/anime/34822) |    tv   |  2017  |   8   |                                               Tsuki ga Kirei                                              |  7 months ago | 04/02/2023 |  04/03/2023 |
 | [40530](https://myanimelist.net/anime/40530) |    tv   |  2021  |   9   |                                          Jaku-Chara Tomozaki-kun                                          |  7 months ago | 01/09/2021 |  04/03/2023 |
-| [50932](https://myanimelist.net/anime/50932) |    tv   |  2023  |   8   |                                    Saikyou Onmyouji no Isekai Tenseiki                                    |  7 months ago | 03/30/2023 |  04/02/2023 |
-| [50608](https://myanimelist.net/anime/50608) |    tv   |  2023  |   8   |                                     Tokyo Revengers: Seiya Kessen-hen                                     |  7 months ago | 01/08/2023 |  04/02/2023 |
+| [50932](https://myanimelist.net/anime/50932) |    tv   |  2023  |   8   |                                    Saikyou Onmyouji no Isekai Tenseiki                                    |  8 months ago | 03/30/2023 |  04/02/2023 |
+| [50608](https://myanimelist.net/anime/50608) |    tv   |  2023  |   8   |                                     Tokyo Revengers: Seiya Kessen-hen                                     |  8 months ago | 01/08/2023 |  04/02/2023 |
 | [52305](https://myanimelist.net/anime/52305) |    tv   |  2023  |   6   |                                           Tomo-chan wa Onnanoko!                                          |  8 months ago | 01/16/2023 |  03/30/2023 |
 | [51678](https://myanimelist.net/anime/51678) |    tv   |  2023  |   7   |                                            Oniichan wa Oshimai!                                           |  8 months ago | 01/05/2023 |  03/30/2023 |
 | [49784](https://myanimelist.net/anime/49784) |    tv   |  2022  |   6   |                                     Mairimashita! Iruma-kun 3rd Season                                    |  8 months ago | 10/09/2022 |  03/30/2023 |
@@ -64,7 +64,7 @@
 | [50425](https://myanimelist.net/anime/50425) |    tv   |  2022  |   7   |                                         Fuufu Ijou, Koibito Miman.                                        | 11 months ago | 10/24/2022 |  12/27/2022 |
 | [50602](https://myanimelist.net/anime/50602) |    tv   |  2022  |   6   |                                            Spy x Family Part 2                                            | 11 months ago | 10/02/2022 |  12/27/2022 |
 | [36999](https://myanimelist.net/anime/36999) |    tv   |  2019  |   7   |                                            Zoku Owarimonogatari                                           | 11 months ago | 12/14/2022 |  12/19/2022 |
-| [35247](https://myanimelist.net/anime/35247) |    tv   |  2017  |   8   |                                         Owarimonogatari 2nd Season                                        | 11 months ago | 12/09/2022 |  12/11/2022 |
+| [35247](https://myanimelist.net/anime/35247) |    tv   |  2017  |   8   |                                         Owarimonogatari 2nd Season                                        |   Last year   | 12/09/2022 |  12/11/2022 |
 | [31757](https://myanimelist.net/anime/31757) |  movie  |  2016  |   6   |                                      Kizumonogatari II: Nekketsu-hen                                      |   Last year   | 12/09/2022 |  12/09/2022 |
 | [31758](https://myanimelist.net/anime/31758) |  movie  |  2017  |   9   |                                      Kizumonogatari III: Reiketsu-hen                                     |   Last year   | 12/09/2022 |  12/09/2022 |
 |  [9260](https://myanimelist.net/anime/9260)  |  movie  |  2016  |   7   |                                       Kizumonogatari I: Tekketsu-hen                                      |   Last year   | 11/26/2022 |  12/09/2022 |
@@ -174,7 +174,7 @@
 | [38408](https://myanimelist.net/anime/38408) |    tv   |  2019  |   8   |                                      Boku no Hero Academia 4th Season                                     |   Last year   | 01/12/2022 |  01/14/2022 |
 | [36456](https://myanimelist.net/anime/36456) |    tv   |  2018  |   9   |                                      Boku no Hero Academia 3rd Season                                     |   Last year   | 01/11/2022 |  01/12/2022 |
 | [33486](https://myanimelist.net/anime/33486) |    tv   |  2017  |   8   |                                      Boku no Hero Academia 2nd Season                                     |   Last year   | 01/09/2022 |  01/11/2022 |
-| [31964](https://myanimelist.net/anime/31964) |    tv   |  2016  |   8   |                                           Boku no Hero Academia                                           |   Last year   | 01/09/2022 |  01/09/2022 |
+| [31964](https://myanimelist.net/anime/31964) |    tv   |  2016  |   8   |                                           Boku no Hero Academia                                           |  2 years ago  | 01/09/2022 |  01/09/2022 |
 | [50768](https://myanimelist.net/anime/50768) | special |  2022  |   8   |                                Vanitas no Karte: En Route Pour le Gévaudan                                |   Last year   | 01/08/2022 |  01/08/2022 |
 | [11843](https://myanimelist.net/anime/11843) |    tv   |  2012  |   8   |                                        Danshi Koukousei no Nichijou                                       |   Last year   | 12/24/2021 |  01/05/2022 |
 | [42897](https://myanimelist.net/anime/42897) |    tv   |  2021  |   8   |                                                  Horimiya                                                 |   Last year   | 01/01/2022 |  01/01/2022 |

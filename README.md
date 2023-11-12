@@ -6,10 +6,10 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                      Title                      | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------: | :-----: | :---------: | :--------: |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  16/23  |  Yesterday  | 07/08/2023 |
-| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |           Tokyo Revengers: Tenjiku-hen          |   5/13  |  3 days ago | 10/04/2023 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                    One Piece                    |  1082/? |  5 days ago | 01/01/2013 |
-| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   5/12  |  6 days ago | 10/08/2023 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  16/23  |  2 days ago | 07/08/2023 |
+| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |           Tokyo Revengers: Tenjiku-hen          |   5/13  |  4 days ago | 10/04/2023 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                    One Piece                    |  1082/? |  6 days ago | 01/01/2013 |
+| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   5/12  |  Last week  | 10/08/2023 |
 | [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   5/12  |  Last week  | 10/16/2023 |
 | [49596](https://myanimelist.net/anime/49596) |  tv  |  2022  |   -   |                    Blue Lock                    |  14/24  |  Last week  | 10/16/2022 |
 | [55644](https://myanimelist.net/anime/55644) |  tv  |  2023  |   -   |           Dr. Stone: New World Part 2           |   4/11  |  Last week  | 10/13/2023 |
@@ -22,7 +22,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [48583](https://myanimelist.net/anime/48583) |    tv   |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |   3 days ago  | 01/28/2022 |  11/08/2023 |
+| [48583](https://myanimelist.net/anime/48583) |    tv   |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |   4 days ago  | 01/28/2022 |  11/08/2023 |
 | [37475](https://myanimelist.net/anime/37475) |    tv   |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |   Last week   | 10/29/2023 |  10/29/2023 |
 | [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |  2 months ago | 08/30/2023 |  08/30/2023 |
 | [48585](https://myanimelist.net/anime/48585) |  movie  |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |  4 months ago | 07/19/2023 |  07/19/2023 |
@@ -41,7 +41,7 @@ List Sync From MyAnimeList (update every day)
 | [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |  2 months ago | 07/11/2023 |
 | [54112](https://myanimelist.net/anime/54112) |    tv   |  2023  |   -   |                              Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                              |   7/12  |   Last month  | 07/09/2023 |
 | [51498](https://myanimelist.net/anime/51498) |    tv   |  2023  |   -   |                                           Masamune-kun no Revenge R                                          |   1/12  |   Last month  | 07/04/2023 |
-| [54234](https://myanimelist.net/anime/54234) |    tv   |  2023  |   -   |                                       Suki na Ko ga Megane wo Wasureta                                       |   2/13  |  2 weeks ago  | 07/04/2023 |
+| [54234](https://myanimelist.net/anime/54234) |    tv   |  2023  |   -   |                                       Suki na Ko ga Megane wo Wasureta                                       |   2/13  |  3 weeks ago  | 07/04/2023 |
 
 
 *[76 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
