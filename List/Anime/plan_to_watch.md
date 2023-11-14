@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |     manga    |                                            Busou Shoujo Machiavellianism                                            |   Last week   |        -        |
+| [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |     manga    |                                            Busou Shoujo Machiavellianism                                            |  2 weeks ago  |        -        |
 | [30749](https://myanimelist.net/anime/30749) |    tv   |  2016  |  light_novel |                                               Saijaku Muhai no Bahamut                                              |  2 weeks ago  |        -        |
 | [55802](https://myanimelist.net/anime/55802) | special |  2023  |   web_manga  |                                    The iDOLM@STER Cinderella Girls: U149 Special                                    |  2 weeks ago  |        -        |
 | [53881](https://myanimelist.net/anime/53881) |    tv   |  2023  |     game     |                                                Arknights: Touin Kiro                                                |  2 weeks ago  |        -        |
@@ -140,7 +140,7 @@
 |  [3786](https://myanimelist.net/anime/3786)  |  movie  |  2021  |   original   |                                        Evangelion: 3.0+1.0 Thrice Upon a Time                                       |   01/22/2022  |        -        |
 |  [3784](https://myanimelist.net/anime/3784)  |  movie  |  2009  |   original   |                                        Evangelion: 2.0 You Can (Not) Advance                                        |   01/22/2022  |        -        |
 | [50411](https://myanimelist.net/anime/50411) |   ona   |  2022  |   web_manga  |                                                Xiao Mo Tou Baolu La!                                                |   01/17/2022  |        -        |
-| [35459](https://myanimelist.net/anime/35459) |   ova   |  2017  |     manga    |                                     Boku no Hero Academia: Training of the Dead                                     |   01/10/2022  |        -        |
+| [35459](https://myanimelist.net/anime/35459) |   ova   |  2017  |     manga    |                                     Boku no Hero Academia: Training of the Dead                                     |  2 years ago  |        -        |
 |  [2593](https://myanimelist.net/anime/2593)  |  movie  |  2007  |  light_novel |                                        Kara no Kyoukai Movie 1: Fukan Fuukei                                        |  2 years ago  |        -        |
 | [36023](https://myanimelist.net/anime/36023) |    tv   |  2018  |     game     |                                               Persona 5 the Animation                                               |  2 years ago  |        -        |
 | [18497](https://myanimelist.net/anime/18497) |    tv   |  2013  |     manga    |                                            Yozakura Quartet: Hana no Uta                                            |  2 years ago  |        -        |

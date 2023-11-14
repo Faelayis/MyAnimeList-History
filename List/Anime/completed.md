@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [48583](https://myanimelist.net/anime/48583) |    tv   |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |   5 days ago  | 01/28/2022 |  11/08/2023 |
+| [48583](https://myanimelist.net/anime/48583) |    tv   |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |   6 days ago  | 01/28/2022 |  11/08/2023 |
 | [37475](https://myanimelist.net/anime/37475) |    tv   |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |  2 weeks ago  | 10/29/2023 |  10/29/2023 |
 | [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |  2 months ago | 08/30/2023 |  08/30/2023 |
 | [48585](https://myanimelist.net/anime/48585) |  movie  |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |  4 months ago | 07/19/2023 |  07/19/2023 |
@@ -55,7 +55,7 @@
 | [13659](https://myanimelist.net/anime/13659) |    tv   |  2013  |   7   |                                Ore no Imouto ga Konnani Kawaii Wake ga Nai.                               | 10 months ago | 01/17/2023 |  01/17/2023 |
 | [18857](https://myanimelist.net/anime/18857) |   ona   |  2013  |   6   |                           Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials                           | 10 months ago | 01/17/2023 |  01/17/2023 |
 |  [8769](https://myanimelist.net/anime/8769)  |    tv   |  2010  |   7   |                                Ore no Imouto ga Konnani Kawaii Wake ga Nai                                | 10 months ago | 01/16/2023 |  01/17/2023 |
-| [51403](https://myanimelist.net/anime/51403) |    tv   |  2022  |   4   |                                                Renai Flops                                                | 10 months ago | 10/27/2022 |  01/10/2023 |
+| [51403](https://myanimelist.net/anime/51403) |    tv   |  2022  |   4   |                                                Renai Flops                                                | 11 months ago | 10/27/2022 |  01/10/2023 |
 | [16001](https://myanimelist.net/anime/16001) | special |  2012  |   7   |                                        Kokoro Connect: Michi Random                                       | 11 months ago | 01/09/2023 |  01/09/2023 |
 | [11887](https://myanimelist.net/anime/11887) |    tv   |  2012  |   7   |                                               Kokoro Connect                                              | 11 months ago | 01/07/2023 |  01/09/2023 |
 | [31043](https://myanimelist.net/anime/31043) |    tv   |  2016  |   9   |                                          Boku dake ga Inai Machi                                          | 11 months ago | 01/02/2023 |  01/02/2023 |
@@ -173,9 +173,9 @@
 | [41587](https://myanimelist.net/anime/41587) |    tv   |  2021  |   8   |                                      Boku no Hero Academia 5th Season                                     |   Last year   | 01/18/2022 |  01/18/2022 |
 | [38408](https://myanimelist.net/anime/38408) |    tv   |  2019  |   8   |                                      Boku no Hero Academia 4th Season                                     |   Last year   | 01/12/2022 |  01/14/2022 |
 | [36456](https://myanimelist.net/anime/36456) |    tv   |  2018  |   9   |                                      Boku no Hero Academia 3rd Season                                     |   Last year   | 01/11/2022 |  01/12/2022 |
-| [33486](https://myanimelist.net/anime/33486) |    tv   |  2017  |   8   |                                      Boku no Hero Academia 2nd Season                                     |   Last year   | 01/09/2022 |  01/11/2022 |
+| [33486](https://myanimelist.net/anime/33486) |    tv   |  2017  |   8   |                                      Boku no Hero Academia 2nd Season                                     |  2 years ago  | 01/09/2022 |  01/11/2022 |
 | [31964](https://myanimelist.net/anime/31964) |    tv   |  2016  |   8   |                                           Boku no Hero Academia                                           |  2 years ago  | 01/09/2022 |  01/09/2022 |
-| [50768](https://myanimelist.net/anime/50768) | special |  2022  |   8   |                                Vanitas no Karte: En Route Pour le Gévaudan                                |   Last year   | 01/08/2022 |  01/08/2022 |
+| [50768](https://myanimelist.net/anime/50768) | special |  2022  |   8   |                                Vanitas no Karte: En Route Pour le Gévaudan                                |  2 years ago  | 01/08/2022 |  01/08/2022 |
 | [11843](https://myanimelist.net/anime/11843) |    tv   |  2012  |   8   |                                        Danshi Koukousei no Nichijou                                       |   Last year   | 12/24/2021 |  01/05/2022 |
 | [42897](https://myanimelist.net/anime/42897) |    tv   |  2021  |   8   |                                                  Horimiya                                                 |   Last year   | 01/01/2022 |  01/01/2022 |
 |    [30](https://myanimelist.net/anime/30)    |    tv   |  1995  |   9   |                                          Neon Genesis Evangelion                                          |   Last year   | 12/30/2021 |  12/30/2021 |
