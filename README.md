@@ -6,14 +6,14 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                      Title                      | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------: | :-----: | :---------: | :--------: |
-| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   6/12  |  2 days ago | 10/16/2023 |
-| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   6/12  |  2 days ago | 10/08/2023 |
+| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   6/12  |  3 days ago | 10/16/2023 |
+| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   6/12  |  3 days ago | 10/08/2023 |
 | [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  16/23  |  Last week  | 07/08/2023 |
 | [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |           Tokyo Revengers: Tenjiku-hen          |   5/13  |  Last week  | 10/04/2023 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                    One Piece                    |  1082/? |  Last week  | 01/01/2013 |
 | [55644](https://myanimelist.net/anime/55644) |  tv  |  2023  |   -   |           Dr. Stone: New World Part 2           |   4/11  | 2 weeks ago | 10/13/2023 |
 | [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   5/12  | 2 weeks ago | 10/04/2023 |
-| [50664](https://myanimelist.net/anime/50664) |  tv  |  2023  |   -   |   Saihate no Paladin: Tetsusabi no Yama no Ou   |   3/12  | 2 weeks ago | 10/08/2023 |
+| [50664](https://myanimelist.net/anime/50664) |  tv  |  2023  |   -   |   Saihate no Paladin: Tetsusabi no Yama no Ou   |   3/12  | 3 weeks ago | 10/08/2023 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -65,9 +65,9 @@ List Sync From MyAnimeList (update every day)
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |     manga    |                                            Busou Shoujo Machiavellianism                                            |  2 weeks ago  |        -        |
 | [30749](https://myanimelist.net/anime/30749) |    tv   |  2016  |  light_novel |                                               Saijaku Muhai no Bahamut                                              |  2 weeks ago  |        -        |
-| [55802](https://myanimelist.net/anime/55802) | special |  2023  |   web_manga  |                                    The iDOLM@STER Cinderella Girls: U149 Special                                    |  2 weeks ago  |        -        |
-| [53881](https://myanimelist.net/anime/53881) |    tv   |  2023  |     game     |                                                Arknights: Touin Kiro                                                |  2 weeks ago  |        -        |
-| [53888](https://myanimelist.net/anime/53888) |  movie  |  2023  |     manga    |                                           Spy x Family Movie: Code: White                                           |  2 weeks ago  |        -        |
+| [55802](https://myanimelist.net/anime/55802) | special |  2023  |   web_manga  |                                    The iDOLM@STER Cinderella Girls: U149 Special                                    |  3 weeks ago  |        -        |
+| [53881](https://myanimelist.net/anime/53881) |    tv   |  2023  |     game     |                                                Arknights: Touin Kiro                                                |  3 weeks ago  |        -        |
+| [53888](https://myanimelist.net/anime/53888) |  movie  |  2023  |     manga    |                                           Spy x Family Movie: Code: White                                           |  3 weeks ago  |        -        |
 | [48633](https://myanimelist.net/anime/48633) |    tv   |  2023  |  light_novel |                                                      Liar Liar                                                      |  2 months ago |        -        |
 
 
