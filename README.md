@@ -4,16 +4,16 @@ List Sync From MyAnimeList (update every day)
 
 #### Watching (8) ``3.36%``
 
-|                      id                      | Type | Season | Score |                      Title                      | Watched |    Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------: | :-----: | :----------: | :--------: |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  17/23  | 17 hours ago | 07/08/2023 |
-| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   7/12  |   Yesterday  | 10/16/2023 |
-| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   6/12  |  5 days ago  | 10/08/2023 |
-| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |           Tokyo Revengers: Tenjiku-hen          |   5/13  |   Last week  | 10/04/2023 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                    One Piece                    |  1082/? |  2 weeks ago | 01/01/2013 |
-| [55644](https://myanimelist.net/anime/55644) |  tv  |  2023  |   -   |           Dr. Stone: New World Part 2           |   4/11  |  2 weeks ago | 10/13/2023 |
-| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   5/12  |  2 weeks ago | 10/04/2023 |
-| [50664](https://myanimelist.net/anime/50664) |  tv  |  2023  |   -   |   Saihate no Paladin: Tetsusabi no Yama no Ou   |   3/12  |  3 weeks ago | 10/08/2023 |
+|                      id                      | Type | Season | Score |                      Title                      | Watched |   Updated   | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------: | :-----: | :---------: | :--------: |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  17/23  |  Yesterday  | 07/08/2023 |
+| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   7/12  |  2 days ago | 10/16/2023 |
+| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   6/12  |  6 days ago | 10/08/2023 |
+| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |           Tokyo Revengers: Tenjiku-hen          |   5/13  |  Last week  | 10/04/2023 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                    One Piece                    |  1082/? | 2 weeks ago | 01/01/2013 |
+| [55644](https://myanimelist.net/anime/55644) |  tv  |  2023  |   -   |           Dr. Stone: New World Part 2           |   4/11  | 2 weeks ago | 10/13/2023 |
+| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   5/12  | 2 weeks ago | 10/04/2023 |
+| [50664](https://myanimelist.net/anime/50664) |  tv  |  2023  |   -   |   Saihate no Paladin: Tetsusabi no Yama no Ou   |   3/12  | 3 weeks ago | 10/08/2023 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -36,7 +36,7 @@ List Sync From MyAnimeList (update every day)
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
 | [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                         Seiken Gakuin no Makentsukai                                         |   1/12  |  2 weeks ago  | 10/05/2023 |
-| [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                       |   0/12  |  2 weeks ago  | 07/15/2023 |
+| [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                       |   0/12  |  3 weeks ago  | 07/15/2023 |
 | [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |  3 months ago | 07/11/2023 |
 | [54112](https://myanimelist.net/anime/54112) |    tv   |  2023  |   -   |                              Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                              |   7/12  |   Last month  | 07/09/2023 |
 | [51498](https://myanimelist.net/anime/51498) |    tv   |  2023  |   -   |                                           Masamune-kun no Revenge R                                          |   1/12  |   Last month  | 07/04/2023 |
@@ -63,7 +63,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |     manga    |                                            Busou Shoujo Machiavellianism                                            |  2 weeks ago  |        -        |
+| [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |     manga    |                                            Busou Shoujo Machiavellianism                                            |  3 weeks ago  |        -        |
 | [30749](https://myanimelist.net/anime/30749) |    tv   |  2016  |  light_novel |                                               Saijaku Muhai no Bahamut                                              |  3 weeks ago  |        -        |
 | [55802](https://myanimelist.net/anime/55802) | special |  2023  |   web_manga  |                                    The iDOLM@STER Cinderella Girls: U149 Special                                    |  3 weeks ago  |        -        |
 | [53881](https://myanimelist.net/anime/53881) |    tv   |  2023  |     game     |                                                Arknights: Touin Kiro                                                |  3 weeks ago  |        -        |
