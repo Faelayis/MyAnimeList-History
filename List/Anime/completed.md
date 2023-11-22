@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [48583](https://myanimelist.net/anime/48583) |    tv   |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |   Last week   | 01/28/2022 |  11/08/2023 |
+| [48583](https://myanimelist.net/anime/48583) |    tv   |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |  2 weeks ago  | 01/28/2022 |  11/08/2023 |
 | [37475](https://myanimelist.net/anime/37475) |    tv   |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |  3 weeks ago  | 10/29/2023 |  10/29/2023 |
 | [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |  2 months ago | 08/30/2023 |  08/30/2023 |
 | [48585](https://myanimelist.net/anime/48585) |  movie  |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |  4 months ago | 07/19/2023 |  07/19/2023 |
@@ -43,7 +43,7 @@
 | [37675](https://myanimelist.net/anime/37675) |    tv   |  2018  |   7   |                                                Overlord III                                               |  8 months ago | 03/16/2023 |  03/18/2023 |
 | [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |   9   |            Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen           |  8 months ago | 01/05/2023 |  03/18/2023 |
 | [35073](https://myanimelist.net/anime/35073) |    tv   |  2018  |   6   |                                                Overlord II                                                |  8 months ago | 03/16/2023 |  03/16/2023 |
-| [29803](https://myanimelist.net/anime/29803) |    tv   |  2015  |   8   |                                                  Overlord                                                 |  8 months ago | 03/15/2023 |  03/15/2023 |
+| [29803](https://myanimelist.net/anime/29803) |    tv   |  2015  |   8   |                                                  Overlord                                                 |  9 months ago | 03/15/2023 |  03/15/2023 |
 | [34604](https://myanimelist.net/anime/34604) |   ova   |  2017  |   7   |                                   UQ Holder! Mahou Sensei Negima! 2 OVA                                   |  9 months ago | 03/14/2023 |  03/14/2023 |
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |   7   |                                     UQ Holder! Mahou Sensei Negima! 2                                     |  9 months ago | 03/13/2023 |  03/14/2023 |
 | [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |   8   |                                        Mahou Shoujo Ikusei Keikaku                                        |  9 months ago | 02/27/2023 |  02/28/2023 |
@@ -170,7 +170,7 @@
 | [38524](https://myanimelist.net/anime/38524) |    tv   |  2019  |   8   |                                     Shingeki no Kyojin Season 3 Part 2                                    |   Last year   | 01/27/2022 |  01/28/2022 |
 | [44069](https://myanimelist.net/anime/44069) |   ona   |  2021  |   7   |                                      Xian Wang de Richang Shenghuo 2                                      |   Last year   | 11/01/2021 |  01/28/2022 |
 | [34497](https://myanimelist.net/anime/34497) |    tv   |  2018  |   7   |                               Death March kara Hajimaru Isekai Kyousoukyoku                               |   Last year   | 01/21/2022 |  01/21/2022 |
-| [41587](https://myanimelist.net/anime/41587) |    tv   |  2021  |   8   |                                      Boku no Hero Academia 5th Season                                     |   Last year   | 01/18/2022 |  01/18/2022 |
+| [41587](https://myanimelist.net/anime/41587) |    tv   |  2021  |   8   |                                      Boku no Hero Academia 5th Season                                     |  2 years ago  | 01/18/2022 |  01/18/2022 |
 | [38408](https://myanimelist.net/anime/38408) |    tv   |  2019  |   8   |                                      Boku no Hero Academia 4th Season                                     |  2 years ago  | 01/12/2022 |  01/14/2022 |
 | [36456](https://myanimelist.net/anime/36456) |    tv   |  2018  |   9   |                                      Boku no Hero Academia 3rd Season                                     |   Last year   | 01/11/2022 |  01/12/2022 |
 | [33486](https://myanimelist.net/anime/33486) |    tv   |  2017  |   8   |                                      Boku no Hero Academia 2nd Season                                     |  2 years ago  | 01/09/2022 |  01/11/2022 |

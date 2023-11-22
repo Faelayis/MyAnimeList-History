@@ -6,13 +6,13 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                      Title                      | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------: | :-----: | :---------: | :--------: |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  17/23  |  Yesterday  | 07/08/2023 |
-| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   7/12  |  2 days ago | 10/16/2023 |
-| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   6/12  |  6 days ago | 10/08/2023 |
-| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |           Tokyo Revengers: Tenjiku-hen          |   5/13  |  Last week  | 10/04/2023 |
+| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   7/12  |  1 hour ago | 10/04/2023 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  17/23  |  2 days ago | 07/08/2023 |
+| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   7/12  |  3 days ago | 10/16/2023 |
+| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   6/12  |  Last week  | 10/08/2023 |
+| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |           Tokyo Revengers: Tenjiku-hen          |   5/13  | 2 weeks ago | 10/04/2023 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                    One Piece                    |  1082/? | 2 weeks ago | 01/01/2013 |
 | [55644](https://myanimelist.net/anime/55644) |  tv  |  2023  |   -   |           Dr. Stone: New World Part 2           |   4/11  | 2 weeks ago | 10/13/2023 |
-| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   5/12  | 2 weeks ago | 10/04/2023 |
 | [50664](https://myanimelist.net/anime/50664) |  tv  |  2023  |   -   |   Saihate no Paladin: Tetsusabi no Yama no Ou   |   3/12  | 3 weeks ago | 10/08/2023 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
@@ -21,7 +21,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [48583](https://myanimelist.net/anime/48583) |    tv   |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |   Last week   | 01/28/2022 |  11/08/2023 |
+| [48583](https://myanimelist.net/anime/48583) |    tv   |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |  2 weeks ago  | 01/28/2022 |  11/08/2023 |
 | [37475](https://myanimelist.net/anime/37475) |    tv   |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |  3 weeks ago  | 10/29/2023 |  10/29/2023 |
 | [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |  2 months ago | 08/30/2023 |  08/30/2023 |
 | [48585](https://myanimelist.net/anime/48585) |  movie  |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |  4 months ago | 07/19/2023 |  07/19/2023 |
