@@ -1,12 +1,13 @@
-# Plan to Watch (238)
+# Plan to Watch (239)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |     manga    |                               Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                              |  23 hours ago |        -        |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |     manga    |                                            Busou Shoujo Machiavellianism                                            |  3 weeks ago  |        -        |
 | [30749](https://myanimelist.net/anime/30749) |    tv   |  2016  |  light_novel |                                               Saijaku Muhai no Bahamut                                              |  3 weeks ago  |        -        |
-| [55802](https://myanimelist.net/anime/55802) | special |  2023  |   web_manga  |                                    The iDOLM@STER Cinderella Girls: U149 Special                                    |  3 weeks ago  |        -        |
-| [53881](https://myanimelist.net/anime/53881) |    tv   |  2023  |     game     |                                                Arknights: Touin Kiro                                                |  3 weeks ago  |        -        |
-| [53888](https://myanimelist.net/anime/53888) |  movie  |  2023  |     manga    |                                           Spy x Family Movie: Code: White                                           |  3 weeks ago  |        -        |
+| [55802](https://myanimelist.net/anime/55802) | special |  2023  |   web_manga  |                                    The iDOLM@STER Cinderella Girls: U149 Special                                    |   Last month  |        -        |
+| [53881](https://myanimelist.net/anime/53881) |    tv   |  2023  |     game     |                                                Arknights: Touin Kiro                                                |   Last month  |        -        |
+| [53888](https://myanimelist.net/anime/53888) |  movie  |  2023  |     manga    |                                           Spy x Family Movie: Code: White                                           |   Last month  |        -        |
 | [48633](https://myanimelist.net/anime/48633) |    tv   |  2023  |  light_novel |                                                      Liar Liar                                                      |  2 months ago |        -        |
 | [56425](https://myanimelist.net/anime/56425) |    tv   |  2023  |   web_manga  |                                              Houkago Shounen Hanako-kun                                             |  2 months ago |        -        |
 | [33049](https://myanimelist.net/anime/33049) |  movie  |  2019  | visual_novel |                              Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly                              |  3 months ago |        -        |
