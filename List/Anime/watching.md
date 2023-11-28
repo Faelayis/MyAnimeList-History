@@ -2,8 +2,8 @@
 
 |                      id                      | Type | Season | Score |                      Title                      | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------: | :-----: | :---------: | :--------: |
-| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   -   |                Sousou no Frieren                |   0/28  |  Yesterday  |      -     |
-| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   7/12  |  5 days ago | 10/04/2023 |
+| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   -   |                Sousou no Frieren                |   0/28  |  2 days ago |      -     |
+| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   7/12  |  6 days ago | 10/04/2023 |
 | [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  17/23  |  Last week  | 07/08/2023 |
 | [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   7/12  |  Last week  | 10/16/2023 |
 | [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   6/12  |  Last week  | 10/08/2023 |
