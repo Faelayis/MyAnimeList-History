@@ -2,11 +2,11 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (9) ``3.77%``
+#### Watching (9) ``3.73%``
 
 |                      id                      | Type | Season | Score |                      Title                      | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------: | :-----: | :---------: | :--------: |
-| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   -   |                Sousou no Frieren                |   0/28  |  3 days ago |      -     |
+| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   -   |                Sousou no Frieren                |   0/28  |  4 days ago |      -     |
 | [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   7/12  |  Last week  | 10/04/2023 |
 | [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  17/23  |  Last week  | 07/08/2023 |
 | [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   7/12  |  Last week  | 10/16/2023 |
@@ -18,7 +18,7 @@ List Sync From MyAnimeList (update every day)
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``81.07%``
+#### Completed ``81.51%``
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -32,7 +32,7 @@ List Sync From MyAnimeList (update every day)
 
 *[443 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``11.37%``
+#### On Hold ``11.34%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -46,11 +46,11 @@ List Sync From MyAnimeList (update every day)
 
 *[77 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``4.23%``
+#### Dropped ``4.22%``
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   5   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |  Last month  | 04/04/2023 |
+| [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   5   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  | 2 months ago | 04/04/2023 |
 | [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   3/12  | 8 months ago | 04/03/2023 |
 | [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                                       Boku no Kokoro no Yabai Yatsu                                       |   2/12  | 8 months ago | 04/02/2023 |
 | [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |                           Campione! Matsurowanu Kamigami to Kamigoroshi no Maou                           |   1/13  | 9 months ago | 03/20/2023 |
@@ -60,16 +60,16 @@ List Sync From MyAnimeList (update every day)
 
 *[27 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``41.64%``
+#### Plan to Watch ``41.99%``
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |     manga    |                               Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                              |   4 days ago  |        -        |
+| [57369](https://myanimelist.net/anime/57369) |  movie  |  2024  |   web_manga  |                                         Paripi Koumei: Road to Summer Sonia                                         |  9 hours ago  |        -        |
+| [57334](https://myanimelist.net/anime/57334) |    tv   |    -   |     manga    |                                                       Dandadan                                                      |  15 hours ago |        -        |
+| [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |     manga    |                               Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                              |   5 days ago  |        -        |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |     manga    |                                            Busou Shoujo Machiavellianism                                            |   Last month  |        -        |
 | [30749](https://myanimelist.net/anime/30749) |    tv   |  2016  |  light_novel |                                               Saijaku Muhai no Bahamut                                              |   Last month  |        -        |
 | [55802](https://myanimelist.net/anime/55802) | special |  2023  |   web_manga  |                                    The iDOLM@STER Cinderella Girls: U149 Special                                    |   Last month  |        -        |
-| [53881](https://myanimelist.net/anime/53881) |    tv   |  2023  |     game     |                                                Arknights: Touin Kiro                                                |   Last month  |        -        |
-| [53888](https://myanimelist.net/anime/53888) |  movie  |  2023  |     manga    |                                           Spy x Family Movie: Code: White                                           |   Last month  |        -        |
 
 
-*[232 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[234 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
