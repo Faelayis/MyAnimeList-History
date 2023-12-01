@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                         Seiken Gakuin no Makentsukai                                         |   1/12  |  3 weeks ago  | 10/05/2023 |
+| [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                         Seiken Gakuin no Makentsukai                                         |   1/12  |   Last month  | 10/05/2023 |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                       |   0/12  |   Last month  | 07/15/2023 |
 | [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |  3 months ago | 07/11/2023 |
 | [54112](https://myanimelist.net/anime/54112) |    tv   |  2023  |   -   |                              Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                              |   7/12  |   Last month  | 07/09/2023 |
@@ -27,9 +27,9 @@
 | [41514](https://myanimelist.net/anime/41514) |    tv   |  2023  |   6   |                     Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                     |  10/12  |  7 months ago | 01/12/2023 |
 | [51815](https://myanimelist.net/anime/51815) |    tv   |  2023  |   -   |                                         Kubo-san wa Mob wo Yurusanai                                         |   7/12  |   Last month  | 01/11/2023 |
 | [44204](https://myanimelist.net/anime/44204) |    tv   |  2023  |   -   |                                             Kyokou Suiri Season 2                                            |   1/12  |  8 months ago | 01/09/2023 |
-| [48417](https://myanimelist.net/anime/48417) |    tv   |  2023  |   -   | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II |   3/12  |  8 months ago | 01/08/2023 |
+| [48417](https://myanimelist.net/anime/48417) |    tv   |  2023  |   -   | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II |   3/12  |  9 months ago | 01/08/2023 |
 | [50205](https://myanimelist.net/anime/50205) |    tv   |  2022  |   -   |                                           Arknights: Reimei Zensou                                           |   3/8   |  9 months ago | 11/06/2022 |
-| [49596](https://myanimelist.net/anime/49596) |    tv   |  2022  |   -   |                                                   Blue Lock                                                  |  14/24  |   Last week   | 10/16/2022 |
+| [49596](https://myanimelist.net/anime/49596) |    tv   |  2022  |   -   |                                                   Blue Lock                                                  |  14/24  |  2 weeks ago  | 10/16/2022 |
 | [50710](https://myanimelist.net/anime/50710) |    tv   |  2022  |   6   |                                             Urusei Yatsura (2022)                                            |   9/23  |  8 months ago | 10/14/2022 |
 |  [5114](https://myanimelist.net/anime/5114)  |    tv   |  2009  |   -   |                                       Fullmetal Alchemist: Brotherhood                                       |  47/64  |   Last year   | 10/07/2022 |
 | [52046](https://myanimelist.net/anime/52046) |    tv   |  2022  |   -   |               Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau              |   2/13  |   Last year   | 10/05/2022 |
@@ -76,7 +76,7 @@
 |  [1642](https://myanimelist.net/anime/1642)  |    tv   |  2005  |   -   |                                               Sugar Sugar Rune                                               |   5/51  |   Last year   | 05/10/2021 |
 | [41025](https://myanimelist.net/anime/41025) |    tv   |  2021  |   7   |                                              Fumetsu no Anata e                                              |  16/20  |   Last year   | 04/28/2021 |
 | [46095](https://myanimelist.net/anime/46095) |    tv   |  2021  |   -   |                                           Vivy: Fluorite Eye's Song                                          |   4/13  |  2 years ago  | 04/28/2021 |
-|  [2787](https://myanimelist.net/anime/2787)  |    tv   |  2007  |   -   |                                         Shakugan no Shana II (Second)                                        |   1/24  |  2 years ago  | 02/19/2021 |
+|  [2787](https://myanimelist.net/anime/2787)  |    tv   |  2007  |   -   |                                         Shakugan no Shana II (Second)                                        |   1/24  |  3 years ago  | 02/19/2021 |
 | [42203](https://myanimelist.net/anime/42203) |    tv   |  2021  |   -   |                            Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2                           |   3/12  |  3 years ago  | 01/07/2021 |
 | [39463](https://myanimelist.net/anime/39463) |    tv   |  2020  |   -   |                                                   Gleipnir                                                   |   8/13  |  2 years ago  | 12/16/2020 |
 | [24405](https://myanimelist.net/anime/24405) |    tv   |  2014  |   -   |                                                 World Trigger                                                |  11/73  |  3 years ago  | 12/01/2020 |
