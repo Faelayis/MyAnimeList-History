@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                      Title                      | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------: | :-----: | :---------: | :--------: |
-| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   -   |                Sousou no Frieren                |   0/28  |  5 days ago |      -     |
+| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   -   |                Sousou no Frieren                |   0/28  |  6 days ago |      -     |
 | [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   7/12  |  Last week  | 10/04/2023 |
 | [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  17/23  |  Last week  | 07/08/2023 |
 | [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   7/12  |  Last week  | 10/16/2023 |
@@ -64,9 +64,9 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [57369](https://myanimelist.net/anime/57369) |  movie  |  2024  |   web_manga  |                                         Paripi Koumei: Road to Summer Sonia                                         |   Yesterday   |        -        |
-| [57334](https://myanimelist.net/anime/57334) |    tv   |    -   |     manga    |                                                       Dandadan                                                      |   Yesterday   |        -        |
-| [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |     manga    |                               Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                              |   6 days ago  |        -        |
+| [57369](https://myanimelist.net/anime/57369) |  movie  |  2024  |   web_manga  |                                         Paripi Koumei: Road to Summer Sonia                                         |   2 days ago  |        -        |
+| [57334](https://myanimelist.net/anime/57334) |    tv   |    -   |     manga    |                                                       Dandadan                                                      |   2 days ago  |        -        |
+| [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |     manga    |                               Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                              |   Last week   |        -        |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |     manga    |                                            Busou Shoujo Machiavellianism                                            |   Last month  |        -        |
 | [30749](https://myanimelist.net/anime/30749) |    tv   |  2016  |  light_novel |                                               Saijaku Muhai no Bahamut                                              |   Last month  |        -        |
 | [55802](https://myanimelist.net/anime/55802) | special |  2023  |   web_manga  |                                    The iDOLM@STER Cinderella Girls: U149 Special                                    |   Last month  |        -        |
