@@ -4,17 +4,17 @@ List Sync From MyAnimeList (update every day)
 
 #### Watching (9) ``3.73%``
 
-|                      id                      | Type | Season | Score |                      Title                      | Watched |   Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------: | :-----: | :---------: | :--------: |
-| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   -   |                Sousou no Frieren                |   0/28  |  Last week  |      -     |
-| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   7/12  |  Last week  | 10/04/2023 |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  17/23  |  Last week  | 07/08/2023 |
-| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   7/12  | 2 weeks ago | 10/16/2023 |
-| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   6/12  | 2 weeks ago | 10/08/2023 |
-| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |           Tokyo Revengers: Tenjiku-hen          |   5/13  | 3 weeks ago | 10/04/2023 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                    One Piece                    |  1082/? | 3 weeks ago | 01/01/2013 |
-| [55644](https://myanimelist.net/anime/55644) |  tv  |  2023  |   -   |           Dr. Stone: New World Part 2           |   4/11  |  Last month | 10/13/2023 |
-| [50664](https://myanimelist.net/anime/50664) |  tv  |  2023  |   -   |   Saihate no Paladin: Tetsusabi no Yama no Ou   |   3/12  |  Last month | 10/08/2023 |
+|                      id                      | Type | Season | Score |                      Title                      | Watched |    Updated   | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------: | :-----: | :----------: | :--------: |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |            Jujutsu Kaisen 2nd Season            |  19/23  | 11 hours ago | 07/08/2023 |
+| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   -   |                Sousou no Frieren                |   0/28  |   Last week  |      -     |
+| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   | Kage no Jitsuryokusha ni Naritakute! 2nd Season |   7/12  |   Last week  | 10/04/2023 |
+| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                Hametsu no Oukoku                |   7/12  |  2 weeks ago | 10/16/2023 |
+| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |         Hikikomari Kyuuketsuki no Monmon        |   6/12  |  2 weeks ago | 10/08/2023 |
+| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |           Tokyo Revengers: Tenjiku-hen          |   5/13  |  3 weeks ago | 10/04/2023 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                    One Piece                    |  1082/? |  Last month  | 01/01/2013 |
+| [55644](https://myanimelist.net/anime/55644) |  tv  |  2023  |   -   |           Dr. Stone: New World Part 2           |   4/11  |  Last month  | 10/13/2023 |
+| [50664](https://myanimelist.net/anime/50664) |  tv  |  2023  |   -   |   Saihate no Paladin: Tetsusabi no Yama no Ou   |   3/12  |  Last month  | 10/08/2023 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -64,8 +64,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [57369](https://myanimelist.net/anime/57369) |  movie  |  2024  |   web_manga  |                                         Paripi Koumei: Road to Summer Sonia                                         |   3 days ago  |        -        |
-| [57334](https://myanimelist.net/anime/57334) |    tv   |    -   |     manga    |                                                       Dandadan                                                      |   3 days ago  |        -        |
+| [57369](https://myanimelist.net/anime/57369) |  movie  |  2024  |   web_manga  |                                         Paripi Koumei: Road to Summer Sonia                                         |   4 days ago  |        -        |
+| [57334](https://myanimelist.net/anime/57334) |    tv   |    -   |     manga    |                                                       Dandadan                                                      |   4 days ago  |        -        |
 | [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |     manga    |                               Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                              |   Last week   |        -        |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |     manga    |                                            Busou Shoujo Machiavellianism                                            |   Last month  |        -        |
 | [30749](https://myanimelist.net/anime/30749) |    tv   |  2016  |  light_novel |                                               Saijaku Muhai no Bahamut                                              |   Last month  |        -        |
