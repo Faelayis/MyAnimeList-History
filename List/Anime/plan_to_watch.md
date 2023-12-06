@@ -1,10 +1,9 @@
-# Plan to Watch (241)
+# Plan to Watch (240)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [57369](https://myanimelist.net/anime/57369) |  movie  |  2024  |   web_manga  |                                         Paripi Koumei: Road to Summer Sonia                                         |   5 days ago  |        -        |
-| [57334](https://myanimelist.net/anime/57334) |    tv   |    -   |     manga    |                                                       Dandadan                                                      |   5 days ago  |        -        |
-| [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |     manga    |                               Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                              |   Last week   |        -        |
+| [57369](https://myanimelist.net/anime/57369) |  movie  |  2024  |   web_manga  |                                         Paripi Koumei: Road to Summer Sonia                                         |   6 days ago  |        -        |
+| [57334](https://myanimelist.net/anime/57334) |    tv   |    -   |     manga    |                                                       Dandadan                                                      |   6 days ago  |        -        |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |     manga    |                                            Busou Shoujo Machiavellianism                                            |   Last month  |        -        |
 | [30749](https://myanimelist.net/anime/30749) |    tv   |  2016  |  light_novel |                                               Saijaku Muhai no Bahamut                                              |   Last month  |        -        |
 | [55802](https://myanimelist.net/anime/55802) | special |  2023  |   web_manga  |                                    The iDOLM@STER Cinderella Girls: U149 Special                                    |   Last month  |        -        |
@@ -136,7 +135,7 @@
 | [34176](https://myanimelist.net/anime/34176) |    tv   |  2017  |  light_novel |                                           Zero kara Hajimeru Mahou no Sho                                           |   02/21/2022  |        -        |
 | [14753](https://myanimelist.net/anime/14753) |   ova   |  2012  |   web_manga  |                                               Hori-san to Miyamura-kun                                              |   02/04/2022  |        -        |
 | [34392](https://myanimelist.net/anime/34392) |    tv   |  2017  |   original   |                                                       One Room                                                      |   02/04/2022  |        -        |
-| [48997](https://myanimelist.net/anime/48997) |    tv   |  2022  |   web_manga  |                                          Fantasy Bishoujo Juniku Ojisan to                                          |   02/01/2022  |        -        |
+| [48997](https://myanimelist.net/anime/48997) |    tv   |  2022  |   web_manga  |                                          Fantasy Bishoujo Juniku Ojisan to                                          |  2 years ago  |        -        |
 | [41006](https://myanimelist.net/anime/41006) |    tv   |  2020  | visual_novel |                                            Higurashi no Naku Koro ni Gou                                            |  2 years ago  |        -        |
 | [37521](https://myanimelist.net/anime/37521) |    tv   |  2019  |     manga    |                                                     Vinland Saga                                                    |  2 years ago  |        -        |
 | [10490](https://myanimelist.net/anime/10490) |    tv   |  2011  |   original   |                                                       Blood-C                                                       |  2 years ago  |        -        |
