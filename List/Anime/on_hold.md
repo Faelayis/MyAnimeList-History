@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                 |   3/12  |   3 days ago  | 10/08/2023 |
+| [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                 |   3/12  |   4 days ago  | 10/08/2023 |
 | [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                         Seiken Gakuin no Makentsukai                                         |   1/12  |   Last month  | 10/05/2023 |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                       |   0/12  |   Last month  | 07/15/2023 |
 | [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |  3 months ago | 07/11/2023 |
