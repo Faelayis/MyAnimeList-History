@@ -1,4 +1,4 @@
-# Completed (449)
+# Completed (448)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -14,7 +14,7 @@
 | [51019](https://myanimelist.net/anime/51019) |    tv   |  2023  |   8   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |  6 months ago | 04/09/2023 |  06/20/2023 |
 | [20509](https://myanimelist.net/anime/20509) |    tv   |  2014  |   8   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |  6 months ago | 05/18/2023 |  06/11/2023 |
 | [14829](https://myanimelist.net/anime/14829) |    tv   |  2013  |   8   |                                       Fate/kaleid liner Prisma☆Illya                                      |  7 months ago | 05/18/2023 |  05/18/2023 |
-| [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |   7   |        Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu       |  7 months ago | 04/29/2023 |  05/01/2023 |
+| [51213](https://myanimelist.net/anime/51213) |    tv   |  2022  |   7   |        Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu       |  8 months ago | 04/29/2023 |  05/01/2023 |
 | [10863](https://myanimelist.net/anime/10863) | special |  2012  |   8   |                                   Steins;Gate: Oukoubakko no Poriomania                                   |  8 months ago | 04/28/2023 |  04/28/2023 |
 |  [9253](https://myanimelist.net/anime/9253)  |    tv   |  2011  |   8   |                                                Steins;Gate                                                |  8 months ago | 04/26/2023 |  04/28/2023 |
 | [39940](https://myanimelist.net/anime/39940) |    tv   |  2019  |   9   |                                      Shokugeki no Souma: Shin no Sara                                     |  8 months ago | 04/10/2023 |  04/16/2023 |
@@ -25,8 +25,8 @@
 | [48561](https://myanimelist.net/anime/48561) |  movie  |  2021  |   7   |                                           Jujutsu Kaisen 0 Movie                                          |  8 months ago | 04/06/2023 |  04/06/2023 |
 | [32282](https://myanimelist.net/anime/32282) |    tv   |  2016  |   6   |                                       Shokugeki no Souma: Ni no Sara                                      |  8 months ago | 04/06/2023 |  04/06/2023 |
 | [28171](https://myanimelist.net/anime/28171) |    tv   |  2015  |   7   |                                             Shokugeki no Souma                                            |  8 months ago | 04/05/2023 |  04/06/2023 |
-| [34822](https://myanimelist.net/anime/34822) |    tv   |  2017  |   8   |                                               Tsuki ga Kirei                                              |  8 months ago | 04/02/2023 |  04/03/2023 |
-| [40530](https://myanimelist.net/anime/40530) |    tv   |  2021  |   9   |                                          Jaku-Chara Tomozaki-kun                                          |  8 months ago | 01/09/2021 |  04/03/2023 |
+| [34822](https://myanimelist.net/anime/34822) |    tv   |  2017  |   8   |                                               Tsuki ga Kirei                                              |  9 months ago | 04/02/2023 |  04/03/2023 |
+| [40530](https://myanimelist.net/anime/40530) |    tv   |  2021  |   9   |                                          Jaku-Chara Tomozaki-kun                                          |  9 months ago | 01/09/2021 |  04/03/2023 |
 | [50932](https://myanimelist.net/anime/50932) |    tv   |  2023  |   8   |                                    Saikyou Onmyouji no Isekai Tenseiki                                    |  9 months ago | 03/30/2023 |  04/02/2023 |
 | [50608](https://myanimelist.net/anime/50608) |    tv   |  2023  |   8   |                                     Tokyo Revengers: Seiya Kessen-hen                                     |  9 months ago | 01/08/2023 |  04/02/2023 |
 | [52305](https://myanimelist.net/anime/52305) |    tv   |  2023  |   6   |                                           Tomo-chan wa Onnanoko!                                          |  9 months ago | 01/16/2023 |  03/30/2023 |
@@ -56,8 +56,8 @@
 | [18857](https://myanimelist.net/anime/18857) |   ona   |  2013  |   6   |                           Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials                           | 11 months ago | 01/17/2023 |  01/17/2023 |
 |  [8769](https://myanimelist.net/anime/8769)  |    tv   |  2010  |   7   |                                Ore no Imouto ga Konnani Kawaii Wake ga Nai                                | 11 months ago | 01/16/2023 |  01/17/2023 |
 | [51403](https://myanimelist.net/anime/51403) |    tv   |  2022  |   4   |                                                Renai Flops                                                | 11 months ago | 10/27/2022 |  01/10/2023 |
-| [16001](https://myanimelist.net/anime/16001) | special |  2012  |   7   |                                        Kokoro Connect: Michi Random                                       | 11 months ago | 01/09/2023 |  01/09/2023 |
-| [11887](https://myanimelist.net/anime/11887) |    tv   |  2012  |   7   |                                               Kokoro Connect                                              | 11 months ago | 01/07/2023 |  01/09/2023 |
+| [16001](https://myanimelist.net/anime/16001) | special |  2012  |   7   |                                        Kokoro Connect: Michi Random                                       |   Last year   | 01/09/2023 |  01/09/2023 |
+| [11887](https://myanimelist.net/anime/11887) |    tv   |  2012  |   7   |                                               Kokoro Connect                                              |   Last year   | 01/07/2023 |  01/09/2023 |
 | [31043](https://myanimelist.net/anime/31043) |    tv   |  2016  |   9   |                                          Boku dake ga Inai Machi                                          |   Last year   | 01/02/2023 |  01/02/2023 |
 | [44511](https://myanimelist.net/anime/44511) |    tv   |  2022  |   7   |                                                Chainsaw Man                                               |   Last year   | 10/13/2022 |  12/29/2022 |
 | [47917](https://myanimelist.net/anime/47917) |    tv   |  2022  |   8   |                                              Bocchi the Rock!                                             |   Last year   | 12/20/2022 |  12/27/2022 |
@@ -359,7 +359,7 @@
 | [28891](https://myanimelist.net/anime/28891) |    tv   |  2015  |   8   |                                          Haikyuu!! Second Season                                          |   Last year   | 10/31/2022 |      -      |
 | [15809](https://myanimelist.net/anime/15809) |    tv   |  2013  |   7   |                                            Hataraku Maou-sama!                                            |  2 years ago  | 05/10/2021 |      -      |
 | [41930](https://myanimelist.net/anime/41930) |    tv   |  2020  |   7   |                                            Kamisama ni Natta Hi                                           |  3 years ago  | 11/30/2020 |      -      |
-| [13759](https://myanimelist.net/anime/13759) |    tv   |  2012  |   8   |                                        Sakura-sou no Pet na Kanojo                                        |  2 years ago  | 11/28/2020 |      -      |
+| [13759](https://myanimelist.net/anime/13759) |    tv   |  2012  |   8   |                                        Sakura-sou no Pet na Kanojo                                        |  3 years ago  | 11/28/2020 |      -      |
 | [40454](https://myanimelist.net/anime/40454) |    tv   |  2020  |   7   |                        Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III                       |  3 years ago  | 11/22/2020 |      -      |
 | [41619](https://myanimelist.net/anime/41619) |    tv   |  2020  |   9   |                                               Munou na Nana                                               |  2 years ago  | 10/04/2020 |      -      |
 |  [6880](https://myanimelist.net/anime/6880)  |    tv   |  2011  |   7   |                                             Deadman Wonderland                                            |  2 years ago  | 09/12/2020 |      -      |
@@ -400,7 +400,7 @@
 |  [9963](https://myanimelist.net/anime/9963)  |  movie  |  2011  |   6   |                               Meitantei Conan Movie 15: Chinmoku no Quarter                               |   Last year   |      -     |      -      |
 |  [9181](https://myanimelist.net/anime/9181)  |    tv   |  2010  |   8   |                                              Motto To LOVE-Ru                                             |  3 years ago  |      -     |      -      |
 | [40111](https://myanimelist.net/anime/40111) |  movie  |  2019  |   7   |                                        Nezha Zhi Mo Tong Jiang Shi                                        |  2 years ago  |      -     |      -      |
-| [18897](https://myanimelist.net/anime/18897) |    tv   |  2014  |   8   |                                                  Nisekoi                                                  |  2 years ago  |      -     |      -      |
+| [18897](https://myanimelist.net/anime/18897) |    tv   |  2014  |   8   |                                                  Nisekoi                                                  |  3 years ago  |      -     |      -      |
 | [27787](https://myanimelist.net/anime/27787) |    tv   |  2015  |   8   |                                                  Nisekoi:                                                 |  2 years ago  |      -     |      -      |
 | [20507](https://myanimelist.net/anime/20507) |    tv   |  2014  |   9   |                                                  Noragami                                                 |   Last year   |      -     |      -      |
 | [30503](https://myanimelist.net/anime/30503) |    tv   |  2015  |   10  |                                              Noragami Aragoto                                             |   Last year   |      -     |      -      |
@@ -413,7 +413,6 @@
 | [38483](https://myanimelist.net/anime/38483) |    tv   |  2019  |   7   |                                    Ore wo Suki nano wa Omae dake ka yo                                    |  3 years ago  |      -     |      -      |
 | [40807](https://myanimelist.net/anime/40807) | special |  2019  |   6   |                       Ore wo Suki nano wa Omae dake ka yo: Ore wa Teinei ni Susumeru                      |  2 years ago  |      -     |      -      |
 | [40936](https://myanimelist.net/anime/40936) |   ova   |  2020  |   8   |                         Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set                         |  3 years ago  |      -     |      -      |
-| [30240](https://myanimelist.net/anime/30240) |    tv   |  2015  |   6   |                                               Prison School                                               |  2 years ago  |      -     |      -      |
 | [33142](https://myanimelist.net/anime/33142) | special |  2016  |   5   |                                      Re:Zero kara Hajimeru Break Time                                     |  3 years ago  |      -     |      -      |
 | [38414](https://myanimelist.net/anime/38414) |  movie  |  2019  |   6   |                        Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna                        |  2 years ago  |      -     |      -      |
 | [36286](https://myanimelist.net/anime/36286) |  movie  |  2018  |   7   |                            Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow                            |  2 years ago  |      -     |      -      |

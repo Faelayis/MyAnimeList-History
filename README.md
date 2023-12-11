@@ -4,21 +4,21 @@ List Sync From MyAnimeList (update every day)
 
 #### Watching (9) ``3.75%``
 
-|                      id                      | Type | Season | Score |                           Title                          | Watched |    Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   |      Kage no Jitsuryokusha ni Naritakute! 2nd Season     |  10/12  | 10 hours ago | 10/04/2023 |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                 Jujutsu Kaisen 2nd Season                |  20/23  |  2 days ago  | 07/08/2023 |
-| [54714](https://myanimelist.net/anime/54714) |  tv  |  2023  |   -   | Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo |   4/12  |  4 days ago  | 12/06/2023 |
-| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   -   |                     Sousou no Frieren                    |   0/28  |  2 weeks ago |      -     |
-| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   8   |                     Hametsu no Oukoku                    |   7/12  |  3 weeks ago | 10/16/2023 |
-| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |             Hikikomari Kyuuketsuki no Monmon             |   6/12  |  3 weeks ago | 10/08/2023 |
-| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |               Tokyo Revengers: Tenjiku-hen               |   5/13  |  Last month  | 10/04/2023 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                         One Piece                        |  1082/? |  Last month  | 01/01/2013 |
-| [55644](https://myanimelist.net/anime/55644) |  tv  |  2023  |   -   |                Dr. Stone: New World Part 2               |   4/11  |  Last month  | 10/13/2023 |
+|                      id                      | Type | Season | Score |                           Title                          | Watched |   Updated   | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------: | :-----: | :---------: | :--------: |
+| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |             Hikikomari Kyuuketsuki no Monmon             |   7/12  | 9 hours ago | 10/08/2023 |
+| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   6   |                     Hametsu no Oukoku                    |   8/12  | 9 hours ago | 10/16/2023 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                         One Piece                        |  1087/? | 9 hours ago | 01/01/2013 |
+| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   |      Kage no Jitsuryokusha ni Naritakute! 2nd Season     |  10/12  |  Yesterday  | 10/04/2023 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                 Jujutsu Kaisen 2nd Season                |  20/23  |  3 days ago | 07/08/2023 |
+| [54714](https://myanimelist.net/anime/54714) |  tv  |  2023  |   -   | Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo |   4/12  |  5 days ago | 12/06/2023 |
+| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   -   |                     Sousou no Frieren                    |   0/28  | 2 weeks ago |      -     |
+| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |               Tokyo Revengers: Tenjiku-hen               |   5/13  |  Last month | 10/04/2023 |
+| [55644](https://myanimelist.net/anime/55644) |  tv  |  2023  |   -   |                Dr. Stone: New World Part 2               |   4/11  |  Last month | 10/13/2023 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``81.51%``
+#### Completed ``81.70%``
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -30,13 +30,13 @@ List Sync From MyAnimeList (update every day)
 | [46569](https://myanimelist.net/anime/46569) |    tv   |  2023  |   7   |                                                 Jigokuraku                                                |  5 months ago | 04/02/2023 |  07/02/2023 |
 
 
-*[443 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
+*[442 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``11.49%``
+#### On Hold ``11.51%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                 |   3/12  |   5 days ago  | 10/08/2023 |
+| [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                 |   3/12  |   6 days ago  | 10/08/2023 |
 | [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                         Seiken Gakuin no Makentsukai                                         |   1/12  |   Last month  | 10/05/2023 |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                       |   0/12  |   Last month  | 07/15/2023 |
 | [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |  3 months ago | 07/11/2023 |
@@ -46,7 +46,7 @@ List Sync From MyAnimeList (update every day)
 
 *[78 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``4.22%``
+#### Dropped ``4.23%``
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
@@ -60,7 +60,7 @@ List Sync From MyAnimeList (update every day)
 
 *[27 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``41.74%``
+#### Plan to Watch ``41.81%``
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
