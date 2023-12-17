@@ -1,7 +1,8 @@
-# Completed (448)
+# Completed (449)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [27525](https://myanimelist.net/anime/27525) |    tv   |  2015  |   7   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |  10 hours ago | 06/11/2023 |  12/17/2023 |
 | [48583](https://myanimelist.net/anime/48583) |    tv   |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |   Last month  | 01/28/2022 |  11/08/2023 |
 | [37475](https://myanimelist.net/anime/37475) |    tv   |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |   Last month  | 10/29/2023 |  10/29/2023 |
 | [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |  3 months ago | 08/30/2023 |  08/30/2023 |
@@ -20,7 +21,7 @@
 | [39940](https://myanimelist.net/anime/39940) |    tv   |  2019  |   9   |                                      Shokugeki no Souma: Shin no Sara                                     |  8 months ago | 04/10/2023 |  04/16/2023 |
 | [55016](https://myanimelist.net/anime/55016) |  music  |  2023  |   9   |                                                    Idol                                                   |  8 months ago | 04/12/2023 |  04/12/2023 |
 | [36949](https://myanimelist.net/anime/36949) |    tv   |  2018  |   8   |                           Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen                           |  8 months ago | 04/09/2023 |  04/10/2023 |
-| [35788](https://myanimelist.net/anime/35788) |    tv   |  2017  |   8   |                                      Shokugeki no Souma: San no Sara                                      |  8 months ago | 04/06/2023 |  04/09/2023 |
+| [35788](https://myanimelist.net/anime/35788) |    tv   |  2017  |   8   |                                      Shokugeki no Souma: San no Sara                                      |  9 months ago | 04/06/2023 |  04/09/2023 |
 | [50612](https://myanimelist.net/anime/50612) | special |  2022  |   5   |                                             Dr. Stone: Ryuusui                                            |  9 months ago | 04/06/2023 |  04/06/2023 |
 | [48561](https://myanimelist.net/anime/48561) |  movie  |  2021  |   7   |                                           Jujutsu Kaisen 0 Movie                                          |  9 months ago | 04/06/2023 |  04/06/2023 |
 | [32282](https://myanimelist.net/anime/32282) |    tv   |  2016  |   6   |                                       Shokugeki no Souma: Ni no Sara                                      |  9 months ago | 04/06/2023 |  04/06/2023 |

@@ -1,16 +1,15 @@
-# On Hold (85)
+# On Hold (84)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                        |   1/12  |  9 hours ago  | 12/16/2023 |
+| [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                        |   1/12  |   Yesterday   | 12/16/2023 |
 | [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                 |   3/12  |   Last week   | 10/08/2023 |
 | [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                         Seiken Gakuin no Makentsukai                                         |   1/12  |   Last month  | 10/05/2023 |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                       |   0/12  |   Last month  | 07/15/2023 |
 | [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |  4 months ago | 07/11/2023 |
 | [54112](https://myanimelist.net/anime/54112) |    tv   |  2023  |   -   |                              Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                              |   7/12  |  2 months ago | 07/09/2023 |
 | [51498](https://myanimelist.net/anime/51498) |    tv   |  2023  |   -   |                                           Masamune-kun no Revenge R                                          |   1/12  |  2 months ago | 07/04/2023 |
-| [54234](https://myanimelist.net/anime/54234) |    tv   |  2023  |   -   |                                       Suki na Ko ga Megane wo Wasureta                                       |   2/13  |   Last month  | 07/04/2023 |
-| [27525](https://myanimelist.net/anime/27525) |    tv   |  2015  |   -   |                                   Fate/kaleid liner Prisma☆Illya 2wei Herz!                                  |   3/10  |   Last month  | 06/11/2023 |
+| [54234](https://myanimelist.net/anime/54234) |    tv   |  2023  |   -   |                                       Suki na Ko ga Megane wo Wasureta                                       |   2/13  |  2 months ago | 07/04/2023 |
 | [50416](https://myanimelist.net/anime/50416) |    tv   |  2023  |   7   |                                                Skip to Loafer                                                |   8/12  |  2 months ago | 05/10/2023 |
 | [51536](https://myanimelist.net/anime/51536) |    tv   |  2023  |   9   |                                     The iDOLM@STER Cinderella Girls: U149                                    |   5/12  |  2 months ago | 05/02/2023 |
 | [14199](https://myanimelist.net/anime/14199) |    tv   |  2012  |   -   |                                 Oniichan dakedo Ai sae Areba Kankeinai yo ne!                                |   9/12  |  2 months ago | 04/21/2023 |
@@ -24,7 +23,7 @@
 |  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  |   -   |                                                  Amagami SS                                                  |   7/25  |  9 months ago | 03/23/2023 |
 | [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |   -   |                                      Ijiranaide, Nagatoro-san 2nd Attack                                     |   2/12  |  9 months ago | 03/20/2023 |
 | [48553](https://myanimelist.net/anime/48553) |    tv   |  2022  |   -   |                                           Akebi-chan no Sailor-fuku                                          |   3/12  |  9 months ago | 03/13/2023 |
-| [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |   -   |                                              Mahoutsukai no Yome                                             |   6/24  |  9 hours ago  | 03/01/2023 |
+| [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |   -   |                                              Mahoutsukai no Yome                                             |   6/24  |   Yesterday   | 03/01/2023 |
 | [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |   -   |                                               Amaama to Inazuma                                              |   3/12  | 11 months ago | 01/12/2023 |
 | [41514](https://myanimelist.net/anime/41514) |    tv   |  2023  |   6   |                     Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                     |  10/12  |  7 months ago | 01/12/2023 |
 | [51815](https://myanimelist.net/anime/51815) |    tv   |  2023  |   -   |                                         Kubo-san wa Mob wo Yurusanai                                         |   7/12  |  2 months ago | 01/11/2023 |
@@ -66,7 +65,7 @@
 | [35241](https://myanimelist.net/anime/35241) |    tv   |  2017  |   -   |                                                Konohana Kitan                                                |   4/12  |  2 years ago  | 09/22/2021 |
 | [42544](https://myanimelist.net/anime/42544) |    tv   |  2021  |   -   |                                                 Kaizoku Oujo                                                 |   7/12  |  2 years ago  | 08/30/2021 |
 | [11061](https://myanimelist.net/anime/11061) |    tv   |  2011  |   -   |                                            Hunter x Hunter (2011)                                            |  83/148 |  9 months ago | 08/24/2021 |
-|  [9756](https://myanimelist.net/anime/9756)  |    tv   |  2011  |   -   |                                          Mahou Shoujo Madoka★Magica                                          |   2/12  |  2 years ago  | 08/19/2021 |
+|  [9756](https://myanimelist.net/anime/9756)  |    tv   |  2011  |   -   |                                          Mahou Shoujo Madoka★Magica                                          |   2/12  |  9 hours ago  | 08/19/2021 |
 | [40935](https://myanimelist.net/anime/40935) |    tv   |  2021  |   -   |                                              Beastars 2nd Season                                             |   8/12  |  2 years ago  | 07/20/2021 |
 | [43969](https://myanimelist.net/anime/43969) |    tv   |  2021  |   -   |                                               Kanojo mo Kanojo                                               |   3/12  |  2 years ago  | 07/05/2021 |
 | [40904](https://myanimelist.net/anime/40904) |    tv   |  2021  |   -   |                                              Bokutachi no Remake                                             |   2/12  |  2 years ago  | 07/04/2021 |
