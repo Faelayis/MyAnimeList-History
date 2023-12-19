@@ -6,13 +6,13 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                           Title                          | Watched |   Updated  | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------: | :-----: | :--------: | :--------: |
-| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |             Hikikomari Kyuuketsuki no Monmon             |  10/12  |  Yesterday | 10/08/2023 |
-| [54714](https://myanimelist.net/anime/54714) |  tv  |  2023  |   -   | Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo |   7/12  |  Yesterday | 12/06/2023 |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                 Jujutsu Kaisen 2nd Season                |  21/23  | 2 days ago | 07/08/2023 |
-| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   -   |                     Sousou no Frieren                    |  15/28  | 2 days ago | 12/15/2023 |
-| [55644](https://myanimelist.net/anime/55644) |  tv  |  2023  |   -   |                Dr. Stone: New World Part 2               |  10/11  | 3 days ago | 10/13/2023 |
-| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   |      Kage no Jitsuryokusha ni Naritakute! 2nd Season     |  11/12  | 3 days ago | 10/04/2023 |
-| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   6   |                     Hametsu no Oukoku                    |  10/12  | 5 days ago | 10/16/2023 |
+| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |             Hikikomari Kyuuketsuki no Monmon             |  10/12  | 2 days ago | 10/08/2023 |
+| [54714](https://myanimelist.net/anime/54714) |  tv  |  2023  |   -   | Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo |   7/12  | 2 days ago | 12/06/2023 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   -   |                 Jujutsu Kaisen 2nd Season                |  21/23  | 3 days ago | 07/08/2023 |
+| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   -   |                     Sousou no Frieren                    |  15/28  | 3 days ago | 12/15/2023 |
+| [55644](https://myanimelist.net/anime/55644) |  tv  |  2023  |   -   |                Dr. Stone: New World Part 2               |  10/11  | 4 days ago | 10/13/2023 |
+| [54595](https://myanimelist.net/anime/54595) |  tv  |  2023  |   -   |      Kage no Jitsuryokusha ni Naritakute! 2nd Season     |  11/12  | 4 days ago | 10/04/2023 |
+| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   6   |                     Hametsu no Oukoku                    |  10/12  | 6 days ago | 10/16/2023 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                         One Piece                        |  1087/? |  Last week | 01/01/2013 |
 | [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |               Tokyo Revengers: Tenjiku-hen               |   5/13  | Last month | 10/04/2023 |
 
@@ -22,7 +22,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [27525](https://myanimelist.net/anime/27525) |    tv   |  2015  |   7   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   Yesterday   | 06/11/2023 |  12/17/2023 |
+| [27525](https://myanimelist.net/anime/27525) |    tv   |  2015  |   7   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   2 days ago  | 06/11/2023 |  12/17/2023 |
 | [48583](https://myanimelist.net/anime/48583) |    tv   |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |   Last month  | 01/28/2022 |  11/08/2023 |
 | [37475](https://myanimelist.net/anime/37475) |    tv   |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |   Last month  | 10/29/2023 |  10/29/2023 |
 | [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |  3 months ago | 08/30/2023 |  08/30/2023 |
@@ -36,8 +36,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                        |   1/12  |   2 days ago  | 12/16/2023 |
-| [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                 |   3/12  |   Last week   | 10/08/2023 |
+| [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                        |   1/12  |   3 days ago  | 12/16/2023 |
+| [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                 |   3/12  |  2 weeks ago  | 10/08/2023 |
 | [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                         Seiken Gakuin no Makentsukai                                         |   1/12  |   Last month  | 10/05/2023 |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                       |   0/12  |   Last month  | 07/15/2023 |
 | [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |  4 months ago | 07/11/2023 |
@@ -64,12 +64,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :-----: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [55701](https://myanimelist.net/anime/55701) |    tv   |  2024  |     manga    |                                         Kimetsu no Yaiba: Hashira Geiko-hen                                         |   2 days ago  |        -        |
-| [56609](https://myanimelist.net/anime/56609) |  movie  |  2024  |  light_novel |                                             Kizumonogatari: Koyomi Vamp                                             |   2 days ago  |        -        |
-| [54829](https://myanimelist.net/anime/54829) |    tv   |  2024  |     manga    |                                           Urusei Yatsura (2022) 2nd Season                                          |   2 days ago  |        -        |
-| [56685](https://myanimelist.net/anime/56685) |  movie  |  2023  |     manga    |                                       Boku no Hero Academia: UA Heroes Battle                                       |   2 days ago  |        -        |
-| [54870](https://myanimelist.net/anime/54870) |  movie  |  2023  |  light_novel |                                Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai                                |   2 days ago  |        -        |
-| [55072](https://myanimelist.net/anime/55072) |   ona   |  2023  |     game     |                                               Xiaoke de Huatu Xie Hua                                               |   2 days ago  |        -        |
+| [55701](https://myanimelist.net/anime/55701) |    tv   |  2024  |     manga    |                                         Kimetsu no Yaiba: Hashira Geiko-hen                                         |   3 days ago  |        -        |
+| [56609](https://myanimelist.net/anime/56609) |  movie  |  2024  |  light_novel |                                             Kizumonogatari: Koyomi Vamp                                             |   3 days ago  |        -        |
+| [54829](https://myanimelist.net/anime/54829) |    tv   |  2024  |     manga    |                                           Urusei Yatsura (2022) 2nd Season                                          |   3 days ago  |        -        |
+| [56685](https://myanimelist.net/anime/56685) |  movie  |  2023  |     manga    |                                       Boku no Hero Academia: UA Heroes Battle                                       |   3 days ago  |        -        |
+| [54870](https://myanimelist.net/anime/54870) |  movie  |  2023  |  light_novel |                                Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai                                |   3 days ago  |        -        |
+| [55072](https://myanimelist.net/anime/55072) |   ona   |  2023  |     game     |                                               Xiaoke de Huatu Xie Hua                                               |   3 days ago  |        -        |
 
 
 *[239 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
