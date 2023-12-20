@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [27525](https://myanimelist.net/anime/27525) |    tv   |  2015  |   7   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   2 days ago  | 06/11/2023 |  12/17/2023 |
+| [27525](https://myanimelist.net/anime/27525) |    tv   |  2015  |   7   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   3 days ago  | 06/11/2023 |  12/17/2023 |
 | [48583](https://myanimelist.net/anime/48583) |    tv   |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |   Last month  | 01/28/2022 |  11/08/2023 |
 | [37475](https://myanimelist.net/anime/37475) |    tv   |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |   Last month  | 10/29/2023 |  10/29/2023 |
 | [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |  3 months ago | 08/30/2023 |  08/30/2023 |
@@ -44,7 +44,7 @@
 | [37675](https://myanimelist.net/anime/37675) |    tv   |  2018  |   7   |                                                Overlord III                                               |  9 months ago | 03/16/2023 |  03/18/2023 |
 | [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |   9   |            Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen           |  9 months ago | 01/05/2023 |  03/18/2023 |
 | [35073](https://myanimelist.net/anime/35073) |    tv   |  2018  |   6   |                                                Overlord II                                                |  9 months ago | 03/16/2023 |  03/16/2023 |
-| [29803](https://myanimelist.net/anime/29803) |    tv   |  2015  |   8   |                                                  Overlord                                                 |  9 months ago | 03/15/2023 |  03/15/2023 |
+| [29803](https://myanimelist.net/anime/29803) |    tv   |  2015  |   8   |                                                  Overlord                                                 | 10 months ago | 03/15/2023 |  03/15/2023 |
 | [34604](https://myanimelist.net/anime/34604) |   ova   |  2017  |   7   |                                   UQ Holder! Mahou Sensei Negima! 2 OVA                                   | 10 months ago | 03/14/2023 |  03/14/2023 |
 | [33478](https://myanimelist.net/anime/33478) |    tv   |  2017  |   7   |                                     UQ Holder! Mahou Sensei Negima! 2                                     | 10 months ago | 03/13/2023 |  03/14/2023 |
 | [33003](https://myanimelist.net/anime/33003) |    tv   |  2016  |   8   |                                        Mahou Shoujo Ikusei Keikaku                                        | 10 months ago | 02/27/2023 |  02/28/2023 |
