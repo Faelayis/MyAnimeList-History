@@ -1,8 +1,10 @@
-# Completed (449)
+# Completed (451)
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [27525](https://myanimelist.net/anime/27525) |    tv   |  2015  |   7   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   4 days ago  | 06/11/2023 |  12/17/2023 |
+| [55644](https://myanimelist.net/anime/55644) |    tv   |  2023  |   7   |                                        Dr. Stone: New World Part 2                                        |  10 hours ago | 10/13/2023 |  12/23/2023 |
+| [54595](https://myanimelist.net/anime/54595) |    tv   |  2023  |   7   |                              Kage no Jitsuryokusha ni Naritakute! 2nd Season                              |  10 hours ago | 10/04/2023 |  12/23/2023 |
+| [27525](https://myanimelist.net/anime/27525) |    tv   |  2015  |   7   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   6 days ago  | 06/11/2023 |  12/17/2023 |
 | [48583](https://myanimelist.net/anime/48583) |    tv   |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |   Last month  | 01/28/2022 |  11/08/2023 |
 | [37475](https://myanimelist.net/anime/37475) |    tv   |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |   Last month  | 10/29/2023 |  10/29/2023 |
 | [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |  4 months ago | 08/30/2023 |  08/30/2023 |
@@ -41,8 +43,8 @@
 | [52173](https://myanimelist.net/anime/52173) |    tv   |  2023  |   7   |                               Koori Zokusei Danshi to Cool na Douryou Joshi                               |  9 months ago | 02/25/2023 |  03/22/2023 |
 | [49612](https://myanimelist.net/anime/49612) |    tv   |  2023  |   5   |                        Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu                        |  9 months ago | 01/04/2023 |  03/22/2023 |
 | [48895](https://myanimelist.net/anime/48895) |    tv   |  2022  |   8   |                                                Overlord IV                                                |  9 months ago | 03/18/2023 |  03/19/2023 |
-| [37675](https://myanimelist.net/anime/37675) |    tv   |  2018  |   7   |                                                Overlord III                                               |  9 months ago | 03/16/2023 |  03/18/2023 |
-| [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |   9   |            Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen           |  9 months ago | 01/05/2023 |  03/18/2023 |
+| [37675](https://myanimelist.net/anime/37675) |    tv   |  2018  |   7   |                                                Overlord III                                               | 10 months ago | 03/16/2023 |  03/18/2023 |
+| [53111](https://myanimelist.net/anime/53111) |    tv   |  2023  |   9   |            Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen           | 10 months ago | 01/05/2023 |  03/18/2023 |
 | [35073](https://myanimelist.net/anime/35073) |    tv   |  2018  |   6   |                                                Overlord II                                                | 10 months ago | 03/16/2023 |  03/16/2023 |
 | [29803](https://myanimelist.net/anime/29803) |    tv   |  2015  |   8   |                                                  Overlord                                                 | 10 months ago | 03/15/2023 |  03/15/2023 |
 | [34604](https://myanimelist.net/anime/34604) |   ova   |  2017  |   7   |                                   UQ Holder! Mahou Sensei Negima! 2 OVA                                   | 10 months ago | 03/14/2023 |  03/14/2023 |
@@ -155,7 +157,7 @@
 | [36896](https://myanimelist.net/anime/36896) |  movie  |  2018  |   8   |                             Boku no Hero Academia the Movie 1: Futari no Hero                             |   Last year   | 02/26/2022 |  02/26/2022 |
 | [39565](https://myanimelist.net/anime/39565) |  movie  |  2019  |   7   |                              Boku no Hero Academia the Movie 2: Heroes:Rising                             |   Last year   | 02/26/2022 |  02/26/2022 |
 |  [5630](https://myanimelist.net/anime/5630)  |    tv   |  2009  |   7   |                                              Higashi no Eden                                              |   Last year   | 02/21/2022 |  02/23/2022 |
-| [35968](https://myanimelist.net/anime/35968) |    tv   |  2018  |   8   |                                        Wotaku ni Koi wa Muzukashii                                        |   Last year   | 02/16/2022 |  02/18/2022 |
+| [35968](https://myanimelist.net/anime/35968) |    tv   |  2018  |   8   |                                        Wotaku ni Koi wa Muzukashii                                        |  2 years ago  | 02/16/2022 |  02/18/2022 |
 | [36793](https://myanimelist.net/anime/36793) |    tv   |  2018  |   9   |                                            3D Kanojo: Real Girl                                           |  2 years ago  | 02/14/2022 |  02/14/2022 |
 | [37956](https://myanimelist.net/anime/37956) |    tv   |  2019  |   10  |                                      3D Kanojo: Real Girl 2nd Season                                      |  2 years ago  | 02/14/2022 |  02/14/2022 |
 | [47778](https://myanimelist.net/anime/47778) |    tv   |  2022  |   9   |                                       Kimetsu no Yaiba: Yuukaku-hen                                       |   Last year   | 12/06/2021 |  02/14/2022 |
@@ -303,7 +305,7 @@
 | [39617](https://myanimelist.net/anime/39617) |    tv   |  2021  |   7   |                                      Yakusoku no Neverland 2nd Season                                     |  2 years ago  | 01/07/2021 |  03/26/2021 |
 | [35790](https://myanimelist.net/anime/35790) |    tv   |  2019  |   8   |                                        Tate no Yuusha no Nariagari                                        |  2 years ago  | 03/23/2021 |  03/24/2021 |
 | [39535](https://myanimelist.net/anime/39535) |    tv   |  2021  |   9   |                                  Mushoku Tensei: Isekai Ittara Honki Dasu                                 |  2 years ago  | 01/26/2021 |  03/22/2021 |
-| [15451](https://myanimelist.net/anime/15451) |    tv   |  2013  |   7   |                                            High School DxD New                                            |  2 years ago  | 11/23/2020 |  03/19/2021 |
+| [15451](https://myanimelist.net/anime/15451) |    tv   |  2013  |   7   |                                            High School DxD New                                            |  3 years ago  | 11/23/2020 |  03/19/2021 |
 | [25157](https://myanimelist.net/anime/25157) |    tv   |  2014  |   6   |                                               Trinity Seven                                               |  3 years ago  |      -     |  03/08/2021 |
 | [32093](https://myanimelist.net/anime/32093) |    tv   |  2016  |   6   |                                       Tanaka-kun wa Itsumo Kedaruge                                       |  2 years ago  | 03/04/2021 |  03/06/2021 |
 | [38656](https://myanimelist.net/anime/38656) |    tv   |  2020  |   8   |                                               Darwin's Game                                               |  2 years ago  | 02/26/2021 |  02/28/2021 |
