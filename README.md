@@ -2,33 +2,32 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (7) ``2.85%``
+#### Watching (6) ``2.44%``
 
-|                      id                      | Type | Season | Score |                           Title                          | Watched |    Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   8   |                 Jujutsu Kaisen 2nd Season                |  22/23  | 10 hours ago | 07/08/2023 |
-| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   9   |                     Sousou no Frieren                    |  16/28  | 10 hours ago | 12/15/2023 |
-| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |             Hikikomari Kyuuketsuki no Monmon             |  10/12  |  6 days ago  | 10/08/2023 |
-| [54714](https://myanimelist.net/anime/54714) |  tv  |  2023  |   -   | Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo |   7/12  |  6 days ago  | 12/06/2023 |
-| [54362](https://myanimelist.net/anime/54362) |  tv  |  2023  |   6   |                     Hametsu no Oukoku                    |  10/12  |   Last week  | 10/16/2023 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                         One Piece                        |  1087/? |   Last week  | 01/01/2013 |
-| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |               Tokyo Revengers: Tenjiku-hen               |   5/13  |  Last month  | 10/04/2023 |
+|                      id                      | Type | Season | Score |                           Title                          | Watched |   Updated   | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------: | :-----: | :---------: | :--------: |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                         One Piece                        |  1088/? | 8 hours ago | 01/01/2013 |
+| [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |             Hikikomari Kyuuketsuki no Monmon             |  11/12  | 8 hours ago | 10/08/2023 |
+| [51009](https://myanimelist.net/anime/51009) |  tv  |  2023  |   8   |                 Jujutsu Kaisen 2nd Season                |  22/23  |  Yesterday  | 07/08/2023 |
+| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   9   |                     Sousou no Frieren                    |  16/28  |  Yesterday  | 12/15/2023 |
+| [54714](https://myanimelist.net/anime/54714) |  tv  |  2023  |   -   | Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo |   7/12  |  Last week  | 12/06/2023 |
+| [54918](https://myanimelist.net/anime/54918) |  tv  |  2023  |   -   |               Tokyo Revengers: Tenjiku-hen               |   5/13  |  Last month | 10/04/2023 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``82.04%``
+#### Completed ``81.64%``
 
 |                      id                      |   Type  | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [55644](https://myanimelist.net/anime/55644) |    tv   |  2023  |   7   |                                        Dr. Stone: New World Part 2                                        |  10 hours ago | 10/13/2023 |  12/23/2023 |
-| [54595](https://myanimelist.net/anime/54595) |    tv   |  2023  |   7   |                              Kage no Jitsuryokusha ni Naritakute! 2nd Season                              |  10 hours ago | 10/04/2023 |  12/23/2023 |
-| [27525](https://myanimelist.net/anime/27525) |    tv   |  2015  |   7   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   6 days ago  | 06/11/2023 |  12/17/2023 |
+| [54362](https://myanimelist.net/anime/54362) |    tv   |  2023  |   6   |                                             Hametsu no Oukoku                                             |  8 hours ago  | 10/16/2023 |  12/24/2023 |
+| [55644](https://myanimelist.net/anime/55644) |    tv   |  2023  |   7   |                                        Dr. Stone: New World Part 2                                        |   Yesterday   | 10/13/2023 |  12/23/2023 |
+| [54595](https://myanimelist.net/anime/54595) |    tv   |  2023  |   7   |                              Kage no Jitsuryokusha ni Naritakute! 2nd Season                              |   Yesterday   | 10/04/2023 |  12/23/2023 |
+| [27525](https://myanimelist.net/anime/27525) |    tv   |  2015  |   7   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   Last week   | 06/11/2023 |  12/17/2023 |
 | [48583](https://myanimelist.net/anime/48583) |    tv   |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |   Last month  | 01/28/2022 |  11/08/2023 |
 | [37475](https://myanimelist.net/anime/37475) |    tv   |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |   Last month  | 10/29/2023 |  10/29/2023 |
-| [56210](https://myanimelist.net/anime/56210) |  music  |  2023  |   6   |                                              Neoki Yashinoki                                              |  4 months ago | 08/30/2023 |  08/30/2023 |
 
 
-*[445 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
+*[446 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
 #### On Hold ``11.40%``
 
