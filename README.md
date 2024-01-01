@@ -6,9 +6,9 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                            Title                           | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------: | :-----: | :---------: | :--------: |
-| [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   | Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su |  12/25  |  Yesterday  | 12/30/2023 |
-| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                      Sousou no Frieren                     |  16/28  |  6 days ago | 12/15/2023 |
-| [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                  Ore dake Level Up na Ken                  |   0/?   |  6 days ago | 01/07/2024 |
+| [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   | Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su |  12/25  |  2 days ago | 12/30/2023 |
+| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                      Sousou no Frieren                     |  16/28  |  Last week  | 12/15/2023 |
+| [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                  Ore dake Level Up na Ken                  |   0/?   |  Last week  | 01/07/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                          One Piece                         |  1088/? |  Last week  | 01/01/2013 |
 | [54103](https://myanimelist.net/anime/54103) |  tv  |  2023  |   -   |              Hikikomari Kyuuketsuki no Monmon              |  11/12  |  Last week  | 10/08/2023 |
 | [54714](https://myanimelist.net/anime/54714) |  tv  |  2023  |   -   |  Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo  |   7/12  | 2 weeks ago | 12/06/2023 |
@@ -20,7 +20,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [51009](https://myanimelist.net/anime/51009) |     tv     |  2023  |   8   |                                         Jujutsu Kaisen 2nd Season                                         |   2 days ago  | 07/08/2023 |  12/29/2023 |
+| [51009](https://myanimelist.net/anime/51009) |     tv     |  2023  |   8   |                                         Jujutsu Kaisen 2nd Season                                         |   3 days ago  | 07/08/2023 |  12/29/2023 |
 | [54362](https://myanimelist.net/anime/54362) |     tv     |  2023  |   6   |                                             Hametsu no Oukoku                                             |   Last week   | 10/16/2023 |  12/24/2023 |
 | [55644](https://myanimelist.net/anime/55644) |     tv     |  2023  |   7   |                                        Dr. Stone: New World Part 2                                        |   Last week   | 10/13/2023 |  12/23/2023 |
 | [54595](https://myanimelist.net/anime/54595) |     tv     |  2023  |   7   |                              Kage no Jitsuryokusha ni Naritakute! 2nd Season                              |   Last week   | 10/04/2023 |  12/23/2023 |
@@ -62,12 +62,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [54492](https://myanimelist.net/anime/54492) |     tv     |  2023  |  light_novel |                                                Kusuriya no Hitorigoto                                               |   Yesterday   |        -        |
-| [57616](https://myanimelist.net/anime/57616) |     tv     |    -   |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season                         |   2 days ago  |        -        |
-| [57658](https://myanimelist.net/anime/57658) |   unknown  |    -   |     manga    |                                           Jujutsu Kaisen: Shimetsu Kaiyuu                                           |   2 days ago  |        -        |
-| [49889](https://myanimelist.net/anime/49889) |     tv     |  2024  |  light_novel |                                     Tsuki ga Michibiku Isekai Douchuu 2nd Season                                    |   6 days ago  |    01/08/2024   |
-| [53488](https://myanimelist.net/anime/53488) |     tv     |  2024  |  light_novel |    Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd    |   6 days ago  |    01/07/2024   |
-| [50803](https://myanimelist.net/anime/50803) |     tv     |  2024  |  light_novel |                                          Jaku-Chara Tomozaki-kun 2nd Stage                                          |   6 days ago  |    01/03/2024   |
+| [54492](https://myanimelist.net/anime/54492) |     tv     |  2023  |  light_novel |                                                Kusuriya no Hitorigoto                                               |   2 days ago  |        -        |
+| [57616](https://myanimelist.net/anime/57616) |     tv     |    -   |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season                         |   3 days ago  |        -        |
+| [57658](https://myanimelist.net/anime/57658) |   unknown  |    -   |     manga    |                                           Jujutsu Kaisen: Shimetsu Kaiyuu                                           |   3 days ago  |        -        |
+| [49889](https://myanimelist.net/anime/49889) |     tv     |  2024  |  light_novel |                                     Tsuki ga Michibiku Isekai Douchuu 2nd Season                                    |   Last week   |    01/08/2024   |
+| [53488](https://myanimelist.net/anime/53488) |     tv     |  2024  |  light_novel |    Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd    |   Last week   |    01/07/2024   |
+| [50803](https://myanimelist.net/anime/50803) |     tv     |  2024  |  light_novel |                                          Jaku-Chara Tomozaki-kun 2nd Stage                                          |   Last week   |    01/03/2024   |
 
 
 *[245 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*

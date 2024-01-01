@@ -26,7 +26,7 @@
 |  [8841](https://myanimelist.net/anime/8841)  |  tv  |  2011  |   5   |                                          Kore wa Zombie desu ka?                                          |   7/12  |  2 years ago  | 01/12/2021 |
 | [42825](https://myanimelist.net/anime/42825) |  tv  |  2021  |   2   |                                       Project Scard: Praeter no Kizu                                      |   1/13  |  2 years ago  | 01/09/2021 |
 | [34798](https://myanimelist.net/anime/34798) |  tv  |  2018  |   -   |                                                 Yuru Camp△                                                |   3/12  |  2 years ago  | 01/08/2021 |
-| [34618](https://myanimelist.net/anime/34618) |  tv  |  2017  |   3   |                                                  Blend S                                                  |   1/12  |  2 years ago  | 01/06/2021 |
+| [34618](https://myanimelist.net/anime/34618) |  tv  |  2017  |   3   |                                                  Blend S                                                  |   1/12  |  3 years ago  | 01/06/2021 |
 | [32323](https://myanimelist.net/anime/32323) |  ona |  2015  |   4   |                                           Aishen Qiaokeli-ing...                                          |   5/15  |  2 years ago  | 01/05/2021 |
 | [31952](https://myanimelist.net/anime/31952) |  tv  |  2016  |   4   |                                    Kono Bijutsu-bu ni wa Mondai ga Aru!                                   |   1/12  |  2 years ago  |      -     |
 | [41380](https://myanimelist.net/anime/41380) |  tv  |  2020  |   3   |                                 100-man no Inochi no Ue ni Ore wa Tatteiru                                |   3/12  |  2 years ago  |      -     |
