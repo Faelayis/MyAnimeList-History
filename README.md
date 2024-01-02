@@ -2,11 +2,11 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (7) ``2.78%``
+#### Watching (7) ``2.77%``
 
 |                      id                      | Type | Season | Score |                            Title                           | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------: | :-----: | :---------: | :--------: |
-| [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   | Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su |  12/25  |  2 days ago | 12/30/2023 |
+| [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   | Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su |  12/25  |  3 days ago | 12/30/2023 |
 | [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                      Sousou no Frieren                     |  16/28  |  Last week  | 12/15/2023 |
 | [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                  Ore dake Level Up na Ken                  |   0/?   |  Last week  | 01/07/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                          One Piece                         |  1088/? |  Last week  | 01/01/2013 |
@@ -16,11 +16,11 @@ List Sync From MyAnimeList (update every day)
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``83.00%``
+#### Completed ``83.22%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [51009](https://myanimelist.net/anime/51009) |     tv     |  2023  |   8   |                                         Jujutsu Kaisen 2nd Season                                         |   3 days ago  | 07/08/2023 |  12/29/2023 |
+| [51009](https://myanimelist.net/anime/51009) |     tv     |  2023  |   8   |                                         Jujutsu Kaisen 2nd Season                                         |   4 days ago  | 07/08/2023 |  12/29/2023 |
 | [54362](https://myanimelist.net/anime/54362) |     tv     |  2023  |   6   |                                             Hametsu no Oukoku                                             |   Last week   | 10/16/2023 |  12/24/2023 |
 | [55644](https://myanimelist.net/anime/55644) |     tv     |  2023  |   7   |                                        Dr. Stone: New World Part 2                                        |   Last week   | 10/13/2023 |  12/23/2023 |
 | [54595](https://myanimelist.net/anime/54595) |     tv     |  2023  |   7   |                              Kage no Jitsuryokusha ni Naritakute! 2nd Season                              |   Last week   | 10/04/2023 |  12/23/2023 |
@@ -30,12 +30,12 @@ List Sync From MyAnimeList (update every day)
 
 *[447 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``11.28%``
+#### On Hold ``11.26%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                        |   1/12  |  2 weeks ago  | 12/16/2023 |
-| [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                 |   3/12  |  3 weeks ago  | 10/08/2023 |
+| [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                 |   3/12  |   Last month  | 10/08/2023 |
 | [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                         Seiken Gakuin no Makentsukai                                         |   1/12  |  2 months ago | 10/05/2023 |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                       |   0/12  |  2 months ago | 07/15/2023 |
 | [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                     |   2/12  |  4 months ago | 07/11/2023 |
@@ -44,7 +44,7 @@ List Sync From MyAnimeList (update every day)
 
 *[78 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``4.15%``
+#### Dropped ``4.14%``
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -58,16 +58,16 @@ List Sync From MyAnimeList (update every day)
 
 *[27 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``43.67%``
+#### Plan to Watch ``43.85%``
 
-|                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
-| :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [54492](https://myanimelist.net/anime/54492) |     tv     |  2023  |  light_novel |                                                Kusuriya no Hitorigoto                                               |   2 days ago  |        -        |
-| [57616](https://myanimelist.net/anime/57616) |     tv     |    -   |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season                         |   3 days ago  |        -        |
-| [57658](https://myanimelist.net/anime/57658) |   unknown  |    -   |     manga    |                                           Jujutsu Kaisen: Shimetsu Kaiyuu                                           |   3 days ago  |        -        |
-| [49889](https://myanimelist.net/anime/49889) |     tv     |  2024  |  light_novel |                                     Tsuki ga Michibiku Isekai Douchuu 2nd Season                                    |   Last week   |    01/08/2024   |
-| [53488](https://myanimelist.net/anime/53488) |     tv     |  2024  |  light_novel |    Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd    |   Last week   |    01/07/2024   |
-| [50803](https://myanimelist.net/anime/50803) |     tv     |  2024  |  light_novel |                                          Jaku-Chara Tomozaki-kun 2nd Stage                                          |   Last week   |    01/03/2024   |
+|                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |     Updated    | Plan Start Date |
+| :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :------------: | :-------------: |
+| [34561](https://myanimelist.net/anime/34561) |     tv     |  2017  |   original   |                                                     Re:Creators                                                     | 34 minutes ago |        -        |
+| [54492](https://myanimelist.net/anime/54492) |     tv     |  2023  |  light_novel |                                                Kusuriya no Hitorigoto                                               |   3 days ago   |        -        |
+| [57616](https://myanimelist.net/anime/57616) |     tv     |    -   |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season                         |   4 days ago   |        -        |
+| [57658](https://myanimelist.net/anime/57658) |   unknown  |    -   |     manga    |                                           Jujutsu Kaisen: Shimetsu Kaiyuu                                           |   4 days ago   |        -        |
+| [49889](https://myanimelist.net/anime/49889) |     tv     |  2024  |  light_novel |                                     Tsuki ga Michibiku Isekai Douchuu 2nd Season                                    |    Last week   |    01/08/2024   |
+| [53488](https://myanimelist.net/anime/53488) |     tv     |  2024  |  light_novel |    Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd    |    Last week   |    01/07/2024   |
 
 
-*[245 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[246 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
