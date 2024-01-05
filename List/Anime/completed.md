@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [51009](https://myanimelist.net/anime/51009) |     tv     |  2023  |   8   |                                         Jujutsu Kaisen 2nd Season                                         |   6 days ago  | 07/08/2023 |  12/29/2023 |
+| [51009](https://myanimelist.net/anime/51009) |     tv     |  2023  |   8   |                                         Jujutsu Kaisen 2nd Season                                         |   Last week   | 07/08/2023 |  12/29/2023 |
 | [54362](https://myanimelist.net/anime/54362) |     tv     |  2023  |   6   |                                             Hametsu no Oukoku                                             |   Last week   | 10/16/2023 |  12/24/2023 |
 | [55644](https://myanimelist.net/anime/55644) |     tv     |  2023  |   7   |                                        Dr. Stone: New World Part 2                                        |   Last week   | 10/13/2023 |  12/23/2023 |
 | [54595](https://myanimelist.net/anime/54595) |     tv     |  2023  |   7   |                              Kage no Jitsuryokusha ni Naritakute! 2nd Season                              |   Last week   | 10/04/2023 |  12/23/2023 |
@@ -20,8 +20,8 @@
 | [20509](https://myanimelist.net/anime/20509) |     tv     |  2014  |   8   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |  7 months ago | 05/18/2023 |  06/11/2023 |
 | [14829](https://myanimelist.net/anime/14829) |     tv     |  2013  |   8   |                                       Fate/kaleid liner Prisma☆Illya                                      |  8 months ago | 05/18/2023 |  05/18/2023 |
 | [51213](https://myanimelist.net/anime/51213) |     tv     |  2022  |   7   |        Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu       |  8 months ago | 04/29/2023 |  05/01/2023 |
-| [10863](https://myanimelist.net/anime/10863) |   special  |  2012  |   8   |                                   Steins;Gate: Oukoubakko no Poriomania                                   |  8 months ago | 04/28/2023 |  04/28/2023 |
-|  [9253](https://myanimelist.net/anime/9253)  |     tv     |  2011  |   8   |                                                Steins;Gate                                                |  8 months ago | 04/26/2023 |  04/28/2023 |
+| [10863](https://myanimelist.net/anime/10863) |   special  |  2012  |   8   |                                   Steins;Gate: Oukoubakko no Poriomania                                   |  9 months ago | 04/28/2023 |  04/28/2023 |
+|  [9253](https://myanimelist.net/anime/9253)  |     tv     |  2011  |   8   |                                                Steins;Gate                                                |  9 months ago | 04/26/2023 |  04/28/2023 |
 | [39940](https://myanimelist.net/anime/39940) |     tv     |  2019  |   9   |                                      Shokugeki no Souma: Shin no Sara                                     |  9 months ago | 04/10/2023 |  04/16/2023 |
 | [55016](https://myanimelist.net/anime/55016) |    music   |  2023  |   9   |                                                    Idol                                                   |  9 months ago | 04/12/2023 |  04/12/2023 |
 | [36949](https://myanimelist.net/anime/36949) |     tv     |  2018  |   8   |                           Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen                           |  9 months ago | 04/09/2023 |  04/10/2023 |
