@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                            Title                           | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [50803](https://myanimelist.net/anime/50803) |  tv  |  2024  |   -   |              Jaku-Chara Tomozaki-kun 2nd Stage             |   1/13  |   Yesterday  | 01/03/2024 |
-| [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   | Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su |  12/25  |  6 days ago  | 12/30/2023 |
+| [50803](https://myanimelist.net/anime/50803) |  tv  |  2024  |   -   |              Jaku-Chara Tomozaki-kun 2nd Stage             |   1/13  |  2 days ago  | 01/03/2024 |
+| [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   | Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su |  12/25  |   Last week  | 12/30/2023 |
 | [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                      Sousou no Frieren                     |  16/28  |   Last week  | 12/15/2023 |
 | [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                  Ore dake Level Up na Ken                  |   0/?   |   Last week  | 01/07/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                          One Piece                         |  1088/? |   Last week  | 01/01/2013 |
@@ -23,8 +23,8 @@ List Sync From MyAnimeList (update every day)
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
 | [51009](https://myanimelist.net/anime/51009) |     tv     |  2023  |   8   |                                         Jujutsu Kaisen 2nd Season                                         |   Last week   | 07/08/2023 |  12/29/2023 |
 | [54362](https://myanimelist.net/anime/54362) |     tv     |  2023  |   6   |                                             Hametsu no Oukoku                                             |   Last week   | 10/16/2023 |  12/24/2023 |
-| [55644](https://myanimelist.net/anime/55644) |     tv     |  2023  |   7   |                                        Dr. Stone: New World Part 2                                        |   Last week   | 10/13/2023 |  12/23/2023 |
-| [54595](https://myanimelist.net/anime/54595) |     tv     |  2023  |   7   |                              Kage no Jitsuryokusha ni Naritakute! 2nd Season                              |   Last week   | 10/04/2023 |  12/23/2023 |
+| [55644](https://myanimelist.net/anime/55644) |     tv     |  2023  |   7   |                                        Dr. Stone: New World Part 2                                        |  2 weeks ago  | 10/13/2023 |  12/23/2023 |
+| [54595](https://myanimelist.net/anime/54595) |     tv     |  2023  |   7   |                              Kage no Jitsuryokusha ni Naritakute! 2nd Season                              |  2 weeks ago  | 10/04/2023 |  12/23/2023 |
 | [27525](https://myanimelist.net/anime/27525) |     tv     |  2015  |   7   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |  2 weeks ago  | 06/11/2023 |  12/17/2023 |
 | [48583](https://myanimelist.net/anime/48583) |     tv     |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |  2 months ago | 01/28/2022 |  11/08/2023 |
 
@@ -35,7 +35,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                        |   1/12  |  2 weeks ago  | 12/16/2023 |
+| [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                        |   1/12  |  3 weeks ago  | 12/16/2023 |
 | [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                 |   3/12  |   Last month  | 10/08/2023 |
 | [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                         Seiken Gakuin no Makentsukai                                         |   1/12  |  2 months ago | 10/05/2023 |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                       |   0/12  |  2 months ago | 07/15/2023 |
@@ -63,12 +63,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [34561](https://myanimelist.net/anime/34561) |     tv     |  2017  |   original   |                                                     Re:Creators                                                     |   2 days ago  |        -        |
-| [55855](https://myanimelist.net/anime/55855) |     tv     |  2024  |     manga    |                                           Kuroshitsuji: Kishuku Gakkou-hen                                          |   2 days ago  |        -        |
-| [53529](https://myanimelist.net/anime/53529) |    movie   |    -   |  light_novel |                                          Sword Art Online (Original Movie)                                          |   2 days ago  |        -        |
-| [55994](https://myanimelist.net/anime/55994) |     tv     |    -   |  light_novel |                                   Sword Art Online Alternative: Gun Gale Online II                                  |   2 days ago  |        -        |
-| [57592](https://myanimelist.net/anime/57592) |     tv     |    -   |     manga    |                                              Dr. Stone: Science Future                                              |   2 days ago  |        -        |
-| [56967](https://myanimelist.net/anime/56967) |     tv     |    -   |   original   |                                                 Kamierabi 2nd Season                                                |   2 days ago  |        -        |
+| [34561](https://myanimelist.net/anime/34561) |     tv     |  2017  |   original   |                                                     Re:Creators                                                     |   3 days ago  |        -        |
+| [55855](https://myanimelist.net/anime/55855) |     tv     |  2024  |     manga    |                                           Kuroshitsuji: Kishuku Gakkou-hen                                          |   3 days ago  |        -        |
+| [53529](https://myanimelist.net/anime/53529) |    movie   |    -   |  light_novel |                                          Sword Art Online (Original Movie)                                          |   3 days ago  |        -        |
+| [55994](https://myanimelist.net/anime/55994) |     tv     |    -   |  light_novel |                                   Sword Art Online Alternative: Gun Gale Online II                                  |   3 days ago  |        -        |
+| [57592](https://myanimelist.net/anime/57592) |     tv     |    -   |     manga    |                                              Dr. Stone: Science Future                                              |   3 days ago  |        -        |
+| [56967](https://myanimelist.net/anime/56967) |     tv     |    -   |   original   |                                                 Kamierabi 2nd Season                                                |   3 days ago  |        -        |
 
 
 *[250 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*

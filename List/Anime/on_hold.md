@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                        |   1/12  |  2 weeks ago  | 12/16/2023 |
+| [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                        |   1/12  |  3 weeks ago  | 12/16/2023 |
 | [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                 |   3/12  |   Last month  | 10/08/2023 |
 | [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                         Seiken Gakuin no Makentsukai                                         |   1/12  |  2 months ago | 10/05/2023 |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                       |   0/12  |  2 months ago | 07/15/2023 |
@@ -23,7 +23,7 @@
 |  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  |   -   |                                                  Amagami SS                                                  |   7/25  | 10 months ago | 03/23/2023 |
 | [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |   -   |                                      Ijiranaide, Nagatoro-san 2nd Attack                                     |   2/12  | 10 months ago | 03/20/2023 |
 | [48553](https://myanimelist.net/anime/48553) |    tv   |  2022  |   -   |                                           Akebi-chan no Sailor-fuku                                          |   3/12  |  9 months ago | 03/13/2023 |
-| [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |   -   |                                              Mahoutsukai no Yome                                             |   6/24  |  2 weeks ago  | 03/01/2023 |
+| [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |   -   |                                              Mahoutsukai no Yome                                             |   6/24  |  3 weeks ago  | 03/01/2023 |
 | [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |   -   |                                               Amaama to Inazuma                                              |   3/12  |   Last year   | 01/12/2023 |
 | [41514](https://myanimelist.net/anime/41514) |    tv   |  2023  |   6   |                     Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                     |  10/12  |  8 months ago | 01/12/2023 |
 | [51815](https://myanimelist.net/anime/51815) |    tv   |  2023  |   -   |                                         Kubo-san wa Mob wo Yurusanai                                         |   7/12  |  3 months ago | 01/11/2023 |
