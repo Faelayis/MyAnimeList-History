@@ -1,7 +1,8 @@
-# Completed (453)
+# Completed (454)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [54103](https://myanimelist.net/anime/54103) |     tv     |  2023  |   6   |                                      Hikikomari Kyuuketsuki no Monmon                                     |   1 hour ago  | 10/08/2023 |  01/10/2024 |
 | [51009](https://myanimelist.net/anime/51009) |     tv     |  2023  |   8   |                                         Jujutsu Kaisen 2nd Season                                         |   Last week   | 07/08/2023 |  12/29/2023 |
 | [54362](https://myanimelist.net/anime/54362) |     tv     |  2023  |   6   |                                             Hametsu no Oukoku                                             |  2 weeks ago  | 10/16/2023 |  12/24/2023 |
 | [55644](https://myanimelist.net/anime/55644) |     tv     |  2023  |   7   |                                        Dr. Stone: New World Part 2                                        |  2 weeks ago  | 10/13/2023 |  12/23/2023 |
@@ -14,8 +15,8 @@
 | [49618](https://myanimelist.net/anime/49618) |     ona    |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |  6 months ago | 01/27/2023 |  07/14/2023 |
 | [46569](https://myanimelist.net/anime/46569) |     tv     |  2023  |   7   |                                                 Jigokuraku                                                |  6 months ago | 04/02/2023 |  07/02/2023 |
 | [52211](https://myanimelist.net/anime/52211) |     tv     |  2023  |   6   |                                                   Mashle                                                  |  6 months ago | 04/08/2023 |  07/01/2023 |
-| [48549](https://myanimelist.net/anime/48549) |     tv     |  2023  |   7   |                                            Dr. Stone: New World                                           |  6 months ago | 04/06/2023 |  06/27/2023 |
-| [51958](https://myanimelist.net/anime/51958) |     tv     |  2023  |   8   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |  6 months ago | 04/06/2023 |  06/27/2023 |
+| [48549](https://myanimelist.net/anime/48549) |     tv     |  2023  |   7   |                                            Dr. Stone: New World                                           |  7 months ago | 04/06/2023 |  06/27/2023 |
+| [51958](https://myanimelist.net/anime/51958) |     tv     |  2023  |   8   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |  7 months ago | 04/06/2023 |  06/27/2023 |
 | [51019](https://myanimelist.net/anime/51019) |     tv     |  2023  |   8   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |  7 months ago | 04/09/2023 |  06/20/2023 |
 | [20509](https://myanimelist.net/anime/20509) |     tv     |  2014  |   8   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |  7 months ago | 05/18/2023 |  06/11/2023 |
 | [14829](https://myanimelist.net/anime/14829) |     tv     |  2013  |   8   |                                       Fate/kaleid liner Prisma☆Illya                                      |  8 months ago | 05/18/2023 |  05/18/2023 |
