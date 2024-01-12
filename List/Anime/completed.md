@@ -2,8 +2,8 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [54103](https://myanimelist.net/anime/54103) |     tv     |  2023  |   6   |                                      Hikikomari Kyuuketsuki no Monmon                                     |   Yesterday   | 10/08/2023 |  01/10/2024 |
-| [51009](https://myanimelist.net/anime/51009) |     tv     |  2023  |   8   |                                         Jujutsu Kaisen 2nd Season                                         |   Last week   | 07/08/2023 |  12/29/2023 |
+| [54103](https://myanimelist.net/anime/54103) |     tv     |  2023  |   6   |                                      Hikikomari Kyuuketsuki no Monmon                                     |   2 days ago  | 10/08/2023 |  01/10/2024 |
+| [51009](https://myanimelist.net/anime/51009) |     tv     |  2023  |   8   |                                         Jujutsu Kaisen 2nd Season                                         |  2 weeks ago  | 07/08/2023 |  12/29/2023 |
 | [54362](https://myanimelist.net/anime/54362) |     tv     |  2023  |   6   |                                             Hametsu no Oukoku                                             |  2 weeks ago  | 10/16/2023 |  12/24/2023 |
 | [55644](https://myanimelist.net/anime/55644) |     tv     |  2023  |   7   |                                        Dr. Stone: New World Part 2                                        |  2 weeks ago  | 10/13/2023 |  12/23/2023 |
 | [54595](https://myanimelist.net/anime/54595) |     tv     |  2023  |   7   |                              Kage no Jitsuryokusha ni Naritakute! 2nd Season                              |  2 weeks ago  | 10/04/2023 |  12/23/2023 |
@@ -147,7 +147,7 @@
 | [40540](https://myanimelist.net/anime/40540) |     tv     |  2020  |   8   |                        Sword Art Online: Alicization - War of Underworld 2nd Season                       |   Last year   | 03/17/2022 |  03/19/2022 |
 | [39597](https://myanimelist.net/anime/39597) |     tv     |  2019  |   7   |                             Sword Art Online: Alicization - War of Underworld                             |   Last year   | 03/16/2022 |  03/17/2022 |
 | [41120](https://myanimelist.net/anime/41120) |     tv     |  2020  |   8   |                                       Fugou Keiji: Balance:Unlimited                                      |   Last year   | 03/13/2022 |  03/13/2022 |
-| [41694](https://myanimelist.net/anime/41694) |     tv     |  2021  |   8   |                                           Hataraku Saibou Black                                           |   Last year   | 03/08/2022 |  03/11/2022 |
+| [41694](https://myanimelist.net/anime/41694) |     tv     |  2021  |   8   |                                           Hataraku Saibou Black                                           |  2 years ago  | 03/08/2022 |  03/11/2022 |
 | [40416](https://myanimelist.net/anime/40416) |    movie   |  2020  |   9   |                                       Date A Bullet: Dead or Bullet                                       |  2 years ago  | 03/03/2022 |  03/03/2022 |
 | [42423](https://myanimelist.net/anime/42423) |    movie   |  2020  |   10  |                                     Date A Bullet: Nightmare or Queen                                     |   Last year   | 03/03/2022 |  03/03/2022 |
 | [24655](https://myanimelist.net/anime/24655) |    movie   |  2015  |   6   |                                     Date A Live Movie: Mayuri Judgment                                    |  2 years ago  | 03/03/2022 |  03/03/2022 |

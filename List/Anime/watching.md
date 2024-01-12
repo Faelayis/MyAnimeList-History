@@ -2,11 +2,11 @@
 
 |                      id                      | Type | Season | Score |                                                     Title                                                     | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :---------: | :--------: |
-| [53488](https://myanimelist.net/anime/53488) |  tv  |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |  Yesterday  | 01/07/2024 |
-| [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                     Ao no Exorcist: Shimane Illuminati-hen                                    |   1/12  |  Yesterday  | 01/10/2024 |
-| [49889](https://myanimelist.net/anime/49889) |  tv  |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |  Yesterday  | 01/08/2024 |
-| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   -   |                                 Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                                 |   1/12  |  Yesterday  | 01/09/2024 |
-| [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                                            Ore dake Level Up na Ken                                           |   1/12  |  3 days ago | 01/07/2024 |
+| [53488](https://myanimelist.net/anime/53488) |  tv  |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |  2 days ago | 01/07/2024 |
+| [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                     Ao no Exorcist: Shimane Illuminati-hen                                    |   1/12  |  2 days ago | 01/10/2024 |
+| [49889](https://myanimelist.net/anime/49889) |  tv  |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |  2 days ago | 01/08/2024 |
+| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   -   |                                 Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                                 |   1/12  |  2 days ago | 01/09/2024 |
+| [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                                            Ore dake Level Up na Ken                                           |   1/12  |  4 days ago | 01/07/2024 |
 | [50803](https://myanimelist.net/anime/50803) |  tv  |  2024  |   -   |                                       Jaku-Chara Tomozaki-kun 2nd Stage                                       |   1/13  |  Last week  | 01/03/2024 |
 | [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   |                           Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su                          |  12/25  |  Last week  | 12/30/2023 |
 | [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                                               Sousou no Frieren                                               |  16/28  | 2 weeks ago | 12/15/2023 |

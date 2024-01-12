@@ -1,7 +1,11 @@
-# Plan to Watch (253)
+# Plan to Watch (257)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [33280](https://myanimelist.net/anime/33280) |    movie   |  2017  | 4_koma_manga |                                     Gochuumon wa Usagi desu ka?? Dear My Sister                                     |  12 hours ago |        -        |
+| [38337](https://myanimelist.net/anime/38337) |     tv     |  2020  | 4_koma_manga |                                          Gochuumon wa Usagi desu ka? Bloom                                          |  12 hours ago |        -        |
+| [21273](https://myanimelist.net/anime/21273) |     tv     |  2014  | 4_koma_manga |                                             Gochuumon wa Usagi desu ka?                                             |  12 hours ago |        -        |
+| [29787](https://myanimelist.net/anime/29787) |     tv     |  2015  | 4_koma_manga |                                             Gochuumon wa Usagi desu ka??                                            |  12 hours ago |        -        |
 | [34561](https://myanimelist.net/anime/34561) |     tv     |  2017  |   original   |                                                     Re:Creators                                                     |   Last week   |        -        |
 | [55855](https://myanimelist.net/anime/55855) |     tv     |  2024  |     manga    |                                           Kuroshitsuji: Kishuku Gakkou-hen                                          |   Last week   |        -        |
 | [53529](https://myanimelist.net/anime/53529) |    movie   |    -   |  light_novel |                                          Sword Art Online (Original Movie)                                          |   Last week   |        -        |
@@ -9,8 +13,8 @@
 | [57592](https://myanimelist.net/anime/57592) |     tv     |    -   |     manga    |                                              Dr. Stone: Science Future                                              |   Last week   |        -        |
 | [56967](https://myanimelist.net/anime/56967) |     tv     |    -   |   original   |                                                 Kamierabi 2nd Season                                                |   Last week   |        -        |
 | [54492](https://myanimelist.net/anime/54492) |     tv     |  2023  |  light_novel |                                                Kusuriya no Hitorigoto                                               |   Last week   |        -        |
-| [57616](https://myanimelist.net/anime/57616) |     tv     |    -   |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season                         |   Last week   |        -        |
-| [57658](https://myanimelist.net/anime/57658) |   unknown  |    -   |     manga    |                                           Jujutsu Kaisen: Shimetsu Kaiyuu                                           |   Last week   |        -        |
+| [57616](https://myanimelist.net/anime/57616) |     tv     |    -   |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season                         |  2 weeks ago  |        -        |
+| [57658](https://myanimelist.net/anime/57658) |   unknown  |    -   |     manga    |                                           Jujutsu Kaisen: Shimetsu Kaiyuu                                           |  2 weeks ago  |        -        |
 | [57066](https://myanimelist.net/anime/57066) |     tv     |    -   |  light_novel |                              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V                             |  2 weeks ago  |        -        |
 | [56876](https://myanimelist.net/anime/56876) |     tv     |    -   |  light_novel |                    Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season                   |  2 weeks ago  |        -        |
 | [53065](https://myanimelist.net/anime/53065) |   unknown  |    -   |     manga    |                                      Sono Bisque Doll wa Koi wo Suru (Zoku-hen)                                     |  2 weeks ago  |        -        |
@@ -43,7 +47,7 @@
 | [54898](https://myanimelist.net/anime/54898) |     tv     |  2023  |     manga    |                                             Bungou Stray Dogs 5th Season                                            |  6 months ago |        -        |
 | [54915](https://myanimelist.net/anime/54915) | tv_special |  2023  |     manga    |                                                5-toubun no Hanayome∽                                                |  6 months ago |        -        |
 | [54856](https://myanimelist.net/anime/54856) |     tv     |  2023  |     manga    |                                                   Horimiya: Piece                                                   |  6 months ago |        -        |
-| [55791](https://myanimelist.net/anime/55791) |     tv     |    -   |     manga    |                                                "Oshi no Ko" Season 2                                                |  6 months ago |        -        |
+| [55791](https://myanimelist.net/anime/55791) |     tv     |    -   |     manga    |                                                "Oshi no Ko" Season 2                                                |  7 months ago |        -        |
 | [11577](https://myanimelist.net/anime/11577) |    movie   |  2013  | visual_novel |                                      Steins;Gate Movie: Fuka Ryouiki no Déjà vu                                     |  8 months ago |        -        |
 | [34100](https://myanimelist.net/anime/34100) |    movie   |  2017  |     manga    |                                Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai                                |  8 months ago |        -        |
 | [46422](https://myanimelist.net/anime/46422) |     tv     |  2023  |     manga    |                                               Niehime to Kemono no Ou                                               |  8 months ago |        -        |
