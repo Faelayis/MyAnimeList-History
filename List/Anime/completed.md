@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [54103](https://myanimelist.net/anime/54103) |     tv     |  2023  |   6   |                                      Hikikomari Kyuuketsuki no Monmon                                     |   4 days ago  | 10/08/2023 |  01/10/2024 |
+| [54103](https://myanimelist.net/anime/54103) |     tv     |  2023  |   6   |                                      Hikikomari Kyuuketsuki no Monmon                                     |   5 days ago  | 10/08/2023 |  01/10/2024 |
 | [51009](https://myanimelist.net/anime/51009) |     tv     |  2023  |   8   |                                         Jujutsu Kaisen 2nd Season                                         |  2 weeks ago  | 07/08/2023 |  12/29/2023 |
 | [54362](https://myanimelist.net/anime/54362) |     tv     |  2023  |   6   |                                             Hametsu no Oukoku                                             |  3 weeks ago  | 10/16/2023 |  12/24/2023 |
 | [55644](https://myanimelist.net/anime/55644) |     tv     |  2023  |   7   |                                        Dr. Stone: New World Part 2                                        |  3 weeks ago  | 10/13/2023 |  12/23/2023 |
@@ -13,7 +13,7 @@
 | [56210](https://myanimelist.net/anime/56210) |    music   |  2023  |   6   |                                              Neoki Yashinoki                                              |  4 months ago | 08/30/2023 |  08/30/2023 |
 | [48585](https://myanimelist.net/anime/48585) |    movie   |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |  6 months ago | 07/19/2023 |  07/19/2023 |
 | [49618](https://myanimelist.net/anime/49618) |     ona    |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |  6 months ago | 01/27/2023 |  07/14/2023 |
-| [46569](https://myanimelist.net/anime/46569) |     tv     |  2023  |   7   |                                                 Jigokuraku                                                |  6 months ago | 04/02/2023 |  07/02/2023 |
+| [46569](https://myanimelist.net/anime/46569) |     tv     |  2023  |   7   |                                                 Jigokuraku                                                |  7 months ago | 04/02/2023 |  07/02/2023 |
 | [52211](https://myanimelist.net/anime/52211) |     tv     |  2023  |   6   |                                                   Mashle                                                  |  7 months ago | 04/08/2023 |  07/01/2023 |
 | [48549](https://myanimelist.net/anime/48549) |     tv     |  2023  |   7   |                                            Dr. Stone: New World                                           |  7 months ago | 04/06/2023 |  06/27/2023 |
 | [51958](https://myanimelist.net/anime/51958) |     tv     |  2023  |   8   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |  7 months ago | 04/06/2023 |  06/27/2023 |
@@ -25,7 +25,7 @@
 |  [9253](https://myanimelist.net/anime/9253)  |     tv     |  2011  |   8   |                                                Steins;Gate                                                |  9 months ago | 04/26/2023 |  04/28/2023 |
 | [39940](https://myanimelist.net/anime/39940) |     tv     |  2019  |   9   |                                      Shokugeki no Souma: Shin no Sara                                     |  9 months ago | 04/10/2023 |  04/16/2023 |
 | [55016](https://myanimelist.net/anime/55016) |    music   |  2023  |   9   |                                                    Idol                                                   |  9 months ago | 04/12/2023 |  04/12/2023 |
-| [36949](https://myanimelist.net/anime/36949) |     tv     |  2018  |   8   |                           Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen                           |  9 months ago | 04/09/2023 |  04/10/2023 |
+| [36949](https://myanimelist.net/anime/36949) |     tv     |  2018  |   8   |                           Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen                           | 10 months ago | 04/09/2023 |  04/10/2023 |
 | [35788](https://myanimelist.net/anime/35788) |     tv     |  2017  |   8   |                                      Shokugeki no Souma: San no Sara                                      | 10 months ago | 04/06/2023 |  04/09/2023 |
 | [50612](https://myanimelist.net/anime/50612) | tv_special |  2022  |   5   |                                             Dr. Stone: Ryuusui                                            | 10 months ago | 04/06/2023 |  04/06/2023 |
 | [48561](https://myanimelist.net/anime/48561) |    movie   |  2021  |   7   |                                           Jujutsu Kaisen 0 Movie                                          | 10 months ago | 04/06/2023 |  04/06/2023 |

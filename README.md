@@ -6,16 +6,16 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                                     Title                                                     | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                                            Ore dake Level Up na Ken                                           |   2/12  | 16 hours ago | 01/07/2024 |
-| [54492](https://myanimelist.net/anime/54492) |  tv  |  2023  |   -   |                                             Kusuriya no Hitorigoto                                            |  10/24  | 16 hours ago | 01/13/2024 |
-| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   -   |                                 Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                                 |   1/12  |   Yesterday  | 01/09/2024 |
-| [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   |                           Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su                          |  12/25  |   Yesterday  | 12/30/2023 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                   One Piece                                                   |  1088/? |   Yesterday  | 01/01/2013 |
-| [50803](https://myanimelist.net/anime/50803) |  tv  |  2024  |   -   |                                       Jaku-Chara Tomozaki-kun 2nd Stage                                       |   1/13  |   Yesterday  | 01/03/2024 |
-| [53488](https://myanimelist.net/anime/53488) |  tv  |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |  4 days ago  | 01/07/2024 |
-| [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                     Ao no Exorcist: Shimane Illuminati-hen                                    |   1/12  |  4 days ago  | 01/10/2024 |
-| [49889](https://myanimelist.net/anime/49889) |  tv  |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |  4 days ago  | 01/08/2024 |
-| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                                               Sousou no Frieren                                               |  16/28  |  2 weeks ago | 12/15/2023 |
+| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   -   |                                 Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                                 |   2/12  | 14 hours ago | 01/09/2024 |
+| [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                                            Ore dake Level Up na Ken                                           |   2/12  |   Yesterday  | 01/07/2024 |
+| [54492](https://myanimelist.net/anime/54492) |  tv  |  2023  |   -   |                                             Kusuriya no Hitorigoto                                            |  10/24  |   Yesterday  | 01/13/2024 |
+| [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   |                           Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su                          |  12/25  |  2 days ago  | 12/30/2023 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                   One Piece                                                   |  1088/? |  2 days ago  | 01/01/2013 |
+| [50803](https://myanimelist.net/anime/50803) |  tv  |  2024  |   -   |                                       Jaku-Chara Tomozaki-kun 2nd Stage                                       |   1/13  |  2 days ago  | 01/03/2024 |
+| [53488](https://myanimelist.net/anime/53488) |  tv  |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |  5 days ago  | 01/07/2024 |
+| [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                     Ao no Exorcist: Shimane Illuminati-hen                                    |   1/12  |  5 days ago  | 01/10/2024 |
+| [49889](https://myanimelist.net/anime/49889) |  tv  |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |  5 days ago  | 01/08/2024 |
+| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                                               Sousou no Frieren                                               |  16/28  |  3 weeks ago | 12/15/2023 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -23,7 +23,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [54103](https://myanimelist.net/anime/54103) |     tv     |  2023  |   6   |                                      Hikikomari Kyuuketsuki no Monmon                                     |   4 days ago  | 10/08/2023 |  01/10/2024 |
+| [54103](https://myanimelist.net/anime/54103) |     tv     |  2023  |   6   |                                      Hikikomari Kyuuketsuki no Monmon                                     |   5 days ago  | 10/08/2023 |  01/10/2024 |
 | [51009](https://myanimelist.net/anime/51009) |     tv     |  2023  |   8   |                                         Jujutsu Kaisen 2nd Season                                         |  2 weeks ago  | 07/08/2023 |  12/29/2023 |
 | [54362](https://myanimelist.net/anime/54362) |     tv     |  2023  |   6   |                                             Hametsu no Oukoku                                             |  3 weeks ago  | 10/16/2023 |  12/24/2023 |
 | [55644](https://myanimelist.net/anime/55644) |     tv     |  2023  |   7   |                                        Dr. Stone: New World Part 2                                        |  3 weeks ago  | 10/13/2023 |  12/23/2023 |
@@ -38,10 +38,10 @@ List Sync From MyAnimeList (update every day)
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                        |   1/12  |   Last month  | 12/16/2023 |
-| [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |   -   |                           Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                           |   7/12  |   4 days ago  | 12/06/2023 |
+| [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |   -   |                           Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                           |   7/12  |   5 days ago  | 12/06/2023 |
 | [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                 |   3/12  |   Last month  | 10/08/2023 |
 | [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                         Seiken Gakuin no Makentsukai                                         |   1/12  |  2 months ago | 10/05/2023 |
-| [54918](https://myanimelist.net/anime/54918) |    tv   |  2023  |   -   |                                         Tokyo Revengers: Tenjiku-hen                                         |   5/13  |   4 days ago  | 10/04/2023 |
+| [54918](https://myanimelist.net/anime/54918) |    tv   |  2023  |   -   |                                         Tokyo Revengers: Tenjiku-hen                                         |   5/13  |   5 days ago  | 10/04/2023 |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                       |   0/12  |  2 months ago | 07/15/2023 |
 
 
@@ -63,14 +63,14 @@ List Sync From MyAnimeList (update every day)
 
 #### Plan to Watch ``44.25%``
 
-|                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |     Updated    | Plan Start Date |
-| :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :------------: | :-------------: |
-| [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |  mixed_media |                                               Synduality: Noir Part 2                                               | 52 minutes ago |        -        |
-| [53026](https://myanimelist.net/anime/53026) |     tv     |  2023  |  mixed_media |                                                   Synduality: Noir                                                  | 52 minutes ago |        -        |
-| [33280](https://myanimelist.net/anime/33280) |    movie   |  2017  | 4_koma_manga |                                     Gochuumon wa Usagi desu ka?? Dear My Sister                                     |   2 days ago   |        -        |
-| [38337](https://myanimelist.net/anime/38337) |     tv     |  2020  | 4_koma_manga |                                          Gochuumon wa Usagi desu ka? Bloom                                          |   2 days ago   |        -        |
-| [21273](https://myanimelist.net/anime/21273) |     tv     |  2014  | 4_koma_manga |                                             Gochuumon wa Usagi desu ka?                                             |   2 days ago   |        -        |
-| [29787](https://myanimelist.net/anime/29787) |     tv     |  2015  | 4_koma_manga |                                             Gochuumon wa Usagi desu ka??                                            |   2 days ago   |        -        |
+|                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
+| :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |  mixed_media |                                               Synduality: Noir Part 2                                               |   Yesterday   |        -        |
+| [53026](https://myanimelist.net/anime/53026) |     tv     |  2023  |  mixed_media |                                                   Synduality: Noir                                                  |   Yesterday   |        -        |
+| [33280](https://myanimelist.net/anime/33280) |    movie   |  2017  | 4_koma_manga |                                     Gochuumon wa Usagi desu ka?? Dear My Sister                                     |   3 days ago  |        -        |
+| [38337](https://myanimelist.net/anime/38337) |     tv     |  2020  | 4_koma_manga |                                          Gochuumon wa Usagi desu ka? Bloom                                          |   3 days ago  |        -        |
+| [21273](https://myanimelist.net/anime/21273) |     tv     |  2014  | 4_koma_manga |                                             Gochuumon wa Usagi desu ka?                                             |   3 days ago  |        -        |
+| [29787](https://myanimelist.net/anime/29787) |     tv     |  2015  | 4_koma_manga |                                             Gochuumon wa Usagi desu ka??                                            |   3 days ago  |        -        |
 
 
 *[251 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
