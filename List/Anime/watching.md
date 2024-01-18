@@ -1,14 +1,14 @@
 # Watching (10)
 
-|                      id                      | Type | Season | Score |                                                     Title                                                     | Watched |    Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                                               Sousou no Frieren                                               |  18/28  | 13 hours ago | 12/15/2023 |
-| [54492](https://myanimelist.net/anime/54492) |  tv  |  2023  |   -   |                                             Kusuriya no Hitorigoto                                            |  14/24  |   Yesterday  | 01/13/2024 |
-| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   -   |                                 Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                                 |   2/12  |  2 days ago  | 01/09/2024 |
-| [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                                            Ore dake Level Up na Ken                                           |   2/12  |  3 days ago  | 01/07/2024 |
-| [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   |                           Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su                          |  12/25  |  4 days ago  | 12/30/2023 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                   One Piece                                                   |  1088/? |  4 days ago  | 01/01/2013 |
-| [50803](https://myanimelist.net/anime/50803) |  tv  |  2024  |   -   |                                       Jaku-Chara Tomozaki-kun 2nd Stage                                       |   1/13  |  4 days ago  | 01/03/2024 |
-| [53488](https://myanimelist.net/anime/53488) |  tv  |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |   Last week  | 01/07/2024 |
-| [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                     Ao no Exorcist: Shimane Illuminati-hen                                    |   1/12  |   Last week  | 01/10/2024 |
-| [49889](https://myanimelist.net/anime/49889) |  tv  |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |   Last week  | 01/08/2024 |
+|                      id                      | Type | Season | Score |                                                     Title                                                     | Watched |   Updated  | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :--------: | :--------: |
+| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                                               Sousou no Frieren                                               |  18/28  |  Yesterday | 12/15/2023 |
+| [54492](https://myanimelist.net/anime/54492) |  tv  |  2023  |   -   |                                             Kusuriya no Hitorigoto                                            |  14/24  | 2 days ago | 01/13/2024 |
+| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   -   |                                 Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                                 |   2/12  | 3 days ago | 01/09/2024 |
+| [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                                            Ore dake Level Up na Ken                                           |   2/12  | 4 days ago | 01/07/2024 |
+| [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   |                           Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su                          |  12/25  | 5 days ago | 12/30/2023 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                   One Piece                                                   |  1088/? | 5 days ago | 01/01/2013 |
+| [50803](https://myanimelist.net/anime/50803) |  tv  |  2024  |   -   |                                       Jaku-Chara Tomozaki-kun 2nd Stage                                       |   1/13  | 5 days ago | 01/03/2024 |
+| [53488](https://myanimelist.net/anime/53488) |  tv  |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |  Last week | 01/07/2024 |
+| [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                     Ao no Exorcist: Shimane Illuminati-hen                                    |   1/12  |  Last week | 01/10/2024 |
+| [49889](https://myanimelist.net/anime/49889) |  tv  |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |  Last week | 01/08/2024 |
