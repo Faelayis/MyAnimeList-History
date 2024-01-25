@@ -2,13 +2,13 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (9) ``3.47%``
+#### Watching (9) ``3.46%``
 
 |                      id                      | Type | Season | Score |                                                     Title                                                     | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :---------: | :--------: |
-| [54492](https://myanimelist.net/anime/54492) |  tv  |  2023  |   -   |                                             Kusuriya no Hitorigoto                                            |  15/24  |  3 days ago | 01/13/2024 |
-| [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                                            Ore dake Level Up na Ken                                           |   3/12  |  3 days ago | 01/07/2024 |
-| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                                               Sousou no Frieren                                               |  19/28  |  4 days ago | 12/15/2023 |
+| [54492](https://myanimelist.net/anime/54492) |  tv  |  2023  |   -   |                                             Kusuriya no Hitorigoto                                            |  15/24  |  4 days ago | 01/13/2024 |
+| [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                                            Ore dake Level Up na Ken                                           |   3/12  |  4 days ago | 01/07/2024 |
+| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                                               Sousou no Frieren                                               |  19/28  |  5 days ago | 12/15/2023 |
 | [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   -   |                                 Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                                 |   2/12  |  Last week  | 01/09/2024 |
 | [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   |                           Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su                          |  12/25  |  Last week  | 12/30/2023 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                                   One Piece                                                   |  1088/? |  Last week  | 01/01/2013 |
@@ -18,7 +18,7 @@ List Sync From MyAnimeList (update every day)
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``85.46%``
+#### Completed ``85.68%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -32,7 +32,7 @@ List Sync From MyAnimeList (update every day)
 
 *[448 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``11.38%``
+#### On Hold ``11.36%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                    | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -46,12 +46,12 @@ List Sync From MyAnimeList (update every day)
 
 *[80 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``4.21%``
+#### Dropped ``4.20%``
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                   Ao no Exorcist: Shimane Illuminati-hen                                  |   1/12  |   2 days ago  | 01/10/2024 |
-| [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   5   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |  3 months ago | 04/04/2023 |
+| [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                   Ao no Exorcist: Shimane Illuminati-hen                                  |   1/12  |   3 days ago  | 01/10/2024 |
+| [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   5   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |  4 months ago | 04/04/2023 |
 | [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   3/12  | 10 months ago | 04/03/2023 |
 | [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                                       Boku no Kokoro no Yabai Yatsu                                       |   2/12  | 10 months ago | 04/02/2023 |
 | [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |                           Campione! Matsurowanu Kamigami to Kamigoroshi no Maou                           |   1/13  | 11 months ago | 03/20/2023 |
@@ -60,16 +60,16 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``44.43%``
+#### Plan to Watch ``44.60%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [57864](https://myanimelist.net/anime/57864) |   unknown  |    -   |  light_novel |                                       Monogatari Series: Off & Monster Season                                       |   5 days ago  |        -        |
+| [33255](https://myanimelist.net/anime/33255) |     tv     |  2016  |     manga    |                                                 Saiki Kusuo no Ψ-nan                                                |  12 hours ago |        -        |
+| [57864](https://myanimelist.net/anime/57864) |   unknown  |    -   |  light_novel |                                       Monogatari Series: Off & Monster Season                                       |   6 days ago  |        -        |
 | [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |  mixed_media |                                               Synduality: Noir Part 2                                               |   Last week   |        -        |
 | [53026](https://myanimelist.net/anime/53026) |     tv     |  2023  |  mixed_media |                                                   Synduality: Noir                                                  |   Last week   |        -        |
 | [33280](https://myanimelist.net/anime/33280) |    movie   |  2017  | 4_koma_manga |                                     Gochuumon wa Usagi desu ka?? Dear My Sister                                     |   Last week   |        -        |
 | [38337](https://myanimelist.net/anime/38337) |     tv     |  2020  | 4_koma_manga |                                          Gochuumon wa Usagi desu ka? Bloom                                          |   Last week   |        -        |
-| [21273](https://myanimelist.net/anime/21273) |     tv     |  2014  | 4_koma_manga |                                             Gochuumon wa Usagi desu ka?                                             |   Last week   |        -        |
 
 
-*[252 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[253 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
