@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [54870](https://myanimelist.net/anime/54870) |    movie   |  2023  |   5   |                           Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai                           |   Yesterday   | 01/25/2024 |  01/25/2024 |
+| [54870](https://myanimelist.net/anime/54870) |    movie   |  2023  |   5   |                           Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai                           |   2 days ago  | 01/25/2024 |  01/25/2024 |
 | [54103](https://myanimelist.net/anime/54103) |     tv     |  2023  |   6   |                                      Hikikomari Kyuuketsuki no Monmon                                     |  2 weeks ago  | 10/08/2023 |  01/10/2024 |
 | [51009](https://myanimelist.net/anime/51009) |     tv     |  2023  |   8   |                                         Jujutsu Kaisen 2nd Season                                         |   Last month  | 07/08/2023 |  12/29/2023 |
 | [54362](https://myanimelist.net/anime/54362) |     tv     |  2023  |   6   |                                             Hametsu no Oukoku                                             |   Last month  | 10/16/2023 |  12/24/2023 |
@@ -54,7 +54,7 @@
 | [34604](https://myanimelist.net/anime/34604) |     ova    |  2017  |   7   |                                   UQ Holder! Mahou Sensei Negima! 2 OVA                                   | 11 months ago | 03/14/2023 |  03/14/2023 |
 | [33478](https://myanimelist.net/anime/33478) |     tv     |  2017  |   7   |                                     UQ Holder! Mahou Sensei Negima! 2                                     | 11 months ago | 03/13/2023 |  03/14/2023 |
 | [33003](https://myanimelist.net/anime/33003) |     tv     |  2016  |   8   |                                        Mahou Shoujo Ikusei Keikaku                                        | 11 months ago | 02/27/2023 |  02/28/2023 |
-| [50404](https://myanimelist.net/anime/50404) |     ona    |  2022  |   6   |                                      Xian Wang de Richang Shenghuo 3                                      | 11 months ago | 10/03/2022 |  02/26/2023 |
+| [50404](https://myanimelist.net/anime/50404) |     ona    |  2022  |   6   |                                      Xian Wang de Richang Shenghuo 3                                      |   Last year   | 10/03/2022 |  02/26/2023 |
 | [14513](https://myanimelist.net/anime/14513) |     tv     |  2012  |   6   |                                        Magi: The Labyrinth of Magic                                       |   Last year   | 02/23/2023 |  02/25/2023 |
 | [48316](https://myanimelist.net/anime/48316) |     tv     |  2022  |   8   |                                    Kage no Jitsuryokusha ni Naritakute!                                   |   Last year   | 10/06/2022 |  02/16/2023 |
 | [40776](https://myanimelist.net/anime/40776) |     tv     |  2020  |   7   |                                        Haikyuu!! To the Top Part 2                                        |   Last year   | 11/12/2022 |  01/31/2023 |
@@ -291,7 +291,7 @@
 | [10793](https://myanimelist.net/anime/10793) |     tv     |  2011  |   8   |                                                Guilty Crown                                               |  2 years ago  | 04/29/2021 |  04/29/2021 |
 | [12467](https://myanimelist.net/anime/12467) |     tv     |  2012  |   6   |                                              Nazo no Kanojo X                                             |  2 years ago  | 04/27/2021 |  04/27/2021 |
 | [13093](https://myanimelist.net/anime/13093) |     ova    |  2012  |   6   |                                  Nazo no Kanojo X: Nazo no Natsu Matsuri                                  |  2 years ago  | 04/27/2021 |  04/27/2021 |
-| [27775](https://myanimelist.net/anime/27775) |     tv     |  2015  |   7   |                                              Plastic Memories                                             |  2 years ago  | 04/25/2021 |  04/25/2021 |
+| [27775](https://myanimelist.net/anime/27775) |     tv     |  2015  |   7   |                                              Plastic Memories                                             |  3 years ago  | 04/25/2021 |  04/25/2021 |
 | [37141](https://myanimelist.net/anime/37141) |     tv     |  2018  |   6   |                                              Hataraku Saibou                                              |  3 years ago  | 03/11/2021 |  04/24/2021 |
 | [28701](https://myanimelist.net/anime/28701) |     tv     |  2015  |   5   |                             Fate/stay night: Unlimited Blade Works 2nd Season                             |   Last year   | 04/22/2021 |  04/22/2021 |
 | [22297](https://myanimelist.net/anime/22297) |     tv     |  2014  |   7   |                                   Fate/stay night: Unlimited Blade Works                                  |   Last year   | 04/21/2021 |  04/22/2021 |
