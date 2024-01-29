@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [54870](https://myanimelist.net/anime/54870) |    movie   |  2023  |   5   |                           Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai                           |   2 days ago  | 01/25/2024 |  01/25/2024 |
+| [54870](https://myanimelist.net/anime/54870) |    movie   |  2023  |   5   |                           Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai                           |   3 days ago  | 01/25/2024 |  01/25/2024 |
 | [54103](https://myanimelist.net/anime/54103) |     tv     |  2023  |   6   |                                      Hikikomari Kyuuketsuki no Monmon                                     |  2 weeks ago  | 10/08/2023 |  01/10/2024 |
 | [51009](https://myanimelist.net/anime/51009) |     tv     |  2023  |   8   |                                         Jujutsu Kaisen 2nd Season                                         |   Last month  | 07/08/2023 |  12/29/2023 |
 | [54362](https://myanimelist.net/anime/54362) |     tv     |  2023  |   6   |                                             Hametsu no Oukoku                                             |   Last month  | 10/16/2023 |  12/24/2023 |
