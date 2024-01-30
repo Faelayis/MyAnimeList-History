@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                                     Title                                                     | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :---------: | :--------: |
-| [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                                            Ore dake Level Up na Ken                                           |   4/12  |  Yesterday  | 01/07/2024 |
-| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                                               Sousou no Frieren                                               |  20/28  |  Yesterday  | 12/15/2023 |
+| [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                                            Ore dake Level Up na Ken                                           |   4/12  |  2 days ago | 01/07/2024 |
+| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                                               Sousou no Frieren                                               |  20/28  |  2 days ago | 12/15/2023 |
 | [54492](https://myanimelist.net/anime/54492) |  tv  |  2023  |   -   |                                             Kusuriya no Hitorigoto                                            |  15/24  |  Last week  | 01/13/2024 |
 | [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   -   |                                 Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                                 |   2/12  | 2 weeks ago | 01/09/2024 |
 | [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   |                           Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su                          |  12/25  | 2 weeks ago | 12/30/2023 |
@@ -22,7 +22,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [54870](https://myanimelist.net/anime/54870) |    movie   |  2023  |   5   |                           Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai                           |   3 days ago  | 01/25/2024 |  01/25/2024 |
+| [54870](https://myanimelist.net/anime/54870) |    movie   |  2023  |   5   |                           Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai                           |   4 days ago  | 01/25/2024 |  01/25/2024 |
 | [54103](https://myanimelist.net/anime/54103) |     tv     |  2023  |   6   |                                      Hikikomari Kyuuketsuki no Monmon                                     |  2 weeks ago  | 10/08/2023 |  01/10/2024 |
 | [51009](https://myanimelist.net/anime/51009) |     tv     |  2023  |   8   |                                         Jujutsu Kaisen 2nd Season                                         |   Last month  | 07/08/2023 |  12/29/2023 |
 | [54362](https://myanimelist.net/anime/54362) |     tv     |  2023  |   6   |                                             Hametsu no Oukoku                                             |   Last month  | 10/16/2023 |  12/24/2023 |
@@ -38,7 +38,7 @@ List Sync From MyAnimeList (update every day)
 | :------------------------------------------: | :-----: | :----: | :---: | :----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                        |   1/12  |   Last month  | 12/16/2023 |
 | [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |   -   |                           Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                           |   7/12  |  2 weeks ago  | 12/06/2023 |
-| [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                 |   3/12  |   Last month  | 10/08/2023 |
+| [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                 |   3/12  |  2 months ago | 10/08/2023 |
 | [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                         Seiken Gakuin no Makentsukai                                         |   1/12  |  3 months ago | 10/05/2023 |
 | [54918](https://myanimelist.net/anime/54918) |    tv   |  2023  |   -   |                                         Tokyo Revengers: Tenjiku-hen                                         |   5/13  |  2 weeks ago  | 10/04/2023 |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                       |   0/12  |  3 months ago | 07/15/2023 |
@@ -64,7 +64,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [33255](https://myanimelist.net/anime/33255) |     tv     |  2016  |     manga    |                                                 Saiki Kusuo no Ψ-nan                                                |   4 days ago  |        -        |
+| [33255](https://myanimelist.net/anime/33255) |     tv     |  2016  |     manga    |                                                 Saiki Kusuo no Ψ-nan                                                |   5 days ago  |        -        |
 | [57864](https://myanimelist.net/anime/57864) |   unknown  |    -   |  light_novel |                                       Monogatari Series: Off & Monster Season                                       |   Last week   |        -        |
 | [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |  mixed_media |                                               Synduality: Noir Part 2                                               |  2 weeks ago  |        -        |
 | [53026](https://myanimelist.net/anime/53026) |     tv     |  2023  |  mixed_media |                                                   Synduality: Noir                                                  |  2 weeks ago  |        -        |
