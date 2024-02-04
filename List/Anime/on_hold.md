@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |  9 hours ago  | 01/07/2024 |
+| [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |   Yesterday   | 01/07/2024 |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                         |   1/12  |   Last month  | 12/16/2023 |
 | [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |   -   |                            Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                           |   7/12  |  3 weeks ago  | 12/06/2023 |
 | [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                  |   3/12  |  2 months ago | 10/08/2023 |
@@ -42,7 +42,7 @@
 | [42994](https://myanimelist.net/anime/42994) |    tv   |  2022  |   -   |                                             Jashin-chan Dropkick X                                            |   8/12  |   Last year   | 07/15/2022 |
 | [49220](https://myanimelist.net/anime/49220) |    tv   |  2022  |   -   |                                                 Isekai Ojisan                                                 |   4/13  |   Last year   | 07/08/2022 |
 | [51096](https://myanimelist.net/anime/51096) |    tv   |  2022  |   -   |                           Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season                          |   1/13  |   Last year   | 07/05/2022 |
-| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |   -   |                                                   Yuru Yuri                                                   |   4/12  | 10 months ago | 06/30/2022 |
+| [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |   -   |                                                   Yuru Yuri                                                   |   4/12  | 11 months ago | 06/30/2022 |
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                                                   Fate/Zero                                                   |   2/13  |   Last year   | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                                             Madan no Ou to Vanadis                                            |   6/13  | 11 months ago | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                                                Machikado Mazoku                                               |   4/12  |  3 months ago | 04/19/2022 |
