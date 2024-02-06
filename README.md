@@ -6,9 +6,9 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                            Title                           | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------: | :-----: | :---------: | :--------: |
-| [52741](https://myanimelist.net/anime/52741) |  tv  |  2023  |   -   |                        Undead Unluck                       |  10/24  |  Yesterday  | 02/04/2024 |
-| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   -   |        Mashle: Shinkakusha Kouho Senbatsu Shiken-hen       |   4/12  |  2 days ago | 01/09/2024 |
-| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                      Sousou no Frieren                     |  21/28  |  2 days ago | 12/15/2023 |
+| [52741](https://myanimelist.net/anime/52741) |  tv  |  2023  |   -   |                        Undead Unluck                       |  10/24  |  2 days ago | 02/04/2024 |
+| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   -   |        Mashle: Shinkakusha Kouho Senbatsu Shiken-hen       |   4/12  |  3 days ago | 01/09/2024 |
+| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                      Sousou no Frieren                     |  21/28  |  3 days ago | 12/15/2023 |
 | [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                  Ore dake Level Up na Ken                  |   4/12  |  Last week  | 01/07/2024 |
 | [54492](https://myanimelist.net/anime/54492) |  tv  |  2023  |   -   |                   Kusuriya no Hitorigoto                   |  15/24  | 2 weeks ago | 01/13/2024 |
 | [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   | Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su |  12/25  | 3 weeks ago | 12/30/2023 |
@@ -36,7 +36,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |   2 days ago  | 01/07/2024 |
+| [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |   3 days ago  | 01/07/2024 |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                         |   1/12  |   Last month  | 12/16/2023 |
 | [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |   -   |                            Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                           |   7/12  |  3 weeks ago  | 12/06/2023 |
 | [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                  |   3/12  |  2 months ago | 10/08/2023 |
@@ -64,11 +64,11 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [52420](https://myanimelist.net/anime/52420) |     pv     |  2022  |     game     |                                   Blue Archive: 1.5-shuunen Kinen Short Animation                                   |   4 days ago  |        -        |
-| [53670](https://myanimelist.net/anime/53670) |     ona    |  2022  |     game     |                                         Blue Archive: Beautiful Day Dreamer                                         |   4 days ago  |        -        |
-| [54309](https://myanimelist.net/anime/54309) |     tv     |  2024  |     game     |                                              Blue Archive the Animation                                             |   4 days ago  |        -        |
-| [48824](https://myanimelist.net/anime/48824) |     pv     |  2021  |     game     |                                                   Blue Archive PVs                                                  |   4 days ago  |        -        |
-| [57980](https://myanimelist.net/anime/57980) |     cm     |  2024  |   original   |                             Ayataka Spy x Family Movie Campaign Ayataka de Hotto Hitoiki                            |   5 days ago  |        -        |
+| [52420](https://myanimelist.net/anime/52420) |     pv     |  2022  |     game     |                                   Blue Archive: 1.5-shuunen Kinen Short Animation                                   |   5 days ago  |        -        |
+| [53670](https://myanimelist.net/anime/53670) |     ona    |  2022  |     game     |                                         Blue Archive: Beautiful Day Dreamer                                         |   5 days ago  |        -        |
+| [54309](https://myanimelist.net/anime/54309) |     tv     |  2024  |     game     |                                              Blue Archive the Animation                                             |   5 days ago  |        -        |
+| [48824](https://myanimelist.net/anime/48824) |     pv     |  2021  |     game     |                                                   Blue Archive PVs                                                  |   5 days ago  |        -        |
+| [57980](https://myanimelist.net/anime/57980) |     cm     |  2024  |   original   |                             Ayataka Spy x Family Movie Campaign Ayataka de Hotto Hitoiki                            |   6 days ago  |        -        |
 | [33255](https://myanimelist.net/anime/33255) |     tv     |  2016  |     manga    |                                                 Saiki Kusuo no Ψ-nan                                                |   Last week   |        -        |
 
 
