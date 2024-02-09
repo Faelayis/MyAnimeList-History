@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [54870](https://myanimelist.net/anime/54870) |    movie   |  2023  |   5   |                           Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai                           |   Last week   | 01/25/2024 |  01/25/2024 |
+| [54870](https://myanimelist.net/anime/54870) |    movie   |  2023  |   5   |                           Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai                           |  2 weeks ago  | 01/25/2024 |  01/25/2024 |
 | [54103](https://myanimelist.net/anime/54103) |     tv     |  2023  |   6   |                                      Hikikomari Kyuuketsuki no Monmon                                     |   Last month  | 10/08/2023 |  01/10/2024 |
 | [51009](https://myanimelist.net/anime/51009) |     tv     |  2023  |   8   |                                         Jujutsu Kaisen 2nd Season                                         |   Last month  | 07/08/2023 |  12/29/2023 |
 | [54362](https://myanimelist.net/anime/54362) |     tv     |  2023  |   6   |                                             Hametsu no Oukoku                                             |   Last month  | 10/16/2023 |  12/24/2023 |
@@ -77,9 +77,9 @@
 |  [9260](https://myanimelist.net/anime/9260)  |    movie   |  2016  |   7   |                                       Kizumonogatari I: Tekketsu-hen                                      |   Last year   | 11/26/2022 |  12/09/2022 |
 | [42916](https://myanimelist.net/anime/42916) |    movie   |  2021  |   5   |                       Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria                       |   Last year   | 11/28/2022 |  11/28/2022 |
 | [32268](https://myanimelist.net/anime/32268) |     ona    |  2016  |   5   |                                              Koyomimonogatari                                             |   Last year   | 11/26/2022 |  11/26/2022 |
-| [31181](https://myanimelist.net/anime/31181) |     tv     |  2015  |   7   |                                              Owarimonogatari                                              |  2 weeks ago  | 11/26/2022 |  11/26/2022 |
+| [31181](https://myanimelist.net/anime/31181) |     tv     |  2015  |   7   |                                              Owarimonogatari                                              |  3 weeks ago  | 11/26/2022 |  11/26/2022 |
 | [21855](https://myanimelist.net/anime/21855) | tv_special |  2014  |   4   |                                               Hanamonogatari                                              |   Last year   | 11/24/2022 |  11/24/2022 |
-| [28025](https://myanimelist.net/anime/28025) | tv_special |  2014  |   8   |                                              Tsukimonogatari                                              |  2 weeks ago  | 11/24/2022 |  11/24/2022 |
+| [28025](https://myanimelist.net/anime/28025) | tv_special |  2014  |   8   |                                              Tsukimonogatari                                              |  3 weeks ago  | 11/24/2022 |  11/24/2022 |
 | [17074](https://myanimelist.net/anime/17074) |     tv     |  2013  |   10  |                                      Monogatari Series: Second Season                                     |   Last year   | 11/20/2022 |  11/24/2022 |
 | [11597](https://myanimelist.net/anime/11597) |     tv     |  2012  |   7   |                                               Nisemonogatari                                              |   Last year   | 11/19/2022 |  11/20/2022 |
 |  [5081](https://myanimelist.net/anime/5081)  |     tv     |  2009  |   7   |                                               Bakemonogatari                                              |   Last year   | 11/18/2022 |  11/19/2022 |
