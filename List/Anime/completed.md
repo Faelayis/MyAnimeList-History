@@ -1,4 +1,4 @@
-# Completed (455)
+# Completed (454)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -10,7 +10,7 @@
 | [54595](https://myanimelist.net/anime/54595) |     tv     |  2023  |   7   |                              Kage no Jitsuryokusha ni Naritakute! 2nd Season                              |  2 months ago | 10/04/2023 |  12/23/2023 |
 | [27525](https://myanimelist.net/anime/27525) |     tv     |  2015  |   7   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |  2 months ago | 06/11/2023 |  12/17/2023 |
 | [48583](https://myanimelist.net/anime/48583) |     tv     |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |  3 months ago | 01/28/2022 |  11/08/2023 |
-| [37475](https://myanimelist.net/anime/37475) |     tv     |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |  3 months ago | 10/29/2023 |  10/29/2023 |
+| [37475](https://myanimelist.net/anime/37475) |     tv     |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |  4 months ago | 10/29/2023 |  10/29/2023 |
 | [56210](https://myanimelist.net/anime/56210) |    music   |  2023  |   6   |                                              Neoki Yashinoki                                              |  6 months ago | 08/30/2023 |  08/30/2023 |
 | [48585](https://myanimelist.net/anime/48585) |    movie   |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |  7 months ago | 07/19/2023 |  07/19/2023 |
 | [49618](https://myanimelist.net/anime/49618) |     ona    |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |  7 months ago | 01/27/2023 |  07/14/2023 |
@@ -19,7 +19,7 @@
 | [48549](https://myanimelist.net/anime/48549) |     tv     |  2023  |   7   |                                            Dr. Stone: New World                                           |  8 months ago | 04/06/2023 |  06/27/2023 |
 | [51958](https://myanimelist.net/anime/51958) |     tv     |  2023  |   8   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |  8 months ago | 04/06/2023 |  06/27/2023 |
 | [51019](https://myanimelist.net/anime/51019) |     tv     |  2023  |   8   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |  8 months ago | 04/09/2023 |  06/20/2023 |
-| [20509](https://myanimelist.net/anime/20509) |     tv     |  2014  |   8   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |  8 months ago | 05/18/2023 |  06/11/2023 |
+| [20509](https://myanimelist.net/anime/20509) |     tv     |  2014  |   8   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |  9 months ago | 05/18/2023 |  06/11/2023 |
 | [14829](https://myanimelist.net/anime/14829) |     tv     |  2013  |   8   |                                       Fate/kaleid liner Prisma☆Illya                                      |  9 months ago | 05/18/2023 |  05/18/2023 |
 | [51213](https://myanimelist.net/anime/51213) |     tv     |  2022  |   7   |        Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu       | 10 months ago | 04/29/2023 |  05/01/2023 |
 | [10863](https://myanimelist.net/anime/10863) |   special  |  2012  |   8   |                                   Steins;Gate: Oukoubakko no Poriomania                                   | 10 months ago | 04/28/2023 |  04/28/2023 |
@@ -129,7 +129,7 @@
 | [50549](https://myanimelist.net/anime/50549) |     ona    |  2022  |   6   |                                                   Bubble                                                  |   Last year   | 05/03/2022 |  05/03/2022 |
 | [31637](https://myanimelist.net/anime/31637) |     tv     |  2016  |   7   |                             Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2                             |   Last year   | 04/20/2022 |  04/22/2022 |
 | [28907](https://myanimelist.net/anime/28907) |     tv     |  2015  |   8   |                                 Gate: Jieitai Kanochi nite, Kaku Tatakaeri                                |   Last year   | 04/20/2022 |  04/20/2022 |
-| [30296](https://myanimelist.net/anime/30296) |     tv     |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         |   Last year   | 04/18/2022 |  04/18/2022 |
+| [30296](https://myanimelist.net/anime/30296) |     tv     |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         |  2 years ago  | 04/18/2022 |  04/18/2022 |
 | [13403](https://myanimelist.net/anime/13403) |   special  |  2012  |   7   |                           Inu x Boku SS: Miketsukami-kun Henka/Switch/Omamagoto                           |  2 years ago  | 04/15/2022 |  04/15/2022 |
 | [11013](https://myanimelist.net/anime/11013) |     tv     |  2012  |   8   |                                               Inu x Boku SS                                               |   Last year   | 04/14/2022 |  04/15/2022 |
 | [32827](https://myanimelist.net/anime/32827) |     ona    |  2018  |   7   |                                              B: The Beginning                                             |  2 years ago  | 04/12/2022 |  04/13/2022 |
@@ -171,7 +171,6 @@
 | [35507](https://myanimelist.net/anime/35507) |     tv     |  2017  |   8   |                              Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e                              |  2 years ago  | 02/01/2022 |  02/02/2022 |
 | [32949](https://myanimelist.net/anime/32949) |     tv     |  2017  |   5   |                                               Kuzu no Honkai                                              |  2 years ago  | 05/31/2021 |  02/02/2022 |
 | [13055](https://myanimelist.net/anime/13055) |     ova    |  2012  |   6   |                                                Sankarea OVA                                               |  2 years ago  | 01/30/2022 |  01/30/2022 |
-| [11499](https://myanimelist.net/anime/11499) |     tv     |  2012  |   8   |                                                  Sankarea                                                 |  2 years ago  | 01/29/2022 |  01/30/2022 |
 | [14749](https://myanimelist.net/anime/14749) |     tv     |  2013  |   9   |                               Ore no Kanojo to Osananajimi ga Shuraba Sugiru                              |  2 years ago  | 01/29/2022 |  01/29/2022 |
 | [40028](https://myanimelist.net/anime/40028) |     tv     |  2021  |   6   |                                    Shingeki no Kyojin: The Final Season                                   |  2 years ago  | 01/28/2022 |  01/28/2022 |
 | [38524](https://myanimelist.net/anime/38524) |     tv     |  2019  |   8   |                                     Shingeki no Kyojin Season 3 Part 2                                    |  2 years ago  | 01/27/2022 |  01/28/2022 |

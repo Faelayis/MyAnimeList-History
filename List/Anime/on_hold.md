@@ -1,4 +1,4 @@
-# On Hold (87)
+# On Hold (86)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -18,7 +18,6 @@
 | [14199](https://myanimelist.net/anime/14199) |    tv   |  2012  |   -   |                                 Oniichan dakedo Ai sae Areba Kankeinai yo ne!                                 |   9/12  |  4 months ago | 04/21/2023 |
 | [35078](https://myanimelist.net/anime/35078) |    tv   |  2018  |   -   |                                               Mitsuboshi Colors                                               |   1/12  |  9 months ago | 04/20/2023 |
 | [35905](https://myanimelist.net/anime/35905) |    tv   |  2018  |   -   |                                              Ryuuou no Oshigoto!                                              |   1/12  |  9 months ago | 04/20/2023 |
-| [10110](https://myanimelist.net/anime/10110) |    tv   |  2011  |   6   |                                                  Mayo Chiki!                                                  |   8/13  |  9 months ago | 04/14/2023 |
 | [52034](https://myanimelist.net/anime/52034) |    tv   |  2023  |   8   |                                                  "Oshi no Ko"                                                 |   6/11  |  4 months ago | 04/12/2023 |
 | [50307](https://myanimelist.net/anime/50307) |    tv   |  2023  |   7   |                                           Tonikaku Kawaii 2nd Season                                          |   4/12  |  6 months ago | 04/08/2023 |
 | [53393](https://myanimelist.net/anime/53393) |    tv   |  2023  |   6   |                                               Tengoku Daimakyou                                               |   6/13  |  7 months ago | 04/02/2023 |
