@@ -6,9 +6,9 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                            Title                           | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------: | :-----: | :---------: | :--------: |
-| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   8   |        Mashle: Shinkakusha Kouho Senbatsu Shiken-hen       |   6/12  |  5 days ago | 01/09/2024 |
-| [52741](https://myanimelist.net/anime/52741) |  tv  |  2023  |   -   |                        Undead Unluck                       |  10/24  |  6 days ago | 02/04/2024 |
-| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                      Sousou no Frieren                     |  23/28  |  6 days ago | 12/15/2023 |
+| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                      Sousou no Frieren                     |  24/28  | 5 hours ago | 12/15/2023 |
+| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   8   |        Mashle: Shinkakusha Kouho Senbatsu Shiken-hen       |   6/12  |  6 days ago | 01/09/2024 |
+| [52741](https://myanimelist.net/anime/52741) |  tv  |  2023  |   -   |                        Undead Unluck                       |  10/24  |  Last week  | 02/04/2024 |
 | [50803](https://myanimelist.net/anime/50803) |  tv  |  2024  |   -   |              Jaku-Chara Tomozaki-kun 2nd Stage             |   2/13  | 2 weeks ago | 01/03/2024 |
 | [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   | Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su |  13/25  | 2 weeks ago | 12/30/2023 |
 | [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                  Ore dake Level Up na Ken                  |   4/12  | 3 weeks ago | 01/07/2024 |
@@ -36,7 +36,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |  2 weeks ago  | 01/07/2024 |
+| [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |  3 weeks ago  | 01/07/2024 |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                         |   1/12  |  2 months ago | 12/16/2023 |
 | [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |   -   |                            Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                           |   7/12  |   Last month  | 12/06/2023 |
 | [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                  |   3/12  |  2 months ago | 10/08/2023 |
@@ -64,7 +64,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [55129](https://myanimelist.net/anime/55129) |     tv     |  2024  |     manga    |                                          Oroka na Tenshi wa Akuma to Odoru                                          |   2 days ago  |        -        |
+| [55129](https://myanimelist.net/anime/55129) |     tv     |  2024  |     manga    |                                          Oroka na Tenshi wa Akuma to Odoru                                          |   3 days ago  |        -        |
 | [30196](https://myanimelist.net/anime/30196) | tv_special |  2015  |     manga    |                                               Tsubasa to Hotaru (2015)                                              |  2 weeks ago  |        -        |
 | [52420](https://myanimelist.net/anime/52420) |     pv     |  2022  |     game     |                                   Blue Archive: 1.5-shuunen Kinen Short Animation                                   |  3 weeks ago  |        -        |
 | [53670](https://myanimelist.net/anime/53670) |     ona    |  2022  |     game     |                                         Blue Archive: Beautiful Day Dreamer                                         |  3 weeks ago  |        -        |

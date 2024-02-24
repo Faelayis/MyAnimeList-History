@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [55129](https://myanimelist.net/anime/55129) |     tv     |  2024  |     manga    |                                          Oroka na Tenshi wa Akuma to Odoru                                          |   2 days ago  |        -        |
+| [55129](https://myanimelist.net/anime/55129) |     tv     |  2024  |     manga    |                                          Oroka na Tenshi wa Akuma to Odoru                                          |   3 days ago  |        -        |
 | [30196](https://myanimelist.net/anime/30196) | tv_special |  2015  |     manga    |                                               Tsubasa to Hotaru (2015)                                              |  2 weeks ago  |        -        |
 | [52420](https://myanimelist.net/anime/52420) |     pv     |  2022  |     game     |                                   Blue Archive: 1.5-shuunen Kinen Short Animation                                   |  3 weeks ago  |        -        |
 | [53670](https://myanimelist.net/anime/53670) |     ona    |  2022  |     game     |                                         Blue Archive: Beautiful Day Dreamer                                         |  3 weeks ago  |        -        |
