@@ -1,7 +1,8 @@
-# Completed (454)
+# Completed (455)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [53026](https://myanimelist.net/anime/53026) |     tv     |  2023  |   8   |                                              Synduality: Noir                                             |  2 hours ago  | 02/27/2024 |  02/27/2024 |
 | [54870](https://myanimelist.net/anime/54870) |    movie   |  2023  |   5   |                           Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai                           |   Last month  | 01/25/2024 |  01/25/2024 |
 | [54103](https://myanimelist.net/anime/54103) |     tv     |  2023  |   6   |                                      Hikikomari Kyuuketsuki no Monmon                                     |   Last month  | 10/08/2023 |  01/10/2024 |
 | [51009](https://myanimelist.net/anime/51009) |     tv     |  2023  |   8   |                                         Jujutsu Kaisen 2nd Season                                         |  2 months ago | 07/08/2023 |  12/29/2023 |
@@ -266,7 +267,7 @@
 | [33513](https://myanimelist.net/anime/33513) |    movie   |  2016  |   6   |                                   Ansatsu Kyoushitsu: 365-nichi no Jikan                                  |  2 years ago  | 06/13/2021 |  06/13/2021 |
 |  [1195](https://myanimelist.net/anime/1195)  |     tv     |  2006  |   9   |                                              Zero no Tsukaima                                             |  2 years ago  | 06/12/2021 |  06/13/2021 |
 | [16762](https://myanimelist.net/anime/16762) |     ova    |  2013  |   6   |                                            Mirai Nikki: Redial                                            |  2 years ago  | 06/12/2021 |  06/12/2021 |
-| [10620](https://myanimelist.net/anime/10620) |     tv     |  2011  |   8   |                                              Mirai Nikki (TV)                                             |  2 years ago  | 06/11/2021 |  06/12/2021 |
+| [10620](https://myanimelist.net/anime/10620) |     tv     |  2011  |   8   |                                              Mirai Nikki (TV)                                             |  5 hours ago  | 06/11/2021 |  06/12/2021 |
 | [17895](https://myanimelist.net/anime/17895) |     tv     |  2013  |   9   |                                                Golden Time                                                |  2 years ago  | 06/04/2021 |  06/05/2021 |
 | [25397](https://myanimelist.net/anime/25397) |     tv     |  2015  |   6   |                                                Absolute Duo                                               |  2 years ago  |      -     |  06/05/2021 |
 | [12175](https://myanimelist.net/anime/12175) |     tv     |  2012  |   6   |                                         Koi to Senkyo to Chocolate                                        |  2 years ago  | 06/03/2021 |  06/03/2021 |
@@ -293,7 +294,7 @@
 | [27775](https://myanimelist.net/anime/27775) |     tv     |  2015  |   7   |                                              Plastic Memories                                             |  3 years ago  | 04/25/2021 |  04/25/2021 |
 | [37141](https://myanimelist.net/anime/37141) |     tv     |  2018  |   6   |                                              Hataraku Saibou                                              |  3 years ago  | 03/11/2021 |  04/24/2021 |
 | [28701](https://myanimelist.net/anime/28701) |     tv     |  2015  |   5   |                             Fate/stay night: Unlimited Blade Works 2nd Season                             |   Last year   | 04/22/2021 |  04/22/2021 |
-| [22297](https://myanimelist.net/anime/22297) |     tv     |  2014  |   7   |                                   Fate/stay night: Unlimited Blade Works                                  |   Last year   | 04/21/2021 |  04/22/2021 |
+| [22297](https://myanimelist.net/anime/22297) |     tv     |  2014  |   7   |                                   Fate/stay night: Unlimited Blade Works                                  |  2 years ago  | 04/21/2021 |  04/22/2021 |
 | [39534](https://myanimelist.net/anime/39534) |     tv     |  2020  |   10  |                                         Jibaku Shounen Hanako-kun                                         |   Last year   | 04/14/2021 |  04/15/2021 |
 | [37210](https://myanimelist.net/anime/37210) |     tv     |  2018  |   6   |                               Isekai Maou to Shoukan Shoujo no Dorei Majutsu                              |  3 years ago  | 04/10/2021 |  04/13/2021 |
 | [39196](https://myanimelist.net/anime/39196) |     tv     |  2019  |   7   |                                          Mairimashita! Iruma-kun                                          |  3 years ago  | 04/08/2021 |  04/10/2021 |
