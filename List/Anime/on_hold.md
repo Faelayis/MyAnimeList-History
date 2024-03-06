@@ -1,15 +1,16 @@
-# On Hold (86)
+# On Hold (87)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
+| [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |  9 hours ago  | 01/08/2024 |
 | [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |   Last month  | 01/07/2024 |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                         |   1/12  |  2 months ago | 12/16/2023 |
-| [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |   -   |                            Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                           |   7/12  |   Last month  | 12/06/2023 |
+| [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |   -   |                            Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                           |   7/12  |  2 months ago | 12/06/2023 |
 | [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                  |   3/12  |  3 months ago | 10/08/2023 |
 | [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                          Seiken Gakuin no Makentsukai                                         |   1/12  |  4 months ago | 10/05/2023 |
-| [54918](https://myanimelist.net/anime/54918) |    tv   |  2023  |   -   |                                          Tokyo Revengers: Tenjiku-hen                                         |   5/13  |   Last month  | 10/04/2023 |
+| [54918](https://myanimelist.net/anime/54918) |    tv   |  2023  |   -   |                                          Tokyo Revengers: Tenjiku-hen                                         |   5/13  |  2 months ago | 10/04/2023 |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                        |   0/12  |  4 months ago | 07/15/2023 |
-| [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                      |   2/12  |  6 months ago | 07/11/2023 |
+| [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                      |   2/12  |  7 months ago | 07/11/2023 |
 | [54112](https://myanimelist.net/anime/54112) |    tv   |  2023  |   -   |                               Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                              |   7/12  |  5 months ago | 07/09/2023 |
 | [51498](https://myanimelist.net/anime/51498) |    tv   |  2023  |   -   |                                           Masamune-kun no Revenge R                                           |   1/12  |  5 months ago | 07/04/2023 |
 | [54234](https://myanimelist.net/anime/54234) |    tv   |  2023  |   -   |                                        Suki na Ko ga Megane wo Wasureta                                       |   2/13  |  4 months ago | 07/04/2023 |
@@ -54,7 +55,7 @@
 | [40507](https://myanimelist.net/anime/40507) |    tv   |  2022  |   -   |                                Arifureta Shokugyou de Sekai Saikyou 2nd Season                                |   6/12  |  2 years ago  | 01/14/2022 |
 | [49721](https://myanimelist.net/anime/49721) |    tv   |  2022  |   -   |                                         Karakai Jouzu no Takagi-san 3                                         |   2/12  |  2 years ago  | 01/08/2022 |
 |  [2104](https://myanimelist.net/anime/2104)  |    tv   |  2007  |   -   |                                                Seto no Hanayome                                               |   8/26  |  2 years ago  | 01/05/2022 |
-| [48824](https://myanimelist.net/anime/48824) |    pv   |  2021  |   7   |                                                Blue Archive PVs                                               |   5/?   |   6 days ago  | 01/01/2022 |
+| [48824](https://myanimelist.net/anime/48824) |    pv   |  2021  |   7   |                                                Blue Archive PVs                                               |   5/?   |   Last week   | 01/01/2022 |
 | [44406](https://myanimelist.net/anime/44406) |   ona   |  2021  |   -   |                                                Da Wang Rao Ming                                               |   5/12  |  2 years ago  | 12/19/2021 |
 | [11759](https://myanimelist.net/anime/11759) |    tv   |  2012  |   -   |                                                  Accel World                                                  |  10/24  |  2 years ago  | 12/16/2021 |
 | [40834](https://myanimelist.net/anime/40834) |    tv   |  2021  |   -   |                                                 Ousama Ranking                                                |  14/23  |  2 years ago  | 12/11/2021 |
