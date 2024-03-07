@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |  9 hours ago  | 01/08/2024 |
+| [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |   Yesterday   | 01/08/2024 |
 | [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |   Last month  | 01/07/2024 |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                         |   1/12  |  2 months ago | 12/16/2023 |
 | [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |   -   |                            Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                           |   7/12  |  2 months ago | 12/06/2023 |
@@ -24,7 +24,7 @@
 | [53126](https://myanimelist.net/anime/53126) |    tv   |  2023  |   6   |                                       Yamada-kun to Lv999 no Koi wo Suru                                      |   2/13  |  6 months ago | 04/02/2023 |
 |  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  |   -   |                                                   Amagami SS                                                  |   7/25  |   Last year   | 03/23/2023 |
 | [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |   -   |                                      Ijiranaide, Nagatoro-san 2nd Attack                                      |   2/12  |   Last year   | 03/20/2023 |
-| [48553](https://myanimelist.net/anime/48553) |    tv   |  2022  |   -   |                                           Akebi-chan no Sailor-fuku                                           |   3/12  | 11 months ago | 03/13/2023 |
+| [48553](https://myanimelist.net/anime/48553) |    tv   |  2022  |   -   |                                           Akebi-chan no Sailor-fuku                                           |   3/12  |   Last year   | 03/13/2023 |
 | [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |   -   |                                              Mahoutsukai no Yome                                              |   6/24  |  2 months ago | 03/01/2023 |
 | [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |   -   |                                               Amaama to Inazuma                                               |   3/12  |   Last year   | 01/12/2023 |
 | [41514](https://myanimelist.net/anime/41514) |    tv   |  2023  |   6   |                      Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                     |  10/12  | 10 months ago | 01/12/2023 |
@@ -59,7 +59,7 @@
 | [44406](https://myanimelist.net/anime/44406) |   ona   |  2021  |   -   |                                                Da Wang Rao Ming                                               |   5/12  |  2 years ago  | 12/19/2021 |
 | [11759](https://myanimelist.net/anime/11759) |    tv   |  2012  |   -   |                                                  Accel World                                                  |  10/24  |  2 years ago  | 12/16/2021 |
 | [40834](https://myanimelist.net/anime/40834) |    tv   |  2021  |   -   |                                                 Ousama Ranking                                                |  14/23  |  2 years ago  | 12/11/2021 |
-| [32867](https://myanimelist.net/anime/32867) |    tv   |  2016  |   -   |                                          Bungou Stray Dogs 2nd Season                                         |   4/12  | 11 months ago | 10/25/2021 |
+| [32867](https://myanimelist.net/anime/32867) |    tv   |  2016  |   -   |                                          Bungou Stray Dogs 2nd Season                                         |   4/12  |   Last year   | 10/25/2021 |
 | [44961](https://myanimelist.net/anime/44961) |    tv   |  2021  |   -   |                                                  Platinum End                                                 |   5/24  |  2 years ago  | 10/23/2021 |
 |  [2966](https://myanimelist.net/anime/2966)  |    tv   |  2008  |   -   |                                             Ookami to Koushinryou                                             |   2/13  |  2 years ago  | 10/20/2021 |
 | [42205](https://myanimelist.net/anime/42205) |    tv   |  2021  |   -   |                                               Shaman King (2021)                                              |   1/52  |  2 years ago  | 10/14/2021 |
