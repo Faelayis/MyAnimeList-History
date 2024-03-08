@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |   Yesterday   | 01/08/2024 |
+| [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |   2 days ago  | 01/08/2024 |
 | [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |   Last month  | 01/07/2024 |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                         |   1/12  |  2 months ago | 12/16/2023 |
 | [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |   -   |                            Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                           |   7/12  |  2 months ago | 12/06/2023 |
@@ -32,7 +32,7 @@
 | [44204](https://myanimelist.net/anime/44204) |    tv   |  2023  |   -   |                                             Kyokou Suiri Season 2                                             |   1/12  |   Last year   | 01/09/2023 |
 | [48417](https://myanimelist.net/anime/48417) |    tv   |  2023  |   -   |  Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II |   3/12  |   Last year   | 01/08/2023 |
 | [50205](https://myanimelist.net/anime/50205) |    tv   |  2022  |   -   |                                            Arknights: Reimei Zensou                                           |   3/8   |   Last year   | 11/06/2022 |
-| [49596](https://myanimelist.net/anime/49596) |    tv   |  2022  |   -   |                                                   Blue Lock                                                   |  14/24  |  3 months ago | 10/16/2022 |
+| [49596](https://myanimelist.net/anime/49596) |    tv   |  2022  |   -   |                                                   Blue Lock                                                   |  14/24  |  4 months ago | 10/16/2022 |
 | [50710](https://myanimelist.net/anime/50710) |    tv   |  2022  |   6   |                                             Urusei Yatsura (2022)                                             |   9/23  |   Last year   | 10/14/2022 |
 |  [5114](https://myanimelist.net/anime/5114)  |    tv   |  2009  |   -   |                                        Fullmetal Alchemist: Brotherhood                                       |  47/64  |   Last year   | 10/07/2022 |
 | [52046](https://myanimelist.net/anime/52046) |    tv   |  2022  |   -   |               Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau               |   2/13  |   Last year   | 10/05/2022 |

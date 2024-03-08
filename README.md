@@ -4,17 +4,17 @@ List Sync From MyAnimeList (update every day)
 
 #### Watching (9) ``3.37%``
 
-|                      id                      | Type | Season | Score |                            Title                           | Watched |    Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [56731](https://myanimelist.net/anime/56731) |  tv  |  2024  |   8   |                   Synduality: Noir Part 2                  |   9/12  | 10 hours ago | 02/27/2024 |
-| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                      Sousou no Frieren                     |  25/28  |  5 days ago  | 12/15/2023 |
-| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   8   |        Mashle: Shinkakusha Kouho Senbatsu Shiken-hen       |   7/12  |   Last week  | 01/09/2024 |
-| [52741](https://myanimelist.net/anime/52741) |  tv  |  2023  |   -   |                        Undead Unluck                       |  10/24  |  2 weeks ago | 02/04/2024 |
-| [50803](https://myanimelist.net/anime/50803) |  tv  |  2024  |   -   |              Jaku-Chara Tomozaki-kun 2nd Stage             |   2/13  |  Last month  | 01/03/2024 |
-| [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   | Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su |  13/25  |  Last month  | 12/30/2023 |
-| [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                  Ore dake Level Up na Ken                  |   4/12  |  Last month  | 01/07/2024 |
-| [54492](https://myanimelist.net/anime/54492) |  tv  |  2023  |   -   |                   Kusuriya no Hitorigoto                   |  15/24  |  Last month  | 01/13/2024 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                          One Piece                         |  1088/? |  Last month  | 01/01/2013 |
+|                      id                      | Type | Season | Score |                            Title                           | Watched |   Updated   | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------: | :-----: | :---------: | :--------: |
+| [56731](https://myanimelist.net/anime/56731) |  tv  |  2024  |   8   |                   Synduality: Noir Part 2                  |   9/12  |  Yesterday  | 02/27/2024 |
+| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                      Sousou no Frieren                     |  25/28  |  6 days ago | 12/15/2023 |
+| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   8   |        Mashle: Shinkakusha Kouho Senbatsu Shiken-hen       |   7/12  |  Last week  | 01/09/2024 |
+| [52741](https://myanimelist.net/anime/52741) |  tv  |  2023  |   -   |                        Undead Unluck                       |  10/24  | 2 weeks ago | 02/04/2024 |
+| [50803](https://myanimelist.net/anime/50803) |  tv  |  2024  |   -   |              Jaku-Chara Tomozaki-kun 2nd Stage             |   2/13  |  Last month | 01/03/2024 |
+| [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   | Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su |  13/25  |  Last month | 12/30/2023 |
+| [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                  Ore dake Level Up na Ken                  |   4/12  |  Last month | 01/07/2024 |
+| [54492](https://myanimelist.net/anime/54492) |  tv  |  2023  |   -   |                   Kusuriya no Hitorigoto                   |  15/24  |  Last month | 01/13/2024 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                          One Piece                         |  1088/? |  Last month | 01/01/2013 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -36,7 +36,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |   Yesterday   | 01/08/2024 |
+| [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |   2 days ago  | 01/08/2024 |
 | [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |   Last month  | 01/07/2024 |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                         |   1/12  |  2 months ago | 12/16/2023 |
 | [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |   -   |                            Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                           |   7/12  |  2 months ago | 12/06/2023 |
@@ -64,8 +64,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [54866](https://myanimelist.net/anime/54866) |    movie   |  2024  |     manga    |                                               Blue Lock: Episode Nagi                                               |   5 days ago  |        -        |
-| [50713](https://myanimelist.net/anime/50713) |     tv     |  2024  |  light_novel |                                        Mahouka Koukou no Rettousei 3rd Season                                       |   5 days ago  |        -        |
+| [54866](https://myanimelist.net/anime/54866) |    movie   |  2024  |     manga    |                                               Blue Lock: Episode Nagi                                               |   6 days ago  |        -        |
+| [50713](https://myanimelist.net/anime/50713) |     tv     |  2024  |  light_novel |                                        Mahouka Koukou no Rettousei 3rd Season                                       |   6 days ago  |        -        |
 | [49828](https://myanimelist.net/anime/49828) |     tv     |  2022  |   original   |                                         Kidou Senshi Gundam: Suisei no Majo                                         |   Last week   |        -        |
 | [57584](https://myanimelist.net/anime/57584) |    movie   |    -   |  light_novel |                               Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen                               |   Last week   |        -        |
 | [55129](https://myanimelist.net/anime/55129) |     tv     |  2024  |     manga    |                                          Oroka na Tenshi wa Akuma to Odoru                                          |  2 weeks ago  |        -        |
