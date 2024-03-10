@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                            Title                           | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                      Sousou no Frieren                     |  26/28  |  9 hours ago | 12/15/2023 |
-| [56731](https://myanimelist.net/anime/56731) |  tv  |  2024  |   8   |                   Synduality: Noir Part 2                  |   9/12  |  2 days ago  | 02/27/2024 |
+| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                      Sousou no Frieren                     |  26/28  |   Yesterday  | 12/15/2023 |
+| [56731](https://myanimelist.net/anime/56731) |  tv  |  2024  |   8   |                   Synduality: Noir Part 2                  |   9/12  |  3 days ago  | 02/27/2024 |
 | [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   8   |        Mashle: Shinkakusha Kouho Senbatsu Shiken-hen       |   7/12  |   Last week  | 01/09/2024 |
 | [52741](https://myanimelist.net/anime/52741) |  tv  |  2023  |   -   |                        Undead Unluck                       |  10/24  |  3 weeks ago | 02/04/2024 |
 | [50803](https://myanimelist.net/anime/50803) |  tv  |  2024  |   -   |              Jaku-Chara Tomozaki-kun 2nd Stage             |   2/13  |  Last month  | 01/03/2024 |
@@ -36,7 +36,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |   3 days ago  | 01/08/2024 |
+| [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |   4 days ago  | 01/08/2024 |
 | [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |   Last month  | 01/07/2024 |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                         |   1/12  |  3 months ago | 12/16/2023 |
 | [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |   -   |                            Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                           |   7/12  |  2 months ago | 12/06/2023 |
@@ -53,7 +53,7 @@ List Sync From MyAnimeList (update every day)
 | [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                   Ao no Exorcist: Shimane Illuminati-hen                                  |   1/12  |   Last month  | 01/10/2024 |
 | [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   5   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |  5 months ago | 04/04/2023 |
 | [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   3/12  | 11 months ago | 04/03/2023 |
-| [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                                       Boku no Kokoro no Yabai Yatsu                                       |   2/12  | 11 months ago | 04/02/2023 |
+| [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                                       Boku no Kokoro no Yabai Yatsu                                       |   2/12  |   Last year   | 04/02/2023 |
 | [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |                           Campione! Matsurowanu Kamigami to Kamigoroshi no Maou                           |   1/13  |   Last year   | 03/20/2023 |
 |   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                                         Higurashi no Naku Koro ni                                         |  10/26  |   Last year   | 12/23/2022 |
 
