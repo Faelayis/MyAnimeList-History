@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |   4 days ago  | 01/08/2024 |
+| [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |   5 days ago  | 01/08/2024 |
 | [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |   Last month  | 01/07/2024 |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                         |   1/12  |  3 months ago | 12/16/2023 |
 | [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |   -   |                            Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                           |   7/12  |  2 months ago | 12/06/2023 |
@@ -19,9 +19,9 @@
 | [35078](https://myanimelist.net/anime/35078) |    tv   |  2018  |   -   |                                               Mitsuboshi Colors                                               |   1/12  | 10 months ago | 04/20/2023 |
 | [35905](https://myanimelist.net/anime/35905) |    tv   |  2018  |   -   |                                              Ryuuou no Oshigoto!                                              |   1/12  | 10 months ago | 04/20/2023 |
 | [52034](https://myanimelist.net/anime/52034) |    tv   |  2023  |   8   |                                                  "Oshi no Ko"                                                 |   6/11  |  5 months ago | 04/12/2023 |
-| [50307](https://myanimelist.net/anime/50307) |    tv   |  2023  |   7   |                                           Tonikaku Kawaii 2nd Season                                          |   4/12  |  6 months ago | 04/08/2023 |
+| [50307](https://myanimelist.net/anime/50307) |    tv   |  2023  |   7   |                                           Tonikaku Kawaii 2nd Season                                          |   4/12  |  7 months ago | 04/08/2023 |
 | [53393](https://myanimelist.net/anime/53393) |    tv   |  2023  |   6   |                                               Tengoku Daimakyou                                               |   6/13  |  8 months ago | 04/02/2023 |
-| [53126](https://myanimelist.net/anime/53126) |    tv   |  2023  |   6   |                                       Yamada-kun to Lv999 no Koi wo Suru                                      |   2/13  |  6 months ago | 04/02/2023 |
+| [53126](https://myanimelist.net/anime/53126) |    tv   |  2023  |   6   |                                       Yamada-kun to Lv999 no Koi wo Suru                                      |   2/13  |  7 months ago | 04/02/2023 |
 |  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  |   -   |                                                   Amagami SS                                                  |   7/25  |   Last year   | 03/23/2023 |
 | [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |   -   |                                      Ijiranaide, Nagatoro-san 2nd Attack                                      |   2/12  |   Last year   | 03/20/2023 |
 | [48553](https://myanimelist.net/anime/48553) |    tv   |  2022  |   -   |                                           Akebi-chan no Sailor-fuku                                           |   3/12  |   Last year   | 03/13/2023 |
