@@ -6,10 +6,10 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                            Title                           | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                      Sousou no Frieren                     |  27/28  |  6 hours ago | 12/15/2023 |
-| [56731](https://myanimelist.net/anime/56731) |  tv  |  2024  |   8   |                   Synduality: Noir Part 2                  |  10/12  |  6 hours ago | 02/27/2024 |
-| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   8   |        Mashle: Shinkakusha Kouho Senbatsu Shiken-hen       |  10/12  |  2 days ago  | 01/09/2024 |
-| [37984](https://myanimelist.net/anime/37984) |  tv  |  2021  |   -   |                   Kumo desu ga, Nani ka?                   |   6/24  |  4 days ago  | 03/14/2024 |
+| [52991](https://myanimelist.net/anime/52991) |  tv  |  2023  |   10  |                      Sousou no Frieren                     |  27/28  |   Yesterday  | 12/15/2023 |
+| [56731](https://myanimelist.net/anime/56731) |  tv  |  2024  |   8   |                   Synduality: Noir Part 2                  |  10/12  |   Yesterday  | 02/27/2024 |
+| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   8   |        Mashle: Shinkakusha Kouho Senbatsu Shiken-hen       |  10/12  |  3 days ago  | 01/09/2024 |
+| [37984](https://myanimelist.net/anime/37984) |  tv  |  2021  |   -   |                   Kumo desu ga, Nani ka?                   |   6/24  |  5 days ago  | 03/14/2024 |
 | [52741](https://myanimelist.net/anime/52741) |  tv  |  2023  |   -   |                        Undead Unluck                       |  10/24  |  Last month  | 02/04/2024 |
 | [50803](https://myanimelist.net/anime/50803) |  tv  |  2024  |   -   |              Jaku-Chara Tomozaki-kun 2nd Stage             |   2/13  |  Last month  | 01/03/2024 |
 | [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   | Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su |  13/25  |  Last month  | 12/30/2023 |
@@ -23,7 +23,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [50416](https://myanimelist.net/anime/50416) |     tv     |  2023  |   6   |                                               Skip to Loafer                                              |  2 weeks ago  | 05/10/2023 |  02/28/2024 |
+| [50416](https://myanimelist.net/anime/50416) |     tv     |  2023  |   6   |                                               Skip to Loafer                                              |  3 weeks ago  | 05/10/2023 |  02/28/2024 |
 | [53026](https://myanimelist.net/anime/53026) |     tv     |  2023  |   8   |                                              Synduality: Noir                                             |  3 weeks ago  | 02/27/2024 |  02/27/2024 |
 | [54870](https://myanimelist.net/anime/54870) |    movie   |  2023  |   5   |                           Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai                           |   Last month  | 01/25/2024 |  01/25/2024 |
 | [54103](https://myanimelist.net/anime/54103) |     tv     |  2023  |   6   |                                      Hikikomari Kyuuketsuki no Monmon                                     |  2 months ago | 10/08/2023 |  01/10/2024 |
@@ -37,7 +37,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |   Last week   | 01/08/2024 |
+| [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |  2 weeks ago  | 01/08/2024 |
 | [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |   Last month  | 01/07/2024 |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                         |   1/12  |  3 months ago | 12/16/2023 |
 | [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |   -   |                            Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                           |   7/12  |  2 months ago | 12/06/2023 |
@@ -65,12 +65,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [53421](https://myanimelist.net/anime/53421) |     tv     |  2024  |     manga    |                                             Dosanko Gal wa Namara Menkoi                                            |   4 days ago  |        -        |
+| [53421](https://myanimelist.net/anime/53421) |     tv     |  2024  |     manga    |                                             Dosanko Gal wa Namara Menkoi                                            |   5 days ago  |        -        |
 | [54866](https://myanimelist.net/anime/54866) |    movie   |  2024  |     manga    |                                               Blue Lock: Episode Nagi                                               |  2 weeks ago  |        -        |
 | [50713](https://myanimelist.net/anime/50713) |     tv     |  2024  |  light_novel |                                        Mahouka Koukou no Rettousei 3rd Season                                       |  2 weeks ago  |        -        |
-| [49828](https://myanimelist.net/anime/49828) |     tv     |  2022  |   original   |                                         Kidou Senshi Gundam: Suisei no Majo                                         |  2 weeks ago  |        -        |
+| [49828](https://myanimelist.net/anime/49828) |     tv     |  2022  |   original   |                                         Kidou Senshi Gundam: Suisei no Majo                                         |  3 weeks ago  |        -        |
 | [57584](https://myanimelist.net/anime/57584) |    movie   |    -   |  light_novel |                               Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen                               |  3 weeks ago  |        -        |
-| [55129](https://myanimelist.net/anime/55129) |     tv     |  2024  |     manga    |                                          Oroka na Tenshi wa Akuma to Odoru                                          |  3 weeks ago  |        -        |
+| [55129](https://myanimelist.net/anime/55129) |     tv     |  2024  |     manga    |                                          Oroka na Tenshi wa Akuma to Odoru                                          |   Last month  |        -        |
 
 
 *[261 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
