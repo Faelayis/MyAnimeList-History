@@ -1,8 +1,11 @@
-# Plan to Watch (269)
+# Plan to Watch (270)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [58514](https://myanimelist.net/anime/58514) |     tv     |    -   |  light_novel |                                          Kusuriya no Hitorigoto 2nd Season                                          |  13 hours ago |        -        |
+| [56609](https://myanimelist.net/anime/56609) |    movie   |  2024  |  light_novel |                                             Kizumonogatari: Koyomi Vamp                                             |  2 hours ago  |        -        |
+| [57864](https://myanimelist.net/anime/57864) |   unknown  |    -   |  light_novel |                                       Monogatari Series: Off & Monster Season                                       |  2 hours ago  |        -        |
+| [53410](https://myanimelist.net/anime/53410) |     tv     |  2024  |     manga    |                                                 Yuru Camp△ Season 3                                                 |  12 hours ago |        -        |
+| [58514](https://myanimelist.net/anime/58514) |     tv     |    -   |  light_novel |                                          Kusuriya no Hitorigoto 2nd Season                                          |   Yesterday   |        -        |
 | [53421](https://myanimelist.net/anime/53421) |     tv     |  2024  |     manga    |                                             Dosanko Gal wa Namara Menkoi                                            |   Last week   |        -        |
 | [54866](https://myanimelist.net/anime/54866) |    movie   |  2024  |     manga    |                                               Blue Lock: Episode Nagi                                               |  3 weeks ago  |        -        |
 | [50713](https://myanimelist.net/anime/50713) |     tv     |  2024  |  light_novel |                                        Mahouka Koukou no Rettousei 3rd Season                                       |  3 weeks ago  |        -        |
@@ -15,7 +18,6 @@
 | [54309](https://myanimelist.net/anime/54309) |     tv     |  2024  |     game     |                                              Blue Archive the Animation                                             |   Last month  |        -        |
 | [57980](https://myanimelist.net/anime/57980) |     cm     |  2024  |   original   |                             Ayataka Spy x Family Movie Campaign Ayataka de Hotto Hitoiki                            |   Last month  |        -        |
 | [33255](https://myanimelist.net/anime/33255) |     tv     |  2016  |     manga    |                                                 Saiki Kusuo no Ψ-nan                                                |  2 months ago |        -        |
-| [57864](https://myanimelist.net/anime/57864) |   unknown  |    -   |  light_novel |                                       Monogatari Series: Off & Monster Season                                       |  2 months ago |        -        |
 | [33280](https://myanimelist.net/anime/33280) |    movie   |  2017  | 4_koma_manga |                                     Gochuumon wa Usagi desu ka?? Dear My Sister                                     |  2 months ago |        -        |
 | [38337](https://myanimelist.net/anime/38337) |     tv     |  2020  | 4_koma_manga |                                          Gochuumon wa Usagi desu ka? Bloom                                          |  2 months ago |        -        |
 | [21273](https://myanimelist.net/anime/21273) |     tv     |  2014  | 4_koma_manga |                                             Gochuumon wa Usagi desu ka?                                             |  2 months ago |        -        |
@@ -33,7 +35,6 @@
 | [53065](https://myanimelist.net/anime/53065) |   unknown  |    -   |     manga    |                                      Sono Bisque Doll wa Koi wo Suru (Zoku-hen)                                     |  3 months ago |        -        |
 | [54857](https://myanimelist.net/anime/54857) |     tv     |  2024  |  light_novel |                                   Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season                                  |  3 months ago |        -        |
 | [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |     manga    |                                         Kimetsu no Yaiba: Hashira Geiko-hen                                         |  3 months ago |        -        |
-| [56609](https://myanimelist.net/anime/56609) |    movie   |  2024  |  light_novel |                                             Kizumonogatari: Koyomi Vamp                                             |  3 months ago |        -        |
 | [54829](https://myanimelist.net/anime/54829) |     tv     |  2024  |     manga    |                                           Urusei Yatsura (2022) 2nd Season                                          |  3 months ago |        -        |
 | [56685](https://myanimelist.net/anime/56685) |    movie   |  2023  |     manga    |                                       Boku no Hero Academia: UA Heroes Battle                                       |  3 months ago |        -        |
 | [55072](https://myanimelist.net/anime/55072) |     ona    |  2023  |     game     |                                               Xiaoke de Huatu Xie Hua                                               |  3 months ago |        -        |

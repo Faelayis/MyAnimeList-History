@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |  13 hours ago | 12/15/2023 |  03/24/2024 |
+| [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |   Yesterday   | 12/15/2023 |  03/24/2024 |
 | [50416](https://myanimelist.net/anime/50416) |     tv     |  2023  |   6   |                                               Skip to Loafer                                              |  3 weeks ago  | 05/10/2023 |  02/28/2024 |
 | [53026](https://myanimelist.net/anime/53026) |     tv     |  2023  |   8   |                                              Synduality: Noir                                             |  3 weeks ago  | 02/27/2024 |  02/27/2024 |
 | [54870](https://myanimelist.net/anime/54870) |    movie   |  2023  |   5   |                           Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai                           |  2 months ago | 01/25/2024 |  01/25/2024 |
@@ -260,8 +260,8 @@
 | [41488](https://myanimelist.net/anime/41488) |     tv     |  2021  |   8   |                               Tensura Nikki: Tensei shitara Slime Datta Ken                               |  2 years ago  | 04/10/2021 |  06/25/2021 |
 | [28623](https://myanimelist.net/anime/28623) |     tv     |  2016  |   8   |                                          Koutetsujou no Kabaneri                                          |  2 years ago  | 06/23/2021 |  06/23/2021 |
 | [33352](https://myanimelist.net/anime/33352) |     tv     |  2018  |   7   |                                             Violet Evergarden                                             |  2 years ago  | 06/04/2021 |  06/23/2021 |
-| [15583](https://myanimelist.net/anime/15583) |     tv     |  2013  |   7   |                                                Date A Live                                                |  2 years ago  | 06/21/2021 |  06/21/2021 |
-| [17641](https://myanimelist.net/anime/17641) |     ova    |  2013  |   6   |                                         Date A Live: Date to Date                                         |  2 years ago  | 06/21/2021 |  06/21/2021 |
+| [15583](https://myanimelist.net/anime/15583) |     tv     |  2013  |   7   |                                                Date A Live                                                |  3 years ago  | 06/21/2021 |  06/21/2021 |
+| [17641](https://myanimelist.net/anime/17641) |     ova    |  2013  |   6   |                                         Date A Live: Date to Date                                         |  3 years ago  | 06/21/2021 |  06/21/2021 |
 | [44942](https://myanimelist.net/anime/44942) |     ona    |  2021  |   6   |                                            Shuumatsu no Walküre                                           |  2 years ago  | 06/20/2021 |  06/20/2021 |
 | [41456](https://myanimelist.net/anime/41456) |     tv     |  2021  |   7   |                                          Sentouin, Hakenshimasu!                                          |  2 years ago  | 04/04/2021 |  06/20/2021 |
 |  [3712](https://myanimelist.net/anime/3712)  |     tv     |  2008  |   6   |                                   Zero no Tsukaima: Princesses no Rondo                                   |  3 years ago  | 06/14/2021 |  06/17/2021 |
