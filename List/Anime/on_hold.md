@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |  2 weeks ago  | 01/08/2024 |
+| [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |  3 weeks ago  | 01/08/2024 |
 | [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |   Last month  | 01/07/2024 |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                         |   1/12  |  3 months ago | 12/16/2023 |
 | [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |   -   |                            Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                           |   7/12  |  2 months ago | 12/06/2023 |
@@ -55,7 +55,7 @@
 | [40507](https://myanimelist.net/anime/40507) |    tv   |  2022  |   -   |                                Arifureta Shokugyou de Sekai Saikyou 2nd Season                                |   6/12  |  2 years ago  | 01/14/2022 |
 | [49721](https://myanimelist.net/anime/49721) |    tv   |  2022  |   -   |                                         Karakai Jouzu no Takagi-san 3                                         |   2/12  |  2 years ago  | 01/08/2022 |
 |  [2104](https://myanimelist.net/anime/2104)  |    tv   |  2007  |   -   |                                                Seto no Hanayome                                               |   8/26  |  2 years ago  | 01/05/2022 |
-| [48824](https://myanimelist.net/anime/48824) |    pv   |  2021  |   7   |                                                Blue Archive PVs                                               |   5/?   |  3 weeks ago  | 01/01/2022 |
+| [48824](https://myanimelist.net/anime/48824) |    pv   |  2021  |   7   |                                                Blue Archive PVs                                               |   5/?   |   Last month  | 01/01/2022 |
 | [44406](https://myanimelist.net/anime/44406) |   ona   |  2021  |   -   |                                                Da Wang Rao Ming                                               |   5/12  |  2 years ago  | 12/19/2021 |
 | [11759](https://myanimelist.net/anime/11759) |    tv   |  2012  |   -   |                                                  Accel World                                                  |  10/24  |  2 years ago  | 12/16/2021 |
 | [40834](https://myanimelist.net/anime/40834) |    tv   |  2021  |   -   |                                                 Ousama Ranking                                                |  14/23  |  2 years ago  | 12/11/2021 |
