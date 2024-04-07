@@ -2,7 +2,7 @@
 
 |                      id                      | Type | Season | Score |                            Title                           | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |          Tensei shitara Slime Datta Ken 3rd Season         |   1/24  |  9 hours ago | 04/06/2024 |
+| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |          Tensei shitara Slime Datta Ken 3rd Season         |   1/24  |   Yesterday  | 04/06/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                          One Piece                         |  1098/? |   Last week  | 01/01/2013 |
 | [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   8   |        Mashle: Shinkakusha Kouho Senbatsu Shiken-hen       |  11/12  |   Last week  | 01/09/2024 |
 | [54449](https://myanimelist.net/anime/54449) |  tv  |  2024  |   -   |                           Ishura                           |   6/12  |  2 weeks ago | 03/22/2024 |

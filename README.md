@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                            Title                           | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |          Tensei shitara Slime Datta Ken 3rd Season         |   1/24  |  9 hours ago | 04/06/2024 |
+| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |          Tensei shitara Slime Datta Ken 3rd Season         |   1/24  |   Yesterday  | 04/06/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                          One Piece                         |  1098/? |   Last week  | 01/01/2013 |
 | [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   8   |        Mashle: Shinkakusha Kouho Senbatsu Shiken-hen       |  11/12  |   Last week  | 01/09/2024 |
 | [54449](https://myanimelist.net/anime/54449) |  tv  |  2024  |   -   |                           Ishura                           |   6/12  |  2 weeks ago | 03/22/2024 |
@@ -24,7 +24,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |   Last week   | 12/15/2023 |  03/24/2024 |
+| [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |  2 weeks ago  | 12/15/2023 |  03/24/2024 |
 | [58313](https://myanimelist.net/anime/58313) |    music   |  2024  |   7   |                                                Haru (2024)                                                |   Last week   | 03/05/2024 |  03/05/2024 |
 | [50416](https://myanimelist.net/anime/50416) |     tv     |  2023  |   6   |                                               Skip to Loafer                                              |   Last month  | 05/10/2023 |  02/28/2024 |
 | [53026](https://myanimelist.net/anime/53026) |     tv     |  2023  |   8   |                                              Synduality: Noir                                             |   Last month  | 02/27/2024 |  02/27/2024 |
@@ -66,7 +66,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [58426](https://myanimelist.net/anime/58426) |     tv     |  2024  |     manga    |                                            Shikanoko Nokonoko Koshitantan                                           |   4 days ago  |        -        |
+| [58426](https://myanimelist.net/anime/58426) |     tv     |  2024  |     manga    |                                            Shikanoko Nokonoko Koshitantan                                           |   5 days ago  |        -        |
 | [57611](https://myanimelist.net/anime/57611) |     tv     |  2024  |   web_manga  |                                                 Kimi wa Meido-sama.                                                 |   Last week   |        -        |
 | [53835](https://myanimelist.net/anime/53835) |     tv     |  2024  |  light_novel |                                                    Unnamed Memory                                                   |   Last week   |        -        |
 | [56609](https://myanimelist.net/anime/56609) |    movie   |  2024  |  light_novel |                                             Kizumonogatari: Koyomi Vamp                                             |   Last week   |        -        |

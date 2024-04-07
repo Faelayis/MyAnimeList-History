@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |   Last week   | 12/15/2023 |  03/24/2024 |
+| [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |  2 weeks ago  | 12/15/2023 |  03/24/2024 |
 | [58313](https://myanimelist.net/anime/58313) |    music   |  2024  |   7   |                                                Haru (2024)                                                |   Last week   | 03/05/2024 |  03/05/2024 |
 | [50416](https://myanimelist.net/anime/50416) |     tv     |  2023  |   6   |                                               Skip to Loafer                                              |   Last month  | 05/10/2023 |  02/28/2024 |
 | [53026](https://myanimelist.net/anime/53026) |     tv     |  2023  |   8   |                                              Synduality: Noir                                             |   Last month  | 02/27/2024 |  02/27/2024 |
@@ -12,7 +12,7 @@
 | [54362](https://myanimelist.net/anime/54362) |     tv     |  2023  |   6   |                                             Hametsu no Oukoku                                             |  3 months ago | 10/16/2023 |  12/24/2023 |
 | [55644](https://myanimelist.net/anime/55644) |     tv     |  2023  |   7   |                                        Dr. Stone: New World Part 2                                        |  3 months ago | 10/13/2023 |  12/23/2023 |
 | [54595](https://myanimelist.net/anime/54595) |     tv     |  2023  |   7   |                              Kage no Jitsuryokusha ni Naritakute! 2nd Season                              |  3 months ago | 10/04/2023 |  12/23/2023 |
-| [27525](https://myanimelist.net/anime/27525) |     tv     |  2015  |   7   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |  3 months ago | 06/11/2023 |  12/17/2023 |
+| [27525](https://myanimelist.net/anime/27525) |     tv     |  2015  |   7   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |  4 months ago | 06/11/2023 |  12/17/2023 |
 | [56805](https://myanimelist.net/anime/56805) |    music   |  2023  |   10  |                                                   Yuusha                                                  |   Last week   | 12/15/2023 |  12/15/2023 |
 | [48583](https://myanimelist.net/anime/48583) |     tv     |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |  5 months ago | 01/28/2022 |  11/08/2023 |
 | [37475](https://myanimelist.net/anime/37475) |     tv     |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |  5 months ago | 10/29/2023 |  10/29/2023 |
