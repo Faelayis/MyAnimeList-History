@@ -2,30 +2,25 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (13) ``4.73%``
+#### Watching (7) ``2.55%``
 
-|                      id                      | Type | Season | Score |                            Title                           | Watched |    Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |          Kono Subarashii Sekai ni Shukufuku wo! 3          |   1/11  | 13 hours ago | 04/11/2024 |
-| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |          Tensei shitara Slime Datta Ken 3rd Season         |   2/24  | 14 hours ago | 04/06/2024 |
-| [54309](https://myanimelist.net/anime/54309) |  tv  |  2024  |   -   |                 Blue Archive the Animation                 |   1/?   |  5 days ago  | 04/08/2024 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                          One Piece                         |  1100/? |  5 days ago  | 01/01/2013 |
-| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   8   |        Mashle: Shinkakusha Kouho Senbatsu Shiken-hen       |  11/12  |  2 weeks ago | 01/09/2024 |
-| [54449](https://myanimelist.net/anime/54449) |  tv  |  2024  |   -   |                           Ishura                           |   6/12  |  3 weeks ago | 03/22/2024 |
-| [56731](https://myanimelist.net/anime/56731) |  tv  |  2024  |   8   |                   Synduality: Noir Part 2                  |  10/12  |  3 weeks ago | 02/27/2024 |
-| [37984](https://myanimelist.net/anime/37984) |  tv  |  2021  |   -   |                   Kumo desu ga, Nani ka?                   |   6/24  |  Last month  | 03/14/2024 |
-| [52741](https://myanimelist.net/anime/52741) |  tv  |  2023  |   -   |                        Undead Unluck                       |  10/24  | 2 months ago | 02/04/2024 |
-| [50803](https://myanimelist.net/anime/50803) |  tv  |  2024  |   -   |              Jaku-Chara Tomozaki-kun 2nd Stage             |   2/13  | 2 months ago | 01/03/2024 |
-| [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   | Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su |  13/25  | 2 months ago | 12/30/2023 |
+|                      id                      | Type | Season | Score |                     Title                     | Watched |    Updated   | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------: | :-----: | :----------: | :--------: |
+| [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   -   |                  Wind Breaker                 |   2/13  | 11 hours ago | 04/14/2024 |
+| [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |    Kono Subarashii Sekai ni Shukufuku wo! 3   |   1/11  |   Yesterday  | 04/11/2024 |
+| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |   Tensei shitara Slime Datta Ken 3rd Season   |   2/24  |   Yesterday  | 04/06/2024 |
+| [54309](https://myanimelist.net/anime/54309) |  tv  |  2024  |   -   |           Blue Archive the Animation          |   1/?   |  6 days ago  | 04/08/2024 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                   One Piece                   |  1100/? |  6 days ago  | 01/01/2013 |
+| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   8   | Mashle: Shinkakusha Kouho Senbatsu Shiken-hen |  11/12  |  2 weeks ago | 01/09/2024 |
+| [56731](https://myanimelist.net/anime/56731) |  tv  |  2024  |   8   |            Synduality: Noir Part 2            |  10/12  |  3 weeks ago | 02/27/2024 |
 
+*[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-*[2 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
-
-#### Completed ``89.11%``
+#### Completed ``89.32%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |  2 weeks ago  | 12/15/2023 |  03/24/2024 |
+| [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |  3 weeks ago  | 12/15/2023 |  03/24/2024 |
 | [58313](https://myanimelist.net/anime/58313) |    music   |  2024  |   7   |                                                Haru (2024)                                                |  2 weeks ago  | 03/05/2024 |  03/05/2024 |
 | [50416](https://myanimelist.net/anime/50416) |     tv     |  2023  |   6   |                                               Skip to Loafer                                              |   Last month  | 05/10/2023 |  02/28/2024 |
 | [53026](https://myanimelist.net/anime/53026) |     tv     |  2023  |   8   |                                              Synduality: Noir                                             |   Last month  | 02/27/2024 |  02/27/2024 |
@@ -35,21 +30,21 @@ List Sync From MyAnimeList (update every day)
 
 *[453 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``11.14%``
+#### On Hold ``12.13%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
+| [54449](https://myanimelist.net/anime/54449) |    tv   |  2024  |   -   |                                                     Ishura                                                    |   6/12  |  11 hours ago | 03/22/2024 |
+| [37984](https://myanimelist.net/anime/37984) |    tv   |  2021  |   -   |                                             Kumo desu ga, Nani ka?                                            |   6/24  |  11 hours ago | 03/14/2024 |
+| [52741](https://myanimelist.net/anime/52741) |    tv   |  2023  |   -   |                                                 Undead Unluck                                                 |  10/24  |  11 hours ago | 02/04/2024 |
+| [54492](https://myanimelist.net/anime/54492) |    tv   |  2023  |   -   |                                             Kusuriya no Hitorigoto                                            |  15/24  |  11 hours ago | 01/13/2024 |
 | [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |   Last month  | 01/08/2024 |
-| [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |  2 months ago | 01/07/2024 |
-| [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                         |   1/12  |  4 months ago | 12/16/2023 |
-| [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |   -   |                            Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                           |   7/12  |  3 months ago | 12/06/2023 |
-| [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                  |   3/12  |  4 months ago | 10/08/2023 |
-| [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                          Seiken Gakuin no Makentsukai                                         |   1/12  |  5 months ago | 10/05/2023 |
+| [52299](https://myanimelist.net/anime/52299) |    tv   |  2024  |   -   |                                            Ore dake Level Up na Ken                                           |   4/12  |  11 hours ago | 01/07/2024 |
 
 
-*[81 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
+*[88 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``4.08%``
+#### Dropped ``4.07%``
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
@@ -63,16 +58,16 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``46.37%``
+#### Plan to Watch ``46.30%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [52196](https://myanimelist.net/anime/52196) |     tv     |  2024  |  light_novel |                                                    Date A Live V                                                    |  14 hours ago |        -        |
-| [57102](https://myanimelist.net/anime/57102) |   unknown  |  2024  |   web_manga  |                                        Houkago Shounen Hanako-kun (Zoku-hen)                                        |   5 days ago  |        -        |
-| [57519](https://myanimelist.net/anime/57519) | tv_special |  2024  |     manga    |                                           Boku no Hero Academia: Memories                                           |   5 days ago  |        -        |
-| [57647](https://myanimelist.net/anime/57647) |    movie   |  2024  |     game     |                                   Uma Musume: Pretty Derby - Shin Jidai no Tobira                                   |   5 days ago  |        -        |
-| [56738](https://myanimelist.net/anime/56738) |     tv     |  2024  |   web_manga  |                                      Shinigami Bocchan to Kuro Maid 3rd Season                                      |   5 days ago  |        -        |
-| [53865](https://myanimelist.net/anime/53865) |     tv     |  2024  |     manga    |                                            Yozakura-san Chi no Daisakusen                                           |   5 days ago  |        -        |
+| [52196](https://myanimelist.net/anime/52196) |     tv     |  2024  |  light_novel |                                                    Date A Live V                                                    |   Yesterday   |        -        |
+| [57102](https://myanimelist.net/anime/57102) |   unknown  |  2024  |   web_manga  |                                        Houkago Shounen Hanako-kun (Zoku-hen)                                        |   6 days ago  |        -        |
+| [57519](https://myanimelist.net/anime/57519) | tv_special |  2024  |     manga    |                                           Boku no Hero Academia: Memories                                           |   6 days ago  |        -        |
+| [57647](https://myanimelist.net/anime/57647) |    movie   |  2024  |     game     |                                   Uma Musume: Pretty Derby - Shin Jidai no Tobira                                   |   6 days ago  |        -        |
+| [56738](https://myanimelist.net/anime/56738) |     tv     |  2024  |   web_manga  |                                      Shinigami Bocchan to Kuro Maid 3rd Season                                      |   6 days ago  |        -        |
+| [53865](https://myanimelist.net/anime/53865) |     tv     |  2024  |     manga    |                                            Yozakura-san Chi no Daisakusen                                           |   6 days ago  |        -        |
 
 
 *[268 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*

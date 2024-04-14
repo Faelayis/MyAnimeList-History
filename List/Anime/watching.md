@@ -1,17 +1,11 @@
-# Watching (13)
+# Watching (7)
 
-|                      id                      | Type | Season | Score |                            Title                           | Watched |    Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |          Kono Subarashii Sekai ni Shukufuku wo! 3          |   1/11  | 13 hours ago | 04/11/2024 |
-| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |          Tensei shitara Slime Datta Ken 3rd Season         |   2/24  | 14 hours ago | 04/06/2024 |
-| [54309](https://myanimelist.net/anime/54309) |  tv  |  2024  |   -   |                 Blue Archive the Animation                 |   1/?   |  5 days ago  | 04/08/2024 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                          One Piece                         |  1100/? |  5 days ago  | 01/01/2013 |
-| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   8   |        Mashle: Shinkakusha Kouho Senbatsu Shiken-hen       |  11/12  |  2 weeks ago | 01/09/2024 |
-| [54449](https://myanimelist.net/anime/54449) |  tv  |  2024  |   -   |                           Ishura                           |   6/12  |  3 weeks ago | 03/22/2024 |
-| [56731](https://myanimelist.net/anime/56731) |  tv  |  2024  |   8   |                   Synduality: Noir Part 2                  |  10/12  |  3 weeks ago | 02/27/2024 |
-| [37984](https://myanimelist.net/anime/37984) |  tv  |  2021  |   -   |                   Kumo desu ga, Nani ka?                   |   6/24  |  Last month  | 03/14/2024 |
-| [52741](https://myanimelist.net/anime/52741) |  tv  |  2023  |   -   |                        Undead Unluck                       |  10/24  | 2 months ago | 02/04/2024 |
-| [50803](https://myanimelist.net/anime/50803) |  tv  |  2024  |   -   |              Jaku-Chara Tomozaki-kun 2nd Stage             |   2/13  | 2 months ago | 01/03/2024 |
-| [52347](https://myanimelist.net/anime/52347) |  tv  |  2023  |   -   | Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su |  13/25  | 2 months ago | 12/30/2023 |
-| [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                  Ore dake Level Up na Ken                  |   4/12  | 2 months ago | 01/07/2024 |
-| [54492](https://myanimelist.net/anime/54492) |  tv  |  2023  |   -   |                   Kusuriya no Hitorigoto                   |  15/24  | 2 months ago | 01/13/2024 |
+|                      id                      | Type | Season | Score |                     Title                     | Watched |    Updated   | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------: | :-----: | :----------: | :--------: |
+| [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   -   |                  Wind Breaker                 |   2/13  | 11 hours ago | 04/14/2024 |
+| [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |    Kono Subarashii Sekai ni Shukufuku wo! 3   |   1/11  |   Yesterday  | 04/11/2024 |
+| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |   Tensei shitara Slime Datta Ken 3rd Season   |   2/24  |   Yesterday  | 04/06/2024 |
+| [54309](https://myanimelist.net/anime/54309) |  tv  |  2024  |   -   |           Blue Archive the Animation          |   1/?   |  6 days ago  | 04/08/2024 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                   One Piece                   |  1100/? |  6 days ago  | 01/01/2013 |
+| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   8   | Mashle: Shinkakusha Kouho Senbatsu Shiken-hen |  11/12  |  2 weeks ago | 01/09/2024 |
+| [56731](https://myanimelist.net/anime/56731) |  tv  |  2024  |   8   |            Synduality: Noir Part 2            |  10/12  |  3 weeks ago | 02/27/2024 |
