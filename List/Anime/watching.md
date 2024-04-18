@@ -2,9 +2,9 @@
 
 |                      id                      | Type | Season | Score |                     Title                     | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------: | :-----: | :---------: | :--------: |
-| [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   -   |                  Wind Breaker                 |   2/13  |  3 days ago | 04/14/2024 |
-| [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |    Kono Subarashii Sekai ni Shukufuku wo! 3   |   1/11  |  4 days ago | 04/11/2024 |
-| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |   Tensei shitara Slime Datta Ken 3rd Season   |   2/24  |  4 days ago | 04/06/2024 |
+| [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   -   |                  Wind Breaker                 |   2/13  |  4 days ago | 04/14/2024 |
+| [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |    Kono Subarashii Sekai ni Shukufuku wo! 3   |   1/11  |  5 days ago | 04/11/2024 |
+| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |   Tensei shitara Slime Datta Ken 3rd Season   |   2/24  |  5 days ago | 04/06/2024 |
 | [54309](https://myanimelist.net/anime/54309) |  tv  |  2024  |   -   |           Blue Archive the Animation          |   1/?   |  Last week  | 04/08/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                   One Piece                   |  1100/? |  Last week  | 01/01/2013 |
 | [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   8   | Mashle: Shinkakusha Kouho Senbatsu Shiken-hen |  11/12  | 3 weeks ago | 01/09/2024 |
