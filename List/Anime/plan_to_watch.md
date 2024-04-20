@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [52196](https://myanimelist.net/anime/52196) |     tv     |  2024  |  light_novel |                                                    Date A Live V                                                    |   6 days ago  |        -        |
+| [52196](https://myanimelist.net/anime/52196) |     tv     |  2024  |  light_novel |                                                    Date A Live V                                                    |   Last week   |        -        |
 | [57102](https://myanimelist.net/anime/57102) |   unknown  |  2024  |   web_manga  |                                        Houkago Shounen Hanako-kun (Zoku-hen)                                        |   Last week   |        -        |
 | [57519](https://myanimelist.net/anime/57519) | tv_special |  2024  |     manga    |                                           Boku no Hero Academia: Memories                                           |   Last week   |        -        |
 | [57647](https://myanimelist.net/anime/57647) |    movie   |  2024  |     game     |                                   Uma Musume: Pretty Derby - Shin Jidai no Tobira                                   |   Last week   |        -        |
