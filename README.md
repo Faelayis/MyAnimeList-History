@@ -6,10 +6,10 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                     Title                     | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------: | :-----: | :---------: | :--------: |
-| [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   -   |                  Wind Breaker                 |   2/13  |  6 days ago | 04/14/2024 |
+| [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   -   |                  Wind Breaker                 |   3/13  | 3 hours ago | 04/14/2024 |
 | [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |    Kono Subarashii Sekai ni Shukufuku wo! 3   |   1/11  |  Last week  | 04/11/2024 |
 | [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |   Tensei shitara Slime Datta Ken 3rd Season   |   2/24  |  Last week  | 04/06/2024 |
-| [54309](https://myanimelist.net/anime/54309) |  tv  |  2024  |   -   |           Blue Archive the Animation          |   1/?   |  Last week  | 04/08/2024 |
+| [54309](https://myanimelist.net/anime/54309) |  tv  |  2024  |   -   |           Blue Archive the Animation          |   1/12  |  Last week  | 04/08/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                   One Piece                   |  1100/? |  Last week  | 01/01/2013 |
 | [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   8   | Mashle: Shinkakusha Kouho Senbatsu Shiken-hen |  11/12  | 3 weeks ago | 01/09/2024 |
 | [56731](https://myanimelist.net/anime/56731) |  tv  |  2024  |   8   |            Synduality: Noir Part 2            |  10/12  |  Last month | 02/27/2024 |
@@ -20,7 +20,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |  3 weeks ago  | 12/15/2023 |  03/24/2024 |
+| [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |   Last month  | 12/15/2023 |  03/24/2024 |
 | [58313](https://myanimelist.net/anime/58313) |    music   |  2024  |   7   |                                                Haru (2024)                                                |  3 weeks ago  | 03/05/2024 |  03/05/2024 |
 | [50416](https://myanimelist.net/anime/50416) |     tv     |  2023  |   6   |                                               Skip to Loafer                                              |   Last month  | 05/10/2023 |  02/28/2024 |
 | [53026](https://myanimelist.net/anime/53026) |     tv     |  2023  |   8   |                                              Synduality: Noir                                             |   Last month  | 02/27/2024 |  02/27/2024 |
@@ -34,12 +34,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [54449](https://myanimelist.net/anime/54449) |    tv   |  2024  |   -   |                                                     Ishura                                                    |   6/12  |  6 days ago  | 03/22/2024 |
-| [37984](https://myanimelist.net/anime/37984) |    tv   |  2021  |   -   |                                             Kumo desu ga, Nani ka?                                            |   6/24  |  6 days ago  | 03/14/2024 |
-| [52741](https://myanimelist.net/anime/52741) |    tv   |  2023  |   -   |                                                 Undead Unluck                                                 |  10/24  |  6 days ago  | 02/04/2024 |
-| [54492](https://myanimelist.net/anime/54492) |    tv   |  2023  |   -   |                                             Kusuriya no Hitorigoto                                            |  15/24  |  6 days ago  | 01/13/2024 |
+| [54449](https://myanimelist.net/anime/54449) |    tv   |  2024  |   -   |                                                     Ishura                                                    |   6/12  |   Last week  | 03/22/2024 |
+| [37984](https://myanimelist.net/anime/37984) |    tv   |  2021  |   -   |                                             Kumo desu ga, Nani ka?                                            |   6/24  |   Last week  | 03/14/2024 |
+| [52741](https://myanimelist.net/anime/52741) |    tv   |  2023  |   -   |                                                 Undead Unluck                                                 |  10/24  |   Last week  | 02/04/2024 |
+| [54492](https://myanimelist.net/anime/54492) |    tv   |  2023  |   -   |                                             Kusuriya no Hitorigoto                                            |  15/24  |   Last week  | 01/13/2024 |
 | [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |  Last month  | 01/08/2024 |
-| [52299](https://myanimelist.net/anime/52299) |    tv   |  2024  |   -   |                                            Ore dake Level Up na Ken                                           |   4/12  |  6 days ago  | 01/07/2024 |
+| [52299](https://myanimelist.net/anime/52299) |    tv   |  2024  |   -   |                                            Ore dake Level Up na Ken                                           |   4/12  |   Last week  | 01/07/2024 |
 
 
 *[88 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
