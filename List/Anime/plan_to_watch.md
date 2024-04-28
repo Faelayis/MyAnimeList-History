@@ -1,7 +1,9 @@
-# Plan to Watch (275)
+# Plan to Watch (276)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [54789](https://myanimelist.net/anime/54789) |     tv     |  2024  |     manga    |                                           Boku no Hero Academia 7th Season                                          |   1 hour ago  |    04/28/2024   |
+| [58749](https://myanimelist.net/anime/58749) |     tv     |    -   |     game     |                                              Arknights: Rise from Ember                                             |  13 hours ago |        -        |
 | [52196](https://myanimelist.net/anime/52196) |     tv     |  2024  |  light_novel |                                                    Date A Live V                                                    |  2 weeks ago  |        -        |
 | [57102](https://myanimelist.net/anime/57102) |   unknown  |  2024  |   web_manga  |                                        Houkago Shounen Hanako-kun (Zoku-hen)                                        |  2 weeks ago  |        -        |
 | [57519](https://myanimelist.net/anime/57519) | tv_special |  2024  |     manga    |                                           Boku no Hero Academia: Memories                                           |  2 weeks ago  |        -        |
@@ -64,7 +66,6 @@
 | [48896](https://myanimelist.net/anime/48896) |    movie   |    -   |  light_novel |                                           Overlord Movie 3: Sei Oukoku-hen                                          |  9 months ago |        -        |
 | [55825](https://myanimelist.net/anime/55825) |     tv     |    -   |     manga    |                                                Jigokuraku 2nd Season                                                |  9 months ago |        -        |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |     manga    |                                        Haikyuu!! Movie: Gomisuteba no Kessen                                        |  9 months ago |        -        |
-| [54789](https://myanimelist.net/anime/54789) |     tv     |  2024  |     manga    |                                           Boku no Hero Academia 7th Season                                          |  9 months ago |        -        |
 | [54898](https://myanimelist.net/anime/54898) |     tv     |  2023  |     manga    |                                             Bungou Stray Dogs 5th Season                                            | 10 months ago |        -        |
 | [54915](https://myanimelist.net/anime/54915) | tv_special |  2023  |     manga    |                                                5-toubun no Hanayome∽                                                | 10 months ago |        -        |
 | [54856](https://myanimelist.net/anime/54856) |     tv     |  2023  |     manga    |                                                   Horimiya: Piece                                                   | 10 months ago |        -        |
