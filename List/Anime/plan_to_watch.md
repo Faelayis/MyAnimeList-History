@@ -1,9 +1,10 @@
-# Plan to Watch (276)
+# Plan to Watch (277)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [54789](https://myanimelist.net/anime/54789) |     tv     |  2024  |     manga    |                                           Boku no Hero Academia 7th Season                                          |   6 days ago  |    04/28/2024   |
-| [58749](https://myanimelist.net/anime/58749) |     tv     |    -   |     game     |                                              Arknights: Rise from Ember                                             |   6 days ago  |        -        |
+| [54789](https://myanimelist.net/anime/54789) |     tv     |  2024  |     manga    |                                           Boku no Hero Academia 7th Season                                          |  20 hours ago |    04/28/2024   |
+| [38481](https://myanimelist.net/anime/38481) |     tv     |  2020  |     manga    |                                              Toaru Kagaku no Railgun T                                              |  20 hours ago |        -        |
+| [58749](https://myanimelist.net/anime/58749) |     tv     |    -   |     game     |                                              Arknights: Rise from Ember                                             |   Last week   |        -        |
 | [52196](https://myanimelist.net/anime/52196) |     tv     |  2024  |  light_novel |                                                    Date A Live V                                                    |  3 weeks ago  |        -        |
 | [57102](https://myanimelist.net/anime/57102) |   unknown  |  2024  |   web_manga  |                                        Houkago Shounen Hanako-kun (Zoku-hen)                                        |  3 weeks ago  |        -        |
 | [57519](https://myanimelist.net/anime/57519) | tv_special |  2024  |     manga    |                                           Boku no Hero Academia: Memories                                           |  3 weeks ago  |        -        |
