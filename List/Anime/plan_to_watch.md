@@ -1,9 +1,8 @@
-# Plan to Watch (277)
+# Plan to Watch (276)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [54789](https://myanimelist.net/anime/54789) |     tv     |  2024  |     manga    |                                           Boku no Hero Academia 7th Season                                          |   Yesterday   |    04/28/2024   |
-| [38481](https://myanimelist.net/anime/38481) |     tv     |  2020  |     manga    |                                              Toaru Kagaku no Railgun T                                              |   Yesterday   |        -        |
+| [38481](https://myanimelist.net/anime/38481) |     tv     |  2020  |     manga    |                                              Toaru Kagaku no Railgun T                                              |   2 days ago  |        -        |
 | [58749](https://myanimelist.net/anime/58749) |     tv     |    -   |     game     |                                              Arknights: Rise from Ember                                             |   Last week   |        -        |
 | [52196](https://myanimelist.net/anime/52196) |     tv     |  2024  |  light_novel |                                                    Date A Live V                                                    |  3 weeks ago  |        -        |
 | [57102](https://myanimelist.net/anime/57102) |   unknown  |  2024  |   web_manga  |                                        Houkago Shounen Hanako-kun (Zoku-hen)                                        |   Last month  |        -        |
@@ -80,7 +79,7 @@
 | [55005](https://myanimelist.net/anime/55005) |   special  |  2020  |     manga    |                                       Munou na Nana Mini Anime: Yaminabe Party                                      |   04/16/2023  |        -        |
 | [40046](https://myanimelist.net/anime/40046) |     tv     |  2020  |   original   |                                                      Id:Invaded                                                     |   04/13/2023  |        -        |
 | [40961](https://myanimelist.net/anime/40961) |     tv     |  2021  |     game     |                                                    Hortensia Saga                                                   |   04/01/2023  |        -        |
-| [54865](https://myanimelist.net/anime/54865) |     tv     |    -   |     manga    |                                                 Blue Lock 2nd Season                                                |   03/26/2023  |        -        |
+| [54865](https://myanimelist.net/anime/54865) |     tv     |  2024  |     manga    |                                                 Blue Lock 2nd Season                                                |   03/26/2023  |        -        |
 | [31245](https://myanimelist.net/anime/31245) |    movie   |  2016  |     music    |                                 Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai                                 |   03/26/2023  |        -        |
 | [11235](https://myanimelist.net/anime/11235) |     tv     |  2012  | visual_novel |                                                   Amagami SS+ Plus                                                  |   03/23/2023  |        -        |
 |  [9776](https://myanimelist.net/anime/9776)  |     tv     |  2011  | 4_koma_manga |                                                      A-Channel                                                      |   03/21/2023  |        -        |
