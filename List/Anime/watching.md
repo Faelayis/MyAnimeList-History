@@ -1,12 +1,12 @@
 # Watching (8)
 
-|                      id                      | Type | Season | Score |                     Title                     | Watched |    Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------: | :-----: | :----------: | :--------: |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                   One Piece                   |  1103/? | 12 hours ago | 01/01/2013 |
-| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |        Boku no Hero Academia 7th Season       |   1/?   |   Yesterday  | 05/07/2024 |
-| [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   9   |                  Wind Breaker                 |   5/13  |  4 days ago  | 04/14/2024 |
-| [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |    Kono Subarashii Sekai ni Shukufuku wo! 3   |   1/11  |  3 weeks ago | 04/11/2024 |
-| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |   Tensei shitara Slime Datta Ken 3rd Season   |   2/24  |  3 weeks ago | 04/06/2024 |
-| [54309](https://myanimelist.net/anime/54309) |  tv  |  2024  |   -   |           Blue Archive the Animation          |   1/12  |  Last month  | 04/08/2024 |
-| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   8   | Mashle: Shinkakusha Kouho Senbatsu Shiken-hen |  11/12  |  Last month  | 01/09/2024 |
-| [56731](https://myanimelist.net/anime/56731) |  tv  |  2024  |   8   |            Synduality: Noir Part 2            |  10/12  |  Last month  | 02/27/2024 |
+|                      id                      | Type | Season | Score |                     Title                     | Watched |   Updated   | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------: | :-----: | :---------: | :--------: |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                   One Piece                   |  1103/? |  Yesterday  | 01/01/2013 |
+| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |        Boku no Hero Academia 7th Season       |   1/?   |  2 days ago | 05/07/2024 |
+| [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   9   |                  Wind Breaker                 |   5/13  |  5 days ago | 04/14/2024 |
+| [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |    Kono Subarashii Sekai ni Shukufuku wo! 3   |   1/11  | 3 weeks ago | 04/11/2024 |
+| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |   Tensei shitara Slime Datta Ken 3rd Season   |   2/24  | 3 weeks ago | 04/06/2024 |
+| [54309](https://myanimelist.net/anime/54309) |  tv  |  2024  |   -   |           Blue Archive the Animation          |   1/12  |  Last month | 04/08/2024 |
+| [55813](https://myanimelist.net/anime/55813) |  tv  |  2024  |   8   | Mashle: Shinkakusha Kouho Senbatsu Shiken-hen |  11/12  |  Last month | 01/09/2024 |
+| [56731](https://myanimelist.net/anime/56731) |  tv  |  2024  |   8   |            Synduality: Noir Part 2            |  10/12  |  Last month | 02/27/2024 |
