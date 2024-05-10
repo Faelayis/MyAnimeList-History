@@ -1,7 +1,9 @@
-# Completed (459)
+# Completed (461)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  9 hours ago  | 02/27/2024 |  05/10/2024 |
+| [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |  9 hours ago  | 01/09/2024 |  05/10/2024 |
 | [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |   Last month  | 12/15/2023 |  03/24/2024 |
 | [58313](https://myanimelist.net/anime/58313) |    music   |  2024  |   7   |                                                Haru (2024)                                                |   Last month  | 03/05/2024 |  03/05/2024 |
 | [50416](https://myanimelist.net/anime/50416) |     tv     |  2023  |   6   |                                               Skip to Loafer                                              |  2 months ago | 05/10/2023 |  02/28/2024 |
@@ -82,9 +84,9 @@
 |  [9260](https://myanimelist.net/anime/9260)  |    movie   |  2016  |   7   |                                       Kizumonogatari I: Tekketsu-hen                                      |   Last year   | 11/26/2022 |  12/09/2022 |
 | [42916](https://myanimelist.net/anime/42916) |    movie   |  2021  |   5   |                       Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria                       |   Last year   | 11/28/2022 |  11/28/2022 |
 | [32268](https://myanimelist.net/anime/32268) |     ona    |  2016  |   5   |                                              Koyomimonogatari                                             |   Last year   | 11/26/2022 |  11/26/2022 |
-| [31181](https://myanimelist.net/anime/31181) |     tv     |  2015  |   7   |                                              Owarimonogatari                                              |  3 months ago | 11/26/2022 |  11/26/2022 |
+| [31181](https://myanimelist.net/anime/31181) |     tv     |  2015  |   7   |                                              Owarimonogatari                                              |  4 months ago | 11/26/2022 |  11/26/2022 |
 | [21855](https://myanimelist.net/anime/21855) | tv_special |  2014  |   4   |                                               Hanamonogatari                                              |   Last year   | 11/24/2022 |  11/24/2022 |
-| [28025](https://myanimelist.net/anime/28025) | tv_special |  2014  |   8   |                                              Tsukimonogatari                                              |  3 months ago | 11/24/2022 |  11/24/2022 |
+| [28025](https://myanimelist.net/anime/28025) | tv_special |  2014  |   8   |                                              Tsukimonogatari                                              |  4 months ago | 11/24/2022 |  11/24/2022 |
 | [17074](https://myanimelist.net/anime/17074) |     tv     |  2013  |   10  |                                      Monogatari Series: Second Season                                     |   Last year   | 11/20/2022 |  11/24/2022 |
 | [11597](https://myanimelist.net/anime/11597) |     tv     |  2012  |   7   |                                               Nisemonogatari                                              |   Last year   | 11/19/2022 |  11/20/2022 |
 |  [5081](https://myanimelist.net/anime/5081)  |     tv     |  2009  |   7   |                                               Bakemonogatari                                              |   Last year   | 11/18/2022 |  11/19/2022 |
@@ -109,7 +111,7 @@
 |   [226](https://myanimelist.net/anime/226)   |     tv     |  2004  |   5   |                                                 Elfen Lied                                                |   Last year   | 03/29/2021 |  09/03/2022 |
 | [50410](https://myanimelist.net/anime/50410) |    movie   |  2022  |   7   |                                            One Piece Film: Red                                            |   Last year   | 08/26/2022 |  08/26/2022 |
 | [39324](https://myanimelist.net/anime/39324) |     tv     |  2019  |   9   |              Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.              |   Last year   | 08/26/2022 |  08/26/2022 |
-| [40436](https://myanimelist.net/anime/40436) |     tv     |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |   Last year   | 05/13/2022 |  07/08/2022 |
+| [40436](https://myanimelist.net/anime/40436) |     tv     |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |  2 years ago  | 05/13/2022 |  07/08/2022 |
 |   [330](https://myanimelist.net/anime/330)   |     tv     |  2004  |   7   |                                               Midori no Hibi                                              |  2 years ago  | 07/06/2022 |  07/06/2022 |
 | [50631](https://myanimelist.net/anime/50631) |     tv     |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |  2 years ago  | 04/07/2022 |  06/29/2022 |
 | [42847](https://myanimelist.net/anime/42847) |    movie   |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |  2 years ago  | 06/27/2022 |  06/27/2022 |
