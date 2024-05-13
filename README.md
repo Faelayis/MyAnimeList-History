@@ -4,14 +4,14 @@ List Sync From MyAnimeList (update every day)
 
 #### Watching (6) ``2.17%``
 
-|                      id                      | Type | Season | Score |                   Title                   | Watched |   Updated  | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------: | :-----: | :--------: | :--------: |
-| [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   9   |                Wind Breaker               |   6/13  | 2 days ago | 04/14/2024 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                 One Piece                 |  1103/? | 4 days ago | 01/01/2013 |
-| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |      Boku no Hero Academia 7th Season     |   1/21  | 5 days ago | 05/07/2024 |
-| [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |  Kono Subarashii Sekai ni Shukufuku wo! 3 |   1/11  | Last month | 04/11/2024 |
-| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   | Tensei shitara Slime Datta Ken 3rd Season |   2/24  | Last month | 04/06/2024 |
-| [54309](https://myanimelist.net/anime/54309) |  tv  |  2024  |   -   |         Blue Archive the Animation        |   1/12  | Last month | 04/08/2024 |
+|                      id                      | Type | Season | Score |                   Title                   | Watched |    Updated   | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------: | :-----: | :----------: | :--------: |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                 One Piece                 |  1104/? | 10 hours ago | 01/01/2013 |
+| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |      Boku no Hero Academia 7th Season     |   2/21  | 14 hours ago | 05/07/2024 |
+| [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   9   |                Wind Breaker               |   6/13  |  3 days ago  | 04/14/2024 |
+| [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |  Kono Subarashii Sekai ni Shukufuku wo! 3 |   1/11  |  Last month  | 04/11/2024 |
+| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   | Tensei shitara Slime Datta Ken 3rd Season |   2/24  |  Last month  | 04/06/2024 |
+| [54309](https://myanimelist.net/anime/54309) |  tv  |  2024  |   -   |         Blue Archive the Animation        |   1/12  |  Last month  | 04/08/2024 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -19,8 +19,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |   2 days ago  | 02/27/2024 |  05/10/2024 |
-| [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |   2 days ago  | 01/09/2024 |  05/10/2024 |
+| [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |   3 days ago  | 02/27/2024 |  05/10/2024 |
+| [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |   3 days ago  | 01/09/2024 |  05/10/2024 |
 | [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |   Last month  | 12/15/2023 |  03/24/2024 |
 | [58313](https://myanimelist.net/anime/58313) |    music   |  2024  |   7   |                                                Haru (2024)                                                |   Last month  | 03/05/2024 |  03/05/2024 |
 | [50416](https://myanimelist.net/anime/50416) |     tv     |  2023  |   6   |                                               Skip to Loafer                                              |  2 months ago | 05/10/2023 |  02/28/2024 |
@@ -47,7 +47,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                   Ao no Exorcist: Shimane Illuminati-hen                                  |   1/12  | 3 months ago | 01/10/2024 |
+| [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                   Ao no Exorcist: Shimane Illuminati-hen                                  |   1/12  | 4 months ago | 01/10/2024 |
 | [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   5   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  | 7 months ago | 04/04/2023 |
 | [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   3/12  |   Last year  | 04/03/2023 |
 | [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                                       Boku no Kokoro no Yabai Yatsu                                       |   2/12  |   Last year  | 04/02/2023 |
