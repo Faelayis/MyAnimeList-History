@@ -1,4 +1,4 @@
-# Plan to Watch (276)
+# Plan to Watch (275)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -22,7 +22,7 @@
 | [50713](https://myanimelist.net/anime/50713) |     tv     |  2024  |  light_novel |                                        Mahouka Koukou no Rettousei 3rd Season                                       |  2 months ago |        -        |
 | [49828](https://myanimelist.net/anime/49828) |     tv     |  2022  |   original   |                                         Kidou Senshi Gundam: Suisei no Majo                                         |  2 months ago |        -        |
 | [57584](https://myanimelist.net/anime/57584) |    movie   |    -   |  light_novel |                               Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen                               |  2 months ago |        -        |
-| [55129](https://myanimelist.net/anime/55129) |     tv     |  2024  |     manga    |                                          Oroka na Tenshi wa Akuma to Odoru                                          |  2 months ago |        -        |
+| [55129](https://myanimelist.net/anime/55129) |     tv     |  2024  |     manga    |                                          Oroka na Tenshi wa Akuma to Odoru                                          |  3 months ago |        -        |
 | [30196](https://myanimelist.net/anime/30196) | tv_special |  2015  |     manga    |                                               Tsubasa to Hotaru (2015)                                              |  3 months ago |        -        |
 | [52420](https://myanimelist.net/anime/52420) |     pv     |  2022  |     game     |                                   Blue Archive: 1.5-shuunen Kinen Short Animation                                   |  3 months ago |        -        |
 | [53670](https://myanimelist.net/anime/53670) |     ona    |  2022  |     game     |                                         Blue Archive: Beautiful Day Dreamer                                         |  3 months ago |        -        |
@@ -44,7 +44,6 @@
 | [56876](https://myanimelist.net/anime/56876) |     tv     |    -   |  light_novel |                    Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season                   |  5 months ago |        -        |
 | [53065](https://myanimelist.net/anime/53065) |   unknown  |    -   |     manga    |                                      Sono Bisque Doll wa Koi wo Suru (Zoku-hen)                                     |  5 months ago |        -        |
 | [54857](https://myanimelist.net/anime/54857) |     tv     |  2024  |  light_novel |                                   Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season                                  |  5 months ago |        -        |
-| [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |     manga    |                                         Kimetsu no Yaiba: Hashira Geiko-hen                                         |  5 months ago |        -        |
 | [54829](https://myanimelist.net/anime/54829) |     tv     |  2024  |     manga    |                                           Urusei Yatsura (2022) 2nd Season                                          |  5 months ago |        -        |
 | [56685](https://myanimelist.net/anime/56685) |    movie   |  2023  |     manga    |                                       Boku no Hero Academia: UA Heroes Battle                                       |  5 months ago |        -        |
 | [55072](https://myanimelist.net/anime/55072) |     ona    |  2023  |     game     |                                               Xiaoke de Huatu Xie Hua                                               |  5 months ago |        -        |
