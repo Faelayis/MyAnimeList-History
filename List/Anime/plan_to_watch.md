@@ -1,4 +1,4 @@
-# Plan to Watch (275)
+# Plan to Watch (274)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -12,7 +12,7 @@
 | [53865](https://myanimelist.net/anime/53865) |     tv     |  2024  |     manga    |                                            Yozakura-san Chi no Daisakusen                                           |   Last month  |        -        |
 | [58426](https://myanimelist.net/anime/58426) |     tv     |  2024  |     manga    |                                            Shikanoko Nokonoko Koshitantan                                           |   Last month  |        -        |
 | [57611](https://myanimelist.net/anime/57611) |     tv     |  2024  |   web_manga  |                                                 Kimi wa Meido-sama.                                                 |   Last month  |        -        |
-| [53835](https://myanimelist.net/anime/53835) |     tv     |  2024  |  light_novel |                                                    Unnamed Memory                                                   |   Last month  |        -        |
+| [53835](https://myanimelist.net/anime/53835) |     tv     |  2024  |  light_novel |                                                    Unnamed Memory                                                   |  2 months ago |        -        |
 | [56609](https://myanimelist.net/anime/56609) |    movie   |  2024  |  light_novel |                                             Kizumonogatari: Koyomi Vamp                                             |  2 months ago |        -        |
 | [57864](https://myanimelist.net/anime/57864) |     ona    |  2024  |  light_novel |                                       Monogatari Series: Off & Monster Season                                       |  2 months ago |        -        |
 | [53410](https://myanimelist.net/anime/53410) |     tv     |  2024  |     manga    |                                                 Yuru Camp△ Season 3                                                 |  2 months ago |        -        |
@@ -22,10 +22,9 @@
 | [50713](https://myanimelist.net/anime/50713) |     tv     |  2024  |  light_novel |                                        Mahouka Koukou no Rettousei 3rd Season                                       |  2 months ago |        -        |
 | [49828](https://myanimelist.net/anime/49828) |     tv     |  2022  |   original   |                                         Kidou Senshi Gundam: Suisei no Majo                                         |  3 months ago |        -        |
 | [57584](https://myanimelist.net/anime/57584) |    movie   |    -   |  light_novel |                               Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen                               |  3 months ago |        -        |
-| [55129](https://myanimelist.net/anime/55129) |     tv     |  2024  |     manga    |                                          Oroka na Tenshi wa Akuma to Odoru                                          |  3 months ago |        -        |
 | [30196](https://myanimelist.net/anime/30196) | tv_special |  2015  |     manga    |                                               Tsubasa to Hotaru (2015)                                              |  3 months ago |        -        |
-| [52420](https://myanimelist.net/anime/52420) |     pv     |  2022  |     game     |                                   Blue Archive: 1.5-shuunen Kinen Short Animation                                   |  3 months ago |        -        |
-| [53670](https://myanimelist.net/anime/53670) |     ona    |  2022  |     game     |                                         Blue Archive: Beautiful Day Dreamer                                         |  3 months ago |        -        |
+| [52420](https://myanimelist.net/anime/52420) |     pv     |  2022  |     game     |                                   Blue Archive: 1.5-shuunen Kinen Short Animation                                   |  4 months ago |        -        |
+| [53670](https://myanimelist.net/anime/53670) |     ona    |  2022  |     game     |                                         Blue Archive: Beautiful Day Dreamer                                         |  4 months ago |        -        |
 | [57980](https://myanimelist.net/anime/57980) |     cm     |  2024  |   original   |                             Ayataka Spy x Family Movie Campaign Ayataka de Hotto Hitoiki                            |  4 months ago |        -        |
 | [33255](https://myanimelist.net/anime/33255) |     tv     |  2016  |     manga    |                                                 Saiki Kusuo no Ψ-nan                                                |  4 months ago |        -        |
 | [33280](https://myanimelist.net/anime/33280) |    movie   |  2017  | 4_koma_manga |                                     Gochuumon wa Usagi desu ka?? Dear My Sister                                     |  4 months ago |        -        |

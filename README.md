@@ -2,17 +2,18 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (7) ``2.55%``
+#### Watching (8) ``2.92%``
 
-|                      id                      | Type | Season | Score |                   Title                   | Watched |   Updated  | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------: | :-----: | :--------: | :--------: |
-| [55701](https://myanimelist.net/anime/55701) |  tv  |  2024  |   9   |    Kimetsu no Yaiba: Hashira Geiko-hen    |   2/?   | 2 days ago | 05/15/2024 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                 One Piece                 |  1105/? | 2 days ago | 01/01/2013 |
-| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |      Boku no Hero Academia 7th Season     |   3/21  | 3 days ago | 05/07/2024 |
-| [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   9   |                Wind Breaker               |   7/13  | 5 days ago | 04/14/2024 |
-| [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |  Kono Subarashii Sekai ni Shukufuku wo! 3 |   2/11  | 5 days ago | 04/11/2024 |
-| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   | Tensei shitara Slime Datta Ken 3rd Season |   2/24  | Last month | 04/06/2024 |
-| [54309](https://myanimelist.net/anime/54309) |  tv  |  2024  |   -   |         Blue Archive the Animation        |   1/12  | Last month | 04/08/2024 |
+|                      id                      | Type | Season | Score |                   Title                   | Watched |    Updated   | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------: | :-----: | :----------: | :--------: |
+| [55129](https://myanimelist.net/anime/55129) |  tv  |  2024  |   -   |     Oroka na Tenshi wa Akuma to Odoru     |   1/12  | 12 hours ago | 05/23/2024 |
+| [55701](https://myanimelist.net/anime/55701) |  tv  |  2024  |   9   |    Kimetsu no Yaiba: Hashira Geiko-hen    |   2/?   |  3 days ago  | 05/15/2024 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                 One Piece                 |  1105/? |  3 days ago  | 01/01/2013 |
+| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |      Boku no Hero Academia 7th Season     |   3/21  |  4 days ago  | 05/07/2024 |
+| [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   9   |                Wind Breaker               |   7/13  |  6 days ago  | 04/14/2024 |
+| [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |  Kono Subarashii Sekai ni Shukufuku wo! 3 |   2/11  |  6 days ago  | 04/11/2024 |
+| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   | Tensei shitara Slime Datta Ken 3rd Season |   2/24  |  Last month  | 04/06/2024 |
+| [54309](https://myanimelist.net/anime/54309) |  tv  |  2024  |   -   |         Blue Archive the Animation        |   1/12  |  Last month  | 04/08/2024 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -23,7 +24,7 @@ List Sync From MyAnimeList (update every day)
 | [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |   Last week   | 02/27/2024 |  05/10/2024 |
 | [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |   Last week   | 01/09/2024 |  05/10/2024 |
 | [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |  2 months ago | 12/15/2023 |  03/24/2024 |
-| [58313](https://myanimelist.net/anime/58313) |    music   |  2024  |   7   |                                                Haru (2024)                                                |   Last month  | 03/05/2024 |  03/05/2024 |
+| [58313](https://myanimelist.net/anime/58313) |    music   |  2024  |   7   |                                                Haru (2024)                                                |  2 months ago | 03/05/2024 |  03/05/2024 |
 | [50416](https://myanimelist.net/anime/50416) |     tv     |  2023  |   6   |                                               Skip to Loafer                                              |  3 months ago | 05/10/2023 |  02/28/2024 |
 | [53026](https://myanimelist.net/anime/53026) |     tv     |  2023  |   8   |                                              Synduality: Noir                                             |  3 months ago | 02/27/2024 |  02/27/2024 |
 
@@ -58,7 +59,7 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``46.14%``
+#### Plan to Watch ``45.90%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -70,4 +71,4 @@ List Sync From MyAnimeList (update every day)
 | [57647](https://myanimelist.net/anime/57647) |    movie   |  2024  |     game     |                                   Uma Musume: Pretty Derby - Shin Jidai no Tobira                                   |   Last month  |        -        |
 
 
-*[268 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[267 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
