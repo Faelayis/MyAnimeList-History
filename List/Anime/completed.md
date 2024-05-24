@@ -2,8 +2,8 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |   Last week   | 02/27/2024 |  05/10/2024 |
-| [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |   Last week   | 01/09/2024 |  05/10/2024 |
+| [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  2 weeks ago  | 02/27/2024 |  05/10/2024 |
+| [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |  2 weeks ago  | 01/09/2024 |  05/10/2024 |
 | [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |  2 months ago | 12/15/2023 |  03/24/2024 |
 | [58313](https://myanimelist.net/anime/58313) |    music   |  2024  |   7   |                                                Haru (2024)                                                |  2 months ago | 03/05/2024 |  03/05/2024 |
 | [50416](https://myanimelist.net/anime/50416) |     tv     |  2023  |   6   |                                               Skip to Loafer                                              |  3 months ago | 05/10/2023 |  02/28/2024 |
@@ -244,7 +244,7 @@
 | [48580](https://myanimelist.net/anime/48580) |     tv     |  2021  |   9   |                                              Vanitas no Karte                                             |  2 years ago  | 08/24/2021 |  09/18/2021 |
 | [41402](https://myanimelist.net/anime/41402) |     tv     |  2021  |   7   |                                     Mairimashita! Iruma-kun 2nd Season                                    |  2 years ago  | 05/02/2021 |  09/12/2021 |
 | [44931](https://myanimelist.net/anime/44931) |     ova    |  2021  |   9   |                                            Tonikaku Kawaii: SNS                                           |  2 years ago  | 08/21/2021 |  08/21/2021 |
-| [33836](https://myanimelist.net/anime/33836) |     tv     |  2017  |   6   |                                                   Seiren                                                  |  2 years ago  | 08/19/2021 |  08/19/2021 |
+| [33836](https://myanimelist.net/anime/33836) |     tv     |  2017  |   6   |                                                   Seiren                                                  |  3 years ago  | 08/19/2021 |  08/19/2021 |
 | [24133](https://myanimelist.net/anime/24133) |     tv     |  2015  |   9   |                                     Taimadou Gakuen 35 Shiken Shoutai                                     |  2 years ago  | 08/17/2021 |  08/18/2021 |
 | [40083](https://myanimelist.net/anime/40083) |   special  |  2019  |   6   |                               Arifureta Shokugyou de Sekai Saikyou Specials                               |  3 years ago  | 08/11/2021 |  08/11/2021 |
 | [36882](https://myanimelist.net/anime/36882) |     tv     |  2019  |   7   |                                    Arifureta Shokugyou de Sekai Saikyou                                   |  3 years ago  | 07/06/2021 |  08/11/2021 |
