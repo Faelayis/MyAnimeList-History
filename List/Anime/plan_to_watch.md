@@ -1,4 +1,4 @@
-# Plan to Watch (274)
+# Plan to Watch (273)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -27,10 +27,10 @@
 | [53670](https://myanimelist.net/anime/53670) |     ona    |  2022  |     game     |                                         Blue Archive: Beautiful Day Dreamer                                         |  4 months ago |        -        |
 | [57980](https://myanimelist.net/anime/57980) |     cm     |  2024  |   original   |                             Ayataka Spy x Family Movie Campaign Ayataka de Hotto Hitoiki                            |  4 months ago |        -        |
 | [33255](https://myanimelist.net/anime/33255) |     tv     |  2016  |     manga    |                                                 Saiki Kusuo no Ψ-nan                                                |  4 months ago |        -        |
-| [33280](https://myanimelist.net/anime/33280) |    movie   |  2017  | 4_koma_manga |                                     Gochuumon wa Usagi desu ka?? Dear My Sister                                     |  4 months ago |        -        |
-| [38337](https://myanimelist.net/anime/38337) |     tv     |  2020  | 4_koma_manga |                                          Gochuumon wa Usagi desu ka? Bloom                                          |  4 months ago |        -        |
-| [21273](https://myanimelist.net/anime/21273) |     tv     |  2014  | 4_koma_manga |                                             Gochuumon wa Usagi desu ka?                                             |  4 months ago |        -        |
-| [29787](https://myanimelist.net/anime/29787) |     tv     |  2015  | 4_koma_manga |                                             Gochuumon wa Usagi desu ka??                                            |  4 months ago |        -        |
+| [33280](https://myanimelist.net/anime/33280) |    movie   |  2017  | 4_koma_manga |                                     Gochuumon wa Usagi desu ka?? Dear My Sister                                     |  5 months ago |        -        |
+| [38337](https://myanimelist.net/anime/38337) |     tv     |  2020  | 4_koma_manga |                                          Gochuumon wa Usagi desu ka? Bloom                                          |  5 months ago |        -        |
+| [21273](https://myanimelist.net/anime/21273) |     tv     |  2014  | 4_koma_manga |                                             Gochuumon wa Usagi desu ka?                                             |  5 months ago |        -        |
+| [29787](https://myanimelist.net/anime/29787) |     tv     |  2015  | 4_koma_manga |                                             Gochuumon wa Usagi desu ka??                                            |  5 months ago |        -        |
 | [34561](https://myanimelist.net/anime/34561) |     tv     |  2017  |   original   |                                                     Re:Creators                                                     |  5 months ago |        -        |
 | [55855](https://myanimelist.net/anime/55855) |     tv     |  2024  |     manga    |                                           Kuroshitsuji: Kishuku Gakkou-hen                                          |  5 months ago |        -        |
 | [53529](https://myanimelist.net/anime/53529) |    movie   |    -   |  light_novel |                                          Sword Art Online (Original Movie)                                          |  5 months ago |        -        |
@@ -63,11 +63,10 @@
 | [55357](https://myanimelist.net/anime/55357) |    movie   |  2024  | 4_koma_manga |                                                Bocchi the Rock! Movie                                               | 11 months ago |        -        |
 | [48896](https://myanimelist.net/anime/48896) |    movie   |    -   |  light_novel |                                           Overlord Movie 3: Sei Oukoku-hen                                          | 11 months ago |        -        |
 | [55825](https://myanimelist.net/anime/55825) |     tv     |    -   |     manga    |                                                Jigokuraku 2nd Season                                                | 11 months ago |        -        |
-| [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |     manga    |                                        Haikyuu!! Movie: Gomisuteba no Kessen                                        | 11 months ago |        -        |
 | [54898](https://myanimelist.net/anime/54898) |     tv     |  2023  |     manga    |                                             Bungou Stray Dogs 5th Season                                            | 11 months ago |        -        |
 | [54915](https://myanimelist.net/anime/54915) | tv_special |  2023  |     manga    |                                                5-toubun no Hanayome∽                                                | 11 months ago |        -        |
 | [54856](https://myanimelist.net/anime/54856) |     tv     |  2023  |     manga    |                                                   Horimiya: Piece                                                   | 11 months ago |        -        |
-| [55791](https://myanimelist.net/anime/55791) |     tv     |  2024  |     manga    |                                                "Oshi no Ko" Season 2                                                | 11 months ago |        -        |
+| [55791](https://myanimelist.net/anime/55791) |     tv     |  2024  |     manga    |                                                "Oshi no Ko" Season 2                                                |   06/29/2023  |        -        |
 | [11577](https://myanimelist.net/anime/11577) |    movie   |  2013  | visual_novel |                                      Steins;Gate Movie: Fuka Ryouiki no Déjà vu                                     |   05/31/2023  |        -        |
 | [34100](https://myanimelist.net/anime/34100) |    movie   |  2017  |     manga    |                                Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai                                |   05/18/2023  |        -        |
 | [46422](https://myanimelist.net/anime/46422) |     tv     |  2023  |     manga    |                                               Niehime to Kemono no Ou                                               |   05/17/2023  |        -        |
