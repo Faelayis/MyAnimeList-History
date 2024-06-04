@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |   3 days ago  | 05/30/2024 |  05/30/2024 |
+| [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |   4 days ago  | 05/30/2024 |  05/30/2024 |
 | [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  3 weeks ago  | 02/27/2024 |  05/10/2024 |
 | [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |  3 weeks ago  | 01/09/2024 |  05/10/2024 |
 | [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |  2 months ago | 12/15/2023 |  03/24/2024 |
