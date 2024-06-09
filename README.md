@@ -6,11 +6,11 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                   Title                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------: | :-----: | :----------: | :--------: |
-| [55701](https://myanimelist.net/anime/55701) |  tv  |  2024  |   9   |    Kimetsu no Yaiba: Hashira Geiko-hen    |   4/?   |  5 days ago  | 05/15/2024 |
-| [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   9   |                Wind Breaker               |   9/13  |  6 days ago  | 04/14/2024 |
+| [55701](https://myanimelist.net/anime/55701) |  tv  |  2024  |   9   |    Kimetsu no Yaiba: Hashira Geiko-hen    |   4/?   |  6 days ago  | 05/15/2024 |
+| [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   9   |                Wind Breaker               |   9/13  |   Last week  | 04/14/2024 |
 | [55129](https://myanimelist.net/anime/55129) |  tv  |  2024  |   -   |     Oroka na Tenshi wa Akuma to Odoru     |   1/12  |  2 weeks ago | 05/23/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                 One Piece                 |  1105/? |  2 weeks ago | 01/01/2013 |
-| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |      Boku no Hero Academia 7th Season     |   3/21  |  2 weeks ago | 05/07/2024 |
+| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |      Boku no Hero Academia 7th Season     |   3/21  |  3 weeks ago | 05/07/2024 |
 | [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |  Kono Subarashii Sekai ni Shukufuku wo! 3 |   2/11  |  3 weeks ago | 04/11/2024 |
 | [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   | Tensei shitara Slime Datta Ken 3rd Season |   2/24  | 2 months ago | 04/06/2024 |
 | [54309](https://myanimelist.net/anime/54309) |  tv  |  2024  |   -   |         Blue Archive the Animation        |   1/12  | 2 months ago | 04/08/2024 |
@@ -35,12 +35,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [54449](https://myanimelist.net/anime/54449) |    tv   |  2024  |   -   |                                                     Ishura                                                    |   6/12  |   Last month  | 03/22/2024 |
-| [37984](https://myanimelist.net/anime/37984) |    tv   |  2021  |   -   |                                             Kumo desu ga, Nani ka?                                            |   6/24  |   Last month  | 03/14/2024 |
-| [52741](https://myanimelist.net/anime/52741) |    tv   |  2023  |   -   |                                                 Undead Unluck                                                 |  10/24  |   Last month  | 02/04/2024 |
-| [54492](https://myanimelist.net/anime/54492) |    tv   |  2023  |   -   |                                             Kusuriya no Hitorigoto                                            |  15/24  |   Last month  | 01/13/2024 |
+| [54449](https://myanimelist.net/anime/54449) |    tv   |  2024  |   -   |                                                     Ishura                                                    |   6/12  |  2 months ago | 03/22/2024 |
+| [37984](https://myanimelist.net/anime/37984) |    tv   |  2021  |   -   |                                             Kumo desu ga, Nani ka?                                            |   6/24  |  2 months ago | 03/14/2024 |
+| [52741](https://myanimelist.net/anime/52741) |    tv   |  2023  |   -   |                                                 Undead Unluck                                                 |  10/24  |  2 months ago | 02/04/2024 |
+| [54492](https://myanimelist.net/anime/54492) |    tv   |  2023  |   -   |                                             Kusuriya no Hitorigoto                                            |  15/24  |  2 months ago | 01/13/2024 |
 | [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |  3 months ago | 01/08/2024 |
-| [52299](https://myanimelist.net/anime/52299) |    tv   |  2024  |   -   |                                            Ore dake Level Up na Ken                                           |   4/12  |   Last month  | 01/07/2024 |
+| [52299](https://myanimelist.net/anime/52299) |    tv   |  2024  |   -   |                                            Ore dake Level Up na Ken                                           |   4/12  |  2 months ago | 01/07/2024 |
 
 
 *[88 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
