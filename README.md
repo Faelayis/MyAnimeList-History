@@ -11,7 +11,7 @@ List Sync From MyAnimeList (update every day)
 | [55129](https://myanimelist.net/anime/55129) |  tv  |  2024  |   -   |     Oroka na Tenshi wa Akuma to Odoru     |   1/12  |  3 weeks ago | 05/23/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                 One Piece                 |  1105/? |  3 weeks ago | 01/01/2013 |
 | [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |      Boku no Hero Academia 7th Season     |   3/21  |  3 weeks ago | 05/07/2024 |
-| [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |  Kono Subarashii Sekai ni Shukufuku wo! 3 |   2/11  |  3 weeks ago | 04/11/2024 |
+| [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |  Kono Subarashii Sekai ni Shukufuku wo! 3 |   2/11  |  Last month  | 04/11/2024 |
 | [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   | Tensei shitara Slime Datta Ken 3rd Season |   2/24  | 2 months ago | 04/06/2024 |
 | [54309](https://myanimelist.net/anime/54309) |  tv  |  2024  |   -   |         Blue Archive the Animation        |   1/12  | 2 months ago | 04/08/2024 |
 
@@ -21,7 +21,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |   Last week   | 05/30/2024 |  05/30/2024 |
+| [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |  2 weeks ago  | 05/30/2024 |  05/30/2024 |
 | [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |   Last month  | 02/27/2024 |  05/10/2024 |
 | [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |   Last month  | 01/09/2024 |  05/10/2024 |
 | [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |  2 months ago | 12/15/2023 |  03/24/2024 |
