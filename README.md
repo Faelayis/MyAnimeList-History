@@ -26,7 +26,7 @@ List Sync From MyAnimeList (update every day)
 | [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |   Last month  | 01/09/2024 |  05/10/2024 |
 | [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |  3 months ago | 12/15/2023 |  03/24/2024 |
 | [58313](https://myanimelist.net/anime/58313) |    music   |  2024  |   7   |                                                Haru (2024)                                                |  2 months ago | 03/05/2024 |  03/05/2024 |
-| [50416](https://myanimelist.net/anime/50416) |     tv     |  2023  |   6   |                                               Skip to Loafer                                              |  3 months ago | 05/10/2023 |  02/28/2024 |
+| [50416](https://myanimelist.net/anime/50416) |     tv     |  2023  |   6   |                                               Skip to Loafer                                              |  4 months ago | 05/10/2023 |  02/28/2024 |
 
 
 *[456 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
