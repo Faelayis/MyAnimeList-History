@@ -1,7 +1,9 @@
-# Plan to Watch (273)
+# Plan to Watch (275)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [59027](https://myanimelist.net/anime/59027) |     tv     |    -   |     manga    |                                                Spy x Family Season 3                                                |  19 hours ago |        -        |
+| [59088](https://myanimelist.net/anime/59088) |   unknown  |    -   |     manga    |                                              Tokyo Revengers (Zoku-hen)                                             |  19 hours ago |        -        |
 | [38481](https://myanimelist.net/anime/38481) |     tv     |  2020  |     manga    |                                              Toaru Kagaku no Railgun T                                              |   Last month  |        -        |
 | [58749](https://myanimelist.net/anime/58749) |     tv     |    -   |     game     |                                              Arknights: Rise from Ember                                             |   Last month  |        -        |
 | [52196](https://myanimelist.net/anime/52196) |     tv     |  2024  |  light_novel |                                                    Date A Live V                                                    |  2 months ago |        -        |
@@ -11,7 +13,7 @@
 | [56738](https://myanimelist.net/anime/56738) |     tv     |  2024  |   web_manga  |                                      Shinigami Bocchan to Kuro Maid 3rd Season                                      |  2 months ago |        -        |
 | [53865](https://myanimelist.net/anime/53865) |     tv     |  2024  |     manga    |                                            Yozakura-san Chi no Daisakusen                                           |  2 months ago |        -        |
 | [58426](https://myanimelist.net/anime/58426) |     tv     |  2024  |     manga    |                                            Shikanoko Nokonoko Koshitantan                                           |  2 months ago |        -        |
-| [57611](https://myanimelist.net/anime/57611) |     tv     |  2024  |   web_manga  |                                                 Kimi wa Meido-sama.                                                 |  2 months ago |        -        |
+| [57611](https://myanimelist.net/anime/57611) |     tv     |  2024  |   web_manga  |                                                 Kimi wa Meido-sama.                                                 |  3 months ago |        -        |
 | [53835](https://myanimelist.net/anime/53835) |     tv     |  2024  |  light_novel |                                                    Unnamed Memory                                                   |  3 months ago |        -        |
 | [56609](https://myanimelist.net/anime/56609) |    movie   |  2024  |  light_novel |                                             Kizumonogatari: Koyomi Vamp                                             |  3 months ago |        -        |
 | [57864](https://myanimelist.net/anime/57864) |     ona    |  2024  |  light_novel |                                       Monogatari Series: Off & Monster Season                                       |  3 months ago |        -        |
