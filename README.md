@@ -39,7 +39,7 @@ List Sync From MyAnimeList (update every day)
 | [37984](https://myanimelist.net/anime/37984) |    tv   |  2021  |   -   |                                             Kumo desu ga, Nani ka?                                            |   6/24  |  2 months ago | 03/14/2024 |
 | [52741](https://myanimelist.net/anime/52741) |    tv   |  2023  |   -   |                                                 Undead Unluck                                                 |  10/24  |  2 months ago | 02/04/2024 |
 | [54492](https://myanimelist.net/anime/54492) |    tv   |  2023  |   -   |                                             Kusuriya no Hitorigoto                                            |  15/24  |  2 months ago | 01/13/2024 |
-| [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |  3 months ago | 01/08/2024 |
+| [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |  4 months ago | 01/08/2024 |
 | [52299](https://myanimelist.net/anime/52299) |    tv   |  2024  |   -   |                                            Ore dake Level Up na Ken                                           |   4/12  |  2 months ago | 01/07/2024 |
 
 
@@ -63,8 +63,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59027](https://myanimelist.net/anime/59027) |     tv     |    -   |     manga    |                                                Spy x Family Season 3                                                |   4 days ago  |        -        |
-| [59088](https://myanimelist.net/anime/59088) |   unknown  |    -   |     manga    |                                              Tokyo Revengers (Zoku-hen)                                             |   4 days ago  |        -        |
+| [59027](https://myanimelist.net/anime/59027) |     tv     |    -   |     manga    |                                                Spy x Family Season 3                                                |   5 days ago  |        -        |
+| [59088](https://myanimelist.net/anime/59088) |   unknown  |    -   |     manga    |                                              Tokyo Revengers (Zoku-hen)                                             |   5 days ago  |        -        |
 | [38481](https://myanimelist.net/anime/38481) |     tv     |  2020  |     manga    |                                              Toaru Kagaku no Railgun T                                              |   Last month  |        -        |
 | [58749](https://myanimelist.net/anime/58749) |     tv     |    -   |     game     |                                              Arknights: Rise from Ember                                             |  2 months ago |        -        |
 | [52196](https://myanimelist.net/anime/52196) |     tv     |  2024  |  light_novel |                                                    Date A Live V                                                    |  2 months ago |        -        |
