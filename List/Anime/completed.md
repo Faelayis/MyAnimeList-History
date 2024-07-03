@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  20 hours ago | 05/15/2024 |  07/01/2024 |
+| [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |   Yesterday   | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |   Last month  | 05/30/2024 |  05/30/2024 |
 | [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |   Last month  | 02/27/2024 |  05/10/2024 |
 | [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |   Last month  | 01/09/2024 |  05/10/2024 |
@@ -226,7 +226,7 @@
 |  [8074](https://myanimelist.net/anime/8074)  |     tv     |  2010  |   7   |                                           Highschool of the Dead                                          |  2 years ago  | 10/04/2021 |  10/16/2021 |
 | [48849](https://myanimelist.net/anime/48849) |     tv     |  2021  |   9   |                                                 Sonny Boy                                                 |  2 years ago  | 08/07/2021 |  10/16/2021 |
 | [38329](https://myanimelist.net/anime/38329) |    movie   |  2019  |   9   |                           Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai                          |  2 years ago  | 10/14/2021 |  10/14/2021 |
-| [42625](https://myanimelist.net/anime/42625) |     tv     |  2021  |   10  |                                        Heion Sedai no Idaten-tachi                                        |  2 years ago  | 08/10/2021 |  09/29/2021 |
+| [42625](https://myanimelist.net/anime/42625) |     tv     |  2021  |   10  |                                        Heion Sedai no Idaten-tachi                                        |  3 years ago  | 08/10/2021 |  09/29/2021 |
 | [31478](https://myanimelist.net/anime/31478) |     tv     |  2016  |   6   |                                             Bungou Stray Dogs                                             |  3 years ago  | 09/25/2021 |  09/28/2021 |
 | [43814](https://myanimelist.net/anime/43814) |     tv     |  2021  |   7   |                                          Deatte 5-byou de Battle                                          |  3 years ago  | 07/20/2021 |  09/28/2021 |
 | [41710](https://myanimelist.net/anime/41710) |     tv     |  2021  |   7   |                                  Genjitsu Shugi Yuusha no Oukoku Saikenki                                 |  3 years ago  | 07/04/2021 |  09/27/2021 |

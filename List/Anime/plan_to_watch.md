@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59192](https://myanimelist.net/anime/59192) |    movie   |    -   |     manga    |                                        Kimetsu no Yaiba Movie: Mugen Jou-hen                                        |   Yesterday   |        -        |
+| [59192](https://myanimelist.net/anime/59192) |    movie   |    -   |     manga    |                                        Kimetsu no Yaiba Movie: Mugen Jou-hen                                        |   2 days ago  |        -        |
 | [59027](https://myanimelist.net/anime/59027) |     tv     |    -   |     manga    |                                                Spy x Family Season 3                                                |   Last week   |        -        |
 | [59088](https://myanimelist.net/anime/59088) |   unknown  |    -   |     manga    |                                              Tokyo Revengers (Zoku-hen)                                             |   Last week   |        -        |
 | [38481](https://myanimelist.net/anime/38481) |     tv     |  2020  |     manga    |                                              Toaru Kagaku no Railgun T                                              |  2 months ago |        -        |
