@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (7) ``2.54%``
+#### Watching (7) ``2.49%``
 
 |                      id                      | Type | Season | Score |                   Title                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------: | :-----: | :----------: | :--------: |
@@ -16,11 +16,11 @@ List Sync From MyAnimeList (update every day)
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``88.77%``
+#### Completed ``89.85%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |   Yesterday   | 05/15/2024 |  07/01/2024 |
+| [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |   2 days ago  | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |   Last month  | 05/30/2024 |  05/30/2024 |
 | [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |   Last month  | 02/27/2024 |  05/10/2024 |
 | [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |   Last month  | 01/09/2024 |  05/10/2024 |
@@ -30,7 +30,7 @@ List Sync From MyAnimeList (update every day)
 
 *[457 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``12.05%``
+#### On Hold ``11.97%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -44,7 +44,7 @@ List Sync From MyAnimeList (update every day)
 
 *[88 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``4.05%``
+#### Dropped ``4.02%``
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
@@ -58,16 +58,16 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``46.15%``
+#### Plan to Watch ``46.99%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59192](https://myanimelist.net/anime/59192) |    movie   |    -   |     manga    |                                        Kimetsu no Yaiba Movie: Mugen Jou-hen                                        |   2 days ago  |        -        |
-| [59027](https://myanimelist.net/anime/59027) |     tv     |    -   |     manga    |                                                Spy x Family Season 3                                                |   Last week   |        -        |
-| [59088](https://myanimelist.net/anime/59088) |   unknown  |    -   |     manga    |                                              Tokyo Revengers (Zoku-hen)                                             |   Last week   |        -        |
-| [38481](https://myanimelist.net/anime/38481) |     tv     |  2020  |     manga    |                                              Toaru Kagaku no Railgun T                                              |  2 months ago |        -        |
-| [58749](https://myanimelist.net/anime/58749) |     tv     |    -   |     game     |                                              Arknights: Rise from Ember                                             |  2 months ago |        -        |
-| [52196](https://myanimelist.net/anime/52196) |     tv     |  2024  |  light_novel |                                                    Date A Live V                                                    |  2 months ago |        -        |
+| [59139](https://myanimelist.net/anime/59139) |     tv     |    -   |  light_novel |                                     Tsuki ga Michibiku Isekai Douchuu 3rd Season                                    |  18 hours ago |        -        |
+| [59174](https://myanimelist.net/anime/59174) |    movie   |    -   |  light_novel |                                Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen                               |  18 hours ago |        -        |
+| [59193](https://myanimelist.net/anime/59193) |     tv     |    -   |  light_novel |                                     Mushoku Tensei III: Isekai Ittara Honki Dasu                                    |  18 hours ago |        -        |
+| [59142](https://myanimelist.net/anime/59142) |     tv     |  2025  |  light_novel |                                                 Unnamed Memory Act.2                                                |  18 hours ago |        -        |
+| [59160](https://myanimelist.net/anime/59160) |     tv     |    -   |   web_manga  |                                                Wind Breaker Season 2                                                |  18 hours ago |        -        |
+| [59192](https://myanimelist.net/anime/59192) |    movie   |    -   |     manga    |                                        Kimetsu no Yaiba Movie: Mugen Jou-hen                                        |   3 days ago  |        -        |
 
 
-*[269 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[274 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*

@@ -1,8 +1,13 @@
-# Plan to Watch (276)
+# Plan to Watch (281)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59192](https://myanimelist.net/anime/59192) |    movie   |    -   |     manga    |                                        Kimetsu no Yaiba Movie: Mugen Jou-hen                                        |   2 days ago  |        -        |
+| [59139](https://myanimelist.net/anime/59139) |     tv     |    -   |  light_novel |                                     Tsuki ga Michibiku Isekai Douchuu 3rd Season                                    |  18 hours ago |        -        |
+| [59174](https://myanimelist.net/anime/59174) |    movie   |    -   |  light_novel |                                Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen                               |  18 hours ago |        -        |
+| [59193](https://myanimelist.net/anime/59193) |     tv     |    -   |  light_novel |                                     Mushoku Tensei III: Isekai Ittara Honki Dasu                                    |  18 hours ago |        -        |
+| [59142](https://myanimelist.net/anime/59142) |     tv     |  2025  |  light_novel |                                                 Unnamed Memory Act.2                                                |  18 hours ago |        -        |
+| [59160](https://myanimelist.net/anime/59160) |     tv     |    -   |   web_manga  |                                                Wind Breaker Season 2                                                |  18 hours ago |        -        |
+| [59192](https://myanimelist.net/anime/59192) |    movie   |    -   |     manga    |                                        Kimetsu no Yaiba Movie: Mugen Jou-hen                                        |   3 days ago  |        -        |
 | [59027](https://myanimelist.net/anime/59027) |     tv     |    -   |     manga    |                                                Spy x Family Season 3                                                |   Last week   |        -        |
 | [59088](https://myanimelist.net/anime/59088) |   unknown  |    -   |     manga    |                                              Tokyo Revengers (Zoku-hen)                                             |   Last week   |        -        |
 | [38481](https://myanimelist.net/anime/38481) |     tv     |  2020  |     manga    |                                              Toaru Kagaku no Railgun T                                              |  2 months ago |        -        |

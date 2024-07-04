@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |   Yesterday   | 05/15/2024 |  07/01/2024 |
+| [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |   2 days ago  | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |   Last month  | 05/30/2024 |  05/30/2024 |
 | [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |   Last month  | 02/27/2024 |  05/10/2024 |
 | [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |   Last month  | 01/09/2024 |  05/10/2024 |
@@ -20,7 +20,7 @@
 | [56805](https://myanimelist.net/anime/56805) |    music   |  2023  |   10  |                                                   Yuusha                                                  |  3 months ago | 12/15/2023 |  12/15/2023 |
 | [48583](https://myanimelist.net/anime/48583) |     tv     |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |  8 months ago | 01/28/2022 |  11/08/2023 |
 | [37475](https://myanimelist.net/anime/37475) |     tv     |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |  8 months ago | 10/29/2023 |  10/29/2023 |
-| [56210](https://myanimelist.net/anime/56210) |    music   |  2023  |   6   |                                              Neoki Yashinoki                                              | 10 months ago | 08/30/2023 |  08/30/2023 |
+| [56210](https://myanimelist.net/anime/56210) |    music   |  2023  |   6   |                                              Neoki Yashinoki                                              | 11 months ago | 08/30/2023 |  08/30/2023 |
 | [48585](https://myanimelist.net/anime/48585) |    movie   |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |   Last year   | 07/19/2023 |  07/19/2023 |
 | [49618](https://myanimelist.net/anime/49618) |     ona    |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |   Last year   | 01/27/2023 |  07/14/2023 |
 | [46569](https://myanimelist.net/anime/46569) |     tv     |  2023  |   7   |                                                 Jigokuraku                                                |   Last year   | 04/02/2023 |  07/02/2023 |
@@ -323,7 +323,7 @@
 | [38656](https://myanimelist.net/anime/38656) |     tv     |  2020  |   8   |                                               Darwin's Game                                               |  3 years ago  | 02/26/2021 |  02/28/2021 |
 | [28851](https://myanimelist.net/anime/28851) |    movie   |  2016  |   9   |                                               Koe no Katachi                                              |  3 years ago  | 02/26/2021 |  02/26/2021 |
 | [20787](https://myanimelist.net/anime/20787) |     tv     |  2014  |   7   |                                                Black Bullet                                               |  3 years ago  | 02/16/2021 |  02/18/2021 |
-| [37711](https://myanimelist.net/anime/37711) |     ova    |  2018  |   6   |                                  Koi to Uso: Isshou no Koi/Koi no Kimochi                                 |   Last year   | 02/01/2021 |  02/01/2021 |
+| [37711](https://myanimelist.net/anime/37711) |     ova    |  2018  |   6   |                                  Koi to Uso: Isshou no Koi/Koi no Kimochi                                 |  2 years ago  | 02/01/2021 |  02/01/2021 |
 | [34934](https://myanimelist.net/anime/34934) |     tv     |  2017  |   6   |                                                 Koi to Uso                                                |  3 years ago  | 01/25/2021 |  02/01/2021 |
 | [37982](https://myanimelist.net/anime/37982) |     tv     |  2019  |   7   |                                             Domestic na Kanojo                                            |  3 years ago  | 01/25/2021 |  01/25/2021 |
 | [34498](https://myanimelist.net/anime/34498) |    movie   |  2017  |   10  |                           Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?                          |  3 years ago  | 01/19/2021 |  01/19/2021 |
