@@ -2,7 +2,7 @@
 
 |                      id                      | Type | Season | Score |                          Title                          | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-----------------------------------------------------: | :-----: | :----------: | :--------: |
-| [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   -   | Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san |   1/12  |  1 hour ago  |      -     |
+| [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   -   | Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san |   1/12  |   Yesterday  |      -     |
 | [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   9   |                       Wind Breaker                      |   9/13  |  Last month  | 04/14/2024 |
 | [55129](https://myanimelist.net/anime/55129) |  tv  |  2024  |   -   |            Oroka na Tenshi wa Akuma to Odoru            |   1/12  |  Last month  | 05/23/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                        One Piece                        |  1105/? |  Last month  | 01/01/2013 |
