@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |   5 days ago  | 05/15/2024 |  07/01/2024 |
+| [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |   6 days ago  | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |   Last month  | 05/30/2024 |  05/30/2024 |
 | [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  2 months ago | 02/27/2024 |  05/10/2024 |
 | [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |  2 months ago | 01/09/2024 |  05/10/2024 |
@@ -19,7 +19,7 @@
 | [27525](https://myanimelist.net/anime/27525) |     tv     |  2015  |   7   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |  7 months ago | 06/11/2023 |  12/17/2023 |
 | [56805](https://myanimelist.net/anime/56805) |    music   |  2023  |   10  |                                                   Yuusha                                                  |  3 months ago | 12/15/2023 |  12/15/2023 |
 | [48583](https://myanimelist.net/anime/48583) |     tv     |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |  8 months ago | 01/28/2022 |  11/08/2023 |
-| [37475](https://myanimelist.net/anime/37475) |     tv     |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |  8 months ago | 10/29/2023 |  10/29/2023 |
+| [37475](https://myanimelist.net/anime/37475) |     tv     |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |  9 months ago | 10/29/2023 |  10/29/2023 |
 | [56210](https://myanimelist.net/anime/56210) |    music   |  2023  |   6   |                                              Neoki Yashinoki                                              | 11 months ago | 08/30/2023 |  08/30/2023 |
 | [48585](https://myanimelist.net/anime/48585) |    movie   |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |   Last year   | 07/19/2023 |  07/19/2023 |
 | [49618](https://myanimelist.net/anime/49618) |     ona    |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |   Last year   | 01/27/2023 |  07/14/2023 |
