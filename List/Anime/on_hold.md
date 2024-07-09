@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [54309](https://myanimelist.net/anime/54309) |    tv   |  2024  |   -   |                                           Blue Archive the Animation                                          |   1/12  |  8 hours ago  | 04/08/2024 |
+| [54309](https://myanimelist.net/anime/54309) |    tv   |  2024  |   -   |                                           Blue Archive the Animation                                          |   1/12  |   Yesterday   | 04/08/2024 |
 | [54449](https://myanimelist.net/anime/54449) |    tv   |  2024  |   -   |                                                     Ishura                                                    |   6/12  |  3 months ago | 03/22/2024 |
 | [37984](https://myanimelist.net/anime/37984) |    tv   |  2021  |   -   |                                             Kumo desu ga, Nani ka?                                            |   6/24  |  3 months ago | 03/14/2024 |
 | [52741](https://myanimelist.net/anime/52741) |    tv   |  2023  |   -   |                                                 Undead Unluck                                                 |  10/24  |  3 months ago | 02/04/2024 |
@@ -17,7 +17,7 @@
 | [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                  |   3/12  |  7 months ago | 10/08/2023 |
 | [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                          Seiken Gakuin no Makentsukai                                         |   1/12  |  8 months ago | 10/05/2023 |
 | [54918](https://myanimelist.net/anime/54918) |    tv   |  2023  |   -   |                                          Tokyo Revengers: Tenjiku-hen                                         |   5/13  |  6 months ago | 10/04/2023 |
-| [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                        |   0/12  |  8 months ago | 07/15/2023 |
+| [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                        |   0/12  |  9 months ago | 07/15/2023 |
 | [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                      |   2/12  | 11 months ago | 07/11/2023 |
 | [54112](https://myanimelist.net/anime/54112) |    tv   |  2023  |   -   |                               Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                              |   7/12  |  9 months ago | 07/09/2023 |
 | [51498](https://myanimelist.net/anime/51498) |    tv   |  2023  |   -   |                                           Masamune-kun no Revenge R                                           |   1/12  |  9 months ago | 07/04/2023 |
@@ -52,7 +52,7 @@
 | [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |   -   |                                                   Yuru Yuri                                                   |   4/12  |   Last year   | 06/30/2022 |
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                                                   Fate/Zero                                                   |   2/13  |  2 years ago  | 04/26/2022 |
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                                             Madan no Ou to Vanadis                                            |   6/13  |   Last year   | 04/22/2022 |
-| [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                                                Machikado Mazoku                                               |   4/12  |  8 months ago | 04/19/2022 |
+| [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                                                Machikado Mazoku                                               |   4/12  |  9 months ago | 04/19/2022 |
 | [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |                                        Kawaii dake ja Nai Shikimori-san                                       |   5/12  |  2 years ago  | 04/10/2022 |
 | [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                                              Mahoutsukai Reimeiki                                             |   2/12  |  2 years ago  | 04/09/2022 |
 | [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |                                      Tate no Yuusha no Nariagari Season 2                                     |   3/13  |   Last year   | 04/06/2022 |
@@ -85,7 +85,7 @@
 | [18153](https://myanimelist.net/anime/18153) |    tv   |  2013  |   -   |                                               Kyoukai no Kanata                                               |   5/12  |   Last year   | 05/27/2021 |
 | [43007](https://myanimelist.net/anime/43007) |    tv   |  2021  |   -   |                                  Osananajimi ga Zettai ni Makenai Love Comedy                                 |   5/12  |  3 years ago  | 05/25/2021 |
 | [35145](https://myanimelist.net/anime/35145) | special |  2017  |   -   |                                         Kobayashi-san Chi no OO Dragon                                        |   2/7   |  3 years ago  | 05/14/2021 |
-|  [1642](https://myanimelist.net/anime/1642)  |    tv   |  2005  |   -   |                                                Sugar Sugar Rune                                               |   5/51  |   Last year   | 05/10/2021 |
+|  [1642](https://myanimelist.net/anime/1642)  |    tv   |  2005  |   -   |                                                Sugar Sugar Rune                                               |   5/51  |  2 years ago  | 05/10/2021 |
 | [41025](https://myanimelist.net/anime/41025) |    tv   |  2021  |   7   |                                               Fumetsu no Anata e                                              |  16/20  |  2 years ago  | 04/28/2021 |
 | [46095](https://myanimelist.net/anime/46095) |    tv   |  2021  |   -   |                                           Vivy: Fluorite Eye's Song                                           |   4/13  |  3 years ago  | 04/28/2021 |
 |  [2787](https://myanimelist.net/anime/2787)  |    tv   |  2007  |   -   |                                         Shakugan no Shana II (Second)                                         |   1/24  |  3 years ago  | 02/19/2021 |
