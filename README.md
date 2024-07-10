@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                          Title                          | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-----------------------------------------------------: | :-----: | :----------: | :--------: |
-| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |               Tsue to Tsurugi no Wistoria               |   1/?   | 21 hours ago | 07/08/2024 |
-| [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   -   | Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san |   1/12  |  3 days ago  |      -     |
+| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |               Tsue to Tsurugi no Wistoria               |   1/?   |   Yesterday  | 07/08/2024 |
+| [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   -   | Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san |   1/12  |  4 days ago  |      -     |
 | [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   9   |                       Wind Breaker                      |   9/13  |  Last month  | 04/14/2024 |
 | [55129](https://myanimelist.net/anime/55129) |  tv  |  2024  |   -   |            Oroka na Tenshi wa Akuma to Odoru            |   1/12  |  Last month  | 05/23/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                        One Piece                        |  1105/? |  Last month  | 01/01/2013 |
@@ -35,7 +35,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [54309](https://myanimelist.net/anime/54309) |    tv   |  2024  |   -   |                                           Blue Archive the Animation                                          |   1/12  |   Yesterday   | 04/08/2024 |
+| [54309](https://myanimelist.net/anime/54309) |    tv   |  2024  |   -   |                                           Blue Archive the Animation                                          |   1/12  |   2 days ago  | 04/08/2024 |
 | [54449](https://myanimelist.net/anime/54449) |    tv   |  2024  |   -   |                                                     Ishura                                                    |   6/12  |  3 months ago | 03/22/2024 |
 | [37984](https://myanimelist.net/anime/37984) |    tv   |  2021  |   -   |                                             Kumo desu ga, Nani ka?                                            |   6/24  |  3 months ago | 03/14/2024 |
 | [52741](https://myanimelist.net/anime/52741) |    tv   |  2023  |   -   |                                                 Undead Unluck                                                 |  10/24  |  3 months ago | 02/04/2024 |
@@ -63,12 +63,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [55848](https://myanimelist.net/anime/55848) |     tv     |  2024  |     other    |                                                 Isekai Suicide Squad                                                |   3 days ago  |        -        |
-| [59139](https://myanimelist.net/anime/59139) |     tv     |    -   |  light_novel |                                     Tsuki ga Michibiku Isekai Douchuu 3rd Season                                    |   5 days ago  |        -        |
-| [59174](https://myanimelist.net/anime/59174) |    movie   |    -   |  light_novel |                                Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen                               |   5 days ago  |        -        |
-| [59193](https://myanimelist.net/anime/59193) |     tv     |    -   |  light_novel |                                     Mushoku Tensei III: Isekai Ittara Honki Dasu                                    |   5 days ago  |        -        |
-| [59142](https://myanimelist.net/anime/59142) |     tv     |  2025  |  light_novel |                                                 Unnamed Memory Act.2                                                |   5 days ago  |        -        |
-| [59160](https://myanimelist.net/anime/59160) |     tv     |    -   |   web_manga  |                                                Wind Breaker Season 2                                                |   5 days ago  |        -        |
+| [55848](https://myanimelist.net/anime/55848) |     tv     |  2024  |     other    |                                                 Isekai Suicide Squad                                                |   4 days ago  |        -        |
+| [59139](https://myanimelist.net/anime/59139) |     tv     |    -   |  light_novel |                                     Tsuki ga Michibiku Isekai Douchuu 3rd Season                                    |   6 days ago  |        -        |
+| [59174](https://myanimelist.net/anime/59174) |    movie   |    -   |  light_novel |                                Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen                               |   6 days ago  |        -        |
+| [59193](https://myanimelist.net/anime/59193) |     tv     |    -   |  light_novel |                                     Mushoku Tensei III: Isekai Ittara Honki Dasu                                    |   6 days ago  |        -        |
+| [59142](https://myanimelist.net/anime/59142) |     tv     |  2025  |  light_novel |                                                 Unnamed Memory Act.2                                                |   6 days ago  |        -        |
+| [59160](https://myanimelist.net/anime/59160) |     tv     |    -   |   web_manga  |                                                Wind Breaker Season 2                                                |   6 days ago  |        -        |
 
 
 *[275 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
