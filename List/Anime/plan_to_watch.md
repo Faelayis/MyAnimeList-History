@@ -1,9 +1,9 @@
-# Plan to Watch (284)
+# Plan to Watch (283)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59228](https://myanimelist.net/anime/59228) |     tv     |    -   |     manga    |                                           Kuroshitsuji: Midori no Majo-hen                                          |   2 days ago  |        -        |
-| [59229](https://myanimelist.net/anime/59229) |     tv     |  2026  |     manga    |                                        Enen no Shouboutai: San no Shou Part 2                                       |   2 days ago  |        -        |
+| [59228](https://myanimelist.net/anime/59228) |     tv     |    -   |     manga    |                                           Kuroshitsuji: Midori no Majo-hen                                          |   3 days ago  |        -        |
+| [59229](https://myanimelist.net/anime/59229) |     tv     |  2026  |     manga    |                                        Enen no Shouboutai: San no Shou Part 2                                       |   3 days ago  |        -        |
 | [55848](https://myanimelist.net/anime/55848) |     tv     |  2024  |     other    |                                                 Isekai Suicide Squad                                                |   Last week   |        -        |
 | [59139](https://myanimelist.net/anime/59139) |     tv     |    -   |  light_novel |                                     Tsuki ga Michibiku Isekai Douchuu 3rd Season                                    |   Last week   |        -        |
 | [59174](https://myanimelist.net/anime/59174) |    movie   |    -   |  light_novel |                                Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen                               |   Last week   |        -        |
@@ -27,7 +27,7 @@
 | [56609](https://myanimelist.net/anime/56609) |    movie   |  2024  |  light_novel |                                             Kizumonogatari: Koyomi Vamp                                             |  3 months ago |        -        |
 | [57864](https://myanimelist.net/anime/57864) |     ona    |  2024  |  light_novel |                                       Monogatari Series: Off & Monster Season                                       |  3 months ago |        -        |
 | [53410](https://myanimelist.net/anime/53410) |     tv     |  2024  |     manga    |                                                 Yuru Camp△ Season 3                                                 |  3 months ago |        -        |
-| [58514](https://myanimelist.net/anime/58514) |     tv     |    -   |  light_novel |                                          Kusuriya no Hitorigoto 2nd Season                                          |  3 months ago |        -        |
+| [58514](https://myanimelist.net/anime/58514) |     tv     |    -   |  light_novel |                                          Kusuriya no Hitorigoto 2nd Season                                          |  4 months ago |        -        |
 | [53421](https://myanimelist.net/anime/53421) |     tv     |  2024  |     manga    |                                             Dosanko Gal wa Namara Menkoi                                            |  4 months ago |        -        |
 | [54866](https://myanimelist.net/anime/54866) |    movie   |  2024  |     manga    |                                               Blue Lock: Episode Nagi                                               |  4 months ago |        -        |
 | [50713](https://myanimelist.net/anime/50713) |     tv     |  2024  |  light_novel |                                        Mahouka Koukou no Rettousei 3rd Season                                       |  4 months ago |        -        |
@@ -97,7 +97,6 @@
 | [54703](https://myanimelist.net/anime/54703) |     tv     |    -   |     manga    |                                             Fumetsu no Anata e Season 3                                             |   03/12/2023  |        -        |
 | [51535](https://myanimelist.net/anime/51535) | tv_special |  2023  |     manga    |                                 Shingeki no Kyojin: The Final Season - Kanketsu-hen                                 |   02/27/2023  |        -        |
 | [52198](https://myanimelist.net/anime/52198) |    movie   |  2022  |     manga    |                                  Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai                                 |   02/27/2023  |        -        |
-| [52635](https://myanimelist.net/anime/52635) |     tv     |  2024  |   web_manga  |                                              Kami no Tou: Ouji no Kikan                                             |   02/27/2023  |        -        |
 | [54344](https://myanimelist.net/anime/54344) |   unknown  |    -   |  light_novel |                                         Mahou Shoujo Ikusei Keikaku: Restart                                        |   02/27/2023  |        -        |
 | [54440](https://myanimelist.net/anime/54440) |   unknown  |    -   |   original   |                                         Lycoris Recoil (Shinsaku Animation)                                         |   02/25/2023  |        -        |
 | [51462](https://myanimelist.net/anime/51462) |     tv     |  2023  |  light_novel |                                                 Isekai Nonbiri Nouka                                                |   02/25/2023  |        -        |

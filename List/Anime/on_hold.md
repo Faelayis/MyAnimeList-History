@@ -1,8 +1,9 @@
-# On Hold (95)
+# On Hold (96)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [54309](https://myanimelist.net/anime/54309) |    tv   |  2024  |   -   |                                           Blue Archive the Animation                                          |   1/12  |   5 days ago  | 04/08/2024 |
+| [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |  9 hours ago  | 05/23/2024 |
+| [54309](https://myanimelist.net/anime/54309) |    tv   |  2024  |   -   |                                           Blue Archive the Animation                                          |   1/12  |   6 days ago  | 04/08/2024 |
 | [54449](https://myanimelist.net/anime/54449) |    tv   |  2024  |   -   |                                                     Ishura                                                    |   6/12  |  3 months ago | 03/22/2024 |
 | [37984](https://myanimelist.net/anime/37984) |    tv   |  2021  |   -   |                                             Kumo desu ga, Nani ka?                                            |   6/24  |  3 months ago | 03/14/2024 |
 | [52741](https://myanimelist.net/anime/52741) |    tv   |  2023  |   -   |                                                 Undead Unluck                                                 |  10/24  |  3 months ago | 02/04/2024 |
@@ -19,14 +20,14 @@
 | [54918](https://myanimelist.net/anime/54918) |    tv   |  2023  |   -   |                                          Tokyo Revengers: Tenjiku-hen                                         |   5/13  |  6 months ago | 10/04/2023 |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                        |   0/12  |  9 months ago | 07/15/2023 |
 | [53632](https://myanimelist.net/anime/53632) |    tv   |  2023  |   -   |                                      Yumemiru Danshi wa Genjitsushugisha                                      |   2/12  | 11 months ago | 07/11/2023 |
-| [54112](https://myanimelist.net/anime/54112) |    tv   |  2023  |   -   |                               Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                              |   7/12  |  9 months ago | 07/09/2023 |
-| [51498](https://myanimelist.net/anime/51498) |    tv   |  2023  |   -   |                                           Masamune-kun no Revenge R                                           |   1/12  |  9 months ago | 07/04/2023 |
+| [54112](https://myanimelist.net/anime/54112) |    tv   |  2023  |   -   |                               Zom 100: Zombie ni Naru made ni Shitai 100 no Koto                              |   7/12  | 10 months ago | 07/09/2023 |
+| [51498](https://myanimelist.net/anime/51498) |    tv   |  2023  |   -   |                                           Masamune-kun no Revenge R                                           |   1/12  | 10 months ago | 07/04/2023 |
 | [54234](https://myanimelist.net/anime/54234) |    tv   |  2023  |   -   |                                        Suki na Ko ga Megane wo Wasureta                                       |   2/13  |  9 months ago | 07/04/2023 |
-| [51536](https://myanimelist.net/anime/51536) |    tv   |  2023  |   9   |                                     The iDOLM@STER Cinderella Girls: U149                                     |   5/12  |  9 months ago | 05/02/2023 |
-| [14199](https://myanimelist.net/anime/14199) |    tv   |  2012  |   -   |                                 Oniichan dakedo Ai sae Areba Kankeinai yo ne!                                 |   9/12  |  9 months ago | 04/21/2023 |
+| [51536](https://myanimelist.net/anime/51536) |    tv   |  2023  |   9   |                                     The iDOLM@STER Cinderella Girls: U149                                     |   5/12  | 10 months ago | 05/02/2023 |
+| [14199](https://myanimelist.net/anime/14199) |    tv   |  2012  |   -   |                                 Oniichan dakedo Ai sae Areba Kankeinai yo ne!                                 |   9/12  | 10 months ago | 04/21/2023 |
 | [35078](https://myanimelist.net/anime/35078) |    tv   |  2018  |   -   |                                               Mitsuboshi Colors                                               |   1/12  |   Last year   | 04/20/2023 |
 | [35905](https://myanimelist.net/anime/35905) |    tv   |  2018  |   -   |                                              Ryuuou no Oshigoto!                                              |   1/12  |   Last year   | 04/20/2023 |
-| [52034](https://myanimelist.net/anime/52034) |    tv   |  2023  |   8   |                                                  "Oshi no Ko"                                                 |   6/11  |  9 months ago | 04/12/2023 |
+| [52034](https://myanimelist.net/anime/52034) |    tv   |  2023  |   8   |                                                  "Oshi no Ko"                                                 |   6/11  | 10 months ago | 04/12/2023 |
 | [50307](https://myanimelist.net/anime/50307) |    tv   |  2023  |   7   |                                           Tonikaku Kawaii 2nd Season                                          |   4/12  | 11 months ago | 04/08/2023 |
 | [53393](https://myanimelist.net/anime/53393) |    tv   |  2023  |   6   |                                               Tengoku Daimakyou                                               |   6/13  |   Last year   | 04/02/2023 |
 | [53126](https://myanimelist.net/anime/53126) |    tv   |  2023  |   6   |                                       Yamada-kun to Lv999 no Koi wo Suru                                      |   2/13  | 11 months ago | 04/02/2023 |
@@ -36,7 +37,7 @@
 | [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |   -   |                                              Mahoutsukai no Yome                                              |   6/24  |  7 months ago | 03/01/2023 |
 | [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |   -   |                                               Amaama to Inazuma                                               |   3/12  |   Last year   | 01/12/2023 |
 | [41514](https://myanimelist.net/anime/41514) |    tv   |  2023  |   6   |                      Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                     |  10/12  |   Last year   | 01/12/2023 |
-| [51815](https://myanimelist.net/anime/51815) |    tv   |  2023  |   -   |                                          Kubo-san wa Mob wo Yurusanai                                         |   7/12  |  9 months ago | 01/11/2023 |
+| [51815](https://myanimelist.net/anime/51815) |    tv   |  2023  |   -   |                                          Kubo-san wa Mob wo Yurusanai                                         |   7/12  | 10 months ago | 01/11/2023 |
 | [44204](https://myanimelist.net/anime/44204) |    tv   |  2023  |   -   |                                             Kyokou Suiri Season 2                                             |   1/12  |   Last year   | 01/09/2023 |
 | [48417](https://myanimelist.net/anime/48417) |    tv   |  2023  |   -   |  Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou |   3/12  |   Last year   | 01/08/2023 |
 | [50205](https://myanimelist.net/anime/50205) |    tv   |  2022  |   -   |                                            Arknights: Reimei Zensou                                           |   3/8   |   Last year   | 11/06/2022 |
@@ -96,4 +97,4 @@
 | [41312](https://myanimelist.net/anime/41312) |    tv   |  2020  |   -   |                                         Kami-tachi ni Hirowareta Otoko                                        |   5/12  |  3 years ago  | 11/18/2020 |
 | [40497](https://myanimelist.net/anime/40497) |    tv   |  2020  |   -   |                                   Mahouka Koukou no Rettousei: Raihousha-hen                                  |   8/13  |  3 years ago  | 10/04/2020 |
 | [34933](https://myanimelist.net/anime/34933) |    tv   |  2017  |   -   |                                                   Kakegurui                                                   |   8/12  |  2 years ago  |      -     |
-| [16049](https://myanimelist.net/anime/16049) |    tv   |  2013  |   -   |                                           Toaru Kagaku no Railgun S                                           |   3/24  |  9 months ago |      -     |
+| [16049](https://myanimelist.net/anime/16049) |    tv   |  2013  |   -   |                                           Toaru Kagaku no Railgun S                                           |   3/24  | 10 months ago |      -     |
