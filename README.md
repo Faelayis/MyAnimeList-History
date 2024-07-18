@@ -6,10 +6,10 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                          Title                          | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-----------------------------------------------------: | :-----: | :----------: | :--------: |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                        One Piece                        |  1112/? | 12 hours ago | 01/01/2013 |
-| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |               Tsue to Tsurugi no Wistoria               |   2/?   | 13 hours ago | 07/08/2024 |
-| [52635](https://myanimelist.net/anime/52635) |  tv  |  2024  |   -   |                Kami no Tou: Ouji no Kikan               |   1/?   |  3 days ago  | 07/14/2024 |
-| [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   -   | Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san |   2/12  |  5 days ago  |      -     |
+| [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   -   | Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san |   3/12  | 13 hours ago |      -     |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                        One Piece                        |  1112/? |   Yesterday  | 01/01/2013 |
+| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |               Tsue to Tsurugi no Wistoria               |   2/?   |   Yesterday  | 07/08/2024 |
+| [52635](https://myanimelist.net/anime/52635) |  tv  |  2024  |   -   |                Kami no Tou: Ouji no Kikan               |   1/?   |  4 days ago  | 07/14/2024 |
 | [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   9   |                       Wind Breaker                      |   9/13  |  Last month  | 04/14/2024 |
 | [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |             Boku no Hero Academia 7th Season            |   3/21  | 2 months ago | 05/07/2024 |
 | [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |         Kono Subarashii Sekai ni Shukufuku wo! 3        |   2/11  | 2 months ago | 04/11/2024 |
@@ -26,7 +26,7 @@ List Sync From MyAnimeList (update every day)
 | [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  2 months ago | 02/27/2024 |  05/10/2024 |
 | [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |  2 months ago | 01/09/2024 |  05/10/2024 |
 | [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |  4 months ago | 12/15/2023 |  03/24/2024 |
-| [58313](https://myanimelist.net/anime/58313) |    music   |  2024  |   7   |                                                Haru (2024)                                                |  3 months ago | 03/05/2024 |  03/05/2024 |
+| [58313](https://myanimelist.net/anime/58313) |    music   |  2024  |   7   |                                                Haru (2024)                                                |  4 months ago | 03/05/2024 |  03/05/2024 |
 
 
 *[457 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
@@ -35,7 +35,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |   3 days ago  | 05/23/2024 |
+| [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |   4 days ago  | 05/23/2024 |
 | [54309](https://myanimelist.net/anime/54309) |    tv   |  2024  |   -   |                                           Blue Archive the Animation                                          |   1/12  |   Last week   | 04/08/2024 |
 | [54449](https://myanimelist.net/anime/54449) |    tv   |  2024  |   -   |                                                     Ishura                                                    |   6/12  |  3 months ago | 03/22/2024 |
 | [37984](https://myanimelist.net/anime/37984) |    tv   |  2021  |   -   |                                             Kumo desu ga, Nani ka?                                            |   6/24  |  3 months ago | 03/14/2024 |
@@ -63,12 +63,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59228](https://myanimelist.net/anime/59228) |     tv     |    -   |     manga    |                                           Kuroshitsuji: Midori no Majo-hen                                          |   6 days ago  |        -        |
-| [59229](https://myanimelist.net/anime/59229) |     tv     |  2026  |     manga    |                                        Enen no Shouboutai: San no Shou Part 2                                       |   6 days ago  |        -        |
+| [59228](https://myanimelist.net/anime/59228) |     tv     |    -   |     manga    |                                           Kuroshitsuji: Midori no Majo-hen                                          |   Last week   |        -        |
+| [59229](https://myanimelist.net/anime/59229) |     tv     |  2026  |     manga    |                                        Enen no Shouboutai: San no Shou Part 2                                       |   Last week   |        -        |
 | [55848](https://myanimelist.net/anime/55848) |     tv     |  2024  |     other    |                                                 Isekai Suicide Squad                                                |   Last week   |        -        |
-| [59139](https://myanimelist.net/anime/59139) |     tv     |    -   |  light_novel |                                     Tsuki ga Michibiku Isekai Douchuu 3rd Season                                    |   Last week   |        -        |
-| [59174](https://myanimelist.net/anime/59174) |    movie   |    -   |  light_novel |                                Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen                               |   Last week   |        -        |
-| [59193](https://myanimelist.net/anime/59193) |     tv     |    -   |  light_novel |                                     Mushoku Tensei III: Isekai Ittara Honki Dasu                                    |   Last week   |        -        |
+| [59139](https://myanimelist.net/anime/59139) |     tv     |    -   |  light_novel |                                     Tsuki ga Michibiku Isekai Douchuu 3rd Season                                    |  2 weeks ago  |        -        |
+| [59174](https://myanimelist.net/anime/59174) |    movie   |    -   |  light_novel |                                Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen                               |  2 weeks ago  |        -        |
+| [59193](https://myanimelist.net/anime/59193) |     tv     |    -   |  light_novel |                                     Mushoku Tensei III: Isekai Ittara Honki Dasu                                    |  2 weeks ago  |        -        |
 
 
 *[276 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
