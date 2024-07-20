@@ -1,10 +1,10 @@
-# Plan to Watch (283)
+# Plan to Watch (282)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [59228](https://myanimelist.net/anime/59228) |     tv     |    -   |     manga    |                                           Kuroshitsuji: Midori no Majo-hen                                          |   Last week   |        -        |
 | [59229](https://myanimelist.net/anime/59229) |     tv     |  2026  |     manga    |                                        Enen no Shouboutai: San no Shou Part 2                                       |   Last week   |        -        |
-| [55848](https://myanimelist.net/anime/55848) |     tv     |  2024  |     other    |                                                 Isekai Suicide Squad                                                |   Last week   |        -        |
+| [55848](https://myanimelist.net/anime/55848) |     tv     |  2024  |     other    |                                                 Isekai Suicide Squad                                                |  2 weeks ago  |        -        |
 | [59139](https://myanimelist.net/anime/59139) |     tv     |    -   |  light_novel |                                     Tsuki ga Michibiku Isekai Douchuu 3rd Season                                    |  2 weeks ago  |        -        |
 | [59174](https://myanimelist.net/anime/59174) |    movie   |    -   |  light_novel |                                Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen                               |  2 weeks ago  |        -        |
 | [59193](https://myanimelist.net/anime/59193) |     tv     |    -   |  light_novel |                                     Mushoku Tensei III: Isekai Ittara Honki Dasu                                    |  2 weeks ago  |        -        |
@@ -29,8 +29,8 @@
 | [53410](https://myanimelist.net/anime/53410) |     tv     |  2024  |     manga    |                                                 Yuru Camp△ Season 3                                                 |  4 months ago |        -        |
 | [58514](https://myanimelist.net/anime/58514) |     tv     |    -   |  light_novel |                                          Kusuriya no Hitorigoto 2nd Season                                          |  4 months ago |        -        |
 | [53421](https://myanimelist.net/anime/53421) |     tv     |  2024  |     manga    |                                             Dosanko Gal wa Namara Menkoi                                            |  4 months ago |        -        |
-| [54866](https://myanimelist.net/anime/54866) |    movie   |  2024  |     manga    |                                               Blue Lock: Episode Nagi                                               |  4 months ago |        -        |
-| [50713](https://myanimelist.net/anime/50713) |     tv     |  2024  |  light_novel |                                        Mahouka Koukou no Rettousei 3rd Season                                       |  4 months ago |        -        |
+| [54866](https://myanimelist.net/anime/54866) |    movie   |  2024  |     manga    |                                               Blue Lock: Episode Nagi                                               |  5 months ago |        -        |
+| [50713](https://myanimelist.net/anime/50713) |     tv     |  2024  |  light_novel |                                        Mahouka Koukou no Rettousei 3rd Season                                       |  5 months ago |        -        |
 | [49828](https://myanimelist.net/anime/49828) |     tv     |  2022  |   original   |                                         Kidou Senshi Gundam: Suisei no Majo                                         |  5 months ago |        -        |
 | [57584](https://myanimelist.net/anime/57584) |    movie   |    -   |  light_novel |                               Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen                               |  5 months ago |        -        |
 | [30196](https://myanimelist.net/anime/30196) | tv_special |  2015  |     manga    |                                               Tsubasa to Hotaru (2015)                                              |  5 months ago |        -        |
@@ -158,7 +158,6 @@
 | [51781](https://myanimelist.net/anime/51781) |     ona    |  2022  |     manga    |                                             Boku no Hero Academia (ONA)                                             |  2 years ago  |        -        |
 | [15005](https://myanimelist.net/anime/15005) |     ona    |  2012  |     manga    |                                                  Kyou no Asuka Show                                                 |  2 years ago  |        -        |
 | [50738](https://myanimelist.net/anime/50738) |     tv     |    -   |  light_novel |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni                     |  2 years ago  |        -        |
-| [49981](https://myanimelist.net/anime/49981) |     tv     |  2024  |  light_novel |                      Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II                     |  2 years ago  |        -        |
 | [51632](https://myanimelist.net/anime/51632) |     tv     |  2023  |  light_novel |                                          Isekai wa Smartphone to Tomo ni. 2                                         |  2 years ago  |        -        |
 |  [7592](https://myanimelist.net/anime/7592)  |     tv     |  2010  |     manga    |                                                  Nurarihyon no Mago                                                 |  2 years ago  |        -        |
 | [27831](https://myanimelist.net/anime/27831) |     tv     |  2015  |  light_novel |                                                   Durarara!!x2 Ten                                                  |  2 years ago  |        -        |

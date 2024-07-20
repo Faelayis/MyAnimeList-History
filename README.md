@@ -2,18 +2,19 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (8) ``2.83%``
+#### Watching (9) ``3.19%``
 
-|                      id                      | Type | Season | Score |                          Title                          | Watched |    Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :-----------------------------------------------------: | :-----: | :----------: | :--------: |
-| [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   -   | Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san |   3/12  |   Yesterday  |      -     |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                        One Piece                        |  1112/? |  2 days ago  | 01/01/2013 |
-| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |               Tsue to Tsurugi no Wistoria               |   2/?   |  2 days ago  | 07/08/2024 |
-| [52635](https://myanimelist.net/anime/52635) |  tv  |  2024  |   -   |                Kami no Tou: Ouji no Kikan               |   1/?   |  5 days ago  | 07/14/2024 |
-| [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   9   |                       Wind Breaker                      |   9/13  |  Last month  | 04/14/2024 |
-| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |             Boku no Hero Academia 7th Season            |   3/21  | 2 months ago | 05/07/2024 |
-| [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |         Kono Subarashii Sekai ni Shukufuku wo! 3        |   2/11  | 2 months ago | 04/11/2024 |
-| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |        Tensei shitara Slime Datta Ken 3rd Season        |   2/24  | 3 months ago | 04/06/2024 |
+|                      id                      | Type | Season | Score |                                    Title                                   | Watched |    Updated   | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
+| [49981](https://myanimelist.net/anime/49981) |  tv  |  2024  |   -   | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II |   2/12  | 10 hours ago | 07/20/2024 |
+| [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   -   |           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san          |   3/12  |  2 days ago  |      -     |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                  One Piece                                 |  1112/? |  3 days ago  | 01/01/2013 |
+| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |                         Tsue to Tsurugi no Wistoria                        |   2/?   |  3 days ago  | 07/08/2024 |
+| [52635](https://myanimelist.net/anime/52635) |  tv  |  2024  |   -   |                         Kami no Tou: Ouji no Kikan                         |   1/?   |  6 days ago  | 07/14/2024 |
+| [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   9   |                                Wind Breaker                                |   9/13  |  Last month  | 04/14/2024 |
+| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |                      Boku no Hero Academia 7th Season                      |   3/21  | 2 months ago | 05/07/2024 |
+| [49458](https://myanimelist.net/anime/49458) |  tv  |  2024  |   -   |                  Kono Subarashii Sekai ni Shukufuku wo! 3                  |   2/11  | 2 months ago | 04/11/2024 |
+| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |                  Tensei shitara Slime Datta Ken 3rd Season                 |   2/24  | 3 months ago | 04/06/2024 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -35,7 +36,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |   5 days ago  | 05/23/2024 |
+| [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |   6 days ago  | 05/23/2024 |
 | [54309](https://myanimelist.net/anime/54309) |    tv   |  2024  |   -   |                                           Blue Archive the Animation                                          |   1/12  |   Last week   | 04/08/2024 |
 | [54449](https://myanimelist.net/anime/54449) |    tv   |  2024  |   -   |                                                     Ishura                                                    |   6/12  |  3 months ago | 03/22/2024 |
 | [37984](https://myanimelist.net/anime/37984) |    tv   |  2021  |   -   |                                             Kumo desu ga, Nani ka?                                            |   6/24  |  3 months ago | 03/14/2024 |
@@ -59,16 +60,16 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``47.09%``
+#### Plan to Watch ``46.84%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [59228](https://myanimelist.net/anime/59228) |     tv     |    -   |     manga    |                                           Kuroshitsuji: Midori no Majo-hen                                          |   Last week   |        -        |
 | [59229](https://myanimelist.net/anime/59229) |     tv     |  2026  |     manga    |                                        Enen no Shouboutai: San no Shou Part 2                                       |   Last week   |        -        |
-| [55848](https://myanimelist.net/anime/55848) |     tv     |  2024  |     other    |                                                 Isekai Suicide Squad                                                |   Last week   |        -        |
+| [55848](https://myanimelist.net/anime/55848) |     tv     |  2024  |     other    |                                                 Isekai Suicide Squad                                                |  2 weeks ago  |        -        |
 | [59139](https://myanimelist.net/anime/59139) |     tv     |    -   |  light_novel |                                     Tsuki ga Michibiku Isekai Douchuu 3rd Season                                    |  2 weeks ago  |        -        |
 | [59174](https://myanimelist.net/anime/59174) |    movie   |    -   |  light_novel |                                Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen                               |  2 weeks ago  |        -        |
 | [59193](https://myanimelist.net/anime/59193) |     tv     |    -   |  light_novel |                                     Mushoku Tensei III: Isekai Ittara Honki Dasu                                    |  2 weeks ago  |        -        |
 
 
-*[276 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[275 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*

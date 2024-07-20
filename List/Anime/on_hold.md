@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |   5 days ago  | 05/23/2024 |
+| [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |   6 days ago  | 05/23/2024 |
 | [54309](https://myanimelist.net/anime/54309) |    tv   |  2024  |   -   |                                           Blue Archive the Animation                                          |   1/12  |   Last week   | 04/08/2024 |
 | [54449](https://myanimelist.net/anime/54449) |    tv   |  2024  |   -   |                                                     Ishura                                                    |   6/12  |  3 months ago | 03/22/2024 |
 | [37984](https://myanimelist.net/anime/37984) |    tv   |  2021  |   -   |                                             Kumo desu ga, Nani ka?                                            |   6/24  |  3 months ago | 03/14/2024 |
@@ -10,7 +10,7 @@
 | [54492](https://myanimelist.net/anime/54492) |    tv   |  2023  |   -   |                                             Kusuriya no Hitorigoto                                            |  15/24  |  3 months ago | 01/13/2024 |
 | [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  |  4 months ago | 01/08/2024 |
 | [52299](https://myanimelist.net/anime/52299) |    tv   |  2024  |   -   |                                            Ore dake Level Up na Ken                                           |   4/12  |  3 months ago | 01/07/2024 |
-| [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |  5 months ago | 01/07/2024 |
+| [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |  6 months ago | 01/07/2024 |
 | [50803](https://myanimelist.net/anime/50803) |    tv   |  2024  |   -   |                                       Jaku-Chara Tomozaki-kun 2nd Stage                                       |   2/13  |  3 months ago | 01/03/2024 |
 | [52347](https://myanimelist.net/anime/52347) |    tv   |  2023  |   -   |                           Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su                          |  13/25  |  3 months ago | 12/30/2023 |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                         |   1/12  |  7 months ago | 12/16/2023 |
@@ -71,7 +71,7 @@
 | [32867](https://myanimelist.net/anime/32867) |    tv   |  2016  |   -   |                                          Bungou Stray Dogs 2nd Season                                         |   4/12  |   Last year   | 10/25/2021 |
 | [44961](https://myanimelist.net/anime/44961) |    tv   |  2021  |   -   |                                                  Platinum End                                                 |   5/24  |  2 years ago  | 10/23/2021 |
 |  [2966](https://myanimelist.net/anime/2966)  |    tv   |  2008  |   -   |                                             Ookami to Koushinryou                                             |   2/13  |  2 years ago  | 10/20/2021 |
-| [42205](https://myanimelist.net/anime/42205) |    tv   |  2021  |   -   |                                               Shaman King (2021)                                              |   1/52  |  2 years ago  | 10/14/2021 |
+| [42205](https://myanimelist.net/anime/42205) |    tv   |  2021  |   -   |                                               Shaman King (2021)                                              |   1/52  |  3 years ago  | 10/14/2021 |
 | [49926](https://myanimelist.net/anime/49926) |    tv   |  2021  |   -   |                                       Kimetsu no Yaiba: Mugen Ressha-hen                                      |   3/7   |  2 years ago  | 10/11/2021 |
 | [48556](https://myanimelist.net/anime/48556) |    tv   |  2021  |   -   |                                                Takt Op. Destiny                                               |   1/12  |  2 years ago  | 10/06/2021 |
 | [35241](https://myanimelist.net/anime/35241) |    tv   |  2017  |   -   |                                                 Konohana Kitan                                                |   4/12  |  3 years ago  | 09/22/2021 |
