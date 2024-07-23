@@ -6,10 +6,10 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                    Title                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |                         Tsue to Tsurugi no Wistoria                        |   3/?   | 12 hours ago | 07/08/2024 |
-| [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   1   |           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san          |   3/12  | 12 hours ago |      -     |
-| [49981](https://myanimelist.net/anime/49981) |  tv  |  2024  |   -   | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II |   2/12  |  2 days ago  | 07/20/2024 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                  One Piece                                 |  1112/? |  5 days ago  | 01/01/2013 |
+| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |                         Tsue to Tsurugi no Wistoria                        |   3/?   |   Yesterday  | 07/08/2024 |
+| [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   1   |           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san          |   3/12  |   Yesterday  |      -     |
+| [49981](https://myanimelist.net/anime/49981) |  tv  |  2024  |   -   | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II |   2/12  |  3 days ago  | 07/20/2024 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                  One Piece                                 |  1112/? |  6 days ago  | 01/01/2013 |
 | [52635](https://myanimelist.net/anime/52635) |  tv  |  2024  |   -   |                         Kami no Tou: Ouji no Kikan                         |   1/?   |   Last week  | 07/14/2024 |
 | [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   9   |                                Wind Breaker                                |   9/13  |  Last month  | 04/14/2024 |
 | [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |                      Boku no Hero Academia 7th Season                      |   3/21  | 2 months ago | 05/07/2024 |
@@ -22,7 +22,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  2 weeks ago  | 05/15/2024 |  07/01/2024 |
+| [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  3 weeks ago  | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |   Last month  | 05/30/2024 |  05/30/2024 |
 | [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  2 months ago | 02/27/2024 |  05/10/2024 |
 | [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |  2 months ago | 01/09/2024 |  05/10/2024 |

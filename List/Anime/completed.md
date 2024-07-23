@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  2 weeks ago  | 05/15/2024 |  07/01/2024 |
+| [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  3 weeks ago  | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |   Last month  | 05/30/2024 |  05/30/2024 |
 | [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  2 months ago | 02/27/2024 |  05/10/2024 |
 | [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |  2 months ago | 01/09/2024 |  05/10/2024 |
@@ -222,7 +222,7 @@
 |  [2993](https://myanimelist.net/anime/2993)  |     tv     |  2008  |   7   |                                             Rosario to Vampire                                            |  2 years ago  | 10/26/2021 |  10/27/2021 |
 | [32615](https://myanimelist.net/anime/32615) |     tv     |  2017  |   8   |                                                Youjo Senki                                                |  2 years ago  | 08/28/2021 |  10/21/2021 |
 | [41457](https://myanimelist.net/anime/41457) |     tv     |  2021  |   6   |                                                     86                                                    |  3 years ago  | 05/22/2021 |  10/18/2021 |
-| [41094](https://myanimelist.net/anime/41094) |     ona    |  2020  |   7   |                                       Xian Wang de Richang Shenghuo                                       |  2 years ago  | 01/06/2021 |  10/18/2021 |
+| [41094](https://myanimelist.net/anime/41094) |     ona    |  2020  |   7   |                                       Xian Wang de Richang Shenghuo                                       |  3 years ago  | 01/06/2021 |  10/18/2021 |
 |  [8074](https://myanimelist.net/anime/8074)  |     tv     |  2010  |   7   |                                           Highschool of the Dead                                          |  3 years ago  | 10/04/2021 |  10/16/2021 |
 | [48849](https://myanimelist.net/anime/48849) |     tv     |  2021  |   9   |                                                 Sonny Boy                                                 |  3 years ago  | 08/07/2021 |  10/16/2021 |
 | [38329](https://myanimelist.net/anime/38329) |    movie   |  2019  |   9   |                           Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai                          |  3 years ago  | 10/14/2021 |  10/14/2021 |
