@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  3 weeks ago  | 05/15/2024 |  07/01/2024 |
+| [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |   Last month  | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |  2 months ago | 05/30/2024 |  05/30/2024 |
 | [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  2 months ago | 02/27/2024 |  05/10/2024 |
 | [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |  2 months ago | 01/09/2024 |  05/10/2024 |
@@ -106,7 +106,7 @@
 | [47164](https://myanimelist.net/anime/47164) |     tv     |  2022  |   8   |            Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen           |   Last year   | 07/22/2022 |  09/30/2022 |
 | [49470](https://myanimelist.net/anime/49470) |     tv     |  2022  |   6   |                                   Mamahaha no Tsurego ga Motokano datta                                   |   Last year   | 07/08/2022 |  09/30/2022 |
 | [41084](https://myanimelist.net/anime/41084) |     tv     |  2022  |   10  |                                   Made in Abyss: Retsujitsu no Ougonkyou                                  |   Last year   | 07/06/2022 |  09/29/2022 |
-| [42963](https://myanimelist.net/anime/42963) |     tv     |  2022  |   7   |                                      Kanojo, Okarishimasu 2nd Season                                      |   Last year   | 07/02/2022 |  09/27/2022 |
+| [42963](https://myanimelist.net/anime/42963) |     tv     |  2022  |   7   |                                      Kanojo, Okarishimasu 2nd Season                                      |  2 years ago  | 07/02/2022 |  09/27/2022 |
 | [42310](https://myanimelist.net/anime/42310) |     ona    |  2022  |   6   |                                           Cyberpunk: Edgerunners                                          |  2 years ago  | 09/25/2022 |  09/25/2022 |
 | [49938](https://myanimelist.net/anime/49938) |    movie   |  2022  |   5   |                                       Ame wo Tsugeru Hyouryuu Danchi                                      |   Last year   | 09/19/2022 |  09/19/2022 |
 | [37105](https://myanimelist.net/anime/37105) |     tv     |  2018  |   7   |                                                 Grand Blue                                                |  2 years ago  | 09/03/2022 |  09/03/2022 |
@@ -434,7 +434,7 @@
 | [39587](https://myanimelist.net/anime/39587) |     tv     |  2020  |   7   |                              Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season                             |  2 years ago  |      -     |      -      |
 | [30015](https://myanimelist.net/anime/30015) |     tv     |  2016  |   9   |                                                   ReLIFE                                                  |  3 years ago  |      -     |      -      |
 | [35466](https://myanimelist.net/anime/35466) |   special  |  2018  |   7   |                                            ReLIFE: Kanketsu-hen                                           |  3 years ago  |      -     |      -      |
-| [37436](https://myanimelist.net/anime/37436) |     tv     |  2019  |   6   |                                                 Revisions                                                 |  2 years ago  |      -     |      -      |
+| [37436](https://myanimelist.net/anime/37436) |     tv     |  2019  |   6   |                                                 Revisions                                                 |  3 years ago  |      -     |      -      |
 | [38992](https://myanimelist.net/anime/38992) |     tv     |  2020  |   8   |                              Rikei ga Koi ni Ochita no de Shoumei shitemita.                              |  2 years ago  |      -     |      -      |
 | [32951](https://myanimelist.net/anime/32951) |     tv     |  2017  |   9   |                               Rokudenashi Majutsu Koushi to Akashic Records                               |  3 years ago  |      -     |      -      |
 |   [355](https://myanimelist.net/anime/355)   |     tv     |  2005  |   9   |                                             Shakugan no Shana                                             |  2 years ago  |      -     |      -      |
