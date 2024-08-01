@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                    Title                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                  One Piece                                 |  1113/? | 16 hours ago | 01/01/2013 |
-| [58426](https://myanimelist.net/anime/58426) |  tv  |  2024  |   -   |                       Shikanoko Nokonoko Koshitantan                       |   1/?   |  3 days ago  |      -     |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                  One Piece                                 |  1113/? |   Yesterday  | 01/01/2013 |
+| [58426](https://myanimelist.net/anime/58426) |  tv  |  2024  |   -   |                       Shikanoko Nokonoko Koshitantan                       |   1/?   |  4 days ago  |      -     |
 | [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |                         Tsue to Tsurugi no Wistoria                        |   3/?   |   Last week  | 07/08/2024 |
 | [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   1   |           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san          |   3/12  |   Last week  |      -     |
 | [49981](https://myanimelist.net/anime/49981) |  tv  |  2024  |   -   | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II |   2/12  |   Last week  | 07/20/2024 |
@@ -21,14 +21,14 @@ List Sync From MyAnimeList (update every day)
 
 #### Completed ``91.58%``
 
-|                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
-| :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |   Last month  | 05/15/2024 |  07/01/2024 |
-| [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |  2 months ago | 05/30/2024 |  05/30/2024 |
-| [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  2 months ago | 02/27/2024 |  05/10/2024 |
-| [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |  2 months ago | 01/09/2024 |  05/10/2024 |
-| [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |  4 months ago | 12/15/2023 |  03/24/2024 |
-| [58313](https://myanimelist.net/anime/58313) |    music   |  2024  |   7   |                                                Haru (2024)                                                |  4 months ago | 03/05/2024 |  03/05/2024 |
+|                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed  | Start Date | Finish Date |
+| :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :----------: | :--------: | :---------: |
+| [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  Last month  | 05/15/2024 |  07/01/2024 |
+| [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   | 2 months ago | 05/30/2024 |  05/30/2024 |
+| [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          | 2 months ago | 02/27/2024 |  05/10/2024 |
+| [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               | 2 months ago | 01/09/2024 |  05/10/2024 |
+| [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             | 4 months ago | 12/15/2023 |  03/24/2024 |
+| [58313](https://myanimelist.net/anime/58313) |    music   |  2024  |   7   |                                                Haru (2024)                                                | 4 months ago | 03/05/2024 |  03/05/2024 |
 
 
 *[457 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
@@ -65,11 +65,11 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59402](https://myanimelist.net/anime/59402) |     tv     |    -   |     manga    |                                            Kakkou no Iinazuke 2nd Season                                            |   3 days ago  |        -        |
-| [59277](https://myanimelist.net/anime/59277) |     tv     |    -   |     manga    |                                           Kanojo, Okarishimasu 4th Season                                           |   3 days ago  |        -        |
-| [59369](https://myanimelist.net/anime/59369) |   unknown  |    -   |   original   |                                              Lycoris Recoil Short Movie                                             |   3 days ago  |        -        |
-| [59228](https://myanimelist.net/anime/59228) |     tv     |    -   |     manga    |                                           Kuroshitsuji: Midori no Majo-hen                                          |  2 weeks ago  |        -        |
-| [59229](https://myanimelist.net/anime/59229) |     tv     |  2026  |     manga    |                                        Enen no Shouboutai: San no Shou Part 2                                       |  2 weeks ago  |        -        |
+| [59402](https://myanimelist.net/anime/59402) |     tv     |    -   |     manga    |                                            Kakkou no Iinazuke 2nd Season                                            |   4 days ago  |        -        |
+| [59277](https://myanimelist.net/anime/59277) |     tv     |    -   |     manga    |                                           Kanojo, Okarishimasu 4th Season                                           |   4 days ago  |        -        |
+| [59369](https://myanimelist.net/anime/59369) |   unknown  |    -   |   original   |                                              Lycoris Recoil Short Movie                                             |   4 days ago  |        -        |
+| [59228](https://myanimelist.net/anime/59228) |     tv     |    -   |     manga    |                                           Kuroshitsuji: Midori no Majo-hen                                          |  3 weeks ago  |        -        |
+| [59229](https://myanimelist.net/anime/59229) |     tv     |  2026  |     manga    |                                        Enen no Shouboutai: San no Shou Part 2                                       |  3 weeks ago  |        -        |
 | [55848](https://myanimelist.net/anime/55848) |     tv     |  2024  |     other    |                                                 Isekai Suicide Squad                                                |  3 weeks ago  |        -        |
 
 
