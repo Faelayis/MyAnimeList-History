@@ -2,8 +2,8 @@
 
 |                      id                      | Type | Season | Score |                                    Title                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                  One Piece                                 |  1113/? |   Yesterday  | 01/01/2013 |
-| [58426](https://myanimelist.net/anime/58426) |  tv  |  2024  |   -   |                       Shikanoko Nokonoko Koshitantan                       |   1/?   |  4 days ago  |      -     |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                  One Piece                                 |  1113/? |  2 days ago  | 01/01/2013 |
+| [58426](https://myanimelist.net/anime/58426) |  tv  |  2024  |   -   |                       Shikanoko Nokonoko Koshitantan                       |   1/?   |  5 days ago  |      -     |
 | [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |                         Tsue to Tsurugi no Wistoria                        |   3/?   |   Last week  | 07/08/2024 |
 | [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   1   |           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san          |   3/12  |   Last week  |      -     |
 | [49981](https://myanimelist.net/anime/49981) |  tv  |  2024  |   -   | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II |   2/12  |   Last week  | 07/20/2024 |
