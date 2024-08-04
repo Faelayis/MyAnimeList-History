@@ -1,10 +1,11 @@
-# Plan to Watch (284)
+# Plan to Watch (285)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59402](https://myanimelist.net/anime/59402) |     tv     |    -   |     manga    |                                            Kakkou no Iinazuke 2nd Season                                            |   6 days ago  |        -        |
-| [59277](https://myanimelist.net/anime/59277) |     tv     |    -   |     manga    |                                           Kanojo, Okarishimasu 4th Season                                           |   6 days ago  |        -        |
-| [59369](https://myanimelist.net/anime/59369) |   unknown  |    -   |   original   |                                              Lycoris Recoil Short Movie                                             |   6 days ago  |        -        |
+| [59466](https://myanimelist.net/anime/59466) |     tv     |    -   |     manga    |                                           Aharen-san wa Hakarenai Season 2                                          |  10 hours ago |        -        |
+| [59402](https://myanimelist.net/anime/59402) |     tv     |    -   |     manga    |                                            Kakkou no Iinazuke 2nd Season                                            |   Last week   |        -        |
+| [59277](https://myanimelist.net/anime/59277) |     tv     |    -   |     manga    |                                           Kanojo, Okarishimasu 4th Season                                           |   Last week   |        -        |
+| [59369](https://myanimelist.net/anime/59369) |   unknown  |    -   |   original   |                                              Lycoris Recoil Short Movie                                             |   Last week   |        -        |
 | [59228](https://myanimelist.net/anime/59228) |     tv     |    -   |     manga    |                                           Kuroshitsuji: Midori no Majo-hen                                          |  3 weeks ago  |        -        |
 | [59229](https://myanimelist.net/anime/59229) |     tv     |  2026  |     manga    |                                        Enen no Shouboutai: San no Shou Part 2                                       |  3 weeks ago  |        -        |
 | [55848](https://myanimelist.net/anime/55848) |     tv     |  2024  |     other    |                                                 Isekai Suicide Squad                                                |   Last month  |        -        |
@@ -67,7 +68,7 @@
 | [53881](https://myanimelist.net/anime/53881) |     tv     |  2023  |     game     |                                                Arknights: Touin Kiro                                                | 10 months ago |        -        |
 | [53888](https://myanimelist.net/anime/53888) |    movie   |  2023  |     manga    |                                           Spy x Family Movie: Code: White                                           | 10 months ago |        -        |
 | [48633](https://myanimelist.net/anime/48633) |     tv     |  2023  |  light_novel |                                                      Liar Liar                                                      | 11 months ago |        -        |
-| [56425](https://myanimelist.net/anime/56425) |     tv     |  2023  |   web_manga  |                                              Houkago Shounen Hanako-kun                                             | 11 months ago |        -        |
+| [56425](https://myanimelist.net/anime/56425) |     tv     |  2023  |   web_manga  |                                              Houkago Shounen Hanako-kun                                             |   09/02/2023  |        -        |
 | [33049](https://myanimelist.net/anime/33049) |    movie   |  2019  | visual_novel |                              Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly                              |   08/22/2023  |        -        |
 | [33050](https://myanimelist.net/anime/33050) |    movie   |  2020  | visual_novel |                               Fate/stay night Movie: Heaven's Feel - III. Spring Song                               |   08/22/2023  |        -        |
 | [25537](https://myanimelist.net/anime/25537) |    movie   |  2017  | visual_novel |                               Fate/stay night Movie: Heaven's Feel - I. Presage Flower                              |   08/22/2023  |        -        |
