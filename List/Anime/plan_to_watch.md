@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59466](https://myanimelist.net/anime/59466) |     tv     |    -   |     manga    |                                           Aharen-san wa Hakarenai Season 2                                          |   2 days ago  |        -        |
+| [59466](https://myanimelist.net/anime/59466) |     tv     |    -   |     manga    |                                           Aharen-san wa Hakarenai Season 2                                          |   3 days ago  |        -        |
 | [59402](https://myanimelist.net/anime/59402) |     tv     |    -   |     manga    |                                            Kakkou no Iinazuke 2nd Season                                            |   Last week   |        -        |
 | [59277](https://myanimelist.net/anime/59277) |     tv     |    -   |     manga    |                                           Kanojo, Okarishimasu 4th Season                                           |   Last week   |        -        |
 | [59369](https://myanimelist.net/anime/59369) |   unknown  |    -   |   original   |                                              Lycoris Recoil Short Movie                                             |   Last week   |        -        |
