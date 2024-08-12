@@ -2,15 +2,16 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (10) ``3.50%``
+#### Watching (11) ``3.85%``
 
 |                      id                      | Type | Season | Score |                                    Title                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |                      Boku no Hero Academia 7th Season                      |  12/21  |  8 hours ago | 05/07/2024 |
-| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |                         Tsue to Tsurugi no Wistoria                        |   4/?   |  6 days ago  | 07/08/2024 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                  One Piece                                 |  1113/? |   Last week  | 01/01/2013 |
+| [51297](https://myanimelist.net/anime/51297) |  tv  |  2023  |   -   |                                Ragna Crimson                               |   0/24  | 11 hours ago | 08/12/2024 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                  One Piece                                 |  1114/? | 22 hours ago | 01/01/2013 |
+| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |                         Tsue to Tsurugi no Wistoria                        |   5/?   | 22 hours ago | 07/08/2024 |
+| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |                      Boku no Hero Academia 7th Season                      |  12/21  |   Yesterday  | 05/07/2024 |
 | [58426](https://myanimelist.net/anime/58426) |  tv  |  2024  |   -   |                       Shikanoko Nokonoko Koshitantan                       |   1/?   |  2 weeks ago |      -     |
-| [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   1   |           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san          |   3/12  |  2 weeks ago |      -     |
+| [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   1   |           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san          |   3/12  |  3 weeks ago |      -     |
 | [49981](https://myanimelist.net/anime/49981) |  tv  |  2024  |   -   | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II |   2/12  |  3 weeks ago | 07/20/2024 |
 | [52635](https://myanimelist.net/anime/52635) |  tv  |  2024  |   -   |                         Kami no Tou: Ouji no Kikan                         |   1/?   |  Last month  | 07/14/2024 |
 | [54900](https://myanimelist.net/anime/54900) |  tv  |  2024  |   9   |                                Wind Breaker                                |   9/13  | 2 months ago | 04/14/2024 |
@@ -19,7 +20,7 @@ List Sync From MyAnimeList (update every day)
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``92.01%``
+#### Completed ``92.22%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -33,7 +34,7 @@ List Sync From MyAnimeList (update every day)
 
 *[457 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``12.11%``
+#### On Hold ``12.09%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -47,7 +48,7 @@ List Sync From MyAnimeList (update every day)
 
 *[90 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``3.98%``
+#### Dropped ``3.97%``
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -61,11 +62,11 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``47.43%``
+#### Plan to Watch ``47.35%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59493](https://myanimelist.net/anime/59493) | tv_special |  2024  |     manga    |                              Tensei shitara Slime Datta Ken: Kanwa - Luminous Memories                              |   3 days ago  |        -        |
+| [59493](https://myanimelist.net/anime/59493) | tv_special |  2024  |     manga    |                              Tensei shitara Slime Datta Ken: Kanwa - Luminous Memories                              |   4 days ago  |        -        |
 | [59466](https://myanimelist.net/anime/59466) |     tv     |    -   |     manga    |                                           Aharen-san wa Hakarenai Season 2                                          |   Last week   |        -        |
 | [59402](https://myanimelist.net/anime/59402) |     tv     |    -   |     manga    |                                            Kakkou no Iinazuke 2nd Season                                            |  2 weeks ago  |        -        |
 | [59277](https://myanimelist.net/anime/59277) |     tv     |    -   |     manga    |                                           Kanojo, Okarishimasu 4th Season                                           |  2 weeks ago  |        -        |
