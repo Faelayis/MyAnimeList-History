@@ -6,11 +6,11 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                    Title                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51297](https://myanimelist.net/anime/51297) |  tv  |  2023  |   -   |                                Ragna Crimson                               |  11/24  |  4 days ago  | 08/12/2024 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                  One Piece                                 |  1114/? |  5 days ago  | 01/01/2013 |
-| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |                         Tsue to Tsurugi no Wistoria                        |   5/?   |  5 days ago  | 07/08/2024 |
-| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |                      Boku no Hero Academia 7th Season                      |  12/21  |  6 days ago  | 05/07/2024 |
-| [58426](https://myanimelist.net/anime/58426) |  tv  |  2024  |   -   |                       Shikanoko Nokonoko Koshitantan                       |   1/12  |  2 weeks ago |      -     |
+| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |                      Boku no Hero Academia 7th Season                      |  13/21  | 22 hours ago | 05/07/2024 |
+| [51297](https://myanimelist.net/anime/51297) |  tv  |  2023  |   -   |                                Ragna Crimson                               |  11/24  |  5 days ago  | 08/12/2024 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                  One Piece                                 |  1114/? |  6 days ago  | 01/01/2013 |
+| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |                         Tsue to Tsurugi no Wistoria                        |   5/?   |  6 days ago  | 07/08/2024 |
+| [58426](https://myanimelist.net/anime/58426) |  tv  |  2024  |   -   |                       Shikanoko Nokonoko Koshitantan                       |   1/12  |  3 weeks ago |      -     |
 | [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   1   |           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san          |   3/12  |  3 weeks ago |      -     |
 | [49981](https://myanimelist.net/anime/49981) |  tv  |  2024  |   -   | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II |   2/12  |  Last month  | 07/20/2024 |
 | [52635](https://myanimelist.net/anime/52635) |  tv  |  2024  |   -   |                         Kami no Tou: Ouji no Kikan                         |   1/?   |  Last month  | 07/14/2024 |
@@ -67,10 +67,10 @@ List Sync From MyAnimeList (update every day)
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [59493](https://myanimelist.net/anime/59493) | tv_special |  2024  |     manga    |                              Tensei shitara Slime Datta Ken: Kanwa - Luminous Memories                              |   Last week   |        -        |
-| [59466](https://myanimelist.net/anime/59466) |     tv     |    -   |     manga    |                                           Aharen-san wa Hakarenai Season 2                                          |   Last week   |        -        |
-| [59402](https://myanimelist.net/anime/59402) |     tv     |    -   |     manga    |                                            Kakkou no Iinazuke 2nd Season                                            |  2 weeks ago  |        -        |
-| [59277](https://myanimelist.net/anime/59277) |     tv     |    -   |     manga    |                                           Kanojo, Okarishimasu 4th Season                                           |  2 weeks ago  |        -        |
-| [59369](https://myanimelist.net/anime/59369) |   unknown  |    -   |   original   |                                              Lycoris Recoil Short Movie                                             |  2 weeks ago  |        -        |
+| [59466](https://myanimelist.net/anime/59466) |     tv     |    -   |     manga    |                                           Aharen-san wa Hakarenai Season 2                                          |  2 weeks ago  |        -        |
+| [59402](https://myanimelist.net/anime/59402) |     tv     |    -   |     manga    |                                            Kakkou no Iinazuke 2nd Season                                            |  3 weeks ago  |        -        |
+| [59277](https://myanimelist.net/anime/59277) |     tv     |    -   |     manga    |                                           Kanojo, Okarishimasu 4th Season                                           |  3 weeks ago  |        -        |
+| [59369](https://myanimelist.net/anime/59369) |   unknown  |    -   |   original   |                                              Lycoris Recoil Short Movie                                             |  3 weeks ago  |        -        |
 | [59228](https://myanimelist.net/anime/59228) |     tv     |    -   |     manga    |                                           Kuroshitsuji: Midori no Majo-hen                                          |   Last month  |        -        |
 
 
