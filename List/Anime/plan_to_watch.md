@@ -1,7 +1,8 @@
-# Plan to Watch (286)
+# Plan to Watch (287)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [59571](https://myanimelist.net/anime/59571) |    movie   |  2024  |     manga    |                               Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack                              |  20 hours ago |        -        |
 | [59493](https://myanimelist.net/anime/59493) | tv_special |  2024  |     manga    |                              Tensei shitara Slime Datta Ken: Kanwa - Luminous Memories                              |   Last week   |        -        |
 | [59466](https://myanimelist.net/anime/59466) |     tv     |    -   |     manga    |                                           Aharen-san wa Hakarenai Season 2                                          |  2 weeks ago  |        -        |
 | [59402](https://myanimelist.net/anime/59402) |     tv     |    -   |     manga    |                                            Kakkou no Iinazuke 2nd Season                                            |  3 weeks ago  |        -        |
@@ -91,7 +92,7 @@
 | [55005](https://myanimelist.net/anime/55005) |   special  |  2020  |     manga    |                                       Munou na Nana Mini Anime: Yaminabe Party                                      |   04/16/2023  |        -        |
 | [40046](https://myanimelist.net/anime/40046) |     tv     |  2020  |   original   |                                                      Id:Invaded                                                     |   04/13/2023  |        -        |
 | [40961](https://myanimelist.net/anime/40961) |     tv     |  2021  |     game     |                                                    Hortensia Saga                                                   |   04/01/2023  |        -        |
-| [54865](https://myanimelist.net/anime/54865) |     tv     |  2024  |     manga    |                                                 Blue Lock 2nd Season                                                |   03/26/2023  |        -        |
+| [54865](https://myanimelist.net/anime/54865) |     tv     |  2024  |     manga    |                                               Blue Lock vs. U-20 Japan                                              |   03/26/2023  |        -        |
 | [31245](https://myanimelist.net/anime/31245) |    movie   |  2016  |     music    |                                 Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai                                 |   03/26/2023  |        -        |
 | [11235](https://myanimelist.net/anime/11235) |     tv     |  2012  | visual_novel |                                                   Amagami SS+ Plus                                                  |   03/23/2023  |        -        |
 |  [9776](https://myanimelist.net/anime/9776)  |     tv     |  2011  | 4_koma_manga |                                                      A-Channel                                                      |   03/21/2023  |        -        |
@@ -206,8 +207,8 @@
 | [37515](https://myanimelist.net/anime/37515) |    movie   |  2019  |   web_manga  |                                     Made in Abyss Movie 2: Hourou Suru Tasogare                                     |  2 years ago  |        -        |
 | [18277](https://myanimelist.net/anime/18277) |     tv     |  2013  |  light_novel |                                                   Strike the Blood                                                  |  2 years ago  |        -        |
 | [33286](https://myanimelist.net/anime/33286) |     ova    |  2016  |  light_novel |                                                 Strike the Blood II                                                 |  2 years ago  |        -        |
-| [50275](https://myanimelist.net/anime/50275) |    movie   |  2022  |  light_novel |                           Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo                           |  2 years ago  |        -        |
-| [50306](https://myanimelist.net/anime/50306) |     tv     |  2024  |  light_novel |                                                  Seirei Gensouki 2                                                  |  2 years ago  |        -        |
+| [50275](https://myanimelist.net/anime/50275) |    movie   |  2022  |  light_novel |                           Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo                           |  3 years ago  |        -        |
+| [50306](https://myanimelist.net/anime/50306) |     tv     |  2024  |  light_novel |                                                  Seirei Gensouki 2                                                  |  3 years ago  |        -        |
 | [39326](https://myanimelist.net/anime/39326) |     tv     |  2019  |  light_novel |                                  Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?                                 |  3 years ago  |        -        |
 | [14669](https://myanimelist.net/anime/14669) |    movie   |  2013  |  light_novel |                                        Aura: Maryuuin Kouga Saigo no Tatakai                                        |  3 years ago  |        -        |
 | [38328](https://myanimelist.net/anime/38328) |     tv     |  2019  |     game     |                                                      Azur Lane                                                      |  3 years ago  |        -        |
