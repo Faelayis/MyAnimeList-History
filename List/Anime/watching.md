@@ -2,8 +2,8 @@
 
 |                      id                      | Type | Season | Score |                                    Title                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51297](https://myanimelist.net/anime/51297) |  tv  |  2023  |   -   |                                Ragna Crimson                               |  13/24  |  2 days ago  | 08/12/2024 |
-| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |                         Tsue to Tsurugi no Wistoria                        |   7/12  |  3 days ago  | 07/08/2024 |
+| [51297](https://myanimelist.net/anime/51297) |  tv  |  2023  |   -   |                                Ragna Crimson                               |  13/24  |  3 days ago  | 08/12/2024 |
+| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |                         Tsue to Tsurugi no Wistoria                        |   7/12  |  4 days ago  | 07/08/2024 |
 | [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   1   |           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san          |   5/12  |   Last week  |      -     |
 | [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |                      Boku no Hero Academia 7th Season                      |  13/21  |   Last week  | 05/07/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                  One Piece                                 |  1114/? |  2 weeks ago | 01/01/2013 |
