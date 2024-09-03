@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                    Title                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |                         Tsue to Tsurugi no Wistoria                        |   8/12  | 11 hours ago | 07/08/2024 |
-| [51297](https://myanimelist.net/anime/51297) |  tv  |  2023  |   -   |                                Ragna Crimson                               |  14/24  |   Yesterday  | 08/12/2024 |
+| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |                         Tsue to Tsurugi no Wistoria                        |   8/12  |   Yesterday  | 07/08/2024 |
+| [51297](https://myanimelist.net/anime/51297) |  tv  |  2023  |   -   |                                Ragna Crimson                               |  14/24  |  2 days ago  | 08/12/2024 |
 | [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   1   |           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san          |   5/12  |  2 weeks ago |      -     |
 | [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |                      Boku no Hero Academia 7th Season                      |  13/21  |  2 weeks ago | 05/07/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                  One Piece                                 |  1114/? |  3 weeks ago | 01/01/2013 |
@@ -34,10 +34,10 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [52635](https://myanimelist.net/anime/52635) |    tv   |  2024  |   -   |                                           Kami no Tou: Ouji no Kikan                                          |   1/?   |   Last week   | 07/14/2024 |
+| [52635](https://myanimelist.net/anime/52635) |    tv   |  2024  |   -   |                                           Kami no Tou: Ouji no Kikan                                          |   1/?   |  2 weeks ago  | 07/14/2024 |
 | [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |   Last month  | 05/23/2024 |
-| [54900](https://myanimelist.net/anime/54900) |    tv   |  2024  |   9   |                                                  Wind Breaker                                                 |   9/13  |   Last week   | 04/14/2024 |
-| [49458](https://myanimelist.net/anime/49458) |    tv   |  2024  |   -   |                                    Kono Subarashii Sekai ni Shukufuku wo! 3                                   |   2/11  |   Last week   | 04/11/2024 |
+| [54900](https://myanimelist.net/anime/54900) |    tv   |  2024  |   9   |                                                  Wind Breaker                                                 |   9/13  |  2 weeks ago  | 04/14/2024 |
+| [49458](https://myanimelist.net/anime/49458) |    tv   |  2024  |   -   |                                    Kono Subarashii Sekai ni Shukufuku wo! 3                                   |   2/11  |  2 weeks ago  | 04/11/2024 |
 | [54309](https://myanimelist.net/anime/54309) |    tv   |  2024  |   -   |                                           Blue Archive the Animation                                          |   1/12  |  2 months ago | 04/08/2024 |
 | [54449](https://myanimelist.net/anime/54449) |    tv   |  2024  |   -   |                                                     Ishura                                                    |   6/12  |  5 months ago | 03/22/2024 |
 
@@ -62,7 +62,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59708](https://myanimelist.net/anime/59708) |     tv     |    -   |  light_novel |                   Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki                  |  13 hours ago |        -        |
+| [59708](https://myanimelist.net/anime/59708) |     tv     |    -   |  light_novel |                   Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki                  |   Yesterday   |        -        |
 | [59571](https://myanimelist.net/anime/59571) |    movie   |  2024  |     manga    |                               Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack                              |  2 weeks ago  |        -        |
 | [59493](https://myanimelist.net/anime/59493) | tv_special |  2024  |     manga    |                              Tensei shitara Slime Datta Ken: Kanwa - Luminous Memories                              |  3 weeks ago  |        -        |
 | [59466](https://myanimelist.net/anime/59466) |     tv     |    -   |     manga    |                                           Aharen-san wa Hakarenai Season 2                                          |   Last month  |        -        |
