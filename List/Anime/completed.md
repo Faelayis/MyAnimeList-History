@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |   3 days ago  | 08/12/2024 |  09/04/2024 |
+| [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |   4 days ago  | 08/12/2024 |  09/04/2024 |
 | [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  2 months ago | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |  3 months ago | 05/30/2024 |  05/30/2024 |
 | [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  4 months ago | 02/27/2024 |  05/10/2024 |
@@ -372,7 +372,7 @@
 | [30276](https://myanimelist.net/anime/30276) |     tv     |  2015  |   5   |                                               One Punch Man                                               |  4 years ago  | 07/24/2020 |  01/30/2020 |
 | [38691](https://myanimelist.net/anime/38691) |     tv     |  2019  |   9   |                                                 Dr. Stone                                                 |  4 years ago  | 07/05/2019 |  12/24/2019 |
 | [38101](https://myanimelist.net/anime/38101) |     tv     |  2019  |   8   |                                            5-toubun no Hanayome                                           |  3 years ago  | 03/20/2019 |  03/28/2019 |
-| [28891](https://myanimelist.net/anime/28891) |     tv     |  2015  |   8   |                                          Haikyuu!! Second Season                                          |   Last year   | 10/31/2022 |      -      |
+| [28891](https://myanimelist.net/anime/28891) |     tv     |  2015  |   8   |                                          Haikyuu!! Second Season                                          |  2 years ago  | 10/31/2022 |      -      |
 | [15809](https://myanimelist.net/anime/15809) |     tv     |  2013  |   7   |                                            Hataraku Maou-sama!                                            |  3 years ago  | 05/10/2021 |      -      |
 | [41930](https://myanimelist.net/anime/41930) |     tv     |  2020  |   7   |                                            Kamisama ni Natta Hi                                           |  4 years ago  | 11/30/2020 |      -      |
 | [13759](https://myanimelist.net/anime/13759) |     tv     |  2012  |   8   |                                        Sakura-sou no Pet na Kanojo                                        |  3 years ago  | 11/28/2020 |      -      |
