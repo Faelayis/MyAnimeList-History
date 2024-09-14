@@ -1,7 +1,8 @@
-# Plan to Watch (288)
+# Plan to Watch (289)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [59750](https://myanimelist.net/anime/59750) |    music   |  2024  |   original   |                                                      Go-Getters                                                     |  12 hours ago |        -        |
 | [59708](https://myanimelist.net/anime/59708) |     tv     |    -   |  light_novel |                   Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki                  |   Last week   |        -        |
 | [59571](https://myanimelist.net/anime/59571) |    movie   |  2024  |     manga    |                               Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack                              |  3 weeks ago  |        -        |
 | [59493](https://myanimelist.net/anime/59493) | tv_special |  2024  |     manga    |                              Tensei shitara Slime Datta Ken: Kanwa - Luminous Memories                              |   Last month  |        -        |
@@ -35,8 +36,8 @@
 | [53410](https://myanimelist.net/anime/53410) |     tv     |  2024  |     manga    |                                                 Yuru Camp△ Season 3                                                 |  6 months ago |        -        |
 | [58514](https://myanimelist.net/anime/58514) |     tv     |    -   |  light_novel |                                          Kusuriya no Hitorigoto 2nd Season                                          |  6 months ago |        -        |
 | [53421](https://myanimelist.net/anime/53421) |     tv     |  2024  |     manga    |                                             Dosanko Gal wa Namara Menkoi                                            |  6 months ago |        -        |
-| [54866](https://myanimelist.net/anime/54866) |    movie   |  2024  |     manga    |                                               Blue Lock: Episode Nagi                                               |  6 months ago |        -        |
-| [50713](https://myanimelist.net/anime/50713) |     tv     |  2024  |  light_novel |                                        Mahouka Koukou no Rettousei 3rd Season                                       |  6 months ago |        -        |
+| [54866](https://myanimelist.net/anime/54866) |    movie   |  2024  |     manga    |                                               Blue Lock: Episode Nagi                                               |  7 months ago |        -        |
+| [50713](https://myanimelist.net/anime/50713) |     tv     |  2024  |  light_novel |                                        Mahouka Koukou no Rettousei 3rd Season                                       |  7 months ago |        -        |
 | [49828](https://myanimelist.net/anime/49828) |     tv     |  2022  |   original   |                                         Kidou Senshi Gundam: Suisei no Majo                                         |  7 months ago |        -        |
 | [57584](https://myanimelist.net/anime/57584) |    movie   |    -   |  light_novel |                               Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen                               |  7 months ago |        -        |
 | [30196](https://myanimelist.net/anime/30196) | tv_special |  2015  |     manga    |                                               Tsubasa to Hotaru (2015)                                              |  7 months ago |        -        |
