@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                    Title                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |                         Tsue to Tsurugi no Wistoria                        |  10/12  | 23 hours ago | 07/08/2024 |
+| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |                         Tsue to Tsurugi no Wistoria                        |  10/12  |   Yesterday  | 07/08/2024 |
 | [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   1   |           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san          |   5/12  |  Last month  |      -     |
 | [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |                      Boku no Hero Academia 7th Season                      |  13/21  |  Last month  | 05/07/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                  One Piece                                 |  1114/? |  Last month  | 01/01/2013 |
@@ -15,7 +15,7 @@ List Sync From MyAnimeList (update every day)
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``93.10%``
+#### Completed ``93.32%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -29,7 +29,7 @@ List Sync From MyAnimeList (update every day)
 
 *[458 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``12.56%``
+#### On Hold ``12.55%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -57,16 +57,16 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``48.34%``
+#### Plan to Watch ``48.51%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59828](https://myanimelist.net/anime/59828) |     tv     |  2025  |     novel    |                                             Shoushimin Series 2nd Season                                            |   Yesterday   |        -        |
-| [59833](https://myanimelist.net/anime/59833) |     ova    |    -   |  light_novel |                                     Kono Subarashii Sekai ni Shukufuku wo! 3 OVA                                    |   Yesterday   |        -        |
-| [59841](https://myanimelist.net/anime/59841) |    movie   |  2024  |   web_manga  |                                        Ore dake Level Up na Ken: ReAwakening                                        |   Yesterday   |        -        |
-| [59750](https://myanimelist.net/anime/59750) |    music   |  2024  |   original   |                                                      Go-Getters                                                     |   6 days ago  |        -        |
+| [59873](https://myanimelist.net/anime/59873) |     tv     |    -   |  light_novel |                           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Season 2                          |  21 hours ago |        -        |
+| [59828](https://myanimelist.net/anime/59828) |     tv     |  2025  |     novel    |                                             Shoushimin Series 2nd Season                                            |   2 days ago  |        -        |
+| [59833](https://myanimelist.net/anime/59833) |     ova    |    -   |  light_novel |                                     Kono Subarashii Sekai ni Shukufuku wo! 3 OVA                                    |   2 days ago  |        -        |
+| [59841](https://myanimelist.net/anime/59841) |    movie   |  2024  |   web_manga  |                                        Ore dake Level Up na Ken: ReAwakening                                        |   2 days ago  |        -        |
+| [59750](https://myanimelist.net/anime/59750) |    music   |  2024  |   original   |                                                      Go-Getters                                                     |   Last week   |        -        |
 | [59708](https://myanimelist.net/anime/59708) |     tv     |    -   |  light_novel |                   Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki                  |  2 weeks ago  |        -        |
-| [59571](https://myanimelist.net/anime/59571) |    movie   |  2024  |     manga    |                               Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack                              |   Last month  |        -        |
 
 
-*[285 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[286 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
