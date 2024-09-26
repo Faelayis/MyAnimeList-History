@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |  2 weeks ago  | 08/12/2024 |  09/04/2024 |
+| [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |  3 weeks ago  | 08/12/2024 |  09/04/2024 |
 | [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  3 months ago | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |  4 months ago | 05/30/2024 |  05/30/2024 |
 | [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  4 months ago | 02/27/2024 |  05/10/2024 |
@@ -88,7 +88,7 @@
 | [42916](https://myanimelist.net/anime/42916) |    movie   |  2021  |   5   |                       Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria                       |   Last year   | 11/28/2022 |  11/28/2022 |
 | [32268](https://myanimelist.net/anime/32268) |     ona    |  2016  |   5   |                                              Koyomimonogatari                                             |   Last year   | 11/26/2022 |  11/26/2022 |
 | [31181](https://myanimelist.net/anime/31181) |     tv     |  2015  |   7   |                                              Owarimonogatari                                              |  8 months ago | 11/26/2022 |  11/26/2022 |
-| [21855](https://myanimelist.net/anime/21855) | tv_special |  2014  |   4   |                                               Hanamonogatari                                              |   Last year   | 11/24/2022 |  11/24/2022 |
+| [21855](https://myanimelist.net/anime/21855) | tv_special |  2014  |   4   |                                               Hanamonogatari                                              |  2 years ago  | 11/24/2022 |  11/24/2022 |
 | [28025](https://myanimelist.net/anime/28025) | tv_special |  2014  |   8   |                                              Tsukimonogatari                                              |  8 months ago | 11/24/2022 |  11/24/2022 |
 | [17074](https://myanimelist.net/anime/17074) |     tv     |  2013  |   10  |                                      Monogatari Series: Second Season                                     |   Last year   | 11/20/2022 |  11/24/2022 |
 | [11597](https://myanimelist.net/anime/11597) |     tv     |  2012  |   7   |                                               Nisemonogatari                                              |  2 years ago  | 11/19/2022 |  11/20/2022 |
@@ -203,7 +203,7 @@
 | [48471](https://myanimelist.net/anime/48471) |     tv     |  2021  |   7   |                                        Tsuki to Laika to Nosferatu                                        |  2 years ago  | 10/15/2021 |  12/27/2021 |
 | [45055](https://myanimelist.net/anime/45055) |     tv     |  2021  |   7   |                                         Taishou Otome Otogibanashi                                        |  2 years ago  | 10/12/2021 |  12/27/2021 |
 | [48926](https://myanimelist.net/anime/48926) |     tv     |  2021  |   10  |                                        Komi-san wa, Comyushou desu.                                       |  2 years ago  | 10/08/2021 |  12/23/2021 |
-| [46985](https://myanimelist.net/anime/46985) |     tv     |  2021  |   7   |                              Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei                              |  2 years ago  | 10/05/2021 |  12/23/2021 |
+| [46985](https://myanimelist.net/anime/46985) |     tv     |  2021  |   7   |                              Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei                              |  3 years ago  | 10/05/2021 |  12/23/2021 |
 | [48753](https://myanimelist.net/anime/48753) |     tv     |  2021  |   9   |                                          Jahy-sama wa Kujikenai!                                          |  3 years ago  | 08/19/2021 |  12/21/2021 |
 | [45576](https://myanimelist.net/anime/45576) |     tv     |  2021  |   9   |                              Mushoku Tensei: Isekai Ittara Honki Dasu Part 2                              |  3 years ago  | 10/04/2021 |  12/20/2021 |
 | [48483](https://myanimelist.net/anime/48483) |     tv     |  2021  |   8   |                                                Mieruko-chan                                               |  3 years ago  | 10/03/2021 |  12/20/2021 |
