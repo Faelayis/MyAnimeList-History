@@ -2,11 +2,11 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (6) ``2.05%``
+#### Watching (6) ``2.03%``
 
 |                      id                      | Type | Season | Score |                                    Title                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |                         Tsue to Tsurugi no Wistoria                        |  11/12  |  5 days ago  | 07/08/2024 |
+| [58059](https://myanimelist.net/anime/58059) |  tv  |  2024  |   10  |                         Tsue to Tsurugi no Wistoria                        |  11/12  |  6 days ago  | 07/08/2024 |
 | [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   1   |           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san          |   5/12  |  Last month  |      -     |
 | [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |                      Boku no Hero Academia 7th Season                      |  13/21  |  Last month  | 05/07/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                  One Piece                                 |  1114/? |  Last month  | 01/01/2013 |
@@ -15,7 +15,7 @@ List Sync From MyAnimeList (update every day)
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``93.32%``
+#### Completed ``93.97%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -29,7 +29,7 @@ List Sync From MyAnimeList (update every day)
 
 *[458 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``12.55%``
+#### On Hold ``12.50%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -38,12 +38,12 @@ List Sync From MyAnimeList (update every day)
 | [54900](https://myanimelist.net/anime/54900) |    tv   |  2024  |   9   |                                                  Wind Breaker                                                 |   9/13  |   Last month  | 04/14/2024 |
 | [49458](https://myanimelist.net/anime/49458) |    tv   |  2024  |   -   |                                    Kono Subarashii Sekai ni Shukufuku wo! 3                                   |   2/11  |   Last month  | 04/11/2024 |
 | [54309](https://myanimelist.net/anime/54309) |    tv   |  2024  |   -   |                                           Blue Archive the Animation                                          |   1/12  |  2 months ago | 04/08/2024 |
-| [54449](https://myanimelist.net/anime/54449) |    tv   |  2024  |   -   |                                                     Ishura                                                    |   6/12  |  5 months ago | 03/22/2024 |
+| [54449](https://myanimelist.net/anime/54449) |    tv   |  2024  |   -   |                                                     Ishura                                                    |   6/12  |  6 months ago | 03/22/2024 |
 
 
 *[94 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``3.94%``
+#### Dropped ``3.93%``
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
@@ -57,16 +57,16 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``48.51%``
+#### Plan to Watch ``49.01%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [59970](https://myanimelist.net/anime/59970) |     tv     |    -   |     manga    |                                      Tensei shitara Slime Datta Ken 4th Season                                      |  16 hours ago |        -        |
+| [59971](https://myanimelist.net/anime/59971) |    movie   |    -   |     manga    |                                        Tensei shitara Slime Datta Ken Movie 2                                       |  16 hours ago |        -        |
+| [59978](https://myanimelist.net/anime/59978) |     tv     |    -   |     manga    |                                             Sousou no Frieren 2nd Season                                            |  16 hours ago |        -        |
 | [59873](https://myanimelist.net/anime/59873) |     tv     |    -   |  light_novel |                           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Season 2                          |   Last week   |        -        |
 | [59828](https://myanimelist.net/anime/59828) |     tv     |  2025  |     novel    |                                             Shoushimin Series 2nd Season                                            |   Last week   |        -        |
 | [59833](https://myanimelist.net/anime/59833) |     ova    |    -   |  light_novel |                                     Kono Subarashii Sekai ni Shukufuku wo! 3 OVA                                    |   Last week   |        -        |
-| [59841](https://myanimelist.net/anime/59841) |    movie   |  2024  |   web_manga  |                                        Ore dake Level Up na Ken: ReAwakening                                        |   Last week   |        -        |
-| [59750](https://myanimelist.net/anime/59750) |    music   |  2024  |   original   |                                                      Go-Getters                                                     |  2 weeks ago  |        -        |
-| [59708](https://myanimelist.net/anime/59708) |     tv     |    -   |  light_novel |                   Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki                  |  3 weeks ago  |        -        |
 
 
-*[286 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[289 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*

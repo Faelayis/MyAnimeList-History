@@ -1,7 +1,10 @@
-# Plan to Watch (293)
+# Plan to Watch (296)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [59970](https://myanimelist.net/anime/59970) |     tv     |    -   |     manga    |                                      Tensei shitara Slime Datta Ken 4th Season                                      |  16 hours ago |        -        |
+| [59971](https://myanimelist.net/anime/59971) |    movie   |    -   |     manga    |                                        Tensei shitara Slime Datta Ken Movie 2                                       |  16 hours ago |        -        |
+| [59978](https://myanimelist.net/anime/59978) |     tv     |    -   |     manga    |                                             Sousou no Frieren 2nd Season                                            |  16 hours ago |        -        |
 | [59873](https://myanimelist.net/anime/59873) |     tv     |    -   |  light_novel |                           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Season 2                          |   Last week   |        -        |
 | [59828](https://myanimelist.net/anime/59828) |     tv     |  2025  |     novel    |                                             Shoushimin Series 2nd Season                                            |   Last week   |        -        |
 | [59833](https://myanimelist.net/anime/59833) |     ova    |    -   |  light_novel |                                     Kono Subarashii Sekai ni Shukufuku wo! 3 OVA                                    |   Last week   |        -        |
@@ -10,7 +13,7 @@
 | [59708](https://myanimelist.net/anime/59708) |     tv     |    -   |  light_novel |                   Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki                  |  3 weeks ago  |        -        |
 | [59571](https://myanimelist.net/anime/59571) |    movie   |  2024  |     manga    |                               Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack                              |   Last month  |        -        |
 | [59493](https://myanimelist.net/anime/59493) | tv_special |  2024  |     manga    |                              Tensei shitara Slime Datta Ken: Kanwa - Luminous Memories                              |   Last month  |        -        |
-| [59466](https://myanimelist.net/anime/59466) |     tv     |    -   |     manga    |                                           Aharen-san wa Hakarenai Season 2                                          |   Last month  |        -        |
+| [59466](https://myanimelist.net/anime/59466) |     tv     |    -   |     manga    |                                           Aharen-san wa Hakarenai Season 2                                          |  2 months ago |        -        |
 | [59402](https://myanimelist.net/anime/59402) |     tv     |    -   |     manga    |                                            Kakkou no Iinazuke 2nd Season                                            |  2 months ago |        -        |
 | [59277](https://myanimelist.net/anime/59277) |     tv     |    -   |     manga    |                                           Kanojo, Okarishimasu 4th Season                                           |  2 months ago |        -        |
 | [59369](https://myanimelist.net/anime/59369) |   unknown  |    -   |   original   |                                              Lycoris Recoil Short Movie                                             |  2 months ago |        -        |
@@ -200,7 +203,7 @@
 | [35459](https://myanimelist.net/anime/35459) |     ova    |  2017  |     manga    |                                     Boku no Hero Academia: Training of the Dead                                     |  2 years ago  |        -        |
 |  [2593](https://myanimelist.net/anime/2593)  |    movie   |  2007  |  light_novel |                                        Kara no Kyoukai Movie 1: Fukan Fuukei                                        |  2 years ago  |        -        |
 | [36023](https://myanimelist.net/anime/36023) |     tv     |  2018  |     game     |                                               Persona 5 the Animation                                               |  2 years ago  |        -        |
-| [18497](https://myanimelist.net/anime/18497) |     tv     |  2013  |     manga    |                                            Yozakura Quartet: Hana no Uta                                            |  2 years ago  |        -        |
+| [18497](https://myanimelist.net/anime/18497) |     tv     |  2013  |     manga    |                                            Yozakura Quartet: Hana no Uta                                            |  3 years ago  |        -        |
 | [12893](https://myanimelist.net/anime/12893) |   special  |  2012  |   web_manga  |                                        Danshi Koukousei no Nichijou Specials                                        |  3 years ago  |        -        |
 | [38186](https://myanimelist.net/anime/38186) |     tv     |  2019  |     manga    |                                           Bokutachi wa Benkyou ga Dekinai                                           |  3 years ago  |        -        |
 | [49310](https://myanimelist.net/anime/49310) |    movie   |  2022  |     manga    |                                                Fruits Basket: Prelude                                               |  3 years ago  |        -        |
