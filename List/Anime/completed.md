@@ -1,7 +1,8 @@
-# Completed (464)
+# Completed (465)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  20 hours ago | 07/08/2024 |  09/29/2024 |
 | [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |  3 weeks ago  | 08/12/2024 |  09/04/2024 |
 | [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  3 months ago | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |  4 months ago | 05/30/2024 |  05/30/2024 |
@@ -20,7 +21,7 @@
 | [27525](https://myanimelist.net/anime/27525) |     tv     |  2015  |   7   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 | 10 months ago | 06/11/2023 |  12/17/2023 |
 | [56805](https://myanimelist.net/anime/56805) |    music   |  2023  |   10  |                                                   Yuusha                                                  |  6 months ago | 12/15/2023 |  12/15/2023 |
 | [48583](https://myanimelist.net/anime/48583) |     tv     |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                | 11 months ago | 01/28/2022 |  11/08/2023 |
-| [37475](https://myanimelist.net/anime/37475) |     tv     |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         | 11 months ago | 10/29/2023 |  10/29/2023 |
+| [37475](https://myanimelist.net/anime/37475) |     tv     |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |   Last year   | 10/29/2023 |  10/29/2023 |
 | [56210](https://myanimelist.net/anime/56210) |    music   |  2023  |   6   |                                              Neoki Yashinoki                                              |   Last year   | 08/30/2023 |  08/30/2023 |
 | [48585](https://myanimelist.net/anime/48585) |    movie   |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |   Last year   | 07/19/2023 |  07/19/2023 |
 | [49618](https://myanimelist.net/anime/49618) |     ona    |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |   Last year   | 01/27/2023 |  07/14/2023 |
@@ -85,7 +86,7 @@
 | [31757](https://myanimelist.net/anime/31757) |    movie   |  2016  |   6   |                                      Kizumonogatari II: Nekketsu-hen                                      |   Last year   | 12/09/2022 |  12/09/2022 |
 | [31758](https://myanimelist.net/anime/31758) |    movie   |  2017  |   9   |                                      Kizumonogatari III: Reiketsu-hen                                     |   Last year   | 12/09/2022 |  12/09/2022 |
 |  [9260](https://myanimelist.net/anime/9260)  |    movie   |  2016  |   7   |                                       Kizumonogatari I: Tekketsu-hen                                      |   Last year   | 11/26/2022 |  12/09/2022 |
-| [42916](https://myanimelist.net/anime/42916) |    movie   |  2021  |   5   |                       Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria                       |   Last year   | 11/28/2022 |  11/28/2022 |
+| [42916](https://myanimelist.net/anime/42916) |    movie   |  2021  |   5   |                       Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria                       |  2 years ago  | 11/28/2022 |  11/28/2022 |
 | [32268](https://myanimelist.net/anime/32268) |     ona    |  2016  |   5   |                                              Koyomimonogatari                                             |  2 years ago  | 11/26/2022 |  11/26/2022 |
 | [31181](https://myanimelist.net/anime/31181) |     tv     |  2015  |   7   |                                              Owarimonogatari                                              |  9 months ago | 11/26/2022 |  11/26/2022 |
 | [21855](https://myanimelist.net/anime/21855) | tv_special |  2014  |   4   |                                               Hanamonogatari                                              |  2 years ago  | 11/24/2022 |  11/24/2022 |
@@ -199,9 +200,9 @@
 | [42351](https://myanimelist.net/anime/42351) |     tv     |  2021  |   7   |                                      Senpai ga Uzai Kouhai no Hanashi                                     |  2 years ago  | 11/04/2021 |  12/30/2021 |
 | [44037](https://myanimelist.net/anime/44037) |     tv     |  2021  |   7   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita |  2 years ago  | 10/28/2021 |  12/30/2021 |
 | [47790](https://myanimelist.net/anime/47790) |     tv     |  2021  |   6   |                          Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru                         |  2 years ago  | 10/18/2021 |  12/30/2021 |
-| [49409](https://myanimelist.net/anime/49409) |    movie   |  2021  |   8   |                                        Bai She II: Qing She Jie Qi                                        |  2 years ago  | 12/27/2021 |  12/27/2021 |
-| [48471](https://myanimelist.net/anime/48471) |     tv     |  2021  |   7   |                                        Tsuki to Laika to Nosferatu                                        |  2 years ago  | 10/15/2021 |  12/27/2021 |
-| [45055](https://myanimelist.net/anime/45055) |     tv     |  2021  |   7   |                                         Taishou Otome Otogibanashi                                        |  2 years ago  | 10/12/2021 |  12/27/2021 |
+| [49409](https://myanimelist.net/anime/49409) |    movie   |  2021  |   8   |                                        Bai She II: Qing She Jie Qi                                        |  3 years ago  | 12/27/2021 |  12/27/2021 |
+| [48471](https://myanimelist.net/anime/48471) |     tv     |  2021  |   7   |                                        Tsuki to Laika to Nosferatu                                        |  3 years ago  | 10/15/2021 |  12/27/2021 |
+| [45055](https://myanimelist.net/anime/45055) |     tv     |  2021  |   7   |                                         Taishou Otome Otogibanashi                                        |  3 years ago  | 10/12/2021 |  12/27/2021 |
 | [48926](https://myanimelist.net/anime/48926) |     tv     |  2021  |   10  |                                        Komi-san wa, Comyushou desu.                                       |  3 years ago  | 10/08/2021 |  12/23/2021 |
 | [46985](https://myanimelist.net/anime/46985) |     tv     |  2021  |   7   |                              Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei                              |  3 years ago  | 10/05/2021 |  12/23/2021 |
 | [48753](https://myanimelist.net/anime/48753) |     tv     |  2021  |   9   |                                          Jahy-sama wa Kujikenai!                                          |  3 years ago  | 08/19/2021 |  12/21/2021 |

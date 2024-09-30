@@ -2,11 +2,11 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [52635](https://myanimelist.net/anime/52635) |    tv   |  2024  |   -   |                                           Kami no Tou: Ouji no Kikan                                          |   1/?   |   Last month  | 07/14/2024 |
+| [52635](https://myanimelist.net/anime/52635) |    tv   |  2024  |   -   |                                           Kami no Tou: Ouji no Kikan                                          |   1/13  |   Last month  | 07/14/2024 |
 | [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |  2 months ago | 05/23/2024 |
 | [54900](https://myanimelist.net/anime/54900) |    tv   |  2024  |   9   |                                                  Wind Breaker                                                 |   9/13  |   Last month  | 04/14/2024 |
 | [49458](https://myanimelist.net/anime/49458) |    tv   |  2024  |   -   |                                    Kono Subarashii Sekai ni Shukufuku wo! 3                                   |   2/11  |   Last month  | 04/11/2024 |
-| [54309](https://myanimelist.net/anime/54309) |    tv   |  2024  |   -   |                                           Blue Archive the Animation                                          |   1/12  |  2 months ago | 04/08/2024 |
+| [54309](https://myanimelist.net/anime/54309) |    tv   |  2024  |   -   |                                           Blue Archive the Animation                                          |   1/12  |  3 months ago | 04/08/2024 |
 | [54449](https://myanimelist.net/anime/54449) |    tv   |  2024  |   -   |                                                     Ishura                                                    |   6/12  |  6 months ago | 03/22/2024 |
 | [37984](https://myanimelist.net/anime/37984) |    tv   |  2021  |   -   |                                             Kumo desu ga, Nani ka?                                            |   6/24  |  6 months ago | 03/14/2024 |
 | [52741](https://myanimelist.net/anime/52741) |    tv   |  2023  |   -   |                                                 Undead Unluck                                                 |  10/24  |  6 months ago | 02/04/2024 |
