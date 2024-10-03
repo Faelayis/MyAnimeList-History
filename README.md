@@ -18,8 +18,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |   2 days ago  | 07/08/2024 |  09/29/2024 |
-| [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |  3 weeks ago  | 08/12/2024 |  09/04/2024 |
+| [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |   3 days ago  | 07/08/2024 |  09/29/2024 |
+| [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |   Last month  | 08/12/2024 |  09/04/2024 |
 | [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  3 months ago | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |  4 months ago | 05/30/2024 |  05/30/2024 |
 | [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  5 months ago | 02/27/2024 |  05/10/2024 |
@@ -60,12 +60,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59970](https://myanimelist.net/anime/59970) |     tv     |    -   |     manga    |                                      Tensei shitara Slime Datta Ken 4th Season                                      |   3 days ago  |        -        |
-| [59971](https://myanimelist.net/anime/59971) |    movie   |    -   |     manga    |                                        Tensei shitara Slime Datta Ken Movie 2                                       |   3 days ago  |        -        |
-| [59978](https://myanimelist.net/anime/59978) |     tv     |    -   |     manga    |                                             Sousou no Frieren 2nd Season                                            |   3 days ago  |        -        |
+| [59970](https://myanimelist.net/anime/59970) |     tv     |    -   |     manga    |                                      Tensei shitara Slime Datta Ken 4th Season                                      |   4 days ago  |        -        |
+| [59971](https://myanimelist.net/anime/59971) |    movie   |    -   |     manga    |                                        Tensei shitara Slime Datta Ken Movie 2                                       |   4 days ago  |        -        |
+| [59978](https://myanimelist.net/anime/59978) |     tv     |    -   |     manga    |                                             Sousou no Frieren 2nd Season                                            |   4 days ago  |        -        |
 | [59873](https://myanimelist.net/anime/59873) |     tv     |    -   |  light_novel |                           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Season 2                          |   Last week   |        -        |
-| [59828](https://myanimelist.net/anime/59828) |     tv     |  2025  |     novel    |                                             Shoushimin Series 2nd Season                                            |   Last week   |        -        |
-| [59833](https://myanimelist.net/anime/59833) |     ova    |    -   |  light_novel |                                     Kono Subarashii Sekai ni Shukufuku wo! 3 OVA                                    |   Last week   |        -        |
+| [59828](https://myanimelist.net/anime/59828) |     tv     |  2025  |     novel    |                                             Shoushimin Series 2nd Season                                            |  2 weeks ago  |        -        |
+| [59833](https://myanimelist.net/anime/59833) |     ova    |    -   |  light_novel |                                     Kono Subarashii Sekai ni Shukufuku wo! 3 OVA                                    |  2 weeks ago  |        -        |
 
 
 *[289 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
