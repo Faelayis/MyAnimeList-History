@@ -1,10 +1,11 @@
-# Plan to Watch (296)
+# Plan to Watch (297)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59970](https://myanimelist.net/anime/59970) |     tv     |    -   |     manga    |                                      Tensei shitara Slime Datta Ken 4th Season                                      |   4 days ago  |        -        |
-| [59971](https://myanimelist.net/anime/59971) |    movie   |    -   |     manga    |                                        Tensei shitara Slime Datta Ken Movie 2                                       |   4 days ago  |        -        |
-| [59978](https://myanimelist.net/anime/59978) |     tv     |    -   |     manga    |                                             Sousou no Frieren 2nd Season                                            |   4 days ago  |        -        |
+| [38830](https://myanimelist.net/anime/38830) |     tv     |  2020  |  light_novel |                                          Hachi-nan tte, Sore wa Nai deshou!                                         |  9 hours ago  |        -        |
+| [59970](https://myanimelist.net/anime/59970) |     tv     |    -   |     manga    |                                      Tensei shitara Slime Datta Ken 4th Season                                      |   5 days ago  |        -        |
+| [59971](https://myanimelist.net/anime/59971) |    movie   |    -   |     manga    |                                        Tensei shitara Slime Datta Ken Movie 2                                       |   5 days ago  |        -        |
+| [59978](https://myanimelist.net/anime/59978) |     tv     |    -   |     manga    |                                             Sousou no Frieren 2nd Season                                            |   5 days ago  |        -        |
 | [59873](https://myanimelist.net/anime/59873) |     tv     |    -   |  light_novel |                           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Season 2                          |   Last week   |        -        |
 | [59828](https://myanimelist.net/anime/59828) |     tv     |  2025  |     novel    |                                             Shoushimin Series 2nd Season                                            |  2 weeks ago  |        -        |
 | [59833](https://myanimelist.net/anime/59833) |     ova    |    -   |  light_novel |                                     Kono Subarashii Sekai ni Shukufuku wo! 3 OVA                                    |  2 weeks ago  |        -        |
@@ -62,8 +63,8 @@
 | [55994](https://myanimelist.net/anime/55994) |     tv     |  2024  |  light_novel |                                   Sword Art Online Alternative: Gun Gale Online II                                  |  9 months ago |        -        |
 | [57592](https://myanimelist.net/anime/57592) |     tv     |    -   |     manga    |                                              Dr. Stone: Science Future                                              |  9 months ago |        -        |
 | [56967](https://myanimelist.net/anime/56967) |     tv     |  2024  |   original   |                                                 Kamierabi 2nd Season                                                |  9 months ago |        -        |
-| [57616](https://myanimelist.net/anime/57616) |     tv     |  2025  |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season                         |  9 months ago |        -        |
-| [57658](https://myanimelist.net/anime/57658) |   unknown  |    -   |     manga    |                                           Jujutsu Kaisen: Shimetsu Kaiyuu                                           |  9 months ago |        -        |
+| [57616](https://myanimelist.net/anime/57616) |     tv     |  2025  |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season                         | 10 months ago |        -        |
+| [57658](https://myanimelist.net/anime/57658) |   unknown  |    -   |     manga    |                                           Jujutsu Kaisen: Shimetsu Kaiyuu                                           | 10 months ago |        -        |
 | [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |  light_novel |                   Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen                  | 10 months ago |        -        |
 | [56876](https://myanimelist.net/anime/56876) |     tv     |    -   |  light_novel |                    Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season                   | 10 months ago |        -        |
 | [53065](https://myanimelist.net/anime/53065) |   unknown  |    -   |     manga    |                                      Sono Bisque Doll wa Koi wo Suru (Zoku-hen)                                     | 10 months ago |        -        |
