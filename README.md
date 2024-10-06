@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                       Title                                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [57066](https://myanimelist.net/anime/57066) |  tv  |  2024  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen |   0/15  | 10 hours ago | 10/05/2024 |
+| [57066](https://myanimelist.net/anime/57066) |  tv  |  2024  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen |   0/15  |   Yesterday  | 10/05/2024 |
 | [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   1   |              Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san             |   5/12  |  Last month  |      -     |
 | [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |                         Boku no Hero Academia 7th Season                         |  13/21  |  Last month  | 05/07/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                     One Piece                                    |  1114/? |  Last month  | 01/01/2013 |
@@ -19,7 +19,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |   5 days ago  | 07/08/2024 |  09/29/2024 |
+| [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |   6 days ago  | 07/08/2024 |  09/29/2024 |
 | [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |   Last month  | 08/12/2024 |  09/04/2024 |
 | [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  3 months ago | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |  4 months ago | 05/30/2024 |  05/30/2024 |
@@ -34,7 +34,7 @@ List Sync From MyAnimeList (update every day)
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
 | [52635](https://myanimelist.net/anime/52635) |    tv   |  2024  |   -   |                                           Kami no Tou: Ouji no Kikan                                          |   1/13  |   Last month  | 07/14/2024 |
-| [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |  2 months ago | 05/23/2024 |
+| [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |  3 months ago | 05/23/2024 |
 | [54900](https://myanimelist.net/anime/54900) |    tv   |  2024  |   9   |                                                  Wind Breaker                                                 |   9/13  |   Last month  | 04/14/2024 |
 | [49458](https://myanimelist.net/anime/49458) |    tv   |  2024  |   -   |                                    Kono Subarashii Sekai ni Shukufuku wo! 3                                   |   2/11  |   Last month  | 04/11/2024 |
 | [54309](https://myanimelist.net/anime/54309) |    tv   |  2024  |   -   |                                           Blue Archive the Animation                                          |   1/12  |  3 months ago | 04/08/2024 |
@@ -61,10 +61,10 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [38830](https://myanimelist.net/anime/38830) |     tv     |  2020  |  light_novel |                                          Hachi-nan tte, Sore wa Nai deshou!                                         |   Yesterday   |        -        |
-| [59970](https://myanimelist.net/anime/59970) |     tv     |    -   |     manga    |                                      Tensei shitara Slime Datta Ken 4th Season                                      |   6 days ago  |        -        |
-| [59971](https://myanimelist.net/anime/59971) |    movie   |    -   |     manga    |                                        Tensei shitara Slime Datta Ken Movie 2                                       |   6 days ago  |        -        |
-| [59978](https://myanimelist.net/anime/59978) |     tv     |    -   |     manga    |                                             Sousou no Frieren 2nd Season                                            |   6 days ago  |        -        |
+| [38830](https://myanimelist.net/anime/38830) |     tv     |  2020  |  light_novel |                                          Hachi-nan tte, Sore wa Nai deshou!                                         |   2 days ago  |        -        |
+| [59970](https://myanimelist.net/anime/59970) |     tv     |    -   |     manga    |                                      Tensei shitara Slime Datta Ken 4th Season                                      |   Last week   |        -        |
+| [59971](https://myanimelist.net/anime/59971) |    movie   |    -   |     manga    |                                        Tensei shitara Slime Datta Ken Movie 2                                       |   Last week   |        -        |
+| [59978](https://myanimelist.net/anime/59978) |     tv     |    -   |     manga    |                                             Sousou no Frieren 2nd Season                                            |   Last week   |        -        |
 | [59873](https://myanimelist.net/anime/59873) |     tv     |    -   |  light_novel |                           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Season 2                          |  2 weeks ago  |        -        |
 | [59828](https://myanimelist.net/anime/59828) |     tv     |  2025  |     novel    |                                             Shoushimin Series 2nd Season                                            |  2 weeks ago  |        -        |
 
