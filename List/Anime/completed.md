@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |   6 days ago  | 07/08/2024 |  09/29/2024 |
+| [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |   Last week   | 07/08/2024 |  09/29/2024 |
 | [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |   Last month  | 08/12/2024 |  09/04/2024 |
 | [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  3 months ago | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |  4 months ago | 05/30/2024 |  05/30/2024 |
@@ -326,7 +326,7 @@
 | [28851](https://myanimelist.net/anime/28851) |    movie   |  2016  |   9   |                                               Koe no Katachi                                              |  3 years ago  | 02/26/2021 |  02/26/2021 |
 | [20787](https://myanimelist.net/anime/20787) |     tv     |  2014  |   7   |                                                Black Bullet                                               |  3 years ago  | 02/16/2021 |  02/18/2021 |
 | [37711](https://myanimelist.net/anime/37711) |     ova    |  2018  |   6   |                                  Koi to Uso: Isshou no Koi/Koi no Kimochi                                 |  2 years ago  | 02/01/2021 |  02/01/2021 |
-| [34934](https://myanimelist.net/anime/34934) |     tv     |  2017  |   6   |                                                 Koi to Uso                                                |  3 years ago  | 01/25/2021 |  02/01/2021 |
+| [34934](https://myanimelist.net/anime/34934) |     tv     |  2017  |   6   |                                                 Koi to Uso                                                |  4 years ago  | 01/25/2021 |  02/01/2021 |
 | [37982](https://myanimelist.net/anime/37982) |     tv     |  2019  |   7   |                                             Domestic na Kanojo                                            |  3 years ago  | 01/25/2021 |  01/25/2021 |
 | [34498](https://myanimelist.net/anime/34498) |    movie   |  2017  |   10  |                           Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?                          |  3 years ago  | 01/19/2021 |  01/19/2021 |
 | [39195](https://myanimelist.net/anime/39195) |     tv     |  2019  |   7   |                                                  Beastars                                                 |  3 years ago  | 01/14/2021 |  01/15/2021 |
