@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                       Title                                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [57334](https://myanimelist.net/anime/57334) |  tv  |  2024  |   -   |                                     Dandadan                                     |   1/12  |  3 days ago  | 10/06/2024 |
-| [57066](https://myanimelist.net/anime/57066) |  tv  |  2024  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen |   0/15  |  5 days ago  | 10/05/2024 |
+| [57334](https://myanimelist.net/anime/57334) |  tv  |  2024  |   -   |                                     Dandadan                                     |   1/12  |  4 days ago  | 10/06/2024 |
+| [57066](https://myanimelist.net/anime/57066) |  tv  |  2024  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen |   0/15  |  6 days ago  | 10/05/2024 |
 | [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   1   |              Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san             |   5/12  |  Last month  |      -     |
 | [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |                         Boku no Hero Academia 7th Season                         |  13/21  |  Last month  | 05/07/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                     One Piece                                    |  1114/? | 2 months ago | 01/01/2013 |
@@ -62,8 +62,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [56146](https://myanimelist.net/anime/56146) |     ona    |  2023  |   web_manga  |                                                   Good Night World                                                  |   3 days ago  |        -        |
-| [38830](https://myanimelist.net/anime/38830) |     tv     |  2020  |  light_novel |                                          Hachi-nan tte, Sore wa Nai deshou!                                         |   6 days ago  |        -        |
+| [56146](https://myanimelist.net/anime/56146) |     ona    |  2023  |   web_manga  |                                                   Good Night World                                                  |   4 days ago  |        -        |
+| [38830](https://myanimelist.net/anime/38830) |     tv     |  2020  |  light_novel |                                          Hachi-nan tte, Sore wa Nai deshou!                                         |   Last week   |        -        |
 | [59970](https://myanimelist.net/anime/59970) |     tv     |    -   |     manga    |                                      Tensei shitara Slime Datta Ken 4th Season                                      |   Last week   |        -        |
 | [59971](https://myanimelist.net/anime/59971) |    movie   |    -   |     manga    |                                        Tensei shitara Slime Datta Ken Movie 2                                       |   Last week   |        -        |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |    -   |     manga    |                                             Sousou no Frieren 2nd Season                                            |   Last week   |        -        |
