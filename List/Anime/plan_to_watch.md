@@ -1,8 +1,9 @@
-# Plan to Watch (297)
+# Plan to Watch (298)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [60098](https://myanimelist.net/anime/60098) |     tv     |    -   |     manga    |                                         Boku no Hero Academia: Final Season                                         |   Yesterday   |        -        |
+| [60108](https://myanimelist.net/anime/60108) |     tv     |  2024  |     manga    |                                              One Piece: Gyojin Tou-hen                                              |  19 hours ago |        -        |
+| [60098](https://myanimelist.net/anime/60098) |     tv     |    -   |     manga    |                                         Boku no Hero Academia: Final Season                                         |   2 days ago  |        -        |
 | [56146](https://myanimelist.net/anime/56146) |     ona    |  2023  |   web_manga  |                                                   Good Night World                                                  |   Last week   |        -        |
 | [38830](https://myanimelist.net/anime/38830) |     tv     |  2020  |  light_novel |                                          Hachi-nan tte, Sore wa Nai deshou!                                         |   Last week   |        -        |
 | [59970](https://myanimelist.net/anime/59970) |     tv     |    -   |     manga    |                                      Tensei shitara Slime Datta Ken 4th Season                                      |  2 weeks ago  |        -        |
@@ -201,7 +202,7 @@
 |  [3786](https://myanimelist.net/anime/3786)  |    movie   |  2021  |   original   |                                               Shin Evangelion Movie:||                                              |  2 years ago  |        -        |
 |  [3784](https://myanimelist.net/anime/3784)  |    movie   |  2009  |   original   |                                                Evangelion Movie 2: Ha                                               |  2 years ago  |        -        |
 | [50411](https://myanimelist.net/anime/50411) |     ona    |  2022  |   web_manga  |                                                Xiao Mo Tou Baolu La!                                                |  2 years ago  |        -        |
-| [35459](https://myanimelist.net/anime/35459) |     ova    |  2017  |     manga    |                                     Boku no Hero Academia: Training of the Dead                                     |  2 years ago  |        -        |
+| [35459](https://myanimelist.net/anime/35459) |     ova    |  2017  |     manga    |                                     Boku no Hero Academia: Training of the Dead                                     |  3 years ago  |        -        |
 |  [2593](https://myanimelist.net/anime/2593)  |    movie   |  2007  |  light_novel |                                        Kara no Kyoukai Movie 1: Fukan Fuukei                                        |  3 years ago  |        -        |
 | [36023](https://myanimelist.net/anime/36023) |     tv     |  2018  |     game     |                                               Persona 5 the Animation                                               |  3 years ago  |        -        |
 | [18497](https://myanimelist.net/anime/18497) |     tv     |  2013  |     manga    |                                            Yozakura Quartet: Hana no Uta                                            |  3 years ago  |        -        |

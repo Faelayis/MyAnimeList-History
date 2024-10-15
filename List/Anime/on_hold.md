@@ -2,10 +2,10 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [52635](https://myanimelist.net/anime/52635) |    tv   |  2024  |   -   |                                           Kami no Tou: Ouji no Kikan                                          |   1/13  |   Last month  | 07/14/2024 |
+| [52635](https://myanimelist.net/anime/52635) |    tv   |  2024  |   -   |                                           Kami no Tou: Ouji no Kikan                                          |   1/13  |  2 months ago | 07/14/2024 |
 | [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |  3 months ago | 05/23/2024 |
-| [54900](https://myanimelist.net/anime/54900) |    tv   |  2024  |   9   |                                                  Wind Breaker                                                 |   9/13  |   Last month  | 04/14/2024 |
-| [49458](https://myanimelist.net/anime/49458) |    tv   |  2024  |   -   |                                    Kono Subarashii Sekai ni Shukufuku wo! 3                                   |   2/11  |   Last month  | 04/11/2024 |
+| [54900](https://myanimelist.net/anime/54900) |    tv   |  2024  |   9   |                                                  Wind Breaker                                                 |   9/13  |  2 months ago | 04/14/2024 |
+| [49458](https://myanimelist.net/anime/49458) |    tv   |  2024  |   -   |                                    Kono Subarashii Sekai ni Shukufuku wo! 3                                   |   2/11  |  2 months ago | 04/11/2024 |
 | [54309](https://myanimelist.net/anime/54309) |    tv   |  2024  |   -   |                                           Blue Archive the Animation                                          |   1/12  |  3 months ago | 04/08/2024 |
 | [54449](https://myanimelist.net/anime/54449) |    tv   |  2024  |   -   |                                                     Ishura                                                    |   6/12  |  6 months ago | 03/22/2024 |
 | [37984](https://myanimelist.net/anime/37984) |    tv   |  2021  |   -   |                                             Kumo desu ga, Nani ka?                                            |   6/24  |  6 months ago | 03/14/2024 |
@@ -66,7 +66,7 @@
 | [49114](https://myanimelist.net/anime/49114) |    tv   |  2022  |   -   |                                            Vanitas no Karte Part 2                                            |   4/12  |  2 years ago  | 01/15/2022 |
 | [40507](https://myanimelist.net/anime/40507) |    tv   |  2022  |   -   |                                Arifureta Shokugyou de Sekai Saikyou 2nd Season                                |   6/12  |  2 years ago  | 01/14/2022 |
 | [49721](https://myanimelist.net/anime/49721) |    tv   |  2022  |   -   |                                         Karakai Jouzu no Takagi-san 3                                         |   2/12  |  2 years ago  | 01/08/2022 |
-|  [2104](https://myanimelist.net/anime/2104)  |    tv   |  2007  |   -   |                                                Seto no Hanayome                                               |   8/26  |  2 years ago  | 01/05/2022 |
+|  [2104](https://myanimelist.net/anime/2104)  |    tv   |  2007  |   -   |                                                Seto no Hanayome                                               |   8/26  |  3 years ago  | 01/05/2022 |
 | [48824](https://myanimelist.net/anime/48824) |    pv   |  2020  |   7   |                                                Blue Archive PVs                                               |   5/?   |  8 months ago | 01/01/2022 |
 | [44406](https://myanimelist.net/anime/44406) |   ona   |  2021  |   -   |                                                Da Wang Rao Ming                                               |   5/12  |  2 years ago  | 12/19/2021 |
 | [11759](https://myanimelist.net/anime/11759) |    tv   |  2012  |   -   |                                                  Accel World                                                  |  10/24  |  3 years ago  | 12/16/2021 |
@@ -100,5 +100,5 @@
 | [41312](https://myanimelist.net/anime/41312) |    tv   |  2020  |   -   |                                         Kami-tachi ni Hirowareta Otoko                                        |   5/12  |  3 years ago  | 11/18/2020 |
 | [40497](https://myanimelist.net/anime/40497) |    tv   |  2020  |   -   |                                   Mahouka Koukou no Rettousei: Raihousha-hen                                  |   8/13  |  3 years ago  | 10/04/2020 |
 | [34933](https://myanimelist.net/anime/34933) |    tv   |  2017  |   -   |                                                   Kakegurui                                                   |   8/12  |  2 years ago  |      -     |
-| [58426](https://myanimelist.net/anime/58426) |    tv   |  2024  |   -   |                                         Shikanoko Nokonoko Koshitantan                                        |   1/12  |   Last month  |      -     |
+| [58426](https://myanimelist.net/anime/58426) |    tv   |  2024  |   -   |                                         Shikanoko Nokonoko Koshitantan                                        |   1/12  |  2 months ago |      -     |
 | [16049](https://myanimelist.net/anime/16049) |    tv   |  2013  |   -   |                                           Toaru Kagaku no Railgun S                                           |   3/24  |   Last year   |      -     |
