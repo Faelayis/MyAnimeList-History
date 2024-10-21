@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  2 weeks ago  | 07/08/2024 |  09/29/2024 |
+| [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  3 weeks ago  | 07/08/2024 |  09/29/2024 |
 | [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |   Last month  | 08/12/2024 |  09/04/2024 |
 | [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  3 months ago | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |  5 months ago | 05/30/2024 |  05/30/2024 |
@@ -81,7 +81,7 @@
 | [47917](https://myanimelist.net/anime/47917) |     tv     |  2022  |   8   |                                              Bocchi the Rock!                                             |   Last year   | 12/20/2022 |  12/27/2022 |
 | [50425](https://myanimelist.net/anime/50425) |     tv     |  2022  |   7   |                                         Fuufu Ijou, Koibito Miman.                                        |   Last year   | 10/24/2022 |  12/27/2022 |
 | [50602](https://myanimelist.net/anime/50602) |     tv     |  2022  |   6   |                                            Spy x Family Part 2                                            |   Last year   | 10/02/2022 |  12/27/2022 |
-| [36999](https://myanimelist.net/anime/36999) |     tv     |  2019  |   7   |                                            Zoku Owarimonogatari                                           |   Last year   | 12/14/2022 |  12/19/2022 |
+| [36999](https://myanimelist.net/anime/36999) |     tv     |  2019  |   7   |                                            Zoku Owarimonogatari                                           |  2 years ago  | 12/14/2022 |  12/19/2022 |
 | [35247](https://myanimelist.net/anime/35247) | tv_special |  2017  |   8   |                                         Owarimonogatari 2nd Season                                        |  2 years ago  | 12/09/2022 |  12/11/2022 |
 | [31757](https://myanimelist.net/anime/31757) |    movie   |  2016  |   6   |                                      Kizumonogatari II: Nekketsu-hen                                      |  2 years ago  | 12/09/2022 |  12/09/2022 |
 | [31758](https://myanimelist.net/anime/31758) |    movie   |  2017  |   9   |                                      Kizumonogatari III: Reiketsu-hen                                     |  2 years ago  | 12/09/2022 |  12/09/2022 |
