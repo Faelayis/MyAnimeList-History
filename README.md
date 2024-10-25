@@ -6,9 +6,9 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                       Title                                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [57611](https://myanimelist.net/anime/57611) |  tv  |  2024  |   -   |                                Kimi wa Meido-sama.                               |   3/12  |  4 days ago  | 10/20/2024 |
-| [57066](https://myanimelist.net/anime/57066) |  tv  |  2024  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen |   3/15  |  4 days ago  | 10/05/2024 |
-| [57334](https://myanimelist.net/anime/57334) |  tv  |  2024  |   8   |                                     Dandadan                                     |   3/12  |  6 days ago  | 10/06/2024 |
+| [57611](https://myanimelist.net/anime/57611) |  tv  |  2024  |   -   |                                Kimi wa Meido-sama.                               |   3/12  |  5 days ago  | 10/20/2024 |
+| [57066](https://myanimelist.net/anime/57066) |  tv  |  2024  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen |   3/15  |  5 days ago  | 10/05/2024 |
+| [57334](https://myanimelist.net/anime/57334) |  tv  |  2024  |   8   |                                     Dandadan                                     |   3/12  |   Last week  | 10/06/2024 |
 | [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   1   |              Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san             |   5/12  | 2 months ago |      -     |
 | [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |                         Boku no Hero Academia 7th Season                         |  13/21  | 2 months ago | 05/07/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                     One Piece                                    |  1114/? | 2 months ago | 01/01/2013 |
@@ -25,8 +25,8 @@ List Sync From MyAnimeList (update every day)
 | [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |   Last month  | 08/12/2024 |  09/04/2024 |
 | [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  4 months ago | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |  5 months ago | 05/30/2024 |  05/30/2024 |
-| [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  5 months ago | 02/27/2024 |  05/10/2024 |
-| [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |  5 months ago | 01/09/2024 |  05/10/2024 |
+| [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  6 months ago | 02/27/2024 |  05/10/2024 |
+| [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |  6 months ago | 01/09/2024 |  05/10/2024 |
 
 
 *[459 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
@@ -54,7 +54,7 @@ List Sync From MyAnimeList (update every day)
 | [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   3/12  |   Last year  | 04/03/2023 |
 | [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                                       Boku no Kokoro no Yabai Yatsu                                       |   2/12  |   Last year  | 04/02/2023 |
 | [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |                           Campione! Matsurowanu Kamigami to Kamigoroshi no Maou                           |   1/13  |   Last year  | 03/20/2023 |
-|   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                                         Higurashi no Naku Koro ni                                         |  10/26  |   Last year  | 12/23/2022 |
+|   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                                         Higurashi no Naku Koro ni                                         |  10/26  |  2 years ago | 12/23/2022 |
 
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
@@ -66,7 +66,7 @@ List Sync From MyAnimeList (update every day)
 | [60108](https://myanimelist.net/anime/60108) |     tv     |  2024  |     manga    |                                              One Piece: Gyojin Tou-hen                                              |   Last week   |        -        |
 | [60098](https://myanimelist.net/anime/60098) |     tv     |    -   |     manga    |                                         Boku no Hero Academia: Final Season                                         |   Last week   |        -        |
 | [56146](https://myanimelist.net/anime/56146) |     ona    |  2023  |   web_manga  |                                                   Good Night World                                                  |  2 weeks ago  |        -        |
-| [38830](https://myanimelist.net/anime/38830) |     tv     |  2020  |  light_novel |                                          Hachi-nan tte, Sore wa Nai deshou!                                         |  2 weeks ago  |        -        |
+| [38830](https://myanimelist.net/anime/38830) |     tv     |  2020  |  light_novel |                                          Hachi-nan tte, Sore wa Nai deshou!                                         |  3 weeks ago  |        -        |
 | [59970](https://myanimelist.net/anime/59970) |     tv     |    -   |     manga    |                                      Tensei shitara Slime Datta Ken 4th Season                                      |  3 weeks ago  |        -        |
 | [59971](https://myanimelist.net/anime/59971) |    movie   |    -   |     manga    |                                        Tensei shitara Slime Datta Ken Movie 2                                       |  3 weeks ago  |        -        |
 
