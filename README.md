@@ -4,16 +4,16 @@ List Sync From MyAnimeList (update every day)
 
 #### Watching (8) ``2.63%``
 
-|                      id                      | Type | Season | Score |                                       Title                                      | Watched |    Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [57334](https://myanimelist.net/anime/57334) |  tv  |  2024  |   8   |                                     Dandadan                                     |   4/12  |  3 days ago  | 10/06/2024 |
-| [57611](https://myanimelist.net/anime/57611) |  tv  |  2024  |   -   |                                Kimi wa Meido-sama.                               |   3/12  |   Last week  | 10/20/2024 |
-| [57066](https://myanimelist.net/anime/57066) |  tv  |  2024  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen |   3/15  |   Last week  | 10/05/2024 |
-| [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   1   |              Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san             |   5/12  | 2 months ago |      -     |
-| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |                         Boku no Hero Academia 7th Season                         |  13/21  | 2 months ago | 05/07/2024 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                     One Piece                                    |  1114/? | 2 months ago | 01/01/2013 |
-| [49981](https://myanimelist.net/anime/49981) |  tv  |  2024  |   -   |    Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II    |   2/12  | 3 months ago | 07/20/2024 |
-| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |                     Tensei shitara Slime Datta Ken 3rd Season                    |   2/24  | 7 months ago | 04/06/2024 |
+|                      id                      | Type | Season | Score |                                       Title                                      | Watched |     Updated    | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------------: | :-----: | :------------: | :--------: |
+| [57066](https://myanimelist.net/anime/57066) |  tv  |  2024  |   -   | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen |   4/15  | 16 minutes ago | 10/05/2024 |
+| [57334](https://myanimelist.net/anime/57334) |  tv  |  2024  |   8   |                                     Dandadan                                     |   4/12  |   4 days ago   | 10/06/2024 |
+| [57611](https://myanimelist.net/anime/57611) |  tv  |  2024  |   -   |                                Kimi wa Meido-sama.                               |   3/12  |    Last week   | 10/20/2024 |
+| [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   1   |              Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san             |   5/12  |  2 months ago  |      -     |
+| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |                         Boku no Hero Academia 7th Season                         |  13/21  |  2 months ago  | 05/07/2024 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                     One Piece                                    |  1114/? |  2 months ago  | 01/01/2013 |
+| [49981](https://myanimelist.net/anime/49981) |  tv  |  2024  |   -   |    Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II    |   2/12  |  3 months ago  | 07/20/2024 |
+| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |                     Tensei shitara Slime Datta Ken 3rd Season                    |   2/24  |  7 months ago  | 04/06/2024 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -47,28 +47,28 @@ List Sync From MyAnimeList (update every day)
 
 #### Dropped ``4.00%``
 
-|                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |     Updated    | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :------------: | :--------: |
-| [52635](https://myanimelist.net/anime/52635) |  tv  |  2024  |   -   |                                         Kami no Tou: Ouji no Kikan                                        |   1/13  | 12 minutes ago | 07/14/2024 |
-| [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                   Ao no Exorcist: Shimane Illuminati-hen                                  |   1/12  |  10 months ago | 01/10/2024 |
-| [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   5   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |    Last year   | 04/04/2023 |
-| [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   3/12  |    Last year   | 04/03/2023 |
-| [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                                       Boku no Kokoro no Yabai Yatsu                                       |   2/12  |    Last year   | 04/02/2023 |
-| [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |                           Campione! Matsurowanu Kamigami to Kamigoroshi no Maou                           |   1/13  |    Last year   | 03/20/2023 |
+|                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated    | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
+| [52635](https://myanimelist.net/anime/52635) |  tv  |  2024  |   -   |                                         Kami no Tou: Ouji no Kikan                                        |   1/13  |   Yesterday   | 07/14/2024 |
+| [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                   Ao no Exorcist: Shimane Illuminati-hen                                  |   1/12  | 10 months ago | 01/10/2024 |
+| [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   5   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |   Last year   | 04/04/2023 |
+| [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   3/12  |   Last year   | 04/03/2023 |
+| [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                                       Boku no Kokoro no Yabai Yatsu                                       |   2/12  |   Last year   | 04/02/2023 |
+| [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |                           Campione! Matsurowanu Kamigami to Kamigoroshi no Maou                           |   1/13  |   Last year   | 03/20/2023 |
 
 
 *[29 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
 #### Plan to Watch ``50.08%``
 
-|                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |     Updated    | Plan Start Date |
-| :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :------------: | :-------------: |
-| [58511](https://myanimelist.net/anime/58511) |     tv     |  2024  |     manga    |                                Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season                                | 12 minutes ago |        -        |
-| [51794](https://myanimelist.net/anime/51794) |     tv     |  2023  |     manga    |                                      Nanatsu no Taizai: Mokushiroku no Yonkishi                                     | 12 minutes ago |        -        |
-| [59989](https://myanimelist.net/anime/59989) |     tv     |  2024  |   web_manga  |                                               Kami no Tou: Koubou-sen                                               | 15 minutes ago |        -        |
-| [58516](https://myanimelist.net/anime/58516) |     tv     |  2024  |     manga    |                                           Ao no Exorcist: Yuki no Hate-hen                                          | 15 minutes ago |        -        |
-| [53287](https://myanimelist.net/anime/53287) |     tv     |  2024  |     other    |                                          Love Live! Superstar!! 3rd Season                                          | 16 minutes ago |        -        |
-| [58572](https://myanimelist.net/anime/58572) |     tv     |  2024  |     manga    |                        Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season                        | 19 minutes ago |        -        |
+|                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
+| :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [58511](https://myanimelist.net/anime/58511) |     tv     |  2024  |     manga    |                                Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season                                |   Yesterday   |        -        |
+| [51794](https://myanimelist.net/anime/51794) |     tv     |  2023  |     manga    |                                      Nanatsu no Taizai: Mokushiroku no Yonkishi                                     |   Yesterday   |        -        |
+| [59989](https://myanimelist.net/anime/59989) |     tv     |  2024  |   web_manga  |                                               Kami no Tou: Koubou-sen                                               |   Yesterday   |        -        |
+| [58516](https://myanimelist.net/anime/58516) |     tv     |  2024  |     manga    |                                           Ao no Exorcist: Yuki no Hate-hen                                          |   Yesterday   |        -        |
+| [53287](https://myanimelist.net/anime/53287) |     tv     |  2024  |     other    |                                          Love Live! Superstar!! 3rd Season                                          |   Yesterday   |        -        |
+| [58572](https://myanimelist.net/anime/58572) |     tv     |  2024  |     manga    |                        Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season                        |   Yesterday   |        -        |
 
 
 *[297 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
