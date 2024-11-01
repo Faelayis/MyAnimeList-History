@@ -2,7 +2,7 @@
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [52635](https://myanimelist.net/anime/52635) |  tv  |  2024  |   -   |                                         Kami no Tou: Ouji no Kikan                                        |   1/13  |   2 days ago  | 07/14/2024 |
+| [52635](https://myanimelist.net/anime/52635) |  tv  |  2024  |   -   |                                         Kami no Tou: Ouji no Kikan                                        |   1/13  |   3 days ago  | 07/14/2024 |
 | [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                   Ao no Exorcist: Shimane Illuminati-hen                                  |   1/12  | 10 months ago | 01/10/2024 |
 | [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   5   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |   Last year   | 04/04/2023 |
 | [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   3/12  |   Last year   | 04/03/2023 |
@@ -32,7 +32,7 @@
 | [32323](https://myanimelist.net/anime/32323) |  ona |  2015  |   4   |                                           Aishen Qiaokeli-ing...                                          |   5/15  |  3 years ago  | 01/05/2021 |
 | [31952](https://myanimelist.net/anime/31952) |  tv  |  2016  |   4   |                                    Kono Bijutsu-bu ni wa Mondai ga Aru!                                   |   1/12  |  3 years ago  |      -     |
 | [41380](https://myanimelist.net/anime/41380) |  tv  |  2020  |   3   |                                 100-man no Inochi no Ue ni Ore wa Tatteiru                                |   3/12  |  3 years ago  |      -     |
-| [38853](https://myanimelist.net/anime/38853) |  tv  |  2021  |   1   |                                                   Ex-Arm                                                  |   1/12  |  3 years ago  |      -     |
+| [38853](https://myanimelist.net/anime/38853) |  tv  |  2021  |   1   |                                                   Ex-Arm                                                  |   1/12  |  4 years ago  |      -     |
 | [38909](https://myanimelist.net/anime/38909) |  tv  |  2020  |   4   |                                            Infinite Dendrogram                                            |   0/13  |  4 years ago  |      -     |
 | [19685](https://myanimelist.net/anime/19685) |  tv  |  2014  |   6   |                                        Kanojo ga Flag wo Oraretara                                        |   6/13  |  3 years ago  |      -     |
 | [40571](https://myanimelist.net/anime/40571) |  tv  |  2020  |   2   |                                              Majo no Tabitabi                                             |   2/12  |  4 years ago  |      -     |
