@@ -2,17 +2,13 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (8) ``2.63%``
+#### Watching (4) ``1.32%``
 
 |                      id                      | Type | Season | Score |                                       Title                                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
 | [57066](https://myanimelist.net/anime/57066) |  tv  |  2024  |   10  | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen |   8/15  |   Last week  | 10/05/2024 |
 | [57334](https://myanimelist.net/anime/57334) |  tv  |  2024  |   8   |                                     Dandadan                                     |   8/12  |   Last week  | 10/06/2024 |
-| [57611](https://myanimelist.net/anime/57611) |  tv  |  2024  |   -   |                                Kimi wa Meido-sama.                               |   3/12  |  Last month  | 10/20/2024 |
-| [54744](https://myanimelist.net/anime/54744) |  tv  |  2024  |   1   |              Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san             |   5/12  | 3 months ago |      -     |
-| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |                         Boku no Hero Academia 7th Season                         |  13/21  | 3 months ago | 05/07/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                     One Piece                                    |  1114/? | 3 months ago | 01/01/2013 |
-| [49981](https://myanimelist.net/anime/49981) |  tv  |  2024  |   -   |    Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II    |   2/12  | 4 months ago | 07/20/2024 |
 | [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |                     Tensei shitara Slime Datta Ken 3rd Season                    |   2/24  | 8 months ago | 04/06/2024 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
@@ -31,19 +27,19 @@ List Sync From MyAnimeList (update every day)
 
 *[459 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``12.19%``
+#### On Hold ``12.75%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |  4 months ago | 05/23/2024 |
+| [57611](https://myanimelist.net/anime/57611) |    tv   |  2024  |   -   |                                              Kimi wa Meido-sama.                                              |   3/12  |  8 hours ago  | 10/20/2024 |
+| [49981](https://myanimelist.net/anime/49981) |    tv   |  2024  |   -   |                   Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II                  |   2/12  |  8 hours ago  | 07/20/2024 |
+| [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |  5 months ago | 05/23/2024 |
+| [54789](https://myanimelist.net/anime/54789) |    tv   |  2024  |   9   |                                        Boku no Hero Academia 7th Season                                       |  13/21  |  8 hours ago  | 05/07/2024 |
 | [54900](https://myanimelist.net/anime/54900) |    tv   |  2024  |   9   |                                                  Wind Breaker                                                 |   9/13  |  3 months ago | 04/14/2024 |
 | [49458](https://myanimelist.net/anime/49458) |    tv   |  2024  |   -   |                                    Kono Subarashii Sekai ni Shukufuku wo! 3                                   |   2/11  |  3 months ago | 04/11/2024 |
-| [54309](https://myanimelist.net/anime/54309) |    tv   |  2024  |   -   |                                           Blue Archive the Animation                                          |   1/12  |  5 months ago | 04/08/2024 |
-| [54449](https://myanimelist.net/anime/54449) |    tv   |  2024  |   -   |                                                     Ishura                                                    |   6/12  |  8 months ago | 03/22/2024 |
-| [37984](https://myanimelist.net/anime/37984) |    tv   |  2021  |   -   |                                             Kumo desu ga, Nani ka?                                            |   6/24  |  8 months ago | 03/14/2024 |
 
 
-*[93 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
+*[97 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
 #### Dropped ``4.00%``
 
