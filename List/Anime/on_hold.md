@@ -2,10 +2,10 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [57611](https://myanimelist.net/anime/57611) |    tv   |  2024  |   -   |                                              Kimi wa Meido-sama.                                              |   3/12  |   Yesterday   | 10/20/2024 |
-| [49981](https://myanimelist.net/anime/49981) |    tv   |  2024  |   -   |                   Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II                  |   2/12  |   Yesterday   | 07/20/2024 |
+| [57611](https://myanimelist.net/anime/57611) |    tv   |  2024  |   -   |                                              Kimi wa Meido-sama.                                              |   3/12  |   2 days ago  | 10/20/2024 |
+| [49981](https://myanimelist.net/anime/49981) |    tv   |  2024  |   -   |                   Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II                  |   2/12  |   2 days ago  | 07/20/2024 |
 | [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |  5 months ago | 05/23/2024 |
-| [54789](https://myanimelist.net/anime/54789) |    tv   |  2024  |   9   |                                        Boku no Hero Academia 7th Season                                       |  13/21  |   Yesterday   | 05/07/2024 |
+| [54789](https://myanimelist.net/anime/54789) |    tv   |  2024  |   9   |                                        Boku no Hero Academia 7th Season                                       |  13/21  |   2 days ago  | 05/07/2024 |
 | [54900](https://myanimelist.net/anime/54900) |    tv   |  2024  |   9   |                                                  Wind Breaker                                                 |   9/13  |  3 months ago | 04/14/2024 |
 | [49458](https://myanimelist.net/anime/49458) |    tv   |  2024  |   -   |                                    Kono Subarashii Sekai ni Shukufuku wo! 3                                   |   2/11  |  3 months ago | 04/11/2024 |
 | [54309](https://myanimelist.net/anime/54309) |    tv   |  2024  |   -   |                                           Blue Archive the Animation                                          |   1/12  |  5 months ago | 04/08/2024 |
@@ -40,7 +40,7 @@
 | [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |   -   |                                      Ijiranaide, Nagatoro-san 2nd Attack                                      |   2/12  |   Last year   | 03/20/2023 |
 | [48553](https://myanimelist.net/anime/48553) |    tv   |  2022  |   -   |                                           Akebi-chan no Sailor-fuku                                           |   3/12  |   Last year   | 03/13/2023 |
 | [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |   -   |                                              Mahoutsukai no Yome                                              |   6/24  |   Last year   | 03/01/2023 |
-| [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |   -   |                                               Amaama to Inazuma                                               |   3/12  |   Last year   | 01/12/2023 |
+| [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |   -   |                                               Amaama to Inazuma                                               |   3/12  |  2 years ago  | 01/12/2023 |
 | [41514](https://myanimelist.net/anime/41514) |    tv   |  2023  |   6   |                      Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                     |  10/12  |   Last year   | 01/12/2023 |
 | [51815](https://myanimelist.net/anime/51815) |    tv   |  2023  |   -   |                                          Kubo-san wa Mob wo Yurusanai                                         |   7/12  |   Last year   | 01/11/2023 |
 | [44204](https://myanimelist.net/anime/44204) |    tv   |  2023  |   -   |                                             Kyokou Suiri Season 2                                             |   1/12  |   Last year   | 01/09/2023 |
@@ -104,4 +104,4 @@
 | [34933](https://myanimelist.net/anime/34933) |    tv   |  2017  |   -   |                                                   Kakegurui                                                   |   8/12  |  3 years ago  |      -     |
 | [58426](https://myanimelist.net/anime/58426) |    tv   |  2024  |   -   |                                         Shikanoko Nokonoko Koshitantan                                        |   1/12  |  3 months ago |      -     |
 | [16049](https://myanimelist.net/anime/16049) |    tv   |  2013  |   -   |                                           Toaru Kagaku no Railgun S                                           |   3/24  |   Last year   |      -     |
-| [54744](https://myanimelist.net/anime/54744) |    tv   |  2024  |   1   |                            Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san                            |   5/12  |   Yesterday   |      -     |
+| [54744](https://myanimelist.net/anime/54744) |    tv   |  2024  |   1   |                            Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san                            |   5/12  |   2 days ago  |      -     |
