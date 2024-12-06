@@ -31,10 +31,10 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [57611](https://myanimelist.net/anime/57611) |    tv   |  2024  |   -   |                                              Kimi wa Meido-sama.                                              |   3/12  |   4 days ago  | 10/20/2024 |
-| [49981](https://myanimelist.net/anime/49981) |    tv   |  2024  |   -   |                   Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II                  |   2/12  |   4 days ago  | 07/20/2024 |
+| [57611](https://myanimelist.net/anime/57611) |    tv   |  2024  |   -   |                                              Kimi wa Meido-sama.                                              |   3/12  |   5 days ago  | 10/20/2024 |
+| [49981](https://myanimelist.net/anime/49981) |    tv   |  2024  |   -   |                   Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II                  |   2/12  |   5 days ago  | 07/20/2024 |
 | [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |  5 months ago | 05/23/2024 |
-| [54789](https://myanimelist.net/anime/54789) |    tv   |  2024  |   9   |                                        Boku no Hero Academia 7th Season                                       |  13/21  |   4 days ago  | 05/07/2024 |
+| [54789](https://myanimelist.net/anime/54789) |    tv   |  2024  |   9   |                                        Boku no Hero Academia 7th Season                                       |  13/21  |   5 days ago  | 05/07/2024 |
 | [54900](https://myanimelist.net/anime/54900) |    tv   |  2024  |   9   |                                                  Wind Breaker                                                 |   9/13  |  3 months ago | 04/14/2024 |
 | [49458](https://myanimelist.net/anime/49458) |    tv   |  2024  |   -   |                                    Kono Subarashii Sekai ni Shukufuku wo! 3                                   |   2/11  |  3 months ago | 04/11/2024 |
 
