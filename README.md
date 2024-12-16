@@ -2,18 +2,18 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (4) ``1.32%``
+#### Watching (4) ``1.31%``
 
 |                      id                      | Type | Season | Score |                                       Title                                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [57334](https://myanimelist.net/anime/57334) |  tv  |  2024  |   9   |                                     Dandadan                                     |  11/12  |   Yesterday  | 10/06/2024 |
+| [57334](https://myanimelist.net/anime/57334) |  tv  |  2024  |   9   |                                     Dandadan                                     |  11/12  |  2 days ago  | 10/06/2024 |
 | [57066](https://myanimelist.net/anime/57066) |  tv  |  2024  |   10  | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen |   9/15  |   Last week  | 10/05/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                     One Piece                                    |  1114/? | 4 months ago | 01/01/2013 |
 | [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |                     Tensei shitara Slime Datta Ken 3rd Season                    |   2/24  | 8 months ago | 04/06/2024 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``95.91%``
+#### Completed ``96.13%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -27,7 +27,7 @@ List Sync From MyAnimeList (update every day)
 
 *[459 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``12.75%``
+#### On Hold ``12.73%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -41,7 +41,7 @@ List Sync From MyAnimeList (update every day)
 
 *[97 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``4.00%``
+#### Dropped ``3.99%``
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -55,16 +55,16 @@ List Sync From MyAnimeList (update every day)
 
 *[29 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``50.08%``
+#### Plan to Watch ``50.25%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+|  [7647](https://myanimelist.net/anime/7647)  |     tv     |  2010  |     manga    |                                               Arakawa Under the Bridge                                              |  15 hours ago |        -        |
 | [58511](https://myanimelist.net/anime/58511) |     tv     |  2024  |     manga    |                                Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season                                |   Last month  |        -        |
 | [51794](https://myanimelist.net/anime/51794) |     tv     |  2023  |     manga    |                                      Nanatsu no Taizai: Mokushiroku no Yonkishi                                     |   Last month  |        -        |
 | [59989](https://myanimelist.net/anime/59989) |     tv     |  2024  |   web_manga  |                                               Kami no Tou: Koubou-sen                                               |   Last month  |        -        |
 | [58516](https://myanimelist.net/anime/58516) |     tv     |  2024  |     manga    |                                           Ao no Exorcist: Yuki no Hate-hen                                          |   Last month  |        -        |
 | [53287](https://myanimelist.net/anime/53287) |     tv     |  2024  |     other    |                                          Love Live! Superstar!! 3rd Season                                          |   Last month  |        -        |
-| [58572](https://myanimelist.net/anime/58572) |     tv     |  2024  |     manga    |                        Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season                        |   Last month  |        -        |
 
 
-*[297 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[298 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
