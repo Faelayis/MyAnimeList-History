@@ -1,8 +1,9 @@
-# Plan to Watch (305)
+# Plan to Watch (306)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-|  [7647](https://myanimelist.net/anime/7647)  |     tv     |  2010  |     manga    |                                               Arakawa Under the Bridge                                              |   3 days ago  |        -        |
+| [60543](https://myanimelist.net/anime/60543) |     tv     |  2025  |     manga    |                                                 Dandadan 2nd Season                                                 |   1 hour ago  |        -        |
+|  [7647](https://myanimelist.net/anime/7647)  |     tv     |  2010  |     manga    |                                               Arakawa Under the Bridge                                              |   4 days ago  |        -        |
 | [58511](https://myanimelist.net/anime/58511) |     tv     |  2024  |     manga    |                                Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season                                |   Last month  |        -        |
 | [51794](https://myanimelist.net/anime/51794) |     tv     |  2023  |     manga    |                                      Nanatsu no Taizai: Mokushiroku no Yonkishi                                     |   Last month  |        -        |
 | [59989](https://myanimelist.net/anime/59989) |     tv     |  2024  |   web_manga  |                                               Kami no Tou: Koubou-sen                                               |   Last month  |        -        |
@@ -53,7 +54,7 @@
 | [57864](https://myanimelist.net/anime/57864) |     ona    |  2024  |  light_novel |                                       Monogatari Series: Off & Monster Season                                       |  9 months ago |        -        |
 | [53410](https://myanimelist.net/anime/53410) |     tv     |  2024  |     manga    |                                                 Yuru Camp△ Season 3                                                 |  9 months ago |        -        |
 | [58514](https://myanimelist.net/anime/58514) |     tv     |  2025  |  light_novel |                                          Kusuriya no Hitorigoto 2nd Season                                          |  9 months ago |        -        |
-| [53421](https://myanimelist.net/anime/53421) |     tv     |  2024  |     manga    |                                             Dosanko Gal wa Namara Menkoi                                            |  9 months ago |        -        |
+| [53421](https://myanimelist.net/anime/53421) |     tv     |  2024  |     manga    |                                             Dosanko Gal wa Namara Menkoi                                            | 10 months ago |        -        |
 | [54866](https://myanimelist.net/anime/54866) |    movie   |  2024  |     manga    |                                               Blue Lock: Episode Nagi                                               | 10 months ago |        -        |
 | [50713](https://myanimelist.net/anime/50713) |     tv     |  2024  |  light_novel |                                        Mahouka Koukou no Rettousei 3rd Season                                       | 10 months ago |        -        |
 | [49828](https://myanimelist.net/anime/49828) |     tv     |  2022  |   original   |                                         Kidou Senshi Gundam: Suisei no Majo                                         | 10 months ago |        -        |

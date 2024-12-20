@@ -2,32 +2,31 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (4) ``1.31%``
+#### Watching (3) ``0.98%``
 
 |                      id                      | Type | Season | Score |                                       Title                                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [57334](https://myanimelist.net/anime/57334) |  tv  |  2024  |   9   |                                     Dandadan                                     |  11/12  |  5 days ago  | 10/06/2024 |
 | [57066](https://myanimelist.net/anime/57066) |  tv  |  2024  |   10  | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen |   9/15  |   Last week  | 10/05/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                     One Piece                                    |  1114/? | 4 months ago | 01/01/2013 |
 | [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |                     Tensei shitara Slime Datta Ken 3rd Season                    |   2/24  | 8 months ago | 04/06/2024 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``96.13%``
+#### Completed ``95.92%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |   1 hour ago  | 10/06/2024 |  12/20/2024 |
 | [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  2 months ago | 07/08/2024 |  09/29/2024 |
 | [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |  3 months ago | 08/12/2024 |  09/04/2024 |
 | [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  6 months ago | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |  7 months ago | 05/30/2024 |  05/30/2024 |
-| [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  7 months ago | 02/27/2024 |  05/10/2024 |
-| [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |  7 months ago | 01/09/2024 |  05/10/2024 |
+| [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  8 months ago | 02/27/2024 |  05/10/2024 |
 
 
-*[459 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
+*[460 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``12.73%``
+#### On Hold ``12.72%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -55,16 +54,16 @@ List Sync From MyAnimeList (update every day)
 
 *[29 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``50.25%``
+#### Plan to Watch ``50.41%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-|  [7647](https://myanimelist.net/anime/7647)  |     tv     |  2010  |     manga    |                                               Arakawa Under the Bridge                                              |   3 days ago  |        -        |
+| [60543](https://myanimelist.net/anime/60543) |     tv     |  2025  |     manga    |                                                 Dandadan 2nd Season                                                 |   1 hour ago  |        -        |
+|  [7647](https://myanimelist.net/anime/7647)  |     tv     |  2010  |     manga    |                                               Arakawa Under the Bridge                                              |   4 days ago  |        -        |
 | [58511](https://myanimelist.net/anime/58511) |     tv     |  2024  |     manga    |                                Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season                                |   Last month  |        -        |
 | [51794](https://myanimelist.net/anime/51794) |     tv     |  2023  |     manga    |                                      Nanatsu no Taizai: Mokushiroku no Yonkishi                                     |   Last month  |        -        |
 | [59989](https://myanimelist.net/anime/59989) |     tv     |  2024  |   web_manga  |                                               Kami no Tou: Koubou-sen                                               |   Last month  |        -        |
 | [58516](https://myanimelist.net/anime/58516) |     tv     |  2024  |     manga    |                                           Ao no Exorcist: Yuki no Hate-hen                                          |   Last month  |        -        |
-| [53287](https://myanimelist.net/anime/53287) |     tv     |  2024  |     other    |                                          Love Live! Superstar!! 3rd Season                                          |   Last month  |        -        |
 
 
-*[298 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[299 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*

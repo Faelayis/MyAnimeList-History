@@ -1,13 +1,14 @@
-# Completed (465)
+# Completed (466)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |   1 hour ago  | 10/06/2024 |  12/20/2024 |
 | [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  2 months ago | 07/08/2024 |  09/29/2024 |
 | [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |  3 months ago | 08/12/2024 |  09/04/2024 |
 | [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  6 months ago | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |  7 months ago | 05/30/2024 |  05/30/2024 |
-| [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  7 months ago | 02/27/2024 |  05/10/2024 |
-| [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |  7 months ago | 01/09/2024 |  05/10/2024 |
+| [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  8 months ago | 02/27/2024 |  05/10/2024 |
+| [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               |  8 months ago | 01/09/2024 |  05/10/2024 |
 | [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |  9 months ago | 12/15/2023 |  03/24/2024 |
 | [58313](https://myanimelist.net/anime/58313) |    music   |  2024  |   7   |                                                Haru (2024)                                                |  9 months ago | 03/05/2024 |  03/05/2024 |
 | [50416](https://myanimelist.net/anime/50416) |     tv     |  2023  |   6   |                                               Skip to Loafer                                              | 10 months ago | 05/10/2023 |  02/28/2024 |
@@ -88,9 +89,9 @@
 |  [9260](https://myanimelist.net/anime/9260)  |    movie   |  2016  |   7   |                                       Kizumonogatari I: Tekketsu-hen                                      |  2 years ago  | 11/26/2022 |  12/09/2022 |
 | [42916](https://myanimelist.net/anime/42916) |    movie   |  2021  |   5   |                       Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria                       |  2 years ago  | 11/28/2022 |  11/28/2022 |
 | [32268](https://myanimelist.net/anime/32268) |     ona    |  2016  |   5   |                                              Koyomimonogatari                                             |  2 years ago  | 11/26/2022 |  11/26/2022 |
-| [31181](https://myanimelist.net/anime/31181) |     tv     |  2015  |   7   |                                              Owarimonogatari                                              | 11 months ago | 11/26/2022 |  11/26/2022 |
+| [31181](https://myanimelist.net/anime/31181) |     tv     |  2015  |   7   |                                              Owarimonogatari                                              |   Last year   | 11/26/2022 |  11/26/2022 |
 | [21855](https://myanimelist.net/anime/21855) | tv_special |  2014  |   4   |                                               Hanamonogatari                                              |  2 years ago  | 11/24/2022 |  11/24/2022 |
-| [28025](https://myanimelist.net/anime/28025) | tv_special |  2014  |   8   |                                              Tsukimonogatari                                              | 11 months ago | 11/24/2022 |  11/24/2022 |
+| [28025](https://myanimelist.net/anime/28025) | tv_special |  2014  |   8   |                                              Tsukimonogatari                                              |   Last year   | 11/24/2022 |  11/24/2022 |
 | [17074](https://myanimelist.net/anime/17074) |     tv     |  2013  |   10  |                                      Monogatari Series: Second Season                                     |  2 years ago  | 11/20/2022 |  11/24/2022 |
 | [11597](https://myanimelist.net/anime/11597) |     tv     |  2012  |   7   |                                               Nisemonogatari                                              |  2 years ago  | 11/19/2022 |  11/20/2022 |
 |  [5081](https://myanimelist.net/anime/5081)  |     tv     |  2009  |   7   |                                               Bakemonogatari                                              |  2 years ago  | 11/18/2022 |  11/19/2022 |
@@ -157,7 +158,7 @@
 |  [6862](https://myanimelist.net/anime/6862)  |   special  |  2010  |   7   |                                             K-On!: Live House!                                            |  2 years ago  | 03/23/2022 |  03/23/2022 |
 |  [5680](https://myanimelist.net/anime/5680)  |     tv     |  2009  |   9   |                                                   K-On!                                                   |  2 years ago  | 03/20/2022 |  03/23/2022 |
 | [40540](https://myanimelist.net/anime/40540) |     tv     |  2020  |   8   |                        Sword Art Online: Alicization - War of Underworld 2nd Season                       |  2 years ago  | 03/17/2022 |  03/19/2022 |
-| [39597](https://myanimelist.net/anime/39597) |     tv     |  2019  |   7   |                             Sword Art Online: Alicization - War of Underworld                             |  2 years ago  | 03/16/2022 |  03/17/2022 |
+| [39597](https://myanimelist.net/anime/39597) |     tv     |  2019  |   7   |                             Sword Art Online: Alicization - War of Underworld                             |  3 years ago  | 03/16/2022 |  03/17/2022 |
 | [41120](https://myanimelist.net/anime/41120) |     tv     |  2020  |   8   |                                       Fugou Keiji: Balance:Unlimited                                      |  3 years ago  | 03/13/2022 |  03/13/2022 |
 | [41694](https://myanimelist.net/anime/41694) |     tv     |  2021  |   8   |                                           Hataraku Saibou Black                                           |  3 years ago  | 03/08/2022 |  03/11/2022 |
 | [40416](https://myanimelist.net/anime/40416) |    movie   |  2020  |   9   |                                       Date A Bullet: Dead or Bullet                                       |  3 years ago  | 03/03/2022 |  03/03/2022 |
