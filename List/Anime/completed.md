@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |   1 hour ago  | 10/06/2024 |  12/20/2024 |
+| [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |   Yesterday   | 10/06/2024 |  12/20/2024 |
 | [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  2 months ago | 07/08/2024 |  09/29/2024 |
 | [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |  3 months ago | 08/12/2024 |  09/04/2024 |
 | [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  6 months ago | 05/15/2024 |  07/01/2024 |
@@ -157,7 +157,7 @@
 | [42670](https://myanimelist.net/anime/42670) |     tv     |  2022  |   9   |                                     Princess Connect! Re:Dive Season 2                                    |  2 years ago  | 02/12/2022 |  03/30/2022 |
 |  [6862](https://myanimelist.net/anime/6862)  |   special  |  2010  |   7   |                                             K-On!: Live House!                                            |  2 years ago  | 03/23/2022 |  03/23/2022 |
 |  [5680](https://myanimelist.net/anime/5680)  |     tv     |  2009  |   9   |                                                   K-On!                                                   |  2 years ago  | 03/20/2022 |  03/23/2022 |
-| [40540](https://myanimelist.net/anime/40540) |     tv     |  2020  |   8   |                        Sword Art Online: Alicization - War of Underworld 2nd Season                       |  2 years ago  | 03/17/2022 |  03/19/2022 |
+| [40540](https://myanimelist.net/anime/40540) |     tv     |  2020  |   8   |                        Sword Art Online: Alicization - War of Underworld 2nd Season                       |  3 years ago  | 03/17/2022 |  03/19/2022 |
 | [39597](https://myanimelist.net/anime/39597) |     tv     |  2019  |   7   |                             Sword Art Online: Alicization - War of Underworld                             |  3 years ago  | 03/16/2022 |  03/17/2022 |
 | [41120](https://myanimelist.net/anime/41120) |     tv     |  2020  |   8   |                                       Fugou Keiji: Balance:Unlimited                                      |  3 years ago  | 03/13/2022 |  03/13/2022 |
 | [41694](https://myanimelist.net/anime/41694) |     tv     |  2021  |   8   |                                           Hataraku Saibou Black                                           |  3 years ago  | 03/08/2022 |  03/11/2022 |
