@@ -2,8 +2,8 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |   2 days ago  | 10/06/2024 |  12/20/2024 |
-| [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  2 months ago | 07/08/2024 |  09/29/2024 |
+| [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |   3 days ago  | 10/06/2024 |  12/20/2024 |
+| [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  3 months ago | 07/08/2024 |  09/29/2024 |
 | [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |  3 months ago | 08/12/2024 |  09/04/2024 |
 | [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  6 months ago | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |  7 months ago | 05/30/2024 |  05/30/2024 |
@@ -410,7 +410,7 @@
 | [39112](https://myanimelist.net/anime/39112) |    music   |  2019  |   8   |                                              Kawaki wo Ameku                                              |  2 years ago  |      -     |      -      |
 | [38000](https://myanimelist.net/anime/38000) |     tv     |  2019  |   10  |                                              Kimetsu no Yaiba                                             |  3 years ago  |      -     |      -      |
 | [32281](https://myanimelist.net/anime/32281) |    movie   |  2016  |   8   |                                               Kimi no Na wa.                                              |  4 years ago  |      -     |      -      |
-| [36098](https://myanimelist.net/anime/36098) |    movie   |  2018  |   9   |                                         Kimi no Suizou wo Tabetai                                         |  3 years ago  |      -     |      -      |
+| [36098](https://myanimelist.net/anime/36098) |    movie   |  2018  |   9   |                                         Kimi no Suizou wo Tabetai                                         |  4 years ago  |      -     |      -      |
 | [38040](https://myanimelist.net/anime/38040) |    movie   |  2019  |   9   |                       Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu                      |  2 years ago  |      -     |      -      |
 | [40082](https://myanimelist.net/anime/40082) |    movie   |  2019  |   7   |                                            Lupin III: The First                                           |  3 years ago  |      -     |      -      |
 | [20785](https://myanimelist.net/anime/20785) |     tv     |  2014  |   8   |                                        Mahouka Koukou no Rettousei                                        |  2 years ago  |      -     |      -      |
