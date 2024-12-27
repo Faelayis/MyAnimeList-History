@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |   6 days ago  | 10/06/2024 |  12/20/2024 |
+| [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |   Last week   | 10/06/2024 |  12/20/2024 |
 | [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  3 months ago | 07/08/2024 |  09/29/2024 |
 | [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |  4 months ago | 08/12/2024 |  09/04/2024 |
 | [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  6 months ago | 05/15/2024 |  07/01/2024 |
@@ -13,7 +13,7 @@
 | [58313](https://myanimelist.net/anime/58313) |    music   |  2024  |   7   |                                                Haru (2024)                                                |  9 months ago | 03/05/2024 |  03/05/2024 |
 | [50416](https://myanimelist.net/anime/50416) |     tv     |  2023  |   6   |                                               Skip to Loafer                                              | 10 months ago | 05/10/2023 |  02/28/2024 |
 | [53026](https://myanimelist.net/anime/53026) |     tv     |  2023  |   8   |                                              Synduality: Noir                                             | 10 months ago | 02/27/2024 |  02/27/2024 |
-| [54870](https://myanimelist.net/anime/54870) |    movie   |  2023  |   5   |                           Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai                           | 11 months ago | 01/25/2024 |  01/25/2024 |
+| [54870](https://myanimelist.net/anime/54870) |    movie   |  2023  |   5   |                           Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai                           |   Last year   | 01/25/2024 |  01/25/2024 |
 | [54103](https://myanimelist.net/anime/54103) |     tv     |  2023  |   6   |                                      Hikikomari Kyuuketsuki no Monmon                                     |   Last year   | 10/08/2023 |  01/10/2024 |
 | [51009](https://myanimelist.net/anime/51009) |     tv     |  2023  |   8   |                                         Jujutsu Kaisen 2nd Season                                         |   Last year   | 07/08/2023 |  12/29/2023 |
 | [54362](https://myanimelist.net/anime/54362) |     tv     |  2023  |   6   |                                             Hametsu no Oukoku                                             |   Last year   | 10/16/2023 |  12/24/2023 |
