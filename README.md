@@ -29,10 +29,10 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [57611](https://myanimelist.net/anime/57611) |    tv   |  2024  |   -   |                                              Kimi wa Meido-sama.                                              |   3/12  |  3 weeks ago  | 10/20/2024 |
-| [49981](https://myanimelist.net/anime/49981) |    tv   |  2024  |   -   |                   Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II                  |   2/12  |  3 weeks ago  | 07/20/2024 |
-| [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |  5 months ago | 05/23/2024 |
-| [54789](https://myanimelist.net/anime/54789) |    tv   |  2024  |   9   |                                        Boku no Hero Academia 7th Season                                       |  13/21  |  3 weeks ago  | 05/07/2024 |
+| [57611](https://myanimelist.net/anime/57611) |    tv   |  2024  |   -   |                                              Kimi wa Meido-sama.                                              |   3/12  |   Last month  | 10/20/2024 |
+| [49981](https://myanimelist.net/anime/49981) |    tv   |  2024  |   -   |                   Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II                  |   2/12  |   Last month  | 07/20/2024 |
+| [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |  6 months ago | 05/23/2024 |
+| [54789](https://myanimelist.net/anime/54789) |    tv   |  2024  |   9   |                                        Boku no Hero Academia 7th Season                                       |  13/21  |   Last month  | 05/07/2024 |
 | [54900](https://myanimelist.net/anime/54900) |    tv   |  2024  |   9   |                                                  Wind Breaker                                                 |   9/13  |  4 months ago | 04/14/2024 |
 | [49458](https://myanimelist.net/anime/49458) |    tv   |  2024  |   -   |                                    Kono Subarashii Sekai ni Shukufuku wo! 3                                   |   2/11  |  4 months ago | 04/11/2024 |
 
@@ -57,12 +57,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [60544](https://myanimelist.net/anime/60544) |    movie   |  2025  |   original   |                                              Nezha Zhi Mo Tong Nao Hai                                              |   5 days ago  |        -        |
-| [59419](https://myanimelist.net/anime/59419) |    movie   |  2025  |     game     |                                 Project Sekai Movie: Kowareta Sekai to Utaenai Miku                                 |   5 days ago  |        -        |
-| [55830](https://myanimelist.net/anime/55830) |     tv     |  2025  |  light_novel |                                                  Fate/strange Fake                                                  |   5 days ago  |        -        |
-| [59226](https://myanimelist.net/anime/59226) |     tv     |  2025  |     manga    |                                              Ao no Exorcist: Yosuga-hen                                             |   5 days ago  |        -        |
-| [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   web_manga  |                               Ore dake Level Up na Ken Season 2: Arise from the Shadow                              |   5 days ago  |        -        |
-| [60548](https://myanimelist.net/anime/60548) |     tv     |    -   |     manga    |                                              Skip to Loafer 2nd Season                                              |   6 days ago  |        -        |
+| [60544](https://myanimelist.net/anime/60544) |    movie   |  2025  |   original   |                                              Nezha Zhi Mo Tong Nao Hai                                              |   6 days ago  |        -        |
+| [59419](https://myanimelist.net/anime/59419) |    movie   |  2025  |     game     |                                 Project Sekai Movie: Kowareta Sekai to Utaenai Miku                                 |   6 days ago  |        -        |
+| [55830](https://myanimelist.net/anime/55830) |     tv     |    -   |  light_novel |                                                  Fate/strange Fake                                                  |   6 days ago  |        -        |
+| [59226](https://myanimelist.net/anime/59226) |     tv     |  2025  |     manga    |                                              Ao no Exorcist: Yosuga-hen                                             |   6 days ago  |        -        |
+| [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   web_manga  |                               Ore dake Level Up na Ken Season 2: Arise from the Shadow                              |   6 days ago  |        -        |
+| [60548](https://myanimelist.net/anime/60548) |     tv     |    -   |     manga    |                                              Skip to Loafer 2nd Season                                              |   Last week   |        -        |
 
 
 *[305 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
