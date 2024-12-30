@@ -7,7 +7,7 @@ List Sync From MyAnimeList (update every day)
 |                      id                      | Type | Season | Score |                                       Title                                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
 | [57066](https://myanimelist.net/anime/57066) |  tv  |  2024  |   10  | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen |  11/15  |   Last week  | 10/05/2024 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                     One Piece                                    |  1114/? | 4 months ago | 01/01/2013 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                     One Piece                                    |  1114/? | 5 months ago | 01/01/2013 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -57,11 +57,11 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [60544](https://myanimelist.net/anime/60544) |    movie   |  2025  |   original   |                                              Nezha Zhi Mo Tong Nao Hai                                              |   6 days ago  |        -        |
-| [59419](https://myanimelist.net/anime/59419) |    movie   |  2025  |     game     |                                 Project Sekai Movie: Kowareta Sekai to Utaenai Miku                                 |   6 days ago  |        -        |
-| [55830](https://myanimelist.net/anime/55830) |     tv     |    -   |  light_novel |                                                  Fate/strange Fake                                                  |   6 days ago  |        -        |
-| [59226](https://myanimelist.net/anime/59226) |     tv     |  2025  |     manga    |                                              Ao no Exorcist: Yosuga-hen                                             |   6 days ago  |        -        |
-| [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   web_manga  |                               Ore dake Level Up na Ken Season 2: Arise from the Shadow                              |   6 days ago  |        -        |
+| [60544](https://myanimelist.net/anime/60544) |    movie   |  2025  |   original   |                                              Nezha Zhi Mo Tong Nao Hai                                              |   Last week   |        -        |
+| [59419](https://myanimelist.net/anime/59419) |    movie   |  2025  |     game     |                                 Project Sekai Movie: Kowareta Sekai to Utaenai Miku                                 |   Last week   |        -        |
+| [55830](https://myanimelist.net/anime/55830) |     tv     |    -   |  light_novel |                                                  Fate/strange Fake                                                  |   Last week   |        -        |
+| [59226](https://myanimelist.net/anime/59226) |     tv     |  2025  |     manga    |                                              Ao no Exorcist: Yosuga-hen                                             |   Last week   |        -        |
+| [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   web_manga  |                               Ore dake Level Up na Ken Season 2: Arise from the Shadow                              |   Last week   |        -        |
 | [60548](https://myanimelist.net/anime/60548) |     tv     |    -   |     manga    |                                              Skip to Loafer 2nd Season                                              |   Last week   |        -        |
 
 
