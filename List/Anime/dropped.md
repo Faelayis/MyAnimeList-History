@@ -1,4 +1,4 @@
-# Dropped (35)
+# Dropped (34)
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
@@ -35,5 +35,4 @@
 | [38853](https://myanimelist.net/anime/38853) |  tv  |  2021  |   1   |                                                   Ex-Arm                                                  |   1/12  |  4 years ago |      -     |
 | [38909](https://myanimelist.net/anime/38909) |  tv  |  2020  |   4   |                                            Infinite Dendrogram                                            |   0/13  |  4 years ago |      -     |
 | [19685](https://myanimelist.net/anime/19685) |  tv  |  2014  |   6   |                                        Kanojo ga Flag wo Oraretara                                        |   6/13  |  3 years ago |      -     |
-| [40571](https://myanimelist.net/anime/40571) |  tv  |  2020  |   2   |                                              Majo no Tabitabi                                             |   2/12  |  4 years ago |      -     |
 | [32899](https://myanimelist.net/anime/32899) |  tv  |  2016  |   4   |                                         Watashi ga Motete Dousunda                                        |   3/12  |  2 years ago |      -     |
