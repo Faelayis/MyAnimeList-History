@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |   2 days ago  | 01/01/2025 |  01/01/2025 |
+| [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |   3 days ago  | 01/01/2025 |  01/01/2025 |
 | [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |  2 weeks ago  | 10/06/2024 |  12/20/2024 |
 | [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  3 months ago | 07/08/2024 |  09/29/2024 |
 | [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |  4 months ago | 08/12/2024 |  09/04/2024 |
@@ -298,7 +298,7 @@
 | [38680](https://myanimelist.net/anime/38680) |     tv     |  2019  |   9   |                                          Fruits Basket 1st Season                                         |  3 years ago  | 05/15/2021 |  05/17/2021 |
 | [35363](https://myanimelist.net/anime/35363) |   special  |  2017  |   7   |         Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai        |  3 years ago  | 05/14/2021 |  05/14/2021 |
 | [33206](https://myanimelist.net/anime/33206) |     tv     |  2017  |   8   |                                      Kobayashi-san Chi no Maid Dragon                                     |  3 years ago  | 05/13/2021 |  05/14/2021 |
-| [12189](https://myanimelist.net/anime/12189) |     tv     |  2012  |   6   |                                                   Hyouka                                                  |  3 years ago  | 02/01/2021 |  05/01/2021 |
+| [12189](https://myanimelist.net/anime/12189) |     tv     |  2012  |   6   |                                                   Hyouka                                                  |  4 years ago  | 02/01/2021 |  05/01/2021 |
 | [40908](https://myanimelist.net/anime/40908) |     tv     |  2021  |   6   |                                                Kemono Jihen                                               |  4 years ago  | 02/14/2021 |  04/30/2021 |
 | [10793](https://myanimelist.net/anime/10793) |     tv     |  2011  |   8   |                                                Guilty Crown                                               |  3 years ago  | 04/29/2021 |  04/29/2021 |
 | [12467](https://myanimelist.net/anime/12467) |     tv     |  2012  |   6   |                                              Nazo no Kanojo X                                             |  4 years ago  | 04/27/2021 |  04/27/2021 |
