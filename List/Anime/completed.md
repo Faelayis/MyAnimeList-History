@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |   4 days ago  | 01/01/2025 |  01/01/2025 |
+| [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |   5 days ago  | 01/01/2025 |  01/01/2025 |
 | [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |  2 weeks ago  | 10/06/2024 |  12/20/2024 |
 | [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  3 months ago | 07/08/2024 |  09/29/2024 |
 | [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |  4 months ago | 08/12/2024 |  09/04/2024 |
@@ -151,7 +151,7 @@
 | [33674](https://myanimelist.net/anime/33674) |    movie   |  2017  |   10  |                                           No Game No Life: Zero                                           |  2 years ago  | 04/05/2022 |  04/06/2022 |
 | [19815](https://myanimelist.net/anime/19815) |     tv     |  2014  |   8   |                                              No Game No Life                                              |   Last year   | 06/06/2020 |  04/05/2022 |
 | [38383](https://myanimelist.net/anime/38383) |     ona    |  2018  |   6   |                                      Jashin-chan Dropkick Episode 12                                      |  2 years ago  | 04/04/2022 |  04/04/2022 |
-| [36906](https://myanimelist.net/anime/36906) |     tv     |  2018  |   7   |                                            Jashin-chan Dropkick                                           |  2 years ago  | 04/03/2022 |  04/04/2022 |
+| [36906](https://myanimelist.net/anime/36906) |     tv     |  2018  |   7   |                                            Jashin-chan Dropkick                                           |  3 years ago  | 04/03/2022 |  04/04/2022 |
 |  [9734](https://myanimelist.net/anime/9734)  |   special  |  2011  |   7   |                                              K-On!!: Keikaku!                                             |  3 years ago  | 04/03/2022 |  04/03/2022 |
 |  [7791](https://myanimelist.net/anime/7791)  |     tv     |  2010  |   8   |                                                   K-On!!                                                  |  3 years ago  | 03/23/2022 |  04/03/2022 |
 | [48736](https://myanimelist.net/anime/48736) |     tv     |  2022  |   7   |                                      Sono Bisque Doll wa Koi wo Suru                                      |  3 years ago  | 01/13/2022 |  04/01/2022 |
