@@ -21,7 +21,7 @@
 | [11319](https://myanimelist.net/anime/11319) |  tv  |  2012  |   5   |                                             Zero no Tsukaima F                                            |   1/12  |  2 years ago | 06/17/2021 |
 | [30383](https://myanimelist.net/anime/30383) |  tv  |  2015  |   -   |                                              Classroom☆Crisis                                             |   2/13  |  3 years ago | 06/07/2021 |
 |  [2167](https://myanimelist.net/anime/2167)  |  tv  |  2007  |   -   |                                                  Clannad                                                  |   1/23  |  3 years ago | 06/05/2021 |
-| [42307](https://myanimelist.net/anime/42307) |  tv  |  2021  |   2   |                                    Subarashiki Kono Sekai The Animation                                   |   2/12  |  3 years ago | 04/24/2021 |
+| [42307](https://myanimelist.net/anime/42307) |  tv  |  2021  |   2   |                                    Subarashiki Kono Sekai The Animation                                   |   2/12  |  4 years ago | 04/24/2021 |
 | [42826](https://myanimelist.net/anime/42826) |  tv  |  2021  |   4   |                                      Seijo no Maryoku wa Bannou desu                                      |   1/12  |  3 years ago | 04/07/2021 |
 | [42192](https://myanimelist.net/anime/42192) |  tv  |  2021  |   4   |                                                 Edens Zero                                                |   0/25  |  3 years ago | 04/06/2021 |
 | [39990](https://myanimelist.net/anime/39990) |  ona |  2020  |   2   |                                                 Vlad Love                                                 |   1/12  |  3 years ago | 03/28/2021 |
