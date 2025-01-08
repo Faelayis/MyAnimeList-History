@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [60593](https://myanimelist.net/anime/60593) |     tv     |  2025  |     manga    |                                      Vigilante: Boku no Hero Academia Illegals                                      |   6 days ago  |        -        |
+| [60593](https://myanimelist.net/anime/60593) |     tv     |  2025  |     manga    |                                      Vigilante: Boku no Hero Academia Illegals                                      |   Last week   |        -        |
 | [60544](https://myanimelist.net/anime/60544) |    movie   |  2025  |   original   |                                              Nezha Zhi Mo Tong Nao Hai                                              |  2 weeks ago  |        -        |
 | [59419](https://myanimelist.net/anime/59419) |    movie   |  2025  |     game     |                                 Project Sekai Movie: Kowareta Sekai to Utaenai Miku                                 |  2 weeks ago  |        -        |
 | [55830](https://myanimelist.net/anime/55830) |     tv     |    -   |  light_novel |                                                  Fate/strange Fake                                                  |  2 weeks ago  |        -        |

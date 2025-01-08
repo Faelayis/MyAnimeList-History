@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |   6 days ago  | 01/01/2025 |  01/01/2025 |
+| [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |   Last week   | 01/01/2025 |  01/01/2025 |
 | [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |  2 weeks ago  | 10/06/2024 |  12/20/2024 |
 | [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  3 months ago | 07/08/2024 |  09/29/2024 |
 | [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |  4 months ago | 08/12/2024 |  09/04/2024 |
@@ -148,7 +148,7 @@
 | [32827](https://myanimelist.net/anime/32827) |     ona    |  2018  |   7   |                                              B: The Beginning                                             |  2 years ago  | 04/12/2022 |  04/13/2022 |
 | [39049](https://myanimelist.net/anime/39049) |     tv     |  2020  |   7   |                                           Jashin-chan Dropkick'                                           |   Last year   | 04/10/2022 |  04/13/2022 |
 | [23277](https://myanimelist.net/anime/23277) |     tv     |  2015  |   5   |                                        Saenai Heroine no Sodatekata                                       |  2 years ago  | 04/09/2022 |  04/10/2022 |
-| [33674](https://myanimelist.net/anime/33674) |    movie   |  2017  |   10  |                                           No Game No Life: Zero                                           |  2 years ago  | 04/05/2022 |  04/06/2022 |
+| [33674](https://myanimelist.net/anime/33674) |    movie   |  2017  |   10  |                                           No Game No Life: Zero                                           |  3 years ago  | 04/05/2022 |  04/06/2022 |
 | [19815](https://myanimelist.net/anime/19815) |     tv     |  2014  |   8   |                                              No Game No Life                                              |   Last year   | 06/06/2020 |  04/05/2022 |
 | [38383](https://myanimelist.net/anime/38383) |     ona    |  2018  |   6   |                                      Jashin-chan Dropkick Episode 12                                      |  2 years ago  | 04/04/2022 |  04/04/2022 |
 | [36906](https://myanimelist.net/anime/36906) |     tv     |  2018  |   7   |                                            Jashin-chan Dropkick                                           |  3 years ago  | 04/03/2022 |  04/04/2022 |
