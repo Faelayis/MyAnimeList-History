@@ -2,11 +2,12 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (3) ``0.96%``
+#### Watching (4) ``1.28%``
 
 |                      id                      | Type | Season | Score |                                       Title                                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [59135](https://myanimelist.net/anime/59135) |  tv  |  2025  |   -   |             Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.             |   0/12  |  3 days ago  |      -     |
+| [53924](https://myanimelist.net/anime/53924) |  tv  |  2025  |   -   |                            Jibaku Shounen Hanako-kun 2                           |   0/12  | 20 hours ago |      -     |
+| [59135](https://myanimelist.net/anime/59135) |  tv  |  2025  |   -   |             Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.             |   0/12  |  4 days ago  |      -     |
 | [57066](https://myanimelist.net/anime/57066) |  tv  |  2024  |   10  | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen |  11/15  |  3 weeks ago | 10/05/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                     One Piece                                    |  1114/? | 5 months ago | 01/01/2013 |
 
@@ -16,7 +17,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |   Last week   | 01/01/2025 |  01/01/2025 |
+| [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  2 weeks ago  | 01/01/2025 |  01/01/2025 |
 | [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |  3 weeks ago  | 10/06/2024 |  12/20/2024 |
 | [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  3 months ago | 07/08/2024 |  09/29/2024 |
 | [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |  4 months ago | 08/12/2024 |  09/04/2024 |
@@ -54,7 +55,7 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``51.48%``
+#### Plan to Watch ``51.23%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -66,4 +67,4 @@ List Sync From MyAnimeList (update every day)
 | [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   web_manga  |                               Ore dake Level Up na Ken Season 2: Arise from the Shadow                              |  3 weeks ago  |        -        |
 
 
-*[306 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[305 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*

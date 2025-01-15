@@ -1,4 +1,4 @@
-# Plan to Watch (313)
+# Plan to Watch (312)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -143,7 +143,6 @@
 | [50384](https://myanimelist.net/anime/50384) |     tv     |  2023  |     manga    |                                                     Mononogatari                                                    |  2 years ago  |        -        |
 | [48418](https://myanimelist.net/anime/48418) |     tv     |  2024  |  light_novel | Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou Part 2 |  2 years ago  |        -        |
 | [22789](https://myanimelist.net/anime/22789) |     tv     |  2014  |   web_manga  |                                                      Barakamon                                                      |  2 years ago  |        -        |
-| [53924](https://myanimelist.net/anime/53924) |     tv     |  2025  |     manga    |                                             Jibaku Shounen Hanako-kun 2                                             |  2 years ago  |        -        |
 | [53913](https://myanimelist.net/anime/53913) |     tv     |    -   |  light_novel |                                             Tensei shitara Ken deshita 2                                            |  2 years ago  |        -        |
 | [18679](https://myanimelist.net/anime/18679) |     tv     |  2013  |   original   |                                                     Kill la Kill                                                    |  2 years ago  |        -        |
 | [34914](https://myanimelist.net/anime/34914) |     tv     |  2017  | 4_koma_manga |                                                      New Game!!                                                     |  2 years ago  |        -        |
@@ -198,7 +197,7 @@
 | [49785](https://myanimelist.net/anime/49785) |     tv     |  2024  |   web_manga  |                                              Fairy Tail: 100-nen Quest                                              |  2 years ago  |        -        |
 | [50330](https://myanimelist.net/anime/50330) |     tv     |  2023  |     manga    |                                             Bungou Stray Dogs 4th Season                                            |  2 years ago  |        -        |
 | [47160](https://myanimelist.net/anime/47160) |     tv     |  2023  |  light_novel |                                                   Goblin Slayer II                                                  |  2 years ago  |        -        |
-| [37994](https://myanimelist.net/anime/37994) |     ona    |  2021  |   original   |                                             B: The Beginning Succession                                             |  2 years ago  |        -        |
+| [37994](https://myanimelist.net/anime/37994) |     ona    |  2021  |   original   |                                             B: The Beginning Succession                                             |  3 years ago  |        -        |
 | [40870](https://myanimelist.net/anime/40870) |     tv     |  2021  |   original   |                                                    SSSS.Dynazenon                                                   |  3 years ago  |        -        |
 | [36296](https://myanimelist.net/anime/36296) |     tv     |  2018  |     manga    |                                                     Hinamatsuri                                                     |  3 years ago  |        -        |
 |  [9617](https://myanimelist.net/anime/9617)  |    movie   |  2011  | 4_koma_manga |                                                     K-On! Movie                                                     |  3 years ago  |        -        |
