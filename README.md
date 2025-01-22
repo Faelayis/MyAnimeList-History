@@ -2,12 +2,13 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (5) ``1.60%``
+#### Watching (6) ``1.92%``
 
 |                      id                      | Type | Season | Score |                                       Title                                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                                   Sakamoto Days                                  |   2/11  |   Yesterday  | 01/19/2025 |
-| [53924](https://myanimelist.net/anime/53924) |  tv  |  2025  |   -   |                            Jibaku Shounen Hanako-kun 2                           |   0/12  |  6 days ago  |      -     |
+| [52299](https://myanimelist.net/anime/52299) |  tv  |  2024  |   -   |                             Ore dake Level Up na Ken                             |   6/12  | 14 hours ago | 01/22/2025 |
+| [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                                   Sakamoto Days                                  |   2/11  |  2 days ago  | 01/19/2025 |
+| [53924](https://myanimelist.net/anime/53924) |  tv  |  2025  |   -   |                            Jibaku Shounen Hanako-kun 2                           |   0/12  |   Last week  |      -     |
 | [59135](https://myanimelist.net/anime/59135) |  tv  |  2025  |   -   |             Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.             |   0/12  |   Last week  |      -     |
 | [57066](https://myanimelist.net/anime/57066) |  tv  |  2024  |   10  | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen |  11/15  |  Last month  | 10/05/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                     One Piece                                    |  1114/? | 5 months ago | 01/01/2013 |
@@ -18,7 +19,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  2 weeks ago  | 01/01/2025 |  01/01/2025 |
+| [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  3 weeks ago  | 01/01/2025 |  01/01/2025 |
 | [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |   Last month  | 10/06/2024 |  12/20/2024 |
 | [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  4 months ago | 07/08/2024 |  09/29/2024 |
 | [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |  4 months ago | 08/12/2024 |  09/04/2024 |
@@ -28,7 +29,7 @@ List Sync From MyAnimeList (update every day)
 
 *[461 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``12.71%``
+#### On Hold ``12.58%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -40,7 +41,7 @@ List Sync From MyAnimeList (update every day)
 | [49458](https://myanimelist.net/anime/49458) |    tv   |  2024  |   -   |                                    Kono Subarashii Sekai ni Shukufuku wo! 3                                   |   2/11  |  5 months ago | 04/11/2024 |
 
 
-*[98 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
+*[97 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
 #### Dropped ``3.83%``
 
@@ -60,7 +61,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [60593](https://myanimelist.net/anime/60593) |     tv     |  2025  |     manga    |                                      Vigilante: Boku no Hero Academia Illegals                                      |  2 weeks ago  |        -        |
+| [60593](https://myanimelist.net/anime/60593) |     tv     |  2025  |     manga    |                                      Vigilante: Boku no Hero Academia Illegals                                      |  3 weeks ago  |        -        |
 | [60544](https://myanimelist.net/anime/60544) |    movie   |  2025  |   original   |                                              Nezha Zhi Mo Tong Nao Hai                                              |   Last month  |        -        |
 | [59419](https://myanimelist.net/anime/59419) |    movie   |  2025  |     game     |                                 Project Sekai Movie: Kowareta Sekai to Utaenai Miku                                 |   Last month  |        -        |
 | [55830](https://myanimelist.net/anime/55830) |     tv     |    -   |  light_novel |                                                  Fate/strange Fake                                                  |   Last month  |        -        |

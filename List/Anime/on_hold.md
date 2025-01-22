@@ -1,4 +1,4 @@
-# On Hold (104)
+# On Hold (103)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -15,7 +15,6 @@
 | [52741](https://myanimelist.net/anime/52741) |    tv   |  2023  |   -   |                                                 Undead Unluck                                                 |  10/24  | 10 months ago | 02/04/2024 |
 | [54492](https://myanimelist.net/anime/54492) |    tv   |  2023  |   -   |                                             Kusuriya no Hitorigoto                                            |  15/24  | 10 months ago | 01/13/2024 |
 | [49889](https://myanimelist.net/anime/49889) |    tv   |  2024  |   -   |                                  Tsuki ga Michibiku Isekai Douchuu 2nd Season                                 |   1/25  | 11 months ago | 01/08/2024 |
-| [52299](https://myanimelist.net/anime/52299) |    tv   |  2024  |   -   |                                            Ore dake Level Up na Ken                                           |   4/12  | 10 months ago | 01/07/2024 |
 | [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |   Last year   | 01/07/2024 |
 | [50803](https://myanimelist.net/anime/50803) |    tv   |  2024  |   -   |                                       Jaku-Chara Tomozaki-kun 2nd Stage                                       |   2/13  | 10 months ago | 01/03/2024 |
 | [52347](https://myanimelist.net/anime/52347) |    tv   |  2023  |   -   |                           Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su                          |  13/25  | 10 months ago | 12/30/2023 |
@@ -91,7 +90,7 @@
 | [37976](https://myanimelist.net/anime/37976) |    tv   |  2018  |   -   |                                                Zombieland Saga                                                |   3/12  |  3 years ago  | 05/28/2021 |
 | [18153](https://myanimelist.net/anime/18153) |    tv   |  2013  |   -   |                                               Kyoukai no Kanata                                               |   5/12  |   Last year   | 05/27/2021 |
 | [43007](https://myanimelist.net/anime/43007) |    tv   |  2021  |   -   |                                  Osananajimi ga Zettai ni Makenai Love Comedy                                 |   5/12  |  3 years ago  | 05/25/2021 |
-| [35145](https://myanimelist.net/anime/35145) | special |  2017  |   -   |                                         Kobayashi-san Chi no OO Dragon                                        |   2/7   |  3 years ago  | 05/14/2021 |
+| [35145](https://myanimelist.net/anime/35145) | special |  2017  |   -   |                                         Kobayashi-san Chi no OO Dragon                                        |   2/7   |  4 years ago  | 05/14/2021 |
 |  [1642](https://myanimelist.net/anime/1642)  |    tv   |  2005  |   -   |                                                Sugar Sugar Rune                                               |   5/51  |  2 years ago  | 05/10/2021 |
 | [41025](https://myanimelist.net/anime/41025) |    tv   |  2021  |   7   |                                               Fumetsu no Anata e                                              |  16/20  |  3 years ago  | 04/28/2021 |
 | [46095](https://myanimelist.net/anime/46095) |    tv   |  2021  |   -   |                                           Vivy: Fluorite Eye's Song                                           |   4/13  |  3 years ago  | 04/28/2021 |
