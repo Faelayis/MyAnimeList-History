@@ -1,11 +1,12 @@
-# Completed (467)
+# Completed (468)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |  10 hours ago | 01/22/2025 |  01/23/2025 |
 | [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  3 weeks ago  | 01/01/2025 |  01/01/2025 |
 | [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |   Last month  | 10/06/2024 |  12/20/2024 |
 | [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  4 months ago | 07/08/2024 |  09/29/2024 |
-| [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |  4 months ago | 08/12/2024 |  09/04/2024 |
+| [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |  5 months ago | 08/12/2024 |  09/04/2024 |
 | [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  7 months ago | 05/15/2024 |  07/01/2024 |
 | [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   |  8 months ago | 05/30/2024 |  05/30/2024 |
 | [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          |  9 months ago | 02/27/2024 |  05/10/2024 |
@@ -461,7 +462,7 @@
 | [37799](https://myanimelist.net/anime/37799) |     tv     |  2018  |   5   |                                         Tokyo Ghoul:re 2nd Season                                         |  4 years ago  |      -     |      -      |
 | [41226](https://myanimelist.net/anime/41226) |     tv     |  2020  |   8   |                                          Uzaki-chan wa Asobitai!                                          |  4 years ago  |      -     |      -      |
 | [44061](https://myanimelist.net/anime/44061) |    movie   |  2021  |   6   |                                      Xin Shen Bang: Nezha Chongsheng                                      |  3 years ago  |      -     |      -      |
-| [14813](https://myanimelist.net/anime/14813) |     tv     |  2013  |   9   |                            Yahari Ore no Seishun Love Comedy wa Machigatteiru.                            |  3 years ago  |      -     |      -      |
+| [14813](https://myanimelist.net/anime/14813) |     tv     |  2013  |   9   |                            Yahari Ore no Seishun Love Comedy wa Machigatteiru.                            |  4 years ago  |      -     |      -      |
 | [39547](https://myanimelist.net/anime/39547) |     tv     |  2020  |   8   |                          Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan                          |  4 years ago  |      -     |      -      |
 | [18753](https://myanimelist.net/anime/18753) |     ova    |  2013  |   7   |                          Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA                          |  4 years ago  |      -     |      -      |
 | [23847](https://myanimelist.net/anime/23847) |     tv     |  2015  |   9   |                          Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku                         |  4 years ago  |      -     |      -      |
