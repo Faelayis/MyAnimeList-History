@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |  10 hours ago | 01/22/2025 |  01/23/2025 |
+| [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |   Yesterday   | 01/22/2025 |  01/23/2025 |
 | [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  3 weeks ago  | 01/01/2025 |  01/01/2025 |
 | [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |   Last month  | 10/06/2024 |  12/20/2024 |
 | [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  4 months ago | 07/08/2024 |  09/29/2024 |
@@ -57,7 +57,7 @@
 | [50854](https://myanimelist.net/anime/50854) |     tv     |  2023  |   7   |                                     Benriya Saitou-san, Isekai ni Iku                                     |   Last year   | 03/29/2023 |  03/29/2023 |
 | [50481](https://myanimelist.net/anime/50481) |     tv     |  2023  |   6   |              Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀              |   Last year   | 02/21/2023 |  03/29/2023 |
 | [50739](https://myanimelist.net/anime/50739) |     tv     |  2023  |   7   |                    Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken                    |   Last year   | 01/16/2023 |  03/29/2023 |
-| [49877](https://myanimelist.net/anime/49877) |    movie   |  2022  |   8   |                         Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen                         |   Last year   | 03/24/2023 |  03/24/2023 |
+| [49877](https://myanimelist.net/anime/49877) |    movie   |  2022  |   8   |                         Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen                         |  2 years ago  | 03/24/2023 |  03/24/2023 |
 | [52173](https://myanimelist.net/anime/52173) |     tv     |  2023  |   7   |                               Koori Zokusei Danshi to Cool na Douryou Joshi                               |  2 years ago  | 02/25/2023 |  03/22/2023 |
 | [49612](https://myanimelist.net/anime/49612) |     tv     |  2023  |   5   |                        Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu                        |  2 years ago  | 01/04/2023 |  03/22/2023 |
 | [48895](https://myanimelist.net/anime/48895) |     tv     |  2022  |   8   |                                                Overlord IV                                                |  2 years ago  | 03/18/2023 |  03/19/2023 |
@@ -141,7 +141,7 @@
 | [40586](https://myanimelist.net/anime/40586) |     tv     |  2021  |   7   |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita                    |  2 years ago  | 05/03/2022 |  05/07/2022 |
 | [36632](https://myanimelist.net/anime/36632) |     tv     |  2018  |   6   |                              Ore ga Suki nano wa Imouto dakedo Imouto ja Nai                              |  2 years ago  | 05/25/2021 |  05/07/2022 |
 | [50549](https://myanimelist.net/anime/50549) |     ona    |  2022  |   6   |                                                   Bubble                                                  |  2 years ago  | 05/03/2022 |  05/03/2022 |
-| [31637](https://myanimelist.net/anime/31637) |     tv     |  2016  |   7   |                             Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2                             |  2 years ago  | 04/20/2022 |  04/22/2022 |
+| [31637](https://myanimelist.net/anime/31637) |     tv     |  2016  |   7   |                             Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2                             |  3 years ago  | 04/20/2022 |  04/22/2022 |
 | [28907](https://myanimelist.net/anime/28907) |     tv     |  2015  |   8   |                                 Gate: Jieitai Kanochi nite, Kaku Tatakaeri                                |  3 years ago  | 04/20/2022 |  04/20/2022 |
 | [30296](https://myanimelist.net/anime/30296) |     tv     |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         |  3 years ago  | 04/18/2022 |  04/18/2022 |
 | [13403](https://myanimelist.net/anime/13403) |   special  |  2012  |   7   |                           Inu x Boku SS: Miketsukami-kun Henka/Switch/Omamagoto                           |  3 years ago  | 04/15/2022 |  04/15/2022 |
