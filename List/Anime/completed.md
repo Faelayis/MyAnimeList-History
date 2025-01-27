@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |   3 days ago  | 01/22/2025 |  01/23/2025 |
+| [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |   4 days ago  | 01/22/2025 |  01/23/2025 |
 | [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  3 weeks ago  | 01/01/2025 |  01/01/2025 |
 | [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |   Last month  | 10/06/2024 |  12/20/2024 |
 | [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  4 months ago | 07/08/2024 |  09/29/2024 |
@@ -145,7 +145,7 @@
 | [28907](https://myanimelist.net/anime/28907) |     tv     |  2015  |   8   |                                 Gate: Jieitai Kanochi nite, Kaku Tatakaeri                                |  3 years ago  | 04/20/2022 |  04/20/2022 |
 | [30296](https://myanimelist.net/anime/30296) |     tv     |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         |  3 years ago  | 04/18/2022 |  04/18/2022 |
 | [13403](https://myanimelist.net/anime/13403) |   special  |  2012  |   7   |                           Inu x Boku SS: Miketsukami-kun Henka/Switch/Omamagoto                           |  3 years ago  | 04/15/2022 |  04/15/2022 |
-| [11013](https://myanimelist.net/anime/11013) |     tv     |  2012  |   8   |                                               Inu x Boku SS                                               |  2 years ago  | 04/14/2022 |  04/15/2022 |
+| [11013](https://myanimelist.net/anime/11013) |     tv     |  2012  |   8   |                                               Inu x Boku SS                                               |  3 years ago  | 04/14/2022 |  04/15/2022 |
 | [32827](https://myanimelist.net/anime/32827) |     ona    |  2018  |   7   |                                              B: The Beginning                                             |  3 years ago  | 04/12/2022 |  04/13/2022 |
 | [39049](https://myanimelist.net/anime/39049) |     tv     |  2020  |   7   |                                           Jashin-chan Dropkick'                                           |  2 years ago  | 04/10/2022 |  04/13/2022 |
 | [23277](https://myanimelist.net/anime/23277) |     tv     |  2015  |   5   |                                        Saenai Heroine no Sodatekata                                       |  3 years ago  | 04/09/2022 |  04/10/2022 |
