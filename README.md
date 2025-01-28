@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                       Title                                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [58567](https://myanimelist.net/anime/58567) |  tv  |  2025  |   -   |             Ore dake Level Up na Ken Season 2: Arise from the Shadow             |   0/13  |  4 days ago  | 01/23/2025 |
+| [58567](https://myanimelist.net/anime/58567) |  tv  |  2025  |   -   |             Ore dake Level Up na Ken Season 2: Arise from the Shadow             |   0/13  |  5 days ago  | 01/23/2025 |
 | [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                                   Sakamoto Days                                  |   2/11  |   Last week  | 01/19/2025 |
 | [53924](https://myanimelist.net/anime/53924) |  tv  |  2025  |   -   |                            Jibaku Shounen Hanako-kun 2                           |   0/12  |   Last week  |      -     |
 | [59135](https://myanimelist.net/anime/59135) |  tv  |  2025  |   -   |             Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.             |   0/12  |  2 weeks ago |      -     |
@@ -19,7 +19,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |   4 days ago  | 01/22/2025 |  01/23/2025 |
+| [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |   5 days ago  | 01/22/2025 |  01/23/2025 |
 | [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  3 weeks ago  | 01/01/2025 |  01/01/2025 |
 | [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |   Last month  | 10/06/2024 |  12/20/2024 |
 | [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  4 months ago | 07/08/2024 |  09/29/2024 |

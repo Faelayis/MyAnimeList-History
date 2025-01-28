@@ -2,7 +2,7 @@
 
 |                      id                      | Type | Season | Score |                                       Title                                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [58567](https://myanimelist.net/anime/58567) |  tv  |  2025  |   -   |             Ore dake Level Up na Ken Season 2: Arise from the Shadow             |   0/13  |  4 days ago  | 01/23/2025 |
+| [58567](https://myanimelist.net/anime/58567) |  tv  |  2025  |   -   |             Ore dake Level Up na Ken Season 2: Arise from the Shadow             |   0/13  |  5 days ago  | 01/23/2025 |
 | [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                                   Sakamoto Days                                  |   2/11  |   Last week  | 01/19/2025 |
 | [53924](https://myanimelist.net/anime/53924) |  tv  |  2025  |   -   |                            Jibaku Shounen Hanako-kun 2                           |   0/12  |   Last week  |      -     |
 | [59135](https://myanimelist.net/anime/59135) |  tv  |  2025  |   -   |             Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.             |   0/12  |  2 weeks ago |      -     |
