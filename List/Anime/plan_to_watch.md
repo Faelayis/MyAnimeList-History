@@ -1,8 +1,9 @@
-# Plan to Watch (312)
+# Plan to Watch (313)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59459](https://myanimelist.net/anime/59459) |     tv     |    -   |  light_novel |                                    Silent Witch: Chinmoku no Majo no Kakushigoto                                    |  16 hours ago |        -        |
+| [59130](https://myanimelist.net/anime/59130) |     tv     |    -   |  light_novel |                       Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku                      |  16 hours ago |        -        |
+| [59459](https://myanimelist.net/anime/59459) |     tv     |    -   |  light_novel |                                    Silent Witch: Chinmoku no Majo no Kakushigoto                                    |   Yesterday   |        -        |
 | [60593](https://myanimelist.net/anime/60593) |     tv     |  2025  |     manga    |                                      Vigilante: Boku no Hero Academia Illegals                                      |   Last month  |        -        |
 | [60544](https://myanimelist.net/anime/60544) |    movie   |  2025  |   original   |                                              Nezha Zhi Mo Tong Nao Hai                                              |   Last month  |        -        |
 | [59419](https://myanimelist.net/anime/59419) |    movie   |  2025  |     game     |                                 Project Sekai Movie: Kowareta Sekai to Utaenai Miku                                 |   Last month  |        -        |
@@ -46,8 +47,8 @@
 | [59142](https://myanimelist.net/anime/59142) |     tv     |  2025  |  light_novel |                                                 Unnamed Memory Act.2                                                |  7 months ago |        -        |
 | [59160](https://myanimelist.net/anime/59160) |     tv     |  2025  |   web_manga  |                                                Wind Breaker Season 2                                                |  7 months ago |        -        |
 | [59192](https://myanimelist.net/anime/59192) |    movie   |    -   |     manga    |                                        Kimetsu no Yaiba Movie: Mugen Jou-hen                                        |  7 months ago |        -        |
-| [59027](https://myanimelist.net/anime/59027) |     tv     |  2025  |     manga    |                                                Spy x Family Season 3                                                |  7 months ago |        -        |
-| [59088](https://myanimelist.net/anime/59088) |   unknown  |    -   |     manga    |                                              Tokyo Revengers (Zoku-hen)                                             |  7 months ago |        -        |
+| [59027](https://myanimelist.net/anime/59027) |     tv     |  2025  |     manga    |                                                Spy x Family Season 3                                                |  8 months ago |        -        |
+| [59088](https://myanimelist.net/anime/59088) |   unknown  |    -   |     manga    |                                              Tokyo Revengers (Zoku-hen)                                             |  8 months ago |        -        |
 | [38481](https://myanimelist.net/anime/38481) |     tv     |  2020  |     manga    |                                              Toaru Kagaku no Railgun T                                              |  9 months ago |        -        |
 | [58749](https://myanimelist.net/anime/58749) |     tv     |    -   |     game     |                                              Arknights: Rise from Ember                                             |  9 months ago |        -        |
 | [52196](https://myanimelist.net/anime/52196) |     tv     |  2024  |  light_novel |                                                    Date A Live V                                                    | 10 months ago |        -        |

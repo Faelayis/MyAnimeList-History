@@ -15,7 +15,7 @@ List Sync From MyAnimeList (update every day)
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``97.22%``
+#### Completed ``97.44%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -29,7 +29,7 @@ List Sync From MyAnimeList (update every day)
 
 *[462 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``12.56%``
+#### On Hold ``12.55%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -57,16 +57,16 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``51.06%``
+#### Plan to Watch ``51.23%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59459](https://myanimelist.net/anime/59459) |     tv     |    -   |  light_novel |                                    Silent Witch: Chinmoku no Majo no Kakushigoto                                    |  16 hours ago |        -        |
+| [59130](https://myanimelist.net/anime/59130) |     tv     |    -   |  light_novel |                       Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku                      |  16 hours ago |        -        |
+| [59459](https://myanimelist.net/anime/59459) |     tv     |    -   |  light_novel |                                    Silent Witch: Chinmoku no Majo no Kakushigoto                                    |   Yesterday   |        -        |
 | [60593](https://myanimelist.net/anime/60593) |     tv     |  2025  |     manga    |                                      Vigilante: Boku no Hero Academia Illegals                                      |   Last month  |        -        |
 | [60544](https://myanimelist.net/anime/60544) |    movie   |  2025  |   original   |                                              Nezha Zhi Mo Tong Nao Hai                                              |   Last month  |        -        |
 | [59419](https://myanimelist.net/anime/59419) |    movie   |  2025  |     game     |                                 Project Sekai Movie: Kowareta Sekai to Utaenai Miku                                 |   Last month  |        -        |
 | [55830](https://myanimelist.net/anime/55830) |     tv     |    -   |  light_novel |                                                  Fate/strange Fake                                                  |   Last month  |        -        |
-| [59226](https://myanimelist.net/anime/59226) |     tv     |  2025  |     manga    |                                              Ao no Exorcist: Yosuga-hen                                             |   Last month  |        -        |
 
 
-*[305 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[306 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
