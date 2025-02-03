@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                       Title                                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
+| [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                                   Sakamoto Days                                  |   4/11  | 17 hours ago | 01/19/2025 |
 | [58567](https://myanimelist.net/anime/58567) |  tv  |  2025  |   -   |             Ore dake Level Up na Ken Season 2: Arise from the Shadow             |   0/13  |   Last week  | 01/23/2025 |
-| [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                                   Sakamoto Days                                  |   2/11  |   Last week  | 01/19/2025 |
 | [53924](https://myanimelist.net/anime/53924) |  tv  |  2025  |   -   |                            Jibaku Shounen Hanako-kun 2                           |   0/12  |  2 weeks ago |      -     |
 | [59135](https://myanimelist.net/anime/59135) |  tv  |  2025  |   -   |             Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.             |   0/12  |  3 weeks ago |      -     |
 | [57066](https://myanimelist.net/anime/57066) |  tv  |  2024  |   10  | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen |  11/15  |  Last month  | 10/05/2024 |
@@ -61,8 +61,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59130](https://myanimelist.net/anime/59130) |     tv     |    -   |  light_novel |                       Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku                      |   2 days ago  |        -        |
-| [59459](https://myanimelist.net/anime/59459) |     tv     |    -   |  light_novel |                                    Silent Witch: Chinmoku no Majo no Kakushigoto                                    |   3 days ago  |        -        |
+| [59130](https://myanimelist.net/anime/59130) |     tv     |    -   |  light_novel |                       Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku                      |   3 days ago  |        -        |
+| [59459](https://myanimelist.net/anime/59459) |     tv     |    -   |  light_novel |                                    Silent Witch: Chinmoku no Majo no Kakushigoto                                    |   4 days ago  |        -        |
 | [60593](https://myanimelist.net/anime/60593) |     tv     |  2025  |     manga    |                                      Vigilante: Boku no Hero Academia Illegals                                      |   Last month  |        -        |
 | [60544](https://myanimelist.net/anime/60544) |    movie   |  2025  |   original   |                                              Nezha Zhi Mo Tong Nao Hai                                              |   Last month  |        -        |
 | [59419](https://myanimelist.net/anime/59419) |    movie   |  2025  |     game     |                                 Project Sekai Movie: Kowareta Sekai to Utaenai Miku                                 |   Last month  |        -        |
