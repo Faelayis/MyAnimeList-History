@@ -1,9 +1,10 @@
-# Plan to Watch (313)
+# Plan to Watch (314)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59130](https://myanimelist.net/anime/59130) |     tv     |    -   |  light_novel |                       Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku                      |   3 days ago  |        -        |
-| [59459](https://myanimelist.net/anime/59459) |     tv     |    -   |  light_novel |                                    Silent Witch: Chinmoku no Majo no Kakushigoto                                    |   4 days ago  |        -        |
+| [58271](https://myanimelist.net/anime/58271) |     tv     |  2025  |     manga    |                                                   Honey Lemon Soda                                                  |  8 hours ago  |        -        |
+| [59130](https://myanimelist.net/anime/59130) |     tv     |    -   |  light_novel |                       Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku                      |   4 days ago  |        -        |
+| [59459](https://myanimelist.net/anime/59459) |     tv     |    -   |  light_novel |                                    Silent Witch: Chinmoku no Majo no Kakushigoto                                    |   5 days ago  |        -        |
 | [60593](https://myanimelist.net/anime/60593) |     tv     |  2025  |     manga    |                                      Vigilante: Boku no Hero Academia Illegals                                      |   Last month  |        -        |
 | [60544](https://myanimelist.net/anime/60544) |    movie   |  2025  |   original   |                                              Nezha Zhi Mo Tong Nao Hai                                              |   Last month  |        -        |
 | [59419](https://myanimelist.net/anime/59419) |    movie   |  2025  |     game     |                                 Project Sekai Movie: Kowareta Sekai to Utaenai Miku                                 |   Last month  |        -        |
@@ -19,7 +20,7 @@
 | [53287](https://myanimelist.net/anime/53287) |     tv     |  2024  |     other    |                                          Love Live! Superstar!! 3rd Season                                          |  3 months ago |        -        |
 | [58572](https://myanimelist.net/anime/58572) |     tv     |  2024  |     manga    |                        Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season                        |  3 months ago |        -        |
 | [11285](https://myanimelist.net/anime/11285) |     tv     |  2012  |     other    |                                               Black★Rock Shooter (TV)                                               |  3 months ago |        -        |
-| [60108](https://myanimelist.net/anime/60108) |     tv     |  2024  |     manga    |                                              One Piece: Gyojin Tou-hen                                              |  3 months ago |        -        |
+| [60108](https://myanimelist.net/anime/60108) |     tv     |  2024  |     manga    |                                              One Piece: Gyojin Tou-hen                                              |  4 months ago |        -        |
 | [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |     manga    |                                         Boku no Hero Academia: Final Season                                         |  4 months ago |        -        |
 | [56146](https://myanimelist.net/anime/56146) |     ona    |  2023  |   web_manga  |                                                   Good Night World                                                  |  4 months ago |        -        |
 | [38830](https://myanimelist.net/anime/38830) |     tv     |  2020  |  light_novel |                                          Hachi-nan tte, Sore wa Nai deshou!                                         |  4 months ago |        -        |
@@ -189,7 +190,7 @@
 | [51781](https://myanimelist.net/anime/51781) |     ona    |  2022  |     manga    |                                             Boku no Hero Academia (ONA)                                             |  2 years ago  |        -        |
 | [15005](https://myanimelist.net/anime/15005) |     ona    |  2012  |     manga    |                                                  Kyou no Asuka Show                                                 |  2 years ago  |        -        |
 | [50738](https://myanimelist.net/anime/50738) |     tv     |  2025  |  light_novel |                     Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni                     |  2 years ago  |        -        |
-| [51632](https://myanimelist.net/anime/51632) |     tv     |  2023  |  light_novel |                                          Isekai wa Smartphone to Tomo ni. 2                                         |  2 years ago  |        -        |
+| [51632](https://myanimelist.net/anime/51632) |     tv     |  2023  |  light_novel |                                          Isekai wa Smartphone to Tomo ni. 2                                         |  3 years ago  |        -        |
 |  [7592](https://myanimelist.net/anime/7592)  |     tv     |  2010  |     manga    |                                                  Nurarihyon no Mago                                                 |  3 years ago  |        -        |
 | [27831](https://myanimelist.net/anime/27831) |     tv     |  2015  |  light_novel |                                                   Durarara!!x2 Ten                                                  |  3 years ago  |        -        |
 | [23199](https://myanimelist.net/anime/23199) |     tv     |  2015  |  light_novel |                                                  Durarara!!x2 Shou                                                  |  3 years ago  |        -        |
