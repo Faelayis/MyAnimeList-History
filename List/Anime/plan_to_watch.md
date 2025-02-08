@@ -1,8 +1,9 @@
-# Plan to Watch (314)
+# Plan to Watch (315)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [58271](https://myanimelist.net/anime/58271) |     tv     |  2025  |     manga    |                                                   Honey Lemon Soda                                                  |   3 days ago  |        -        |
+| [59361](https://myanimelist.net/anime/59361) |     tv     |  2025  |     manga    |                                         Kono Kaisha ni Suki na Hito ga Imasu                                        |  12 hours ago |        -        |
+| [58271](https://myanimelist.net/anime/58271) |     tv     |  2025  |     manga    |                                                   Honey Lemon Soda                                                  |   4 days ago  |        -        |
 | [59130](https://myanimelist.net/anime/59130) |     tv     |    -   |  light_novel |                       Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku                      |   Last week   |        -        |
 | [59459](https://myanimelist.net/anime/59459) |     tv     |    -   |  light_novel |                                    Silent Witch: Chinmoku no Majo no Kakushigoto                                    |   Last week   |        -        |
 | [60593](https://myanimelist.net/anime/60593) |     tv     |  2025  |     manga    |                                      Vigilante: Boku no Hero Academia Illegals                                      |   Last month  |        -        |
@@ -27,7 +28,7 @@
 | [59970](https://myanimelist.net/anime/59970) |     tv     |    -   |     manga    |                                      Tensei shitara Slime Datta Ken 4th Season                                      |  4 months ago |        -        |
 | [59971](https://myanimelist.net/anime/59971) |    movie   |  2026  |     manga    |                             Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen                            |  4 months ago |        -        |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |    -   |     manga    |                                             Sousou no Frieren 2nd Season                                            |  4 months ago |        -        |
-| [59873](https://myanimelist.net/anime/59873) |     tv     |    -   |  light_novel |                           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Season 2                          |  4 months ago |        -        |
+| [59873](https://myanimelist.net/anime/59873) |     tv     |    -   |  light_novel |                           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Season 2                          |  5 months ago |        -        |
 | [59828](https://myanimelist.net/anime/59828) |     tv     |  2025  |     novel    |                                             Shoushimin Series 2nd Season                                            |  5 months ago |        -        |
 | [59833](https://myanimelist.net/anime/59833) |     ova    |  2025  |  light_novel |                                Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage                                |  5 months ago |        -        |
 | [59841](https://myanimelist.net/anime/59841) |    movie   |  2024  |   web_manga  |                                        Ore dake Level Up na Ken: ReAwakening                                        |  5 months ago |        -        |
