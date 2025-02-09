@@ -2,8 +2,8 @@
 
 |                      id                      | Type | Season | Score |                                       Title                                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |                     Tensei shitara Slime Datta Ken 3rd Season                    |   4/24  | 15 hours ago | 04/06/2024 |
-| [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                                   Sakamoto Days                                  |   4/11  |  5 days ago  | 01/19/2025 |
+| [53580](https://myanimelist.net/anime/53580) |  tv  |  2024  |   -   |                     Tensei shitara Slime Datta Ken 3rd Season                    |  14/24  | 15 hours ago | 04/06/2024 |
+| [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                                   Sakamoto Days                                  |   4/11  |  6 days ago  | 01/19/2025 |
 | [58567](https://myanimelist.net/anime/58567) |  tv  |  2025  |   -   |             Ore dake Level Up na Ken Season 2: Arise from the Shadow             |   0/13  |  2 weeks ago | 01/23/2025 |
 | [53924](https://myanimelist.net/anime/53924) |  tv  |  2025  |   -   |                            Jibaku Shounen Hanako-kun 2                           |   0/12  |  3 weeks ago |      -     |
 | [59135](https://myanimelist.net/anime/59135) |  tv  |  2025  |   -   |             Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.             |   0/12  |  Last month  |      -     |
