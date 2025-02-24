@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |   6 days ago  | 04/06/2024 |  02/15/2025 |
+| [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |   Last week   | 04/06/2024 |  02/15/2025 |
 | [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |   Last month  | 01/22/2025 |  01/23/2025 |
 | [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |   Last month  | 01/01/2025 |  01/01/2025 |
 | [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |  2 months ago | 10/06/2024 |  12/20/2024 |
@@ -272,8 +272,8 @@
 | [41488](https://myanimelist.net/anime/41488) |     tv     |  2021  |   8   |                               Tensura Nikki: Tensei shitara Slime Datta Ken                               |  3 years ago  | 04/10/2021 |  06/25/2021 |
 | [28623](https://myanimelist.net/anime/28623) |     tv     |  2016  |   8   |                                          Koutetsujou no Kabaneri                                          |  3 years ago  | 06/23/2021 |  06/23/2021 |
 | [33352](https://myanimelist.net/anime/33352) |     tv     |  2018  |   7   |                                             Violet Evergarden                                             |  3 years ago  | 06/04/2021 |  06/23/2021 |
-| [15583](https://myanimelist.net/anime/15583) |     tv     |  2013  |   7   |                                                Date A Live                                                |  3 years ago  | 06/21/2021 |  06/21/2021 |
-| [17641](https://myanimelist.net/anime/17641) |     ova    |  2013  |   6   |                                         Date A Live: Date to Date                                         |  3 years ago  | 06/21/2021 |  06/21/2021 |
+| [15583](https://myanimelist.net/anime/15583) |     tv     |  2013  |   7   |                                                Date A Live                                                |  4 years ago  | 06/21/2021 |  06/21/2021 |
+| [17641](https://myanimelist.net/anime/17641) |     ova    |  2013  |   6   |                                         Date A Live: Date to Date                                         |  4 years ago  | 06/21/2021 |  06/21/2021 |
 | [44942](https://myanimelist.net/anime/44942) |     ona    |  2021  |   6   |                                            Shuumatsu no Walküre                                           |  3 years ago  | 06/20/2021 |  06/20/2021 |
 | [41456](https://myanimelist.net/anime/41456) |     tv     |  2021  |   7   |                                          Sentouin, Haken shimasu!                                         |  3 years ago  | 04/04/2021 |  06/20/2021 |
 |  [3712](https://myanimelist.net/anime/3712)  |     tv     |  2008  |   6   |                                   Zero no Tsukaima: Princesses no Rondo                                   |  4 years ago  | 06/14/2021 |  06/17/2021 |
