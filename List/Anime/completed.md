@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |   Last week   | 04/06/2024 |  02/15/2025 |
+| [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |  2 weeks ago  | 04/06/2024 |  02/15/2025 |
 | [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |   Last month  | 01/22/2025 |  01/23/2025 |
 | [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  2 months ago | 01/01/2025 |  01/01/2025 |
 | [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |  2 months ago | 10/06/2024 |  12/20/2024 |
@@ -36,7 +36,7 @@
 | [51019](https://myanimelist.net/anime/51019) |     tv     |  2023  |   8   |                                  Kimetsu no Yaiba: Katanakaji no Sato-hen                                 |   Last year   | 04/09/2023 |  06/20/2023 |
 | [20509](https://myanimelist.net/anime/20509) |     tv     |  2014  |   8   |                                    Fate/kaleid liner Prisma☆Illya 2wei!                                   |   Last year   | 05/18/2023 |  06/11/2023 |
 | [14829](https://myanimelist.net/anime/14829) |     tv     |  2013  |   8   |                                       Fate/kaleid liner Prisma☆Illya                                      |   Last year   | 05/18/2023 |  05/18/2023 |
-| [51213](https://myanimelist.net/anime/51213) |     tv     |  2022  |   7   |        Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu       |   Last year   | 04/29/2023 |  05/01/2023 |
+| [51213](https://myanimelist.net/anime/51213) |     tv     |  2022  |   7   |        Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu       |  2 years ago  | 04/29/2023 |  05/01/2023 |
 | [10863](https://myanimelist.net/anime/10863) |   special  |  2012  |   8   |                                   Steins;Gate: Oukoubakko no Poriomania                                   |  2 years ago  | 04/28/2023 |  04/28/2023 |
 |  [9253](https://myanimelist.net/anime/9253)  |     tv     |  2011  |   8   |                                                Steins;Gate                                                |  2 years ago  | 04/26/2023 |  04/28/2023 |
 | [39940](https://myanimelist.net/anime/39940) |     tv     |  2019  |   9   |                                      Shokugeki no Souma: Shin no Sara                                     |  2 years ago  | 04/10/2023 |  04/16/2023 |

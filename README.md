@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                       Title                                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                                   Sakamoto Days                                  |   7/11  |  2 days ago  | 01/19/2025 |
+| [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                                   Sakamoto Days                                  |   7/11  |  3 days ago  | 01/19/2025 |
 | [59135](https://myanimelist.net/anime/59135) |  tv  |  2025  |   -   |             Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.             |   5/12  |   Last week  | 02/23/2025 |
 | [57066](https://myanimelist.net/anime/57066) |  tv  |  2024  |   10  | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen |  13/15  |   Last week  | 10/05/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                     One Piece                                    |  1114/? | 7 months ago | 01/01/2013 |
@@ -17,7 +17,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |   Last week   | 04/06/2024 |  02/15/2025 |
+| [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |  2 weeks ago  | 04/06/2024 |  02/15/2025 |
 | [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |   Last month  | 01/22/2025 |  01/23/2025 |
 | [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  2 months ago | 01/01/2025 |  01/01/2025 |
 | [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |  2 months ago | 10/06/2024 |  12/20/2024 |
@@ -62,9 +62,9 @@ List Sync From MyAnimeList (update every day)
 | [57907](https://myanimelist.net/anime/57907) |     tv     |  2025  |  light_novel |                                         Tate no Yuusha no Nariagari Season 4                                        |   Last week   |        -        |
 | [58484](https://myanimelist.net/anime/58484) |     tv     |  2025  |  light_novel |                                                  Ishura 2nd Season                                                  |   Last week   |        -        |
 | [61012](https://myanimelist.net/anime/61012) |     tv     |    -   |     manga    |                                          Toaru Kagaku no Railgun 4th Season                                         |   Last week   |        -        |
-| [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   web_manga  |                               Ore dake Level Up na Ken Season 2: Arise from the Shadow                              |   Last week   |        -        |
-| [53924](https://myanimelist.net/anime/53924) |     tv     |  2025  |     manga    |                                             Jibaku Shounen Hanako-kun 2                                             |   Last week   |        -        |
-| [61006](https://myanimelist.net/anime/61006) |     tv     |    -   | 4_koma_manga |                                             Bocchi the Rock! 2nd Season                                             |   Last week   |        -        |
+| [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   web_manga  |                               Ore dake Level Up na Ken Season 2: Arise from the Shadow                              |  2 weeks ago  |        -        |
+| [53924](https://myanimelist.net/anime/53924) |     tv     |  2025  |     manga    |                                             Jibaku Shounen Hanako-kun 2                                             |  2 weeks ago  |        -        |
+| [61006](https://myanimelist.net/anime/61006) |     tv     |    -   | 4_koma_manga |                                             Bocchi the Rock! 2nd Season                                             |  2 weeks ago  |        -        |
 
 
 *[314 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
