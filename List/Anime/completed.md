@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |  2 weeks ago  | 04/06/2024 |  02/15/2025 |
+| [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |  3 weeks ago  | 04/06/2024 |  02/15/2025 |
 | [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |   Last month  | 01/22/2025 |  01/23/2025 |
 | [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  2 months ago | 01/01/2025 |  01/01/2025 |
 | [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |  2 months ago | 10/06/2024 |  12/20/2024 |
@@ -262,7 +262,7 @@
 | [40853](https://myanimelist.net/anime/40853) |    movie   |  2020  |   8   |                                           Stand By Me Doraemon 2                                          |  3 years ago  | 07/30/2021 |  07/30/2021 |
 | [39175](https://myanimelist.net/anime/39175) |    movie   |  2021  |   7   |                                    Cider no You ni Kotoba ga Wakiagaru                                    |  3 years ago  | 07/24/2021 |  07/24/2021 |
 | [31798](https://myanimelist.net/anime/31798) |     tv     |  2016  |   9   |                                                 Kiznaiver                                                 |  3 years ago  | 07/09/2021 |  07/09/2021 |
-| [49318](https://myanimelist.net/anime/49318) | tv_special |  2021  |   8   |                     Tensei shitara Slime Datta Ken 2nd Season: Kanwa - Veldora Nikki 2                    |  3 years ago  | 07/05/2021 |  07/05/2021 |
+| [49318](https://myanimelist.net/anime/49318) | tv_special |  2021  |   8   |                     Tensei shitara Slime Datta Ken 2nd Season: Kanwa - Veldora Nikki 2                    |  4 years ago  | 07/05/2021 |  07/05/2021 |
 | [42938](https://myanimelist.net/anime/42938) |     tv     |  2021  |   8   |                                          Fruits Basket: The Final                                         |  3 years ago  | 05/19/2021 |  07/04/2021 |
 | [36407](https://myanimelist.net/anime/36407) |     tv     |  2019  |   7   |                                               Kenja no Mago                                               |  4 years ago  | 06/30/2021 |  07/01/2021 |
 | [42361](https://myanimelist.net/anime/42361) |     tv     |  2021  |   7   |                                          Ijiranaide, Nagatoro-san                                         |  4 years ago  | 04/19/2021 |  06/30/2021 |
@@ -313,7 +313,7 @@
 | [37210](https://myanimelist.net/anime/37210) |     tv     |  2018  |   6   |                               Isekai Maou to Shoukan Shoujo no Dorei Majutsu                              |  4 years ago  | 04/10/2021 |  04/13/2021 |
 | [39196](https://myanimelist.net/anime/39196) |     tv     |  2019  |   7   |                                          Mairimashita! Iruma-kun                                          |  4 years ago  | 04/08/2021 |  04/10/2021 |
 | [40750](https://myanimelist.net/anime/40750) |     tv     |  2021  |   6   |                                       Kaifuku Jutsushi no Yarinaoshi                                      |  4 years ago  | 01/26/2021 |  04/10/2021 |
-| [39551](https://myanimelist.net/anime/39551) |     tv     |  2021  |   8   |                                 Tensei shitara Slime Datta Ken 2nd Season                                 |  3 years ago  | 03/03/2021 |  03/31/2021 |
+| [39551](https://myanimelist.net/anime/39551) |     tv     |  2021  |   8   |                                 Tensei shitara Slime Datta Ken 2nd Season                                 |  4 years ago  | 03/03/2021 |  03/31/2021 |
 | [11111](https://myanimelist.net/anime/11111) |     tv     |  2012  |   6   |                                                  Another                                                  |  4 years ago  | 03/30/2021 |  03/30/2021 |
 |  [9989](https://myanimelist.net/anime/9989)  |     tv     |  2011  |   10  |                          Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.                         |  3 years ago  | 03/29/2021 |  03/29/2021 |
 | [14075](https://myanimelist.net/anime/14075) |     tv     |  2012  |   7   |                                             Zetsuen no Tempest                                            |  4 years ago  | 03/28/2021 |  03/29/2021 |
