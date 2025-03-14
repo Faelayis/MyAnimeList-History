@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                       Title                                      | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                                   Sakamoto Days                                  |   7/11  |   Last week  | 01/19/2025 |
+| [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                                   Sakamoto Days                                  |   7/11  |  2 weeks ago | 01/19/2025 |
 | [59135](https://myanimelist.net/anime/59135) |  tv  |  2025  |   -   |             Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.             |   5/12  |  2 weeks ago | 02/23/2025 |
 | [57066](https://myanimelist.net/anime/57066) |  tv  |  2024  |   10  | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen |  13/15  |  2 weeks ago | 10/05/2024 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                     One Piece                                    |  1114/? | 7 months ago | 01/01/2013 |
@@ -20,7 +20,7 @@ List Sync From MyAnimeList (update every day)
 | [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |  3 weeks ago  | 04/06/2024 |  02/15/2025 |
 | [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |   Last month  | 01/22/2025 |  01/23/2025 |
 | [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  2 months ago | 01/01/2025 |  01/01/2025 |
-| [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |  2 months ago | 10/06/2024 |  12/20/2024 |
+| [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |  3 months ago | 10/06/2024 |  12/20/2024 |
 | [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  5 months ago | 07/08/2024 |  09/29/2024 |
 | [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |  6 months ago | 08/12/2024 |  09/04/2024 |
 
