@@ -1,17 +1,16 @@
-# Plan to Watch (322)
+# Plan to Watch (321)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-|   [513](https://myanimelist.net/anime/513)   |    movie   |  1986  |   original   |                                                Tenkuu no Shiro Laputa                                               |   Last week   |        -        |
+|   [513](https://myanimelist.net/anime/513)   |    movie   |  1986  |   original   |                                                Tenkuu no Shiro Laputa                                               |  2 weeks ago  |        -        |
 | [57907](https://myanimelist.net/anime/57907) |     tv     |  2025  |  light_novel |                                         Tate no Yuusha no Nariagari Season 4                                        |  3 weeks ago  |        -        |
 | [58484](https://myanimelist.net/anime/58484) |     tv     |  2025  |  light_novel |                                                  Ishura 2nd Season                                                  |   Last month  |        -        |
 | [61012](https://myanimelist.net/anime/61012) |     tv     |    -   |     manga    |                                          Toaru Kagaku no Railgun 4th Season                                         |   Last month  |        -        |
-| [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   web_manga  |                               Ore dake Level Up na Ken Season 2: Arise from the Shadow                              |   Last month  |        -        |
 | [53924](https://myanimelist.net/anime/53924) |     tv     |  2025  |     manga    |                                             Jibaku Shounen Hanako-kun 2                                             |   Last month  |        -        |
 | [61006](https://myanimelist.net/anime/61006) |     tv     |    -   | 4_koma_manga |                                             Bocchi the Rock! 2nd Season                                             |   Last month  |        -        |
 | [59361](https://myanimelist.net/anime/59361) |     tv     |  2025  |     manga    |                                         Kono Kaisha ni Suki na Hito ga Imasu                                        |   Last month  |        -        |
 | [58271](https://myanimelist.net/anime/58271) |     tv     |  2025  |     manga    |                                                   Honey Lemon Soda                                                  |   Last month  |        -        |
-| [59130](https://myanimelist.net/anime/59130) |     tv     |    -   |  light_novel |                       Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku                      |   Last month  |        -        |
+| [59130](https://myanimelist.net/anime/59130) |     tv     |  2025  |  light_novel |                       Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku                      |   Last month  |        -        |
 | [59459](https://myanimelist.net/anime/59459) |     tv     |    -   |  light_novel |                                    Silent Witch: Chinmoku no Majo no Kakushigoto                                    |   Last month  |        -        |
 | [60593](https://myanimelist.net/anime/60593) |     tv     |  2025  |     manga    |                                      Vigilante: Boku no Hero Academia Illegals                                      |  2 months ago |        -        |
 | [60544](https://myanimelist.net/anime/60544) |    movie   |  2025  |   original   |                                              Nezha Zhi Mo Tong Nao Hai                                              |  3 months ago |        -        |
