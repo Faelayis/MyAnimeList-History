@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |   Yesterday   | 10/05/2024 |  03/18/2025 |
+| [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |   2 days ago  | 10/05/2024 |  03/18/2025 |
 | [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |   Last month  | 04/06/2024 |  02/15/2025 |
 | [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |  2 months ago | 01/22/2025 |  01/23/2025 |
 | [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  2 months ago | 01/01/2025 |  01/01/2025 |
@@ -128,7 +128,7 @@
 | [50265](https://myanimelist.net/anime/50265) |     tv     |  2022  |   10  |                                                Spy x Family                                               |  2 years ago  | 04/09/2022 |  06/26/2022 |
 | [41461](https://myanimelist.net/anime/41461) |     tv     |  2022  |   8   |                                               Date A Live IV                                              |  2 years ago  | 04/08/2022 |  06/26/2022 |
 | [50175](https://myanimelist.net/anime/50175) |     tv     |  2022  |   7   |                                              Yuusha, Yamemasu                                             |  2 years ago  | 04/06/2022 |  06/26/2022 |
-| [50380](https://myanimelist.net/anime/50380) |     tv     |  2022  |   6   |                                               Paripi Koumei                                               |  2 years ago  | 05/01/2022 |  06/17/2022 |
+| [50380](https://myanimelist.net/anime/50380) |     tv     |  2022  |   6   |                                               Paripi Koumei                                               |  3 years ago  | 05/01/2022 |  06/17/2022 |
 | [48761](https://myanimelist.net/anime/48761) |     tv     |  2021  |   6   |                                             Saihate no Paladin                                            |  2 years ago  | 06/10/2022 |  06/10/2022 |
 | [50474](https://myanimelist.net/anime/50474) | tv_special |  2021  |   5   |                                       Saihate no Paladin: Michiyuki                                       |  2 years ago  | 06/10/2022 |  06/10/2022 |
 | [36432](https://myanimelist.net/anime/36432) |     tv     |  2018  |   8   |                                         Toaru Majutsu no Index III                                        |  3 years ago  | 05/28/2022 |  06/07/2022 |
