@@ -6,9 +6,9 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                           Title                          | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [58567](https://myanimelist.net/anime/58567) |  tv  |  2025  |   8   | Ore dake Level Up na Ken Season 2: Arise from the Shadow |  11/13  |   Yesterday  | 01/23/2025 |
+| [59135](https://myanimelist.net/anime/59135) |  tv  |  2025  |   6   | Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. |   7/12  | 19 hours ago | 02/23/2025 |
+| [58567](https://myanimelist.net/anime/58567) |  tv  |  2025  |   8   | Ore dake Level Up na Ken Season 2: Arise from the Shadow |  11/13  |  2 days ago  | 01/23/2025 |
 | [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                       Sakamoto Days                      |   7/11  |  3 weeks ago | 01/19/2025 |
-| [59135](https://myanimelist.net/anime/59135) |  tv  |  2025  |   -   | Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. |   5/12  |  3 weeks ago | 02/23/2025 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                         One Piece                        |  1114/? | 7 months ago | 01/01/2013 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
@@ -17,7 +17,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |   2 days ago  | 10/05/2024 |  03/18/2025 |
+| [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |   3 days ago  | 10/05/2024 |  03/18/2025 |
 | [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |   Last month  | 04/06/2024 |  02/15/2025 |
 | [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |  2 months ago | 01/22/2025 |  01/23/2025 |
 | [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  2 months ago | 01/01/2025 |  01/01/2025 |
