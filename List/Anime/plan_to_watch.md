@@ -1,4 +1,4 @@
-# Plan to Watch (321)
+# Plan to Watch (320)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -9,7 +9,7 @@
 | [53924](https://myanimelist.net/anime/53924) |     tv     |  2025  |     manga    |                                             Jibaku Shounen Hanako-kun 2                                             |   Last month  |        -        |
 | [61006](https://myanimelist.net/anime/61006) |     tv     |    -   | 4_koma_manga |                                             Bocchi the Rock! 2nd Season                                             |   Last month  |        -        |
 | [59361](https://myanimelist.net/anime/59361) |     tv     |  2025  |     manga    |                                         Kono Kaisha ni Suki na Hito ga Imasu                                        |   Last month  |        -        |
-| [58271](https://myanimelist.net/anime/58271) |     tv     |  2025  |     manga    |                                                   Honey Lemon Soda                                                  |   Last month  |        -        |
+| [58271](https://myanimelist.net/anime/58271) |     tv     |  2025  |     manga    |                                                   Honey Lemon Soda                                                  |  2 months ago |        -        |
 | [59130](https://myanimelist.net/anime/59130) |     tv     |  2025  |  light_novel |                       Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku                      |  2 months ago |        -        |
 | [59459](https://myanimelist.net/anime/59459) |     tv     |  2025  |  light_novel |                                    Silent Witch: Chinmoku no Majo no Kakushigoto                                    |  2 months ago |        -        |
 | [60593](https://myanimelist.net/anime/60593) |     tv     |  2025  |     manga    |                                      Vigilante: Boku no Hero Academia Illegals                                      |  3 months ago |        -        |
@@ -27,7 +27,7 @@
 | [53287](https://myanimelist.net/anime/53287) |     tv     |  2024  |     other    |                                          Love Live! Superstar!! 3rd Season                                          |  5 months ago |        -        |
 | [58572](https://myanimelist.net/anime/58572) |     tv     |  2024  |     manga    |                        Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season                        |  5 months ago |        -        |
 | [11285](https://myanimelist.net/anime/11285) |     tv     |  2012  |     other    |                                               Black★Rock Shooter (TV)                                               |  5 months ago |        -        |
-| [60108](https://myanimelist.net/anime/60108) |     tv     |  2024  |     manga    |                                              One Piece: Gyojin Tou-hen                                              |  5 months ago |        -        |
+| [60108](https://myanimelist.net/anime/60108) |     tv     |  2024  |     manga    |                                              One Piece: Gyojin Tou-hen                                              |  6 months ago |        -        |
 | [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |     manga    |                                         Boku no Hero Academia: Final Season                                         |  6 months ago |        -        |
 | [56146](https://myanimelist.net/anime/56146) |     ona    |  2023  |   web_manga  |                                                   Good Night World                                                  |  6 months ago |        -        |
 | [38830](https://myanimelist.net/anime/38830) |     tv     |  2020  |  light_novel |                                          Hachi-nan tte, Sore wa Nai deshou!                                         |  6 months ago |        -        |
@@ -84,7 +84,6 @@
 | [38337](https://myanimelist.net/anime/38337) |     tv     |  2020  | 4_koma_manga |                                          Gochuumon wa Usagi desu ka? Bloom                                          |   01/11/2024  |        -        |
 | [21273](https://myanimelist.net/anime/21273) |     tv     |  2014  | 4_koma_manga |                                             Gochuumon wa Usagi desu ka?                                             |   01/11/2024  |        -        |
 | [29787](https://myanimelist.net/anime/29787) |     tv     |  2015  | 4_koma_manga |                                             Gochuumon wa Usagi desu ka??                                            |   01/11/2024  |        -        |
-| [34561](https://myanimelist.net/anime/34561) |     tv     |  2017  |   original   |                                                     Re:Creators                                                     |   01/02/2024  |        -        |
 | [55855](https://myanimelist.net/anime/55855) |     tv     |  2024  |     manga    |                                           Kuroshitsuji: Kishuku Gakkou-hen                                          |   01/02/2024  |        -        |
 | [53529](https://myanimelist.net/anime/53529) |    movie   |    -   |  light_novel |                                          Sword Art Online (Original Movie)                                          |   01/02/2024  |        -        |
 | [55994](https://myanimelist.net/anime/55994) |     tv     |  2024  |  light_novel |                                   Sword Art Online Alternative: Gun Gale Online II                                  |   01/02/2024  |        -        |
