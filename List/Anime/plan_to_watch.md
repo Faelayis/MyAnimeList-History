@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-|   [513](https://myanimelist.net/anime/513)   |    movie   |  1986  |   original   |                                                Tenkuu no Shiro Laputa                                               |  3 weeks ago  |        -        |
+|   [513](https://myanimelist.net/anime/513)   |    movie   |  1986  |   original   |                                                Tenkuu no Shiro Laputa                                               |   Last month  |        -        |
 | [57907](https://myanimelist.net/anime/57907) |     tv     |  2025  |  light_novel |                                         Tate no Yuusha no Nariagari Season 4                                        |   Last month  |        -        |
 | [58484](https://myanimelist.net/anime/58484) |     tv     |  2025  |  light_novel |                                                  Ishura 2nd Season                                                  |   Last month  |        -        |
 | [61012](https://myanimelist.net/anime/61012) |     tv     |    -   |     manga    |                                          Toaru Kagaku no Railgun 4th Season                                         |   Last month  |        -        |

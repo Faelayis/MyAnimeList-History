@@ -2,8 +2,8 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         |   2 days ago  | 01/23/2025 |  03/30/2025 |
-| [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |   Last week   | 10/05/2024 |  03/18/2025 |
+| [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         |   3 days ago  | 01/23/2025 |  03/30/2025 |
+| [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |  2 weeks ago  | 10/05/2024 |  03/18/2025 |
 | [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |   Last month  | 04/06/2024 |  02/15/2025 |
 | [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |  2 months ago | 01/22/2025 |  01/23/2025 |
 | [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  3 months ago | 01/01/2025 |  01/01/2025 |
@@ -123,7 +123,7 @@
 | [39324](https://myanimelist.net/anime/39324) |     tv     |  2019  |   9   |              Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.              |  2 years ago  | 08/26/2022 |  08/26/2022 |
 | [40436](https://myanimelist.net/anime/40436) |     tv     |  2020  |   5   |                                       Peter Grill to Kenja no Jikan                                       |  2 years ago  | 05/13/2022 |  07/08/2022 |
 |   [330](https://myanimelist.net/anime/330)   |     tv     |  2004  |   7   |                                               Midori no Hibi                                              |  2 years ago  | 07/06/2022 |  07/06/2022 |
-| [50631](https://myanimelist.net/anime/50631) |     tv     |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |  2 years ago  | 04/07/2022 |  06/29/2022 |
+| [50631](https://myanimelist.net/anime/50631) |     tv     |  2022  |   9   |                                  Komi-san wa, Comyushou desu. 2nd Season                                  |  3 years ago  | 04/07/2022 |  06/29/2022 |
 | [42847](https://myanimelist.net/anime/42847) |    movie   |  2021  |   6   |                                          Ai no Utagoe wo Kikasete                                         |  3 years ago  | 06/27/2022 |  06/27/2022 |
 | [43608](https://myanimelist.net/anime/43608) |     tv     |  2022  |   9   |                                 Kaguya-sama wa Kokurasetai: Ultra Romantic                                |  3 years ago  | 04/09/2022 |  06/26/2022 |
 | [50265](https://myanimelist.net/anime/50265) |     tv     |  2022  |   10  |                                                Spy x Family                                               |  3 years ago  | 04/09/2022 |  06/26/2022 |
