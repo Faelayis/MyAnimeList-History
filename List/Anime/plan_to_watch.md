@@ -1,4 +1,4 @@
-# Plan to Watch (320)
+# Plan to Watch (319)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -35,9 +35,9 @@
 | [59971](https://myanimelist.net/anime/59971) |    movie   |  2026  |     manga    |                             Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen                            |  6 months ago |        -        |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |     manga    |                                             Sousou no Frieren 2nd Season                                            |  6 months ago |        -        |
 | [59873](https://myanimelist.net/anime/59873) |     tv     |    -   |  light_novel |                           Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Season 2                          |  6 months ago |        -        |
-| [59828](https://myanimelist.net/anime/59828) |     tv     |  2025  |     novel    |                                             Shoushimin Series 2nd Season                                            |  6 months ago |        -        |
-| [59833](https://myanimelist.net/anime/59833) |     ova    |  2025  |  light_novel |                                Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage                                |  6 months ago |        -        |
-| [59841](https://myanimelist.net/anime/59841) |    movie   |  2024  |   web_manga  |                                        Ore dake Level Up na Ken: ReAwakening                                        |  6 months ago |        -        |
+| [59828](https://myanimelist.net/anime/59828) |     tv     |  2025  |     novel    |                                             Shoushimin Series 2nd Season                                            |  7 months ago |        -        |
+| [59833](https://myanimelist.net/anime/59833) |     ova    |  2025  |  light_novel |                                Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage                                |  7 months ago |        -        |
+| [59841](https://myanimelist.net/anime/59841) |    movie   |  2024  |   web_manga  |                                        Ore dake Level Up na Ken: ReAwakening                                        |  7 months ago |        -        |
 | [59750](https://myanimelist.net/anime/59750) |    music   |  2024  |   original   |                                                      Go-Getters                                                     |  7 months ago |        -        |
 | [59708](https://myanimelist.net/anime/59708) |     tv     |    -   |  light_novel |                   Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki                  |  7 months ago |        -        |
 | [59571](https://myanimelist.net/anime/59571) |    movie   |  2024  |     manga    |                               Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack                              |  8 months ago |        -        |
@@ -117,7 +117,7 @@
 | [54915](https://myanimelist.net/anime/54915) | tv_special |  2023  |     manga    |                                                5-toubun no Hanayome∽                                                |   06/30/2023  |        -        |
 | [54856](https://myanimelist.net/anime/54856) |     tv     |  2023  |     manga    |                                                   Horimiya: Piece                                                   |   06/30/2023  |        -        |
 | [55791](https://myanimelist.net/anime/55791) |     tv     |  2024  |     manga    |                                               [Oshi no Ko] 2nd Season                                               |   06/29/2023  |        -        |
-| [11577](https://myanimelist.net/anime/11577) |    movie   |  2013  | visual_novel |                                      Steins;Gate Movie: Fuka Ryouiki no Déjà vu                                     |   05/31/2023  |        -        |
+| [11577](https://myanimelist.net/anime/11577) |    movie   |  2013  | visual_novel |                                      Steins;Gate Movie: Fuka Ryouiki no Déjà vu                                     |  2 years ago  |        -        |
 | [34100](https://myanimelist.net/anime/34100) |    movie   |  2017  |     manga    |                                Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai                                |  2 years ago  |        -        |
 | [46422](https://myanimelist.net/anime/46422) |     tv     |  2023  |     manga    |                                               Niehime to Kemono no Ou                                               |  2 years ago  |        -        |
 | [29093](https://myanimelist.net/anime/29093) | tv_special |  2015  | visual_novel |                                        Grisaia no Meikyuu: Caprice no Mayu 0                                        |  2 years ago  |        -        |
@@ -281,7 +281,6 @@
 |    [72](https://myanimelist.net/anime/72)    |     tv     |  2003  |  light_novel |                                              Full Metal Panic? Fumoffu                                              |  4 years ago  |        -        |
 | [28805](https://myanimelist.net/anime/28805) |    movie   |  2015  |   original   |                                                    Bakemono no Ko                                                   |  4 years ago  |        -        |
 | [41877](https://myanimelist.net/anime/41877) |    movie   |  2021  |   original   |                                                Kamiarizuki no Kodomo                                                |  4 years ago  |        -        |
-| [40632](https://myanimelist.net/anime/40632) |     ona    |    -   |   web_manga  |                                                   Peng Ran Xindong                                                  |  4 years ago  |        -        |
 | [44586](https://myanimelist.net/anime/44586) |    movie   |  2021  |     manga    |                                                  Kakushigoto Movie                                                  |  4 years ago  |        -        |
 | [40842](https://myanimelist.net/anime/40842) |     tv     |  2021  |  mixed_media |                                                     Idoly Pride                                                     |  4 years ago  |        -        |
 |  [2001](https://myanimelist.net/anime/2001)  |     tv     |  2007  |   original   |                                              Tengen Toppa Gurren Lagann                                             |  4 years ago  |        -        |
