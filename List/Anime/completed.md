@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         |   4 days ago  | 01/23/2025 |  03/30/2025 |
+| [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         |   5 days ago  | 01/23/2025 |  03/30/2025 |
 | [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |  2 weeks ago  | 10/05/2024 |  03/18/2025 |
 | [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |   Last month  | 04/06/2024 |  02/15/2025 |
 | [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |  2 months ago | 01/22/2025 |  01/23/2025 |
@@ -11,7 +11,7 @@
 | [58059](https://myanimelist.net/anime/58059) |     tv     |  2024  |   10  |                                        Tsue to Tsurugi no Wistoria                                        |  6 months ago | 07/08/2024 |  09/29/2024 |
 | [51297](https://myanimelist.net/anime/51297) |     tv     |  2023  |   10  |                                               Ragna Crimson                                               |  7 months ago | 08/12/2024 |  09/04/2024 |
 | [55701](https://myanimelist.net/anime/55701) |     tv     |  2024  |   9   |                                    Kimetsu no Yaiba: Hashira Geiko-hen                                    |  9 months ago | 05/15/2024 |  07/01/2024 |
-| [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   | 10 months ago | 05/30/2024 |  05/30/2024 |
+| [52742](https://myanimelist.net/anime/52742) |    movie   |  2024  |   8   |                                   Haikyuu!! Movie: Gomisuteba no Kessen                                   | 11 months ago | 05/30/2024 |  05/30/2024 |
 | [56731](https://myanimelist.net/anime/56731) |     tv     |  2024  |   8   |                                          Synduality: Noir Part 2                                          | 11 months ago | 02/27/2024 |  05/10/2024 |
 | [55813](https://myanimelist.net/anime/55813) |     tv     |  2024  |   7   |                               Mashle: Shinkakusha Kouho Senbatsu Shiken-hen                               | 11 months ago | 01/09/2024 |  05/10/2024 |
 | [52991](https://myanimelist.net/anime/52991) |     tv     |  2023  |   10  |                                             Sousou no Frieren                                             |   Last year   | 12/15/2023 |  03/24/2024 |
@@ -261,7 +261,7 @@
 | [41433](https://myanimelist.net/anime/41433) |     tv     |  2020  |   6   |                                               Akudama Drive                                               |  3 years ago  | 06/02/2021 |  08/11/2021 |
 | [30544](https://myanimelist.net/anime/30544) |     tv     |  2015  |   6   |                                           Gakusen Toshi Asterisk                                          |  3 years ago  | 07/05/2021 |  08/07/2021 |
 | [40211](https://myanimelist.net/anime/40211) |    movie   |  2019  |   7   |                                        Luo Xiao Hei Zhan Ji (Movie)                                       |  3 years ago  | 08/01/2021 |  08/01/2021 |
-| [40853](https://myanimelist.net/anime/40853) |    movie   |  2020  |   8   |                                           Stand By Me Doraemon 2                                          |  3 years ago  | 07/30/2021 |  07/30/2021 |
+| [40853](https://myanimelist.net/anime/40853) |    movie   |  2020  |   8   |                                           Stand By Me Doraemon 2                                          |  4 years ago  | 07/30/2021 |  07/30/2021 |
 | [39175](https://myanimelist.net/anime/39175) |    movie   |  2021  |   7   |                                    Cider no You ni Kotoba ga Wakiagaru                                    |  4 years ago  | 07/24/2021 |  07/24/2021 |
 | [31798](https://myanimelist.net/anime/31798) |     tv     |  2016  |   9   |                                                 Kiznaiver                                                 |  4 years ago  | 07/09/2021 |  07/09/2021 |
 | [49318](https://myanimelist.net/anime/49318) | tv_special |  2021  |   8   |                     Tensei shitara Slime Datta Ken 2nd Season: Kanwa - Veldora Nikki 2                    |  4 years ago  | 07/05/2021 |  07/05/2021 |
