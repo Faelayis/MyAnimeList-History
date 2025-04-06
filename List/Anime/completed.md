@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         |   6 days ago  | 01/23/2025 |  03/30/2025 |
+| [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         |   Last week   | 01/23/2025 |  03/30/2025 |
 | [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |  2 weeks ago  | 10/05/2024 |  03/18/2025 |
 | [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |   Last month  | 04/06/2024 |  02/15/2025 |
 | [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |  2 months ago | 01/22/2025 |  01/23/2025 |
@@ -260,7 +260,7 @@
 | [36882](https://myanimelist.net/anime/36882) |     tv     |  2019  |   7   |                                    Arifureta Shokugyou de Sekai Saikyou                                   |  3 years ago  | 07/06/2021 |  08/11/2021 |
 | [41433](https://myanimelist.net/anime/41433) |     tv     |  2020  |   6   |                                               Akudama Drive                                               |  3 years ago  | 06/02/2021 |  08/11/2021 |
 | [30544](https://myanimelist.net/anime/30544) |     tv     |  2015  |   6   |                                           Gakusen Toshi Asterisk                                          |  3 years ago  | 07/05/2021 |  08/07/2021 |
-| [40211](https://myanimelist.net/anime/40211) |    movie   |  2019  |   7   |                                        Luo Xiao Hei Zhan Ji (Movie)                                       |  3 years ago  | 08/01/2021 |  08/01/2021 |
+| [40211](https://myanimelist.net/anime/40211) |    movie   |  2019  |   7   |                                        Luo Xiao Hei Zhan Ji (Movie)                                       |  4 years ago  | 08/01/2021 |  08/01/2021 |
 | [40853](https://myanimelist.net/anime/40853) |    movie   |  2020  |   8   |                                           Stand By Me Doraemon 2                                          |  4 years ago  | 07/30/2021 |  07/30/2021 |
 | [39175](https://myanimelist.net/anime/39175) |    movie   |  2021  |   7   |                                    Cider no You ni Kotoba ga Wakiagaru                                    |  4 years ago  | 07/24/2021 |  07/24/2021 |
 | [31798](https://myanimelist.net/anime/31798) |     tv     |  2016  |   9   |                                                 Kiznaiver                                                 |  4 years ago  | 07/09/2021 |  07/09/2021 |
