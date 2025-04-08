@@ -2,13 +2,14 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (3) ``0.94%``
+#### Watching (4) ``1.26%``
 
-|                      id                      | Type | Season | Score |                           Title                          | Watched |   Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------: | :-----: | :---------: | :--------: |
-| [34561](https://myanimelist.net/anime/34561) |  tv  |  2017  |   -   |                        Re:Creators                       |   7/22  |  Yesterday  | 03/31/2025 |
-| [59135](https://myanimelist.net/anime/59135) |  tv  |  2025  |   6   | Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. |   7/12  | 2 weeks ago | 02/23/2025 |
-| [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                       Sakamoto Days                      |   7/11  |  Last month | 01/19/2025 |
+|                      id                      | Type | Season | Score |                           Title                          | Watched |     Updated    | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------: | :-----: | :------------: | :--------: |
+| [51818](https://myanimelist.net/anime/51818) |  tv  |  2025  |   -   |              Enen no Shouboutai: San no Shou             |   1/12  | 31 minutes ago | 04/08/2025 |
+| [34561](https://myanimelist.net/anime/34561) |  tv  |  2017  |   -   |                        Re:Creators                       |   7/22  |   2 days ago   | 03/31/2025 |
+| [59135](https://myanimelist.net/anime/59135) |  tv  |  2025  |   6   | Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. |   7/12  |   2 weeks ago  | 02/23/2025 |
+| [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                       Sakamoto Days                      |   7/11  |   Last month   | 01/19/2025 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -54,7 +55,7 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``52.21%``
+#### Plan to Watch ``51.96%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -66,4 +67,4 @@ List Sync From MyAnimeList (update every day)
 | [61006](https://myanimelist.net/anime/61006) |     tv     |    -   | 4_koma_manga |                                             Bocchi the Rock! 2nd Season                                             |   Last month  |        -        |
 
 
-*[312 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[311 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*

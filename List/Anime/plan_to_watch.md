@@ -1,4 +1,4 @@
-# Plan to Watch (319)
+# Plan to Watch (318)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -190,7 +190,6 @@
 | [47163](https://myanimelist.net/anime/47163) |     tv     |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                |  2 years ago  |        -        |
 | [52149](https://myanimelist.net/anime/52149) |   special  |  2022  |     manga    |                                Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho                               |  2 years ago  |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |     tv     |  2007  |     manga    |                                                    Lovely★Complex                                                   |  2 years ago  |        -        |
-| [51818](https://myanimelist.net/anime/51818) |     tv     |  2025  |     manga    |                                           Enen no Shouboutai: San no Shou                                           |  3 years ago  |        -        |
 |   [486](https://myanimelist.net/anime/486)   |     tv     |  2003  |  light_novel |                                          Kino no Tabi: The Beautiful World                                          |  3 years ago  |        -        |
 | [51252](https://myanimelist.net/anime/51252) |     tv     |  2023  |  light_novel |                                                    Spy Kyoushitsu                                                   |  3 years ago  |        -        |
 | [51781](https://myanimelist.net/anime/51781) |     ona    |  2022  |     manga    |                                             Boku no Hero Academia (ONA)                                             |  3 years ago  |        -        |
