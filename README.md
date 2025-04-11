@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                           Title                          | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------: | :-----: | :---------: | :--------: |
-| [51818](https://myanimelist.net/anime/51818) |  tv  |  2025  |   -   |              Enen no Shouboutai: San no Shou             |   1/12  |  Yesterday  | 04/08/2025 |
-| [34561](https://myanimelist.net/anime/34561) |  tv  |  2017  |   -   |                        Re:Creators                       |   7/22  |  3 days ago | 03/31/2025 |
+| [51818](https://myanimelist.net/anime/51818) |  tv  |  2025  |   -   |              Enen no Shouboutai: San no Shou             |   1/12  |  3 days ago | 04/08/2025 |
+| [34561](https://myanimelist.net/anime/34561) |  tv  |  2017  |   -   |                        Re:Creators                       |   7/22  |  5 days ago | 03/31/2025 |
 | [59135](https://myanimelist.net/anime/59135) |  tv  |  2025  |   6   | Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. |   7/12  | 2 weeks ago | 02/23/2025 |
 | [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                       Sakamoto Days                      |   7/11  |  Last month | 01/19/2025 |
 
@@ -22,7 +22,7 @@ List Sync From MyAnimeList (update every day)
 | [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |   Last month  | 04/06/2024 |  02/15/2025 |
 | [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |  2 months ago | 01/22/2025 |  01/23/2025 |
 | [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  3 months ago | 01/01/2025 |  01/01/2025 |
-| [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |  3 months ago | 10/06/2024 |  12/20/2024 |
+| [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |  4 months ago | 10/06/2024 |  12/20/2024 |
 
 
 *[465 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
