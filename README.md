@@ -4,13 +4,13 @@ List Sync From MyAnimeList (update every day)
 
 #### Watching (5) ``1.57%``
 
-|                      id                      | Type | Season | Score |                           Title                          | Watched |    Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51818](https://myanimelist.net/anime/51818) |  tv  |  2025  |   -   |              Enen no Shouboutai: San no Shou             |   3/12  | 17 hours ago | 04/08/2025 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                         One Piece                        |  1114/? | 18 hours ago | 01/01/2013 |
-| [34561](https://myanimelist.net/anime/34561) |  tv  |  2017  |   -   |                        Re:Creators                       |   7/22  |  2 weeks ago | 03/31/2025 |
-| [59135](https://myanimelist.net/anime/59135) |  tv  |  2025  |   6   | Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. |   7/12  |  Last month  | 02/23/2025 |
-| [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                       Sakamoto Days                      |   7/11  |  Last month  | 01/19/2025 |
+|                      id                      | Type | Season | Score |                           Title                          | Watched |   Updated   | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------: | :-----: | :---------: | :--------: |
+| [51818](https://myanimelist.net/anime/51818) |  tv  |  2025  |   -   |              Enen no Shouboutai: San no Shou             |   3/12  |  Yesterday  | 04/08/2025 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                         One Piece                        |  1114/? |  Yesterday  | 01/01/2013 |
+| [34561](https://myanimelist.net/anime/34561) |  tv  |  2017  |   -   |                        Re:Creators                       |   7/22  | 2 weeks ago | 03/31/2025 |
+| [59135](https://myanimelist.net/anime/59135) |  tv  |  2025  |   6   | Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. |   7/12  |  Last month | 02/23/2025 |
+| [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                       Sakamoto Days                      |   7/11  |  Last month | 01/19/2025 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -22,7 +22,7 @@ List Sync From MyAnimeList (update every day)
 | [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |   Last month  | 10/05/2024 |  03/18/2025 |
 | [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |  2 months ago | 04/06/2024 |  02/15/2025 |
 | [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |  3 months ago | 01/22/2025 |  01/23/2025 |
-| [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  3 months ago | 01/01/2025 |  01/01/2025 |
+| [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  4 months ago | 01/01/2025 |  01/01/2025 |
 | [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |  4 months ago | 10/06/2024 |  12/20/2024 |
 
 
