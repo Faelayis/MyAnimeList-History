@@ -23,7 +23,7 @@ List Sync From MyAnimeList (update every day)
 | [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |  2 months ago | 04/06/2024 |  02/15/2025 |
 | [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |  3 months ago | 01/22/2025 |  01/23/2025 |
 | [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  4 months ago | 01/01/2025 |  01/01/2025 |
-| [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |  4 months ago | 10/06/2024 |  12/20/2024 |
+| [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |  5 months ago | 10/06/2024 |  12/20/2024 |
 
 
 *[465 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
