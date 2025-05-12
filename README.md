@@ -20,7 +20,7 @@ List Sync From MyAnimeList (update every day)
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
 | [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         |   Last month  | 01/23/2025 |  03/30/2025 |
 | [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |   Last month  | 10/05/2024 |  03/18/2025 |
-| [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |  2 months ago | 04/06/2024 |  02/15/2025 |
+| [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |  3 months ago | 04/06/2024 |  02/15/2025 |
 | [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |  3 months ago | 01/22/2025 |  01/23/2025 |
 | [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  4 months ago | 01/01/2025 |  01/01/2025 |
 | [57334](https://myanimelist.net/anime/57334) |     tv     |  2024  |   9   |                                                  Dandadan                                                 |  5 months ago | 10/06/2024 |  12/20/2024 |
@@ -64,8 +64,8 @@ List Sync From MyAnimeList (update every day)
 | [57907](https://myanimelist.net/anime/57907) |     tv     |  2025  |  light_novel |                                         Tate no Yuusha no Nariagari Season 4                                        |  2 months ago |        -        |
 | [58484](https://myanimelist.net/anime/58484) |     tv     |  2025  |  light_novel |                                                  Ishura 2nd Season                                                  |  2 months ago |        -        |
 | [61012](https://myanimelist.net/anime/61012) |     tv     |    -   |     manga    |                                          Toaru Kagaku no Railgun 4th Season                                         |  2 months ago |        -        |
-| [53924](https://myanimelist.net/anime/53924) |     tv     |  2025  |     manga    |                                             Jibaku Shounen Hanako-kun 2                                             |  2 months ago |        -        |
-| [61006](https://myanimelist.net/anime/61006) |     tv     |    -   | 4_koma_manga |                                             Bocchi the Rock! 2nd Season                                             |  2 months ago |        -        |
+| [53924](https://myanimelist.net/anime/53924) |     tv     |  2025  |     manga    |                                             Jibaku Shounen Hanako-kun 2                                             |  3 months ago |        -        |
+| [61006](https://myanimelist.net/anime/61006) |     tv     |    -   | 4_koma_manga |                                             Bocchi the Rock! 2nd Season                                             |  3 months ago |        -        |
 
 
 *[311 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
