@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                           Title                          | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51818](https://myanimelist.net/anime/51818) |  tv  |  2025  |   -   |              Enen no Shouboutai: San no Shou             |   3/12  |  2 weeks ago | 04/08/2025 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                         One Piece                        |  1114/? |  2 weeks ago | 01/01/2013 |
+| [51818](https://myanimelist.net/anime/51818) |  tv  |  2025  |   -   |              Enen no Shouboutai: San no Shou             |   3/12  |  3 weeks ago | 04/08/2025 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                         One Piece                        |  1114/? |  3 weeks ago | 01/01/2013 |
 | [34561](https://myanimelist.net/anime/34561) |  tv  |  2017  |   -   |                        Re:Creators                       |   7/22  |  Last month  | 03/31/2025 |
 | [59135](https://myanimelist.net/anime/59135) |  tv  |  2025  |   6   | Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. |   7/12  |  Last month  | 02/23/2025 |
 | [58939](https://myanimelist.net/anime/58939) |  tv  |  2025  |   -   |                       Sakamoto Days                      |   7/11  | 2 months ago | 01/19/2025 |
@@ -46,7 +46,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [52635](https://myanimelist.net/anime/52635) |  tv  |  2024  |   -   |                                         Kami no Tou: Ouji no Kikan                                        |   1/13  | 6 months ago | 07/14/2024 |
+| [52635](https://myanimelist.net/anime/52635) |  tv  |  2024  |   -   |                                         Kami no Tou: Ouji no Kikan                                        |   1/13  | 7 months ago | 07/14/2024 |
 | [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                   Ao no Exorcist: Shimane Illuminati-hen                                  |   1/12  |   Last year  | 01/10/2024 |
 | [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   5   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |   Last year  | 04/04/2023 |
 | [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   3/12  |  2 years ago | 04/03/2023 |
@@ -62,8 +62,8 @@ List Sync From MyAnimeList (update every day)
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 |   [513](https://myanimelist.net/anime/513)   |    movie   |  1986  |   original   |                                                Tenkuu no Shiro Laputa                                               |  2 months ago |        -        |
 | [57907](https://myanimelist.net/anime/57907) |     tv     |  2025  |  light_novel |                                         Tate no Yuusha no Nariagari Season 4                                        |  2 months ago |        -        |
-| [58484](https://myanimelist.net/anime/58484) |     tv     |  2025  |  light_novel |                                                  Ishura 2nd Season                                                  |  2 months ago |        -        |
-| [61012](https://myanimelist.net/anime/61012) |     tv     |    -   |     manga    |                                          Toaru Kagaku no Railgun 4th Season                                         |  2 months ago |        -        |
+| [58484](https://myanimelist.net/anime/58484) |     tv     |  2025  |  light_novel |                                                  Ishura 2nd Season                                                  |  3 months ago |        -        |
+| [61012](https://myanimelist.net/anime/61012) |     tv     |    -   |     manga    |                                          Toaru Kagaku no Railgun 4th Season                                         |  3 months ago |        -        |
 | [53924](https://myanimelist.net/anime/53924) |     tv     |  2025  |     manga    |                                             Jibaku Shounen Hanako-kun 2                                             |  3 months ago |        -        |
 | [61006](https://myanimelist.net/anime/61006) |     tv     |    -   | 4_koma_manga |                                             Bocchi the Rock! 2nd Season                                             |  3 months ago |        -        |
 
