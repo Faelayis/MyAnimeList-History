@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               |   Yesterday   | 01/19/2025 |  05/15/2025 |
+| [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               |   2 days ago  | 01/19/2025 |  05/15/2025 |
 | [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         |   Last month  | 01/23/2025 |  03/30/2025 |
 | [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |  2 months ago | 10/05/2024 |  03/18/2025 |
 | [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |  3 months ago | 04/06/2024 |  02/15/2025 |
@@ -352,7 +352,7 @@
 | [37347](https://myanimelist.net/anime/37347) |     tv     |  2019  |   8   |                        Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II                        |  4 years ago  | 11/21/2020 |  11/22/2020 |
 | [33506](https://myanimelist.net/anime/33506) |     tv     |  2017  |   6   |                                     Ao no Exorcist: Kyoto Fujouou-hen                                     |  4 years ago  | 11/21/2020 |  11/21/2020 |
 |  [9919](https://myanimelist.net/anime/9919)  |     tv     |  2011  |   7   |                                               Ao no Exorcist                                              |  4 years ago  | 11/20/2020 |  11/21/2020 |
-| [14227](https://myanimelist.net/anime/14227) |     tv     |  2012  |   9   |                                           Tonari no Kaibutsu-kun                                          |  3 years ago  | 11/20/2020 |  11/20/2020 |
+| [14227](https://myanimelist.net/anime/14227) |     tv     |  2012  |   9   |                                           Tonari no Kaibutsu-kun                                          |  4 years ago  | 11/20/2020 |  11/20/2020 |
 | [14833](https://myanimelist.net/anime/14833) |     tv     |  2013  |   7   |                                             Maoyuu Maou Yuusha                                            |  4 years ago  | 11/15/2020 |  11/16/2020 |
 | [40221](https://myanimelist.net/anime/40221) |     tv     |  2020  |   9   |                                                Kami no Tou                                                |  4 years ago  | 11/15/2020 |  11/15/2020 |
 | [29786](https://myanimelist.net/anime/29786) |     tv     |  2015  |   7   |                         Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai                         |  4 years ago  | 11/09/2020 |  11/12/2020 |
