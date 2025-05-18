@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               |   2 days ago  | 01/19/2025 |  05/15/2025 |
+| [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               |   3 days ago  | 01/19/2025 |  05/15/2025 |
 | [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         |   Last month  | 01/23/2025 |  03/30/2025 |
 | [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |  2 months ago | 10/05/2024 |  03/18/2025 |
 | [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |  3 months ago | 04/06/2024 |  02/15/2025 |
@@ -253,7 +253,7 @@
 | [24439](https://myanimelist.net/anime/24439) |     tv     |  2015  |   8   |                                               Kekkai Sensen                                               |  3 years ago  | 09/18/2021 |  09/18/2021 |
 | [30915](https://myanimelist.net/anime/30915) |   special  |  2015  |   5   |                             Kekkai Sensen: Soresaemo Saitei de Saikou na Hibi                             |  3 years ago  | 09/18/2021 |  09/18/2021 |
 | [48580](https://myanimelist.net/anime/48580) |     tv     |  2021  |   9   |                                              Vanitas no Karte                                             |  3 years ago  | 08/24/2021 |  09/18/2021 |
-| [41402](https://myanimelist.net/anime/41402) |     tv     |  2021  |   7   |                                     Mairimashita! Iruma-kun 2nd Season                                    |  3 years ago  | 05/02/2021 |  09/12/2021 |
+| [41402](https://myanimelist.net/anime/41402) |     tv     |  2021  |   7   |                                     Mairimashita! Iruma-kun 2nd Season                                    |  4 years ago  | 05/02/2021 |  09/12/2021 |
 | [44931](https://myanimelist.net/anime/44931) |     ova    |  2021  |   9   |                                            Tonikaku Kawaii: SNS                                           |  4 years ago  | 08/21/2021 |  08/21/2021 |
 | [33836](https://myanimelist.net/anime/33836) |     tv     |  2017  |   6   |                                                   Seiren                                                  |  4 years ago  | 08/19/2021 |  08/19/2021 |
 | [24133](https://myanimelist.net/anime/24133) |     tv     |  2015  |   9   |                                     Taimadou Gakuen 35 Shiken Shoutai                                     |  3 years ago  | 08/17/2021 |  08/18/2021 |
