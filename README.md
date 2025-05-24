@@ -59,7 +59,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [58390](https://myanimelist.net/anime/58390) |     tv     |  2025  |     manga    |                                              Yofukashi no Uta Season 2                                              |   Yesterday   |        -        |
+| [58390](https://myanimelist.net/anime/58390) |     tv     |  2025  |     manga    |                                              Yofukashi no Uta Season 2                                              |   2 days ago  |        -        |
 |   [513](https://myanimelist.net/anime/513)   |    movie   |  1986  |   original   |                                                Tenkuu no Shiro Laputa                                               |  2 months ago |        -        |
 | [57907](https://myanimelist.net/anime/57907) |     tv     |  2025  |  light_novel |                                         Tate no Yuusha no Nariagari Season 4                                        |  3 months ago |        -        |
 | [58484](https://myanimelist.net/anime/58484) |     tv     |  2025  |  light_novel |                                                  Ishura 2nd Season                                                  |  3 months ago |        -        |
