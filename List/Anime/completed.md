@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               |   Last week   | 01/19/2025 |  05/15/2025 |
+| [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               |  2 weeks ago  | 01/19/2025 |  05/15/2025 |
 | [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         |  2 months ago | 01/23/2025 |  03/30/2025 |
 | [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |  2 months ago | 10/05/2024 |  03/18/2025 |
 | [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |  3 months ago | 04/06/2024 |  02/15/2025 |
@@ -246,7 +246,7 @@
 | [33502](https://myanimelist.net/anime/33502) |     tv     |  2017  |   7   |                Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?                |  3 years ago  | 09/24/2021 |  09/24/2021 |
 | [39247](https://myanimelist.net/anime/39247) |     tv     |  2021  |   7   |                                     Kobayashi-san Chi no Maid Dragon S                                    |  3 years ago  | 07/08/2021 |  09/24/2021 |
 | [44203](https://myanimelist.net/anime/44203) |     tv     |  2021  |   6   |                                              Seirei Gensouki                                              |  3 years ago  | 07/06/2021 |  09/24/2021 |
-| [43523](https://myanimelist.net/anime/43523) |     tv     |  2021  |   8   |                                     Tsuki ga Michibiku Isekai Douchuu                                     |  3 years ago  | 07/07/2021 |  09/23/2021 |
+| [43523](https://myanimelist.net/anime/43523) |     tv     |  2021  |   8   |                                     Tsuki ga Michibiku Isekai Douchuu                                     |  4 years ago  | 07/07/2021 |  09/23/2021 |
 | [41487](https://myanimelist.net/anime/41487) |     tv     |  2021  |   8   |                              Tensei shitara Slime Datta Ken 2nd Season Part 2                             |  4 years ago  | 07/07/2021 |  09/21/2021 |
 | [34451](https://myanimelist.net/anime/34451) |     tv     |  2017  |   7   |                                           Kekkai Sensen & Beyond                                          |  4 years ago  | 09/20/2021 |  09/20/2021 |
 | [42249](https://myanimelist.net/anime/42249) |     tv     |  2021  |   9   |                                              Tokyo Revengers                                              |  3 years ago  | 05/31/2021 |  09/19/2021 |
