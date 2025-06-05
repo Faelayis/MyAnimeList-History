@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed  | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :----------: | :--------: | :---------: |
-| [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               |  2 weeks ago | 01/19/2025 |  05/15/2025 |
+| [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               |  3 weeks ago | 01/19/2025 |  05/15/2025 |
 | [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         | 2 months ago | 01/23/2025 |  03/30/2025 |
 | [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             | 2 months ago | 10/05/2024 |  03/18/2025 |
 | [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 | 3 months ago | 04/06/2024 |  02/15/2025 |
@@ -332,7 +332,7 @@
 | [38656](https://myanimelist.net/anime/38656) |     tv     |  2020  |   8   |                                               Darwin's Game                                               |  4 years ago | 02/26/2021 |  02/28/2021 |
 | [28851](https://myanimelist.net/anime/28851) |    movie   |  2016  |   9   |                                               Koe no Katachi                                              |  4 years ago | 02/26/2021 |  02/26/2021 |
 | [20787](https://myanimelist.net/anime/20787) |     tv     |  2014  |   7   |                                                Black Bullet                                               |  4 years ago | 02/16/2021 |  02/18/2021 |
-| [37711](https://myanimelist.net/anime/37711) |     ova    |  2018  |   6   |                                  Koi to Uso: Isshou no Koi/Koi no Kimochi                                 |  2 years ago | 02/01/2021 |  02/01/2021 |
+| [37711](https://myanimelist.net/anime/37711) |     ova    |  2018  |   6   |                                  Koi to Uso: Isshou no Koi/Koi no Kimochi                                 |  3 years ago | 02/01/2021 |  02/01/2021 |
 | [34934](https://myanimelist.net/anime/34934) |     tv     |  2017  |   6   |                                                 Koi to Uso                                                |  4 years ago | 01/25/2021 |  02/01/2021 |
 | [37982](https://myanimelist.net/anime/37982) |     tv     |  2019  |   7   |                                             Domestic na Kanojo                                            |  4 years ago | 01/25/2021 |  01/25/2021 |
 | [34498](https://myanimelist.net/anime/34498) |    movie   |  2017  |   10  |                           Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?                          |  4 years ago | 01/19/2021 |  01/19/2021 |
