@@ -1,8 +1,9 @@
-# Plan to Watch (319)
+# Plan to Watch (320)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [58390](https://myanimelist.net/anime/58390) |     tv     |  2025  |     manga    |                                              Yofukashi no Uta Season 2                                              |  3 weeks ago  |        -        |
+| [61851](https://myanimelist.net/anime/61851) |     tv     |    -   |   original   |                                                   Isekai Quartet 3                                                  |  16 hours ago |        -        |
+| [58390](https://myanimelist.net/anime/58390) |     tv     |  2025  |     manga    |                                              Yofukashi no Uta Season 2                                              |   Last month  |        -        |
 |   [513](https://myanimelist.net/anime/513)   |    movie   |  1986  |   original   |                                                Tenkuu no Shiro Laputa                                               |  3 months ago |        -        |
 | [57907](https://myanimelist.net/anime/57907) |     tv     |  2025  |  light_novel |                                         Tate no Yuusha no Nariagari Season 4                                        |  4 months ago |        -        |
 | [58484](https://myanimelist.net/anime/58484) |     tv     |  2025  |  light_novel |                                                  Ishura 2nd Season                                                  |  4 months ago |        -        |
@@ -12,7 +13,7 @@
 | [59361](https://myanimelist.net/anime/59361) |     tv     |  2025  |     manga    |                                         Kono Kaisha ni Suki na Hito ga Imasu                                        |  4 months ago |        -        |
 | [58271](https://myanimelist.net/anime/58271) |     tv     |  2025  |     manga    |                                                   Honey Lemon Soda                                                  |  4 months ago |        -        |
 | [59130](https://myanimelist.net/anime/59130) |     tv     |  2025  |  light_novel |                       Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku                      |  4 months ago |        -        |
-| [59459](https://myanimelist.net/anime/59459) |     tv     |  2025  |  light_novel |                                    Silent Witch: Chinmoku no Majo no Kakushigoto                                    |  4 months ago |        -        |
+| [59459](https://myanimelist.net/anime/59459) |     tv     |  2025  |  light_novel |                                    Silent Witch: Chinmoku no Majo no Kakushigoto                                    |  5 months ago |        -        |
 | [60593](https://myanimelist.net/anime/60593) |     tv     |  2025  |     manga    |                                      Vigilante: Boku no Hero Academia Illegals                                      |  6 months ago |        -        |
 | [60544](https://myanimelist.net/anime/60544) |    movie   |  2025  |   original   |                                              Nezha Zhi Mo Tong Nao Hai                                              |  6 months ago |        -        |
 | [59419](https://myanimelist.net/anime/59419) |    movie   |  2025  |     game     |                                 Project Sekai Movie: Kowareta Sekai to Utaenai Miku                                 |  6 months ago |        -        |
