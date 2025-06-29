@@ -2,18 +2,19 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (4) ``1.25%``
+#### Watching (5) ``1.56%``
 
 |                      id                      | Type | Season | Score |                           Title                          | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------: | :-----: | :----------: | :--------: |
+| [60489](https://myanimelist.net/anime/60489) |  ona |  2025  |   8   |                     Takopii no Genzai                    |   1/6   | 12 hours ago |      -     |
 | [51818](https://myanimelist.net/anime/51818) |  tv  |  2025  |   -   |              Enen no Shouboutai: San no Shou             |   3/12  | 2 months ago | 04/08/2025 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                         One Piece                        |  1114/? | 2 months ago | 01/01/2013 |
-| [34561](https://myanimelist.net/anime/34561) |  tv  |  2017  |   -   |                        Re:Creators                       |   7/22  | 2 months ago | 03/31/2025 |
+| [34561](https://myanimelist.net/anime/34561) |  tv  |  2017  |   -   |                        Re:Creators                       |   7/22  | 3 months ago | 03/31/2025 |
 | [59135](https://myanimelist.net/anime/59135) |  tv  |  2025  |   6   | Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. |   7/12  | 3 months ago | 02/23/2025 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``97.46%``
+#### Completed ``97.88%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -27,7 +28,7 @@ List Sync From MyAnimeList (update every day)
 
 *[466 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``12.29%``
+#### On Hold ``12.26%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -41,7 +42,7 @@ List Sync From MyAnimeList (update every day)
 
 *[96 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``3.79%``
+#### Dropped ``3.78%``
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
@@ -55,16 +56,16 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``52.29%``
+#### Plan to Watch ``52.37%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [61903](https://myanimelist.net/anime/61903) | tv_special |    -   |     manga    |                                    Kaguya-sama wa Kokurasetai: Otona e no Kaidan                                    |  12 hours ago |        -        |
 | [61851](https://myanimelist.net/anime/61851) |     tv     |    -   |   original   |                                                   Isekai Quartet 3                                                  |   Last week   |        -        |
 | [58390](https://myanimelist.net/anime/58390) |     tv     |  2025  |     manga    |                                              Yofukashi no Uta Season 2                                              |   Last month  |        -        |
 |   [513](https://myanimelist.net/anime/513)   |    movie   |  1986  |   original   |                                                Tenkuu no Shiro Laputa                                               |  4 months ago |        -        |
 | [57907](https://myanimelist.net/anime/57907) |     tv     |  2025  |  light_novel |                                         Tate no Yuusha no Nariagari Season 4                                        |  4 months ago |        -        |
 | [58484](https://myanimelist.net/anime/58484) |     tv     |  2025  |  light_novel |                                                  Ishura 2nd Season                                                  |  4 months ago |        -        |
-| [61012](https://myanimelist.net/anime/61012) |     tv     |    -   |     manga    |                                          Toaru Kagaku no Railgun 4th Season                                         |  4 months ago |        -        |
 
 
-*[313 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[314 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*

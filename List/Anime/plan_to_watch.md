@@ -1,7 +1,8 @@
-# Plan to Watch (320)
+# Plan to Watch (321)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [61903](https://myanimelist.net/anime/61903) | tv_special |    -   |     manga    |                                    Kaguya-sama wa Kokurasetai: Otona e no Kaidan                                    |  12 hours ago |        -        |
 | [61851](https://myanimelist.net/anime/61851) |     tv     |    -   |   original   |                                                   Isekai Quartet 3                                                  |   Last week   |        -        |
 | [58390](https://myanimelist.net/anime/58390) |     tv     |  2025  |     manga    |                                              Yofukashi no Uta Season 2                                              |   Last month  |        -        |
 |   [513](https://myanimelist.net/anime/513)   |    movie   |  1986  |   original   |                                                Tenkuu no Shiro Laputa                                               |  4 months ago |        -        |
@@ -45,9 +46,9 @@
 | [59571](https://myanimelist.net/anime/59571) |    movie   |  2024  |     manga    |                               Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack                              | 11 months ago |        -        |
 | [59493](https://myanimelist.net/anime/59493) | tv_special |  2024  |     manga    |                              Tensei shitara Slime Datta Ken: Kanwa - Luminous Memories                              | 11 months ago |        -        |
 | [59466](https://myanimelist.net/anime/59466) |     tv     |  2025  |     manga    |                                           Aharen-san wa Hakarenai Season 2                                          | 11 months ago |        -        |
-| [59402](https://myanimelist.net/anime/59402) |     tv     |  2025  |     manga    |                                             Kakkou no Iinazuke Season 2                                             | 11 months ago |        -        |
-| [59277](https://myanimelist.net/anime/59277) |     tv     |  2025  |     manga    |                                           Kanojo, Okarishimasu 4th Season                                           | 11 months ago |        -        |
-| [59369](https://myanimelist.net/anime/59369) |     ona    |  2025  |   original   |                                     Lycoris Recoil: Friends Are Thieves of Time.                                    | 11 months ago |        -        |
+| [59402](https://myanimelist.net/anime/59402) |     tv     |  2025  |     manga    |                                             Kakkou no Iinazuke Season 2                                             |   07/28/2024  |        -        |
+| [59277](https://myanimelist.net/anime/59277) |     tv     |  2025  |     manga    |                                           Kanojo, Okarishimasu 4th Season                                           |   07/28/2024  |        -        |
+| [59369](https://myanimelist.net/anime/59369) |     ona    |  2025  |   original   |                                     Lycoris Recoil: Friends Are Thieves of Time.                                    |   07/28/2024  |        -        |
 | [59228](https://myanimelist.net/anime/59228) |     tv     |  2025  |     manga    |                                           Kuroshitsuji: Midori no Majo-hen                                          |   07/10/2024  |        -        |
 | [59229](https://myanimelist.net/anime/59229) |     tv     |  2026  |     manga    |                                        Enen no Shouboutai: San no Shou Part 2                                       |   07/10/2024  |        -        |
 | [55848](https://myanimelist.net/anime/55848) |     tv     |  2024  |     other    |                                                 Isekai Suicide Squad                                                |   07/05/2024  |        -        |
@@ -310,8 +311,8 @@
 | [40907](https://myanimelist.net/anime/40907) |     tv     |  2021  |     manga    |                                               World Trigger 2nd Season                                              |  4 years ago  |        -        |
 | [10897](https://myanimelist.net/anime/10897) |     ova    |  2011  |  light_novel |                         Boku wa Tomodachi ga Sukunai: Yaminabe wa Bishoujo ga Zannen na Nioi                        |  4 years ago  |        -        |
 | [13469](https://myanimelist.net/anime/13469) |     ova    |  2012  |     novel    |                                              Hyouka: Motsubeki Mono wa                                              |  4 years ago  |        -        |
-| [32887](https://myanimelist.net/anime/32887) |     tv     |  2017  |  light_novel |                   Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria                   |  4 years ago  |        -        |
-| [37348](https://myanimelist.net/anime/37348) |    movie   |  2019  |  light_novel |                     Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya                     |  4 years ago  |        -        |
+| [32887](https://myanimelist.net/anime/32887) |     tv     |  2017  |  light_novel |                   Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria                   |  5 years ago  |        -        |
+| [37348](https://myanimelist.net/anime/37348) |    movie   |  2019  |  light_novel |                     Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya                     |  5 years ago  |        -        |
 | [36792](https://myanimelist.net/anime/36792) |     ova    |  2019  |  light_novel |                                                 Eromanga-sensei OVA                                                 |  5 years ago  |        -        |
 |  [6045](https://myanimelist.net/anime/6045)  |     tv     |  2009  |     manga    |                                                    Kimi ni Todoke                                                   |  5 years ago  |        -        |
 | [37305](https://myanimelist.net/anime/37305) |    movie   |  2018  |  light_novel |                            K: Seven Stories Movie 4 - Lost Small World - Ori no Mukou ni                            |  5 years ago  |        -        |
