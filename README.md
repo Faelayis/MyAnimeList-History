@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                           Title                          | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [60489](https://myanimelist.net/anime/60489) |  ona |  2025  |   8   |                     Takopii no Genzai                    |   1/6   | 12 hours ago |      -     |
+| [60489](https://myanimelist.net/anime/60489) |  ona |  2025  |   8   |                     Takopii no Genzai                    |   1/6   |   Yesterday  |      -     |
 | [51818](https://myanimelist.net/anime/51818) |  tv  |  2025  |   -   |              Enen no Shouboutai: San no Shou             |   3/12  | 2 months ago | 04/08/2025 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                         One Piece                        |  1114/? | 2 months ago | 01/01/2013 |
 | [34561](https://myanimelist.net/anime/34561) |  tv  |  2017  |   -   |                        Re:Creators                       |   7/22  | 3 months ago | 03/31/2025 |
@@ -60,7 +60,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [61903](https://myanimelist.net/anime/61903) | tv_special |    -   |     manga    |                                    Kaguya-sama wa Kokurasetai: Otona e no Kaidan                                    |  12 hours ago |        -        |
+| [61903](https://myanimelist.net/anime/61903) | tv_special |    -   |     manga    |                                    Kaguya-sama wa Kokurasetai: Otona e no Kaidan                                    |   Yesterday   |        -        |
 | [61851](https://myanimelist.net/anime/61851) |     tv     |    -   |   original   |                                                   Isekai Quartet 3                                                  |   Last week   |        -        |
 | [58390](https://myanimelist.net/anime/58390) |     tv     |  2025  |     manga    |                                              Yofukashi no Uta Season 2                                              |   Last month  |        -        |
 |   [513](https://myanimelist.net/anime/513)   |    movie   |  1986  |   original   |                                                Tenkuu no Shiro Laputa                                               |  4 months ago |        -        |
