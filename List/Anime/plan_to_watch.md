@@ -2,8 +2,8 @@
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [61903](https://myanimelist.net/anime/61903) | tv_special |    -   |     manga    |                                    Kaguya-sama wa Kokurasetai: Otona e no Kaidan                                    |   3 days ago  |        -        |
-| [61851](https://myanimelist.net/anime/61851) |     tv     |    -   |   original   |                                                   Isekai Quartet 3                                                  |   Last week   |        -        |
+| [61903](https://myanimelist.net/anime/61903) | tv_special |    -   |     manga    |                                    Kaguya-sama wa Kokurasetai: Otona e no Kaidan                                    |   4 days ago  |        -        |
+| [61851](https://myanimelist.net/anime/61851) |     tv     |    -   |   original   |                                                   Isekai Quartet 3                                                  |  2 weeks ago  |        -        |
 | [58390](https://myanimelist.net/anime/58390) |     tv     |  2025  |     manga    |                                              Yofukashi no Uta Season 2                                              |   Last month  |        -        |
 |   [513](https://myanimelist.net/anime/513)   |    movie   |  1986  |   original   |                                                Tenkuu no Shiro Laputa                                               |  4 months ago |        -        |
 | [57907](https://myanimelist.net/anime/57907) |     tv     |  2025  |  light_novel |                                         Tate no Yuusha no Nariagari Season 4                                        |  4 months ago |        -        |
