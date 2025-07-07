@@ -1,7 +1,10 @@
-# On Hold (102)
+# On Hold (105)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
+| [51818](https://myanimelist.net/anime/51818) |    tv   |  2025  |   -   |                                        Enen no Shouboutai: San no Shou                                        |   3/12  |  7 hours ago  | 04/08/2025 |
+| [34561](https://myanimelist.net/anime/34561) |    tv   |  2017  |   -   |                                                  Re:Creators                                                  |   7/22  |  7 hours ago  | 03/31/2025 |
+| [59135](https://myanimelist.net/anime/59135) |    tv   |  2025  |   6   |                            Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.                           |   7/12  |  7 hours ago  | 02/23/2025 |
 | [57611](https://myanimelist.net/anime/57611) |    tv   |  2024  |   -   |                                              Kimi wa Meido-sama.                                              |   3/12  |  7 months ago | 10/20/2024 |
 | [49981](https://myanimelist.net/anime/49981) |    tv   |  2024  |   -   |                   Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II                  |   2/12  |  7 months ago | 07/20/2024 |
 | [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |   Last year   | 05/23/2024 |
@@ -52,7 +55,7 @@
 | [49891](https://myanimelist.net/anime/49891) |    tv   |  2022  |   -   |                                           Tensei shitara Ken deshita                                          |   3/12  |  2 years ago  | 09/30/2022 |
 | [48413](https://myanimelist.net/anime/48413) |    tv   |  2022  |   -   |                                              Hataraku Maou-sama!!                                             |   7/12  |  2 years ago  | 07/15/2022 |
 | [42994](https://myanimelist.net/anime/42994) |    tv   |  2022  |   -   |                                             Jashin-chan Dropkick X                                            |   8/12  |  2 years ago  | 07/15/2022 |
-| [49220](https://myanimelist.net/anime/49220) |    tv   |  2022  |   -   |                                                 Isekai Ojisan                                                 |   4/13  |  2 years ago  | 07/08/2022 |
+| [49220](https://myanimelist.net/anime/49220) |    tv   |  2022  |   -   |                                                 Isekai Ojisan                                                 |   4/13  |  3 years ago  | 07/08/2022 |
 | [51096](https://myanimelist.net/anime/51096) |    tv   |  2022  |   -   |                           Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season                          |   1/13  |  3 years ago  | 07/05/2022 |
 | [10495](https://myanimelist.net/anime/10495) |    tv   |  2011  |   -   |                                                   Yuru Yuri                                                   |   4/12  |  2 years ago  | 06/30/2022 |
 | [10087](https://myanimelist.net/anime/10087) |    tv   |  2011  |   -   |                                                   Fate/Zero                                                   |   2/13  |  3 years ago  | 04/26/2022 |
