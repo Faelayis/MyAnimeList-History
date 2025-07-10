@@ -2,9 +2,9 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [51818](https://myanimelist.net/anime/51818) |    tv   |  2025  |   -   |                                        Enen no Shouboutai: San no Shou                                        |   3/12  |   2 days ago  | 04/08/2025 |
-| [34561](https://myanimelist.net/anime/34561) |    tv   |  2017  |   -   |                                                  Re:Creators                                                  |   7/22  |   2 days ago  | 03/31/2025 |
-| [59135](https://myanimelist.net/anime/59135) |    tv   |  2025  |   6   |                            Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.                           |   7/12  |   2 days ago  | 02/23/2025 |
+| [51818](https://myanimelist.net/anime/51818) |    tv   |  2025  |   -   |                                        Enen no Shouboutai: San no Shou                                        |   3/12  |   3 days ago  | 04/08/2025 |
+| [34561](https://myanimelist.net/anime/34561) |    tv   |  2017  |   -   |                                                  Re:Creators                                                  |   7/22  |   3 days ago  | 03/31/2025 |
+| [59135](https://myanimelist.net/anime/59135) |    tv   |  2025  |   6   |                            Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.                           |   7/12  |   3 days ago  | 02/23/2025 |
 | [57611](https://myanimelist.net/anime/57611) |    tv   |  2024  |   -   |                                              Kimi wa Meido-sama.                                              |   3/12  |  7 months ago | 10/20/2024 |
 | [49981](https://myanimelist.net/anime/49981) |    tv   |  2024  |   -   |                   Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II                  |   2/12  |  7 months ago | 07/20/2024 |
 | [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |   Last year   | 05/23/2024 |
@@ -82,7 +82,7 @@
 | [49926](https://myanimelist.net/anime/49926) |    tv   |  2021  |   -   |                                       Kimetsu no Yaiba: Mugen Ressha-hen                                      |   3/7   |  3 years ago  | 10/11/2021 |
 | [48556](https://myanimelist.net/anime/48556) |    tv   |  2021  |   -   |                                                Takt Op. Destiny                                               |   1/12  |  3 years ago  | 10/06/2021 |
 | [35241](https://myanimelist.net/anime/35241) |    tv   |  2017  |   -   |                                                 Konohana Kitan                                                |   4/12  |  4 years ago  | 09/22/2021 |
-| [42544](https://myanimelist.net/anime/42544) |    tv   |  2021  |   -   |                                                  Kaizoku Oujo                                                 |   7/12  |  3 years ago  | 08/30/2021 |
+| [42544](https://myanimelist.net/anime/42544) |    tv   |  2021  |   -   |                                                  Kaizoku Oujo                                                 |   7/12  |  4 years ago  | 08/30/2021 |
 | [11061](https://myanimelist.net/anime/11061) |    tv   |  2011  |   -   |                                             Hunter x Hunter (2011)                                            |  83/148 |  2 years ago  | 08/24/2021 |
 |  [9756](https://myanimelist.net/anime/9756)  |    tv   |  2011  |   -   |                                           Mahou Shoujo Madoka★Magica                                          |   2/12  |   Last year   | 08/19/2021 |
 | [40935](https://myanimelist.net/anime/40935) |    tv   |  2021  |   -   |                                              Beastars 2nd Season                                              |   8/12  |  4 years ago  | 07/20/2021 |
