@@ -2,8 +2,8 @@
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59983](https://myanimelist.net/anime/59983) |     tv     |    -   |     manga    |                                        Tsue to Tsurugi no Wistoria 2nd Season                                       |   6 days ago  |        -        |
-| [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |     manga    |                                             Sousou no Frieren 2nd Season                                            |   6 days ago  |        -        |
+| [59983](https://myanimelist.net/anime/59983) |     tv     |    -   |     manga    |                                        Tsue to Tsurugi no Wistoria 2nd Season                                       |   Last week   |        -        |
+| [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |     manga    |                                             Sousou no Frieren 2nd Season                                            |   Last week   |        -        |
 | [60285](https://myanimelist.net/anime/60285) |     tv     |  2025  |     manga    |                                                 Sakamoto Days Part 2                                                |   Last week   |        -        |
 | [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |     manga    |                                               Kaijuu 8-gou 2nd Season                                               |   Last week   |        -        |
 | [59986](https://myanimelist.net/anime/59986) |     tv     |  2025  |     manga    |                                                 Grand Blue Season 2                                                 |   Last week   |        -        |
