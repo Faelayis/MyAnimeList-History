@@ -2,7 +2,7 @@
 
 |                      id                      | Type | Season | Score |                     Title                     | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------: | :-----: | :---------: | :--------: |
-| [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                   Gachiakuta                  |   4/24  | 5 hours ago | 07/07/2025 |
+| [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                   Gachiakuta                  |   4/24  |  Yesterday  | 07/07/2025 |
 | [60285](https://myanimelist.net/anime/60285) |  tv  |  2025  |   -   |              Sakamoto Days Part 2             |   3/11  |  Last week  | 07/22/2025 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                   One Piece                   |  1128/? | 2 weeks ago | 01/01/2013 |
 | [61339](https://myanimelist.net/anime/61339) |  tv  |  2025  |   -   |       Jibaku Shounen Hanako-kun 2 Part 2      |   0/?   |  Last month | 07/07/2025 |
