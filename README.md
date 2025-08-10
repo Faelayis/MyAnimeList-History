@@ -2,17 +2,16 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (8) ``2.45%``
+#### Watching (7) ``2.13%``
 
 |                      id                      | Type | Season | Score |                     Title                     | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------: | :-----: | :---------: | :--------: |
-| [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                   Gachiakuta                  |   4/24  | 4 hours ago | 07/07/2025 |
-| [60285](https://myanimelist.net/anime/60285) |  tv  |  2025  |   -   |              Sakamoto Days Part 2             |   4/11  | 4 hours ago | 07/22/2025 |
-| [59459](https://myanimelist.net/anime/59459) |  tv  |  2025  |   9   | Silent Witch: Chinmoku no Majo no Kakushigoto |   5/13  |  Yesterday  | 07/07/2025 |
+| [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                   Gachiakuta                  |   4/24  |  Yesterday  | 07/07/2025 |
+| [60285](https://myanimelist.net/anime/60285) |  tv  |  2025  |   -   |              Sakamoto Days Part 2             |   4/11  |  Yesterday  | 07/22/2025 |
+| [59459](https://myanimelist.net/anime/59459) |  tv  |  2025  |   9   | Silent Witch: Chinmoku no Majo no Kakushigoto |   5/13  |  2 days ago | 07/07/2025 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                   One Piece                   |  1128/? | 2 weeks ago | 01/01/2013 |
 | [61339](https://myanimelist.net/anime/61339) |  tv  |  2025  |   -   |       Jibaku Shounen Hanako-kun 2 Part 2      |   0/?   |  Last month | 07/07/2025 |
 | [58390](https://myanimelist.net/anime/58390) |  tv  |  2025  |   -   |           Yofukashi no Uta Season 2           |   0/12  |  Last month | 07/07/2025 |
-| [59845](https://myanimelist.net/anime/59845) |  tv  |  2025  |   -   |           Kaoru Hana wa Rin to Saku           |   0/13  |  Last month | 07/07/2025 |
 | [60489](https://myanimelist.net/anime/60489) |  ona |  2025  |   8   |               Takopii no Genzai               |   1/6   |  Last month | 07/03/2025 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
@@ -38,8 +37,8 @@ List Sync From MyAnimeList (update every day)
 | [51818](https://myanimelist.net/anime/51818) |    tv   |  2025  |   -   |                                        Enen no Shouboutai: San no Shou                                        |   3/12  |   Last month  | 04/08/2025 |
 | [34561](https://myanimelist.net/anime/34561) |    tv   |  2017  |   -   |                                                  Re:Creators                                                  |   7/22  |   Last month  | 03/31/2025 |
 | [59135](https://myanimelist.net/anime/59135) |    tv   |  2025  |   6   |                            Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.                           |   7/12  |   Last month  | 02/23/2025 |
-| [57611](https://myanimelist.net/anime/57611) |    tv   |  2024  |   -   |                                              Kimi wa Meido-sama.                                              |   3/12  |  8 months ago | 10/20/2024 |
-| [49981](https://myanimelist.net/anime/49981) |    tv   |  2024  |   -   |                   Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II                  |   2/12  |  8 months ago | 07/20/2024 |
+| [57611](https://myanimelist.net/anime/57611) |    tv   |  2024  |   -   |                                              Kimi wa Meido-sama.                                              |   3/12  |  9 months ago | 10/20/2024 |
+| [49981](https://myanimelist.net/anime/49981) |    tv   |  2024  |   -   |                   Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II                  |   2/12  |  9 months ago | 07/20/2024 |
 | [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |   Last year   | 05/23/2024 |
 
 
@@ -59,16 +58,16 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``52.83%``
+#### Plan to Watch ``53.07%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [59845](https://myanimelist.net/anime/59845) |     tv     |  2025  |   web_manga  |                                              Kaoru Hana wa Rin to Saku                                              |  13 hours ago |    07/07/2025   |
 | [57555](https://myanimelist.net/anime/57555) |    movie   |  2025  |     manga    |                                             Chainsaw Man Movie: Reze-hen                                            |   Last week   |        -        |
 | [61997](https://myanimelist.net/anime/61997) |     ona    |  2025  |     manga    |                                         Sugar Sugar Rune: Les deux sorcières                                        |  2 weeks ago  |        -        |
 | [59619](https://myanimelist.net/anime/59619) |     tv     |  2025  |     manga    |                                                    Ame to Kimi to                                                   |  2 weeks ago  |        -        |
 | [58913](https://myanimelist.net/anime/58913) |     tv     |  2025  |   web_manga  |                                                Hikaru ga Shinda Natsu                                               |  2 weeks ago  |        -        |
 | [59983](https://myanimelist.net/anime/59983) |     tv     |    -   |     manga    |                                        Tsue to Tsurugi no Wistoria 2nd Season                                       |   Last month  |        -        |
-| [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |     manga    |                                             Sousou no Frieren 2nd Season                                            |   Last month  |        -        |
 
 
-*[320 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[321 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*

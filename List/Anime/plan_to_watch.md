@@ -1,7 +1,8 @@
-# Plan to Watch (327)
+# Plan to Watch (328)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [59845](https://myanimelist.net/anime/59845) |     tv     |  2025  |   web_manga  |                                              Kaoru Hana wa Rin to Saku                                              |  13 hours ago |    07/07/2025   |
 | [57555](https://myanimelist.net/anime/57555) |    movie   |  2025  |     manga    |                                             Chainsaw Man Movie: Reze-hen                                            |   Last week   |        -        |
 | [61997](https://myanimelist.net/anime/61997) |     ona    |  2025  |     manga    |                                         Sugar Sugar Rune: Les deux sorcières                                        |  2 weeks ago  |        -        |
 | [59619](https://myanimelist.net/anime/59619) |     tv     |  2025  |     manga    |                                                    Ame to Kimi to                                                   |  2 weeks ago  |        -        |
@@ -14,7 +15,7 @@
 | [61903](https://myanimelist.net/anime/61903) | tv_special |    -   |     manga    |                                    Kaguya-sama wa Kokurasetai: Otona e no Kaidan                                    |   Last month  |        -        |
 | [61851](https://myanimelist.net/anime/61851) |     tv     |    -   |   original   |                                                   Isekai Quartet 3                                                  |   Last month  |        -        |
 |   [513](https://myanimelist.net/anime/513)   |    movie   |  1986  |   original   |                                                Tenkuu no Shiro Laputa                                               |  5 months ago |        -        |
-| [57907](https://myanimelist.net/anime/57907) |     tv     |  2025  |  light_novel |                                         Tate no Yuusha no Nariagari Season 4                                        |  5 months ago |        -        |
+| [57907](https://myanimelist.net/anime/57907) |     tv     |  2025  |  light_novel |                                         Tate no Yuusha no Nariagari Season 4                                        |  6 months ago |        -        |
 | [58484](https://myanimelist.net/anime/58484) |     tv     |  2025  |  light_novel |                                                  Ishura 2nd Season                                                  |  6 months ago |        -        |
 | [61012](https://myanimelist.net/anime/61012) |     tv     |    -   |     manga    |                                          Toaru Kagaku no Railgun 4th Season                                         |  6 months ago |        -        |
 | [53924](https://myanimelist.net/anime/53924) |     tv     |  2025  |     manga    |                                             Jibaku Shounen Hanako-kun 2                                             |  6 months ago |        -        |
@@ -246,8 +247,8 @@
 | [25159](https://myanimelist.net/anime/25159) |     tv     |  2014  |  light_novel |                                        Inou-Battle wa Nichijou-kei no Naka de                                       |  3 years ago  |        -        |
 | [37514](https://myanimelist.net/anime/37514) |    movie   |  2019  |   web_manga  |                                      Made in Abyss Movie 1: Tabidachi no Yoake                                      |  3 years ago  |        -        |
 | [37515](https://myanimelist.net/anime/37515) |    movie   |  2019  |   web_manga  |                                     Made in Abyss Movie 2: Hourou Suru Tasogare                                     |  3 years ago  |        -        |
-| [18277](https://myanimelist.net/anime/18277) |     tv     |  2013  |  light_novel |                                                   Strike the Blood                                                  |  3 years ago  |        -        |
-| [33286](https://myanimelist.net/anime/33286) |     ova    |  2016  |  light_novel |                                                 Strike the Blood II                                                 |  3 years ago  |        -        |
+| [18277](https://myanimelist.net/anime/18277) |     tv     |  2013  |  light_novel |                                                   Strike the Blood                                                  |  4 years ago  |        -        |
+| [33286](https://myanimelist.net/anime/33286) |     ova    |  2016  |  light_novel |                                                 Strike the Blood II                                                 |  4 years ago  |        -        |
 | [50275](https://myanimelist.net/anime/50275) |    movie   |  2022  |  light_novel |                           Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo                           |  4 years ago  |        -        |
 | [50306](https://myanimelist.net/anime/50306) |     tv     |  2024  |  light_novel |                                                  Seirei Gensouki 2                                                  |  4 years ago  |        -        |
 | [39326](https://myanimelist.net/anime/39326) |     tv     |  2019  |  light_novel |                                  Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?                                 |  4 years ago  |        -        |
