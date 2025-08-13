@@ -2,21 +2,22 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (7) ``2.13%``
+#### Watching (8) ``2.43%``
 
-|                      id                      | Type | Season | Score |                     Title                     | Watched |   Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------: | :-----: | :---------: | :--------: |
-| [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                   Gachiakuta                  |   5/24  |  Yesterday  | 07/07/2025 |
-| [60285](https://myanimelist.net/anime/60285) |  tv  |  2025  |   -   |              Sakamoto Days Part 2             |   4/11  |  3 days ago | 07/22/2025 |
-| [59459](https://myanimelist.net/anime/59459) |  tv  |  2025  |   9   | Silent Witch: Chinmoku no Majo no Kakushigoto |   5/13  |  4 days ago | 07/07/2025 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                   One Piece                   |  1128/? | 3 weeks ago | 01/01/2013 |
-| [61339](https://myanimelist.net/anime/61339) |  tv  |  2025  |   -   |       Jibaku Shounen Hanako-kun 2 Part 2      |   0/12  |  Last month | 07/07/2025 |
-| [58390](https://myanimelist.net/anime/58390) |  tv  |  2025  |   -   |           Yofukashi no Uta Season 2           |   0/12  |  Last month | 07/07/2025 |
-| [60489](https://myanimelist.net/anime/60489) |  ona |  2025  |   8   |               Takopii no Genzai               |   1/6   |  Last month | 07/03/2025 |
+|                      id                      |  Type | Season | Score |                     Title                     | Watched |    Updated   | Start Date |
+| :------------------------------------------: | :---: | :----: | :---: | :-------------------------------------------: | :-----: | :----------: | :--------: |
+| [59192](https://myanimelist.net/anime/59192) | movie |  2025  |   9   |     Kimetsu no Yaiba Movie: Mugen Jou-hen     |   1/3   | 16 hours ago | 08/12/2025 |
+| [59062](https://myanimelist.net/anime/59062) |   tv  |  2025  |   -   |                   Gachiakuta                  |   5/24  |  2 days ago  | 07/07/2025 |
+| [60285](https://myanimelist.net/anime/60285) |   tv  |  2025  |   -   |              Sakamoto Days Part 2             |   4/11  |  4 days ago  | 07/22/2025 |
+| [59459](https://myanimelist.net/anime/59459) |   tv  |  2025  |   9   | Silent Witch: Chinmoku no Majo no Kakushigoto |   5/13  |  5 days ago  | 07/07/2025 |
+|    [21](https://myanimelist.net/anime/21)    |   tv  |  1999  |   8   |                   One Piece                   |  1128/? |  3 weeks ago | 01/01/2013 |
+| [61339](https://myanimelist.net/anime/61339) |   tv  |  2025  |   -   |       Jibaku Shounen Hanako-kun 2 Part 2      |   0/12  |  Last month  | 07/07/2025 |
+| [58390](https://myanimelist.net/anime/58390) |   tv  |  2025  |   -   |           Yofukashi no Uta Season 2           |   0/12  |  Last month  | 07/07/2025 |
+| [60489](https://myanimelist.net/anime/60489) |  ona  |  2025  |   8   |               Takopii no Genzai               |   1/6   |  Last month  | 07/03/2025 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``100.42%``
+#### Completed ``100.85%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -25,12 +26,12 @@ List Sync From MyAnimeList (update every day)
 | [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |  5 months ago | 10/05/2024 |  03/18/2025 |
 | [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |  6 months ago | 04/06/2024 |  02/15/2025 |
 | [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |  7 months ago | 01/22/2025 |  01/23/2025 |
-| [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  7 months ago | 01/01/2025 |  01/01/2025 |
+| [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  8 months ago | 01/01/2025 |  01/01/2025 |
 
 
 *[466 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``12.49%``
+#### On Hold ``12.46%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -44,7 +45,7 @@ List Sync From MyAnimeList (update every day)
 
 *[99 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``3.73%``
+#### Dropped ``3.72%``
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -58,16 +59,16 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``53.07%``
+#### Plan to Watch ``53.15%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59845](https://myanimelist.net/anime/59845) |     tv     |  2025  |   web_manga  |                                              Kaoru Hana wa Rin to Saku                                              |   2 days ago  |    07/07/2025   |
+| [62233](https://myanimelist.net/anime/62233) |   unknown  |    -   |  light_novel |                                                 One Piece: Heroines                                                 |  17 hours ago |        -        |
+| [35838](https://myanimelist.net/anime/35838) |     tv     |  2017  |   web_manga  |                                               Shoujo Shuumatsu Ryokou                                               |  17 hours ago |        -        |
+| [59845](https://myanimelist.net/anime/59845) |     tv     |  2025  |   web_manga  |                                              Kaoru Hana wa Rin to Saku                                              |   3 days ago  |    07/07/2025   |
 | [57555](https://myanimelist.net/anime/57555) |    movie   |  2025  |     manga    |                                             Chainsaw Man Movie: Reze-hen                                            |  2 weeks ago  |        -        |
 | [61997](https://myanimelist.net/anime/61997) |     ona    |  2025  |     manga    |                                         Sugar Sugar Rune: Les deux sorcières                                        |  3 weeks ago  |        -        |
 | [59619](https://myanimelist.net/anime/59619) |     tv     |  2025  |     manga    |                                                    Ame to Kimi to                                                   |  3 weeks ago  |        -        |
-| [58913](https://myanimelist.net/anime/58913) |     tv     |  2025  |   web_manga  |                                                Hikaru ga Shinda Natsu                                               |  3 weeks ago  |        -        |
-| [59983](https://myanimelist.net/anime/59983) |     tv     |    -   |     manga    |                                        Tsue to Tsurugi no Wistoria 2nd Season                                       |   Last month  |        -        |
 
 
-*[321 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[322 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*

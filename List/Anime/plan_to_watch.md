@@ -1,8 +1,10 @@
-# Plan to Watch (328)
+# Plan to Watch (329)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59845](https://myanimelist.net/anime/59845) |     tv     |  2025  |   web_manga  |                                              Kaoru Hana wa Rin to Saku                                              |   2 days ago  |    07/07/2025   |
+| [62233](https://myanimelist.net/anime/62233) |   unknown  |    -   |  light_novel |                                                 One Piece: Heroines                                                 |  17 hours ago |        -        |
+| [35838](https://myanimelist.net/anime/35838) |     tv     |  2017  |   web_manga  |                                               Shoujo Shuumatsu Ryokou                                               |  17 hours ago |        -        |
+| [59845](https://myanimelist.net/anime/59845) |     tv     |  2025  |   web_manga  |                                              Kaoru Hana wa Rin to Saku                                              |   3 days ago  |    07/07/2025   |
 | [57555](https://myanimelist.net/anime/57555) |    movie   |  2025  |     manga    |                                             Chainsaw Man Movie: Reze-hen                                            |  2 weeks ago  |        -        |
 | [61997](https://myanimelist.net/anime/61997) |     ona    |  2025  |     manga    |                                         Sugar Sugar Rune: Les deux sorcières                                        |  3 weeks ago  |        -        |
 | [59619](https://myanimelist.net/anime/59619) |     tv     |  2025  |     manga    |                                                    Ame to Kimi to                                                   |  3 weeks ago  |        -        |
@@ -23,7 +25,7 @@
 | [59361](https://myanimelist.net/anime/59361) |     tv     |  2025  |     manga    |                                         Kono Kaisha ni Suki na Hito ga Imasu                                        |  6 months ago |        -        |
 | [58271](https://myanimelist.net/anime/58271) |     tv     |  2025  |     manga    |                                                   Honey Lemon Soda                                                  |  6 months ago |        -        |
 | [59130](https://myanimelist.net/anime/59130) |     tv     |  2025  |  light_novel |                       Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku                      |  6 months ago |        -        |
-| [60593](https://myanimelist.net/anime/60593) |     tv     |  2025  |     manga    |                                      Vigilante: Boku no Hero Academia Illegals                                      |  7 months ago |        -        |
+| [60593](https://myanimelist.net/anime/60593) |     tv     |  2025  |     manga    |                                      Vigilante: Boku no Hero Academia Illegals                                      |  8 months ago |        -        |
 | [60544](https://myanimelist.net/anime/60544) |    movie   |  2025  |   original   |                                              Nezha Zhi Mo Tong Nao Hai                                              |  8 months ago |        -        |
 | [59419](https://myanimelist.net/anime/59419) |    movie   |  2025  |     game     |                                 Project Sekai Movie: Kowareta Sekai to Utaenai Miku                                 |  8 months ago |        -        |
 | [55830](https://myanimelist.net/anime/55830) |     tv     |    -   |  light_novel |                                                  Fate/strange Fake                                                  |  8 months ago |        -        |
@@ -64,7 +66,6 @@
 | [59193](https://myanimelist.net/anime/59193) |     tv     |    -   |  light_novel |                                     Mushoku Tensei III: Isekai Ittara Honki Dasu                                    |   07/03/2024  |        -        |
 | [59142](https://myanimelist.net/anime/59142) |     tv     |  2025  |  light_novel |                                                 Unnamed Memory Act.2                                                |   07/03/2024  |        -        |
 | [59160](https://myanimelist.net/anime/59160) |     tv     |  2025  |   web_manga  |                                                Wind Breaker Season 2                                                |   07/03/2024  |        -        |
-| [59192](https://myanimelist.net/anime/59192) |    movie   |  2025  |     manga    |                                        Kimetsu no Yaiba Movie: Mugen Jou-hen                                        |   07/01/2024  |        -        |
 | [59027](https://myanimelist.net/anime/59027) |     tv     |  2025  |     manga    |                                                Spy x Family Season 3                                                |   06/20/2024  |        -        |
 | [59088](https://myanimelist.net/anime/59088) |     tv     |    -   |     manga    |                                          Tokyo Revengers: Santen Sensou-hen                                         |   06/20/2024  |        -        |
 | [38481](https://myanimelist.net/anime/38481) |     tv     |  2020  |     manga    |                                              Toaru Kagaku no Railgun T                                              |   05/04/2024  |        -        |
