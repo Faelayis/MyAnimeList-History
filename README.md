@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |  Type | Season | Score |                     Title                     | Watched |   Updated  | Start Date |
 | :------------------------------------------: | :---: | :----: | :---: | :-------------------------------------------: | :-----: | :--------: | :--------: |
-| [60285](https://myanimelist.net/anime/60285) |   tv  |  2025  |   -   |              Sakamoto Days Part 2             |   5/11  | 2 days ago | 07/22/2025 |
-| [59192](https://myanimelist.net/anime/59192) | movie |  2025  |   10  |     Kimetsu no Yaiba Movie: Mugen Jou-hen     |   1/3   | 4 days ago | 08/12/2025 |
+| [60285](https://myanimelist.net/anime/60285) |   tv  |  2025  |   -   |              Sakamoto Days Part 2             |   5/11  | 3 days ago | 07/22/2025 |
+| [59192](https://myanimelist.net/anime/59192) | movie |  2025  |   10  |     Kimetsu no Yaiba Movie: Mugen Jou-hen     |   1/3   | 5 days ago | 08/12/2025 |
 | [59062](https://myanimelist.net/anime/59062) |   tv  |  2025  |   -   |                   Gachiakuta                  |   5/24  |  Last week | 07/07/2025 |
 | [59459](https://myanimelist.net/anime/59459) |   tv  |  2025  |   9   | Silent Witch: Chinmoku no Majo no Kakushigoto |   5/13  |  Last week | 07/07/2025 |
 |    [21](https://myanimelist.net/anime/21)    |   tv  |  1999  |   8   |                   One Piece                   |  1128/? | Last month | 01/01/2013 |
@@ -63,12 +63,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [62233](https://myanimelist.net/anime/62233) |   unknown  |    -   |  light_novel |                                                 One Piece: Heroines                                                 |   5 days ago  |        -        |
-| [35838](https://myanimelist.net/anime/35838) |     tv     |  2017  |   web_manga  |                                               Shoujo Shuumatsu Ryokou                                               |   5 days ago  |        -        |
+| [62233](https://myanimelist.net/anime/62233) |   unknown  |    -   |  light_novel |                                                 One Piece: Heroines                                                 |   6 days ago  |        -        |
+| [35838](https://myanimelist.net/anime/35838) |     tv     |  2017  |   web_manga  |                                               Shoujo Shuumatsu Ryokou                                               |   6 days ago  |        -        |
 | [59845](https://myanimelist.net/anime/59845) |     tv     |  2025  |   web_manga  |                                              Kaoru Hana wa Rin to Saku                                              |   Last week   |    07/07/2025   |
 | [57555](https://myanimelist.net/anime/57555) |    movie   |  2025  |     manga    |                                             Chainsaw Man Movie: Reze-hen                                            |  3 weeks ago  |        -        |
-| [61997](https://myanimelist.net/anime/61997) |     ona    |  2025  |     manga    |                                         Sugar Sugar Rune: Les deux sorcières                                        |  3 weeks ago  |        -        |
-| [59619](https://myanimelist.net/anime/59619) |     tv     |  2025  |     manga    |                                                    Ame to Kimi to                                                   |  3 weeks ago  |        -        |
+| [61997](https://myanimelist.net/anime/61997) |     ona    |  2025  |     manga    |                                         Sugar Sugar Rune: Les deux sorcières                                        |   Last month  |        -        |
+| [59619](https://myanimelist.net/anime/59619) |     tv     |  2025  |     manga    |                                                    Ame to Kimi to                                                   |   Last month  |        -        |
 
 
 *[322 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
