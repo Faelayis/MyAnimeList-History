@@ -2,7 +2,7 @@
 
 |                      id                      |  Type | Season | Score |                     Title                     | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :---: | :----: | :---: | :-------------------------------------------: | :-----: | :---------: | :--------: |
-| [60285](https://myanimelist.net/anime/60285) |   tv  |  2025  |   -   |              Sakamoto Days Part 2             |   5/11  |  6 days ago | 07/22/2025 |
+| [60285](https://myanimelist.net/anime/60285) |   tv  |  2025  |   -   |              Sakamoto Days Part 2             |   5/11  |  Last week  | 07/22/2025 |
 | [59192](https://myanimelist.net/anime/59192) | movie |  2025  |   10  |     Kimetsu no Yaiba Movie: Mugen Jou-hen     |   1/3   |  Last week  | 08/12/2025 |
 | [59062](https://myanimelist.net/anime/59062) |   tv  |  2025  |   -   |                   Gachiakuta                  |   5/24  |  Last week  | 07/07/2025 |
 | [59459](https://myanimelist.net/anime/59459) |   tv  |  2025  |   9   | Silent Witch: Chinmoku no Majo no Kakushigoto |   5/13  | 2 weeks ago | 07/07/2025 |
