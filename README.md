@@ -6,13 +6,13 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |  Type | Season | Score |                     Title                     | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :---: | :----: | :---: | :-------------------------------------------: | :-----: | :----------: | :--------: |
-| [59062](https://myanimelist.net/anime/59062) |   tv  |  2025  |   -   |                   Gachiakuta                  |   7/24  |  6 days ago  | 07/07/2025 |
+| [59062](https://myanimelist.net/anime/59062) |   tv  |  2025  |   -   |                   Gachiakuta                  |   8/24  | 16 hours ago | 07/07/2025 |
 | [60285](https://myanimelist.net/anime/60285) |   tv  |  2025  |   -   |              Sakamoto Days Part 2             |   5/11  |  2 weeks ago | 07/22/2025 |
 | [59192](https://myanimelist.net/anime/59192) | movie |  2025  |   10  |     Kimetsu no Yaiba Movie: Mugen Jou-hen     |   1/3   |  2 weeks ago | 08/12/2025 |
 | [59459](https://myanimelist.net/anime/59459) |   tv  |  2025  |   9   | Silent Witch: Chinmoku no Majo no Kakushigoto |   5/13  |  3 weeks ago | 07/07/2025 |
 |    [21](https://myanimelist.net/anime/21)    |   tv  |  1999  |   8   |                   One Piece                   |  1128/? |  Last month  | 01/01/2013 |
-| [61339](https://myanimelist.net/anime/61339) |   tv  |  2025  |   -   |       Jibaku Shounen Hanako-kun 2 Part 2      |   0/12  |  Last month  | 07/07/2025 |
-| [58390](https://myanimelist.net/anime/58390) |   tv  |  2025  |   -   |           Yofukashi no Uta Season 2           |   0/12  |  Last month  | 07/07/2025 |
+| [61339](https://myanimelist.net/anime/61339) |   tv  |  2025  |   -   |       Jibaku Shounen Hanako-kun 2 Part 2      |   0/12  | 2 months ago | 07/07/2025 |
+| [58390](https://myanimelist.net/anime/58390) |   tv  |  2025  |   -   |           Yofukashi no Uta Season 2           |   0/12  | 2 months ago | 07/07/2025 |
 | [60489](https://myanimelist.net/anime/60489) |  ona  |  2025  |   8   |               Takopii no Genzai               |   1/6   | 2 months ago | 07/03/2025 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
@@ -49,7 +49,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [52635](https://myanimelist.net/anime/52635) |  tv  |  2024  |   -   |                                         Kami no Tou: Ouji no Kikan                                        |   1/13  | 10 months ago | 07/14/2024 |
+| [52635](https://myanimelist.net/anime/52635) |  tv  |  2024  |   -   |                                         Kami no Tou: Ouji no Kikan                                        |   1/13  | 11 months ago | 07/14/2024 |
 | [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                   Ao no Exorcist: Shimane Illuminati-hen                                  |   1/12  |   Last year   | 01/10/2024 |
 | [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   5   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  |  2 years ago  | 04/04/2023 |
 | [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   3/12  |  2 years ago  | 04/03/2023 |
