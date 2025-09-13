@@ -2,12 +2,13 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (8) ``2.43%``
+#### Watching (9) ``2.74%``
 
 |                      id                      |  Type | Season | Score |                     Title                     | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :---: | :----: | :---: | :-------------------------------------------: | :-----: | :----------: | :--------: |
+| [57181](https://myanimelist.net/anime/57181) |   tv  |  2024  |   -   |                   Ao no Hako                  |   2/25  | 19 hours ago | 09/12/2025 |
 | [59062](https://myanimelist.net/anime/59062) |   tv  |  2025  |   -   |                   Gachiakuta                  |   8/24  |   Last week  | 07/07/2025 |
-| [60285](https://myanimelist.net/anime/60285) |   tv  |  2025  |   -   |              Sakamoto Days Part 2             |   5/11  |  3 weeks ago | 07/22/2025 |
+| [60285](https://myanimelist.net/anime/60285) |   tv  |  2025  |   -   |              Sakamoto Days Part 2             |   5/11  |  Last month  | 07/22/2025 |
 | [59192](https://myanimelist.net/anime/59192) | movie |  2025  |   10  |     Kimetsu no Yaiba Movie: Mugen Jou-hen     |   1/3   |  Last month  | 08/12/2025 |
 | [59459](https://myanimelist.net/anime/59459) |   tv  |  2025  |   9   | Silent Witch: Chinmoku no Majo no Kakushigoto |   5/13  |  Last month  | 07/07/2025 |
 |    [21](https://myanimelist.net/anime/21)    |   tv  |  1999  |   8   |                   One Piece                   |  1128/? |  Last month  | 01/01/2013 |
@@ -17,7 +18,7 @@ List Sync From MyAnimeList (update every day)
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``100.85%``
+#### Completed ``101.06%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed  | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :----------: | :--------: | :---------: |
@@ -31,7 +32,7 @@ List Sync From MyAnimeList (update every day)
 
 *[466 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``12.46%``
+#### On Hold ``12.44%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -59,7 +60,7 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``53.15%``
+#### Plan to Watch ``53.06%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
