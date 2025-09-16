@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |  Type | Season | Score |                         Title                         | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :---: | :----: | :---: | :---------------------------------------------------: | :-----: | :----------: | :--------: |
-| [57181](https://myanimelist.net/anime/57181) |   tv  |  2024  |   -   |                       Ao no Hako                      |  11/25  |   Yesterday  | 09/12/2025 |
-| [59062](https://myanimelist.net/anime/59062) |   tv  |  2025  |   -   |                       Gachiakuta                      |   8/24  |   Last week  | 07/07/2025 |
+| [57181](https://myanimelist.net/anime/57181) |   tv  |  2024  |   -   |                       Ao no Hako                      |  18/25  | 14 hours ago | 09/12/2025 |
+| [59062](https://myanimelist.net/anime/59062) |   tv  |  2025  |   -   |                       Gachiakuta                      |   8/24  |  2 weeks ago | 07/07/2025 |
 | [60285](https://myanimelist.net/anime/60285) |   tv  |  2025  |   -   |                  Sakamoto Days Part 2                 |   5/11  |  Last month  | 07/22/2025 |
 | [59192](https://myanimelist.net/anime/59192) | movie |  2025  |   10  | Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai |   1/1   |  Last month  | 08/12/2025 |
 | [59459](https://myanimelist.net/anime/59459) |   tv  |  2025  |   9   |     Silent Witch: Chinmoku no Majo no Kakushigoto     |   5/13  |  Last month  | 07/07/2025 |
@@ -68,8 +68,8 @@ List Sync From MyAnimeList (update every day)
 | [35838](https://myanimelist.net/anime/35838) |     tv     |  2017  |   web_manga  |                                               Shoujo Shuumatsu Ryokou                                               |   Last month  |        -        |
 | [59845](https://myanimelist.net/anime/59845) |     tv     |  2025  |   web_manga  |                                              Kaoru Hana wa Rin to Saku                                              |   Last month  |    07/07/2025   |
 | [57555](https://myanimelist.net/anime/57555) |    movie   |  2025  |     manga    |                                             Chainsaw Man Movie: Reze-hen                                            |   Last month  |        -        |
-| [61997](https://myanimelist.net/anime/61997) |     ona    |  2025  |     manga    |                                         Sugar Sugar Rune: Les deux sorcières                                        |   Last month  |        -        |
-| [59619](https://myanimelist.net/anime/59619) |     tv     |  2025  |     manga    |                                                    Ame to Kimi to                                                   |   Last month  |        -        |
+| [61997](https://myanimelist.net/anime/61997) |     ona    |  2025  |     manga    |                                         Sugar Sugar Rune: Les deux sorcières                                        |  2 months ago |        -        |
+| [59619](https://myanimelist.net/anime/59619) |     tv     |  2025  |     manga    |                                                    Ame to Kimi to                                                   |  2 months ago |        -        |
 
 
 *[322 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
