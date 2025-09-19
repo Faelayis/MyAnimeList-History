@@ -1,7 +1,11 @@
-# Plan to Watch (329)
+# Plan to Watch (333)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [56877](https://myanimelist.net/anime/56877) |     tv     |  2025  |   web_manga  |                                               Ao no Orchestra Season 2                                              |  8 hours ago  |        -        |
+| [61026](https://myanimelist.net/anime/61026) |     tv     |  2025  |  light_novel |                     Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga                    |  8 hours ago  |        -        |
+| [60781](https://myanimelist.net/anime/60781) |     tv     |  2025  |   web_manga  |                                            Alma-chan wa Kazoku ni Naritai                                           |  9 hours ago  |        -        |
+| [62516](https://myanimelist.net/anime/62516) |     tv     |    -   |     manga    |                                                 Dandadan 3rd Season                                                 |  9 hours ago  |        -        |
 | [62233](https://myanimelist.net/anime/62233) |   unknown  |    -   |  light_novel |                                                 One Piece: Heroines                                                 |   Last month  |        -        |
 | [35838](https://myanimelist.net/anime/35838) |     tv     |  2017  |   web_manga  |                                               Shoujo Shuumatsu Ryokou                                               |   Last month  |        -        |
 | [59845](https://myanimelist.net/anime/59845) |     tv     |  2025  |   web_manga  |                                              Kaoru Hana wa Rin to Saku                                              |   Last month  |    07/07/2025   |
@@ -15,7 +19,7 @@
 | [59986](https://myanimelist.net/anime/59986) |     tv     |  2025  |     manga    |                                                 Grand Blue Season 2                                                 |  2 months ago |        -        |
 | [61322](https://myanimelist.net/anime/61322) |     tv     |  2025  |     manga    |                                           Dr. Stone: Science Future Part 2                                          |  2 months ago |        -        |
 | [61903](https://myanimelist.net/anime/61903) | tv_special |    -   |     manga    |                                    Kaguya-sama wa Kokurasetai: Otona e no Kaidan                                    |  2 months ago |        -        |
-| [61851](https://myanimelist.net/anime/61851) |     tv     |    -   |   original   |                                                   Isekai Quartet 3                                                  |  3 months ago |        -        |
+| [61851](https://myanimelist.net/anime/61851) |     tv     |  2025  |   original   |                                                   Isekai Quartet 3                                                  |  3 months ago |        -        |
 |   [513](https://myanimelist.net/anime/513)   |    movie   |  1986  |   original   |                                                Tenkuu no Shiro Laputa                                               |  7 months ago |        -        |
 | [57907](https://myanimelist.net/anime/57907) |     tv     |  2025  |  light_novel |                                         Tate no Yuusha no Nariagari Season 4                                        |  7 months ago |        -        |
 | [58484](https://myanimelist.net/anime/58484) |     tv     |  2025  |  light_novel |                                                  Ishura 2nd Season                                                  |  7 months ago |        -        |
