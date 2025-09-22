@@ -2,19 +2,18 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (9) ``2.70%``
+#### Watching (8) ``2.40%``
 
 |                      id                      |  Type | Season | Score |                         Title                         | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :---: | :----: | :---: | :---------------------------------------------------: | :-----: | :----------: | :--------: |
-| [60285](https://myanimelist.net/anime/60285) |   tv  |  2025  |   -   |                  Sakamoto Days Part 2                 |  10/11  |  4 days ago  | 07/22/2025 |
-| [57181](https://myanimelist.net/anime/57181) |   tv  |  2024  |   -   |                       Ao no Hako                      |  18/25  |  5 days ago  | 09/12/2025 |
-| [59062](https://myanimelist.net/anime/59062) |   tv  |  2025  |   -   |                       Gachiakuta                      |   8/24  |  2 weeks ago | 07/07/2025 |
+| [60285](https://myanimelist.net/anime/60285) |   tv  |  2025  |   -   |                  Sakamoto Days Part 2                 |  10/11  | 12 hours ago | 07/22/2025 |
+| [59062](https://myanimelist.net/anime/59062) |   tv  |  2025  |   -   |                       Gachiakuta                      |   8/24  | 12 hours ago | 07/07/2025 |
+| [57181](https://myanimelist.net/anime/57181) |   tv  |  2024  |   -   |                       Ao no Hako                      |  18/25  |  6 days ago  | 09/12/2025 |
 | [59192](https://myanimelist.net/anime/59192) | movie |  2025  |   10  | Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai |   1/1   |  Last month  | 08/12/2025 |
 | [59459](https://myanimelist.net/anime/59459) |   tv  |  2025  |   9   |     Silent Witch: Chinmoku no Majo no Kakushigoto     |   5/13  |  Last month  | 07/07/2025 |
 |    [21](https://myanimelist.net/anime/21)    |   tv  |  1999  |   8   |                       One Piece                       |  1128/? | 2 months ago | 01/01/2013 |
 | [61339](https://myanimelist.net/anime/61339) |   tv  |  2025  |   -   |           Jibaku Shounen Hanako-kun 2 Part 2          |   0/12  | 2 months ago | 07/07/2025 |
 | [58390](https://myanimelist.net/anime/58390) |   tv  |  2025  |   -   |               Yofukashi no Uta Season 2               |   0/12  | 2 months ago | 07/07/2025 |
-| [60489](https://myanimelist.net/anime/60489) |  ona  |  2025  |   8   |                   Takopii no Genzai                   |   1/6   | 2 months ago | 07/03/2025 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -32,19 +31,19 @@ List Sync From MyAnimeList (update every day)
 
 *[466 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``12.38%``
+#### On Hold ``12.51%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
+| [60489](https://myanimelist.net/anime/60489) |   ona   |  2025  |   8   |                                               Takopii no Genzai                                               |   1/6   |  12 hours ago | 07/03/2025 |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |  2025  |   -   |                                        Enen no Shouboutai: San no Shou                                        |   3/12  |  2 months ago | 04/08/2025 |
 | [34561](https://myanimelist.net/anime/34561) |    tv   |  2017  |   -   |                                                  Re:Creators                                                  |   7/22  |  2 months ago | 03/31/2025 |
 | [59135](https://myanimelist.net/anime/59135) |    tv   |  2025  |   6   |                            Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.                           |   7/12  |  2 months ago | 02/23/2025 |
 | [57611](https://myanimelist.net/anime/57611) |    tv   |  2024  |   -   |                                              Kimi wa Meido-sama.                                              |   3/12  | 10 months ago | 10/20/2024 |
 | [49981](https://myanimelist.net/anime/49981) |    tv   |  2024  |   -   |                   Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II                  |   2/12  | 10 months ago | 07/20/2024 |
-| [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |   Last year   | 05/23/2024 |
 
 
-*[99 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
+*[100 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
 #### Dropped ``3.70%``
 
@@ -64,10 +63,10 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [56877](https://myanimelist.net/anime/56877) |     tv     |  2025  |   web_manga  |                                               Ao no Orchestra Season 2                                              |   2 days ago  |        -        |
-| [61026](https://myanimelist.net/anime/61026) |     tv     |  2025  |  light_novel |                     Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga                    |   2 days ago  |        -        |
-| [60781](https://myanimelist.net/anime/60781) |     tv     |  2025  |   web_manga  |                                            Alma-chan wa Kazoku ni Naritai                                           |   2 days ago  |        -        |
-| [62516](https://myanimelist.net/anime/62516) |     tv     |    -   |     manga    |                                                 Dandadan 3rd Season                                                 |   2 days ago  |        -        |
+| [56877](https://myanimelist.net/anime/56877) |     tv     |  2025  |   web_manga  |                                               Ao no Orchestra Season 2                                              |   3 days ago  |        -        |
+| [61026](https://myanimelist.net/anime/61026) |     tv     |  2025  |  light_novel |                     Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga                    |   3 days ago  |        -        |
+| [60781](https://myanimelist.net/anime/60781) |     tv     |  2025  |   web_manga  |                                            Alma-chan wa Kazoku ni Naritai                                           |   3 days ago  |        -        |
+| [62516](https://myanimelist.net/anime/62516) |     tv     |    -   |     manga    |                                                 Dandadan 3rd Season                                                 |   3 days ago  |        -        |
 | [62233](https://myanimelist.net/anime/62233) |   unknown  |    -   |  light_novel |                                                 One Piece: Heroines                                                 |   Last month  |        -        |
 | [35838](https://myanimelist.net/anime/35838) |     tv     |  2017  |   web_manga  |                                               Shoujo Shuumatsu Ryokou                                               |   Last month  |        -        |
 
