@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [60489](https://myanimelist.net/anime/60489) |   ona   |  2025  |   8   |                                               Takopii no Genzai                                               |   1/6   |   Yesterday   | 07/03/2025 |
+| [60489](https://myanimelist.net/anime/60489) |   ona   |  2025  |   8   |                                               Takopii no Genzai                                               |   1/6   |   2 days ago  | 07/03/2025 |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |  2025  |   -   |                                        Enen no Shouboutai: San no Shou                                        |   3/12  |  2 months ago | 04/08/2025 |
 | [34561](https://myanimelist.net/anime/34561) |    tv   |  2017  |   -   |                                                  Re:Creators                                                  |   7/22  |  2 months ago | 03/31/2025 |
 | [59135](https://myanimelist.net/anime/59135) |    tv   |  2025  |   6   |                            Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.                           |   7/12  |  2 months ago | 02/23/2025 |
@@ -104,7 +104,7 @@
 | [14967](https://myanimelist.net/anime/14967) |    tv   |  2013  |   -   |                                       Boku wa Tomodachi ga Sukunai Next                                       |   1/12  |  5 years ago  | 11/28/2020 |
 | [41312](https://myanimelist.net/anime/41312) |    tv   |  2020  |   -   |                                         Kami-tachi ni Hirowareta Otoko                                        |   5/12  |  4 years ago  | 11/18/2020 |
 | [40497](https://myanimelist.net/anime/40497) |    tv   |  2020  |   -   |                                   Mahouka Koukou no Rettousei: Raihousha-hen                                  |   8/13  |  4 years ago  | 10/04/2020 |
-| [34933](https://myanimelist.net/anime/34933) |    tv   |  2017  |   -   |                                                   Kakegurui                                                   |   8/12  |  3 years ago  |      -     |
+| [34933](https://myanimelist.net/anime/34933) |    tv   |  2017  |   -   |                                                   Kakegurui                                                   |   8/12  |  4 years ago  |      -     |
 | [58426](https://myanimelist.net/anime/58426) |    tv   |  2024  |   -   |                                         Shikanoko Nokonoko Koshitantan                                        |   1/12  |   Last year   |      -     |
 | [16049](https://myanimelist.net/anime/16049) |    tv   |  2013  |   -   |                                           Toaru Kagaku no Railgun S                                           |   3/24  |  2 years ago  |      -     |
 | [54744](https://myanimelist.net/anime/54744) |    tv   |  2024  |   1   |                            Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san                            |   5/12  | 10 months ago |      -     |
