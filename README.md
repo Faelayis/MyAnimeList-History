@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |  Type | Season | Score |                         Title                         | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :---: | :----: | :---: | :---------------------------------------------------: | :-----: | :----------: | :--------: |
-| [60285](https://myanimelist.net/anime/60285) |   tv  |  2025  |   -   |                  Sakamoto Days Part 2                 |  10/11  |  3 days ago  | 07/22/2025 |
-| [59062](https://myanimelist.net/anime/59062) |   tv  |  2025  |   -   |                       Gachiakuta                      |   8/24  |  3 days ago  | 07/07/2025 |
+| [60285](https://myanimelist.net/anime/60285) |   tv  |  2025  |   -   |                  Sakamoto Days Part 2                 |  10/11  |  4 days ago  | 07/22/2025 |
+| [59062](https://myanimelist.net/anime/59062) |   tv  |  2025  |   -   |                       Gachiakuta                      |   8/24  |  4 days ago  | 07/07/2025 |
 | [57181](https://myanimelist.net/anime/57181) |   tv  |  2024  |   -   |                       Ao no Hako                      |  18/25  |   Last week  | 09/12/2025 |
 | [59192](https://myanimelist.net/anime/59192) | movie |  2025  |   10  | Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai |   1/1   |  Last month  | 08/12/2025 |
 | [59459](https://myanimelist.net/anime/59459) |   tv  |  2025  |   9   |     Silent Witch: Chinmoku no Majo no Kakushigoto     |   5/13  |  Last month  | 07/07/2025 |
@@ -19,14 +19,14 @@ List Sync From MyAnimeList (update every day)
 
 #### Completed ``102.33%``
 
-|                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed  | Start Date | Finish Date |
-| :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :----------: | :--------: | :---------: |
-| [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               | 4 months ago | 01/19/2025 |  05/15/2025 |
-| [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         | 6 months ago | 01/23/2025 |  03/30/2025 |
-| [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             | 6 months ago | 10/05/2024 |  03/18/2025 |
-| [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 | 7 months ago | 04/06/2024 |  02/15/2025 |
-| [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         | 8 months ago | 01/22/2025 |  01/23/2025 |
-| [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             | 9 months ago | 01/01/2025 |  01/01/2025 |
+|                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
+| :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               |  4 months ago | 01/19/2025 |  05/15/2025 |
+| [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         |  6 months ago | 01/23/2025 |  03/30/2025 |
+| [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |  6 months ago | 10/05/2024 |  03/18/2025 |
+| [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |  7 months ago | 04/06/2024 |  02/15/2025 |
+| [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |  8 months ago | 01/22/2025 |  01/23/2025 |
+| [40571](https://myanimelist.net/anime/40571) |     tv     |  2020  |   7   |                                              Majo no Tabitabi                                             |  9 months ago | 01/01/2025 |  01/01/2025 |
 
 
 *[466 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
@@ -35,7 +35,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [60489](https://myanimelist.net/anime/60489) |   ona   |  2025  |   8   |                                               Takopii no Genzai                                               |   1/6   |   3 days ago  | 07/03/2025 |
+| [60489](https://myanimelist.net/anime/60489) |   ona   |  2025  |   8   |                                               Takopii no Genzai                                               |   1/6   |   4 days ago  | 07/03/2025 |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |  2025  |   -   |                                        Enen no Shouboutai: San no Shou                                        |   3/12  |  2 months ago | 04/08/2025 |
 | [34561](https://myanimelist.net/anime/34561) |    tv   |  2017  |   -   |                                                  Re:Creators                                                  |   7/22  |  2 months ago | 03/31/2025 |
 | [59135](https://myanimelist.net/anime/59135) |    tv   |  2025  |   6   |                            Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.                           |   7/12  |  2 months ago | 02/23/2025 |
@@ -63,12 +63,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [62542](https://myanimelist.net/anime/62542) |     tv     |    -   |     manga    |                                                 Grand Blue Season 3                                                 |  19 hours ago |        -        |
-| [62546](https://myanimelist.net/anime/62546) |    movie   |    -   |     manga    |                                        Kimetsu no Yaiba Movie 2: Mugenjou-hen                                       |  19 hours ago |        -        |
-| [56877](https://myanimelist.net/anime/56877) |     tv     |  2025  |   web_manga  |                                               Ao no Orchestra Season 2                                              |   6 days ago  |        -        |
-| [61026](https://myanimelist.net/anime/61026) |     tv     |  2025  |  light_novel |                     Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga                    |   6 days ago  |        -        |
-| [60781](https://myanimelist.net/anime/60781) |     tv     |  2025  |   web_manga  |                                            Alma-chan wa Kazoku ni Naritai                                           |   6 days ago  |        -        |
-| [62516](https://myanimelist.net/anime/62516) |     tv     |    -   |     manga    |                                                 Dandadan 3rd Season                                                 |   6 days ago  |        -        |
+| [62542](https://myanimelist.net/anime/62542) |     tv     |    -   |     manga    |                                                 Grand Blue Season 3                                                 |   Yesterday   |        -        |
+| [62546](https://myanimelist.net/anime/62546) |    movie   |    -   |     manga    |                                        Kimetsu no Yaiba Movie 2: Mugenjou-hen                                       |   Yesterday   |        -        |
+| [56877](https://myanimelist.net/anime/56877) |     tv     |  2025  |   web_manga  |                                               Ao no Orchestra Season 2                                              |   Last week   |        -        |
+| [61026](https://myanimelist.net/anime/61026) |     tv     |  2025  |  light_novel |                     Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga                    |   Last week   |        -        |
+| [60781](https://myanimelist.net/anime/60781) |     tv     |  2025  |   web_manga  |                                            Alma-chan wa Kazoku ni Naritai                                           |   Last week   |        -        |
+| [62516](https://myanimelist.net/anime/62516) |     tv     |    -   |     manga    |                                                 Dandadan 3rd Season                                                 |   Last week   |        -        |
 
 
 *[328 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
