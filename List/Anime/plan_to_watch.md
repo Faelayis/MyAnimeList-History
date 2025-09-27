@@ -2,8 +2,8 @@
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [62542](https://myanimelist.net/anime/62542) |     tv     |    -   |     manga    |                                                 Grand Blue Season 3                                                 |   Yesterday   |        -        |
-| [62546](https://myanimelist.net/anime/62546) |    movie   |    -   |     manga    |                                        Kimetsu no Yaiba Movie 2: Mugenjou-hen                                       |   Yesterday   |        -        |
+| [62542](https://myanimelist.net/anime/62542) |     tv     |    -   |     manga    |                                                 Grand Blue Season 3                                                 |   2 days ago  |        -        |
+| [62546](https://myanimelist.net/anime/62546) |    movie   |    -   |     manga    |                                        Kimetsu no Yaiba Movie 2: Mugenjou-hen                                       |   2 days ago  |        -        |
 | [56877](https://myanimelist.net/anime/56877) |     tv     |  2025  |   web_manga  |                                               Ao no Orchestra Season 2                                              |   Last week   |        -        |
 | [61026](https://myanimelist.net/anime/61026) |     tv     |  2025  |  light_novel |                     Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga                    |   Last week   |        -        |
 | [60781](https://myanimelist.net/anime/60781) |     tv     |  2025  |   web_manga  |                                            Alma-chan wa Kazoku ni Naritai                                           |   Last week   |        -        |
