@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [59192](https://myanimelist.net/anime/59192) |  movie  |  2025  |   10  |                             Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai                             |   1/1   |   3 days ago  | 08/12/2025 |
+| [59192](https://myanimelist.net/anime/59192) |  movie  |  2025  |   10  |                             Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai                             |   1/1   |   4 days ago  | 08/12/2025 |
 | [60489](https://myanimelist.net/anime/60489) |   ona   |  2025  |   8   |                                               Takopii no Genzai                                               |   1/6   |   Last week   | 07/03/2025 |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |  2025  |   -   |                                        Enen no Shouboutai: San no Shou                                        |   3/12  |  3 months ago | 04/08/2025 |
 | [34561](https://myanimelist.net/anime/34561) |    tv   |  2017  |   -   |                                                  Re:Creators                                                  |   7/22  |  3 months ago | 03/31/2025 |
@@ -54,7 +54,7 @@
 | [50710](https://myanimelist.net/anime/50710) |    tv   |  2022  |   6   |                                             Urusei Yatsura (2022)                                             |   9/23  |  2 years ago  | 10/14/2022 |
 |  [5114](https://myanimelist.net/anime/5114)  |    tv   |  2009  |   -   |                                        Fullmetal Alchemist: Brotherhood                                       |  47/64  |  3 years ago  | 10/07/2022 |
 | [52046](https://myanimelist.net/anime/52046) |    tv   |  2022  |   -   |               Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau               |   2/13  |   Last year   | 10/05/2022 |
-| [49891](https://myanimelist.net/anime/49891) |    tv   |  2022  |   -   |                                           Tensei shitara Ken deshita                                          |   3/12  |  2 years ago  | 09/30/2022 |
+| [49891](https://myanimelist.net/anime/49891) |    tv   |  2022  |   -   |                                           Tensei shitara Ken deshita                                          |   3/12  |  3 years ago  | 09/30/2022 |
 | [48413](https://myanimelist.net/anime/48413) |    tv   |  2022  |   -   |                                              Hataraku Maou-sama!!                                             |   7/12  |  2 years ago  | 07/15/2022 |
 | [42994](https://myanimelist.net/anime/42994) |    tv   |  2022  |   -   |                                             Jashin-chan Dropkick X                                            |   8/12  |  3 years ago  | 07/15/2022 |
 | [49220](https://myanimelist.net/anime/49220) |    tv   |  2022  |   -   |                                                 Isekai Ojisan                                                 |   4/13  |  3 years ago  | 07/08/2022 |
