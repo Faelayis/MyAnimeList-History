@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [59192](https://myanimelist.net/anime/59192) |  movie  |  2025  |   10  |                             Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai                             |   1/1   |   4 days ago  | 08/12/2025 |
+| [59192](https://myanimelist.net/anime/59192) |  movie  |  2025  |   10  |                             Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai                             |   1/1   |   5 days ago  | 08/12/2025 |
 | [60489](https://myanimelist.net/anime/60489) |   ona   |  2025  |   8   |                                               Takopii no Genzai                                               |   1/6   |   Last week   | 07/03/2025 |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |  2025  |   -   |                                        Enen no Shouboutai: San no Shou                                        |   3/12  |  3 months ago | 04/08/2025 |
 | [34561](https://myanimelist.net/anime/34561) |    tv   |  2017  |   -   |                                                  Re:Creators                                                  |   7/22  |  3 months ago | 03/31/2025 |
@@ -98,7 +98,7 @@
 |  [1642](https://myanimelist.net/anime/1642)  |    tv   |  2005  |   -   |                                                Sugar Sugar Rune                                               |   5/51  |  3 years ago  | 05/10/2021 |
 | [41025](https://myanimelist.net/anime/41025) |    tv   |  2021  |   7   |                                               Fumetsu no Anata e                                              |  16/20  |  3 years ago  | 04/28/2021 |
 | [46095](https://myanimelist.net/anime/46095) |    tv   |  2021  |   -   |                                           Vivy: Fluorite Eye's Song                                           |   4/13  |  4 years ago  | 04/28/2021 |
-|  [2787](https://myanimelist.net/anime/2787)  |    tv   |  2007  |   -   |                                         Shakugan no Shana II (Second)                                         |   1/24  |  4 years ago  | 02/19/2021 |
+|  [2787](https://myanimelist.net/anime/2787)  |    tv   |  2007  |   -   |                                         Shakugan no Shana II (Second)                                         |   1/24  |  5 years ago  | 02/19/2021 |
 | [42203](https://myanimelist.net/anime/42203) |    tv   |  2021  |   -   |                            Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2                            |   3/12  |  5 years ago  | 01/07/2021 |
 | [39463](https://myanimelist.net/anime/39463) |    tv   |  2020  |   -   |                                                    Gleipnir                                                   |   8/13  |  4 years ago  | 12/16/2020 |
 | [24405](https://myanimelist.net/anime/24405) |    tv   |  2014  |   -   |                                                 World Trigger                                                 |  11/73  |  5 years ago  | 12/01/2020 |
