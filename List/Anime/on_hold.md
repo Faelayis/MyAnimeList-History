@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [59192](https://myanimelist.net/anime/59192) |  movie  |  2025  |   10  |                             Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai                             |   1/1   |   5 days ago  | 08/12/2025 |
+| [59192](https://myanimelist.net/anime/59192) |  movie  |  2025  |   10  |                             Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai                             |   1/1   |   6 days ago  | 08/12/2025 |
 | [60489](https://myanimelist.net/anime/60489) |   ona   |  2025  |   8   |                                               Takopii no Genzai                                               |   1/6   |   Last week   | 07/03/2025 |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |  2025  |   -   |                                        Enen no Shouboutai: San no Shou                                        |   3/12  |  3 months ago | 04/08/2025 |
 | [34561](https://myanimelist.net/anime/34561) |    tv   |  2017  |   -   |                                                  Re:Creators                                                  |   7/22  |  3 months ago | 03/31/2025 |
@@ -10,7 +10,7 @@
 | [57611](https://myanimelist.net/anime/57611) |    tv   |  2024  |   -   |                                              Kimi wa Meido-sama.                                              |   3/12  | 10 months ago | 10/20/2024 |
 | [49981](https://myanimelist.net/anime/49981) |    tv   |  2024  |   -   |                   Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II                  |   2/12  | 10 months ago | 07/20/2024 |
 | [55129](https://myanimelist.net/anime/55129) |    tv   |  2024  |   -   |                                       Oroka na Tenshi wa Akuma to Odoru                                       |   1/12  |   Last year   | 05/23/2024 |
-| [54789](https://myanimelist.net/anime/54789) |    tv   |  2024  |   9   |                                        Boku no Hero Academia 7th Season                                       |  13/21  |  2 weeks ago  | 05/07/2024 |
+| [54789](https://myanimelist.net/anime/54789) |    tv   |  2024  |   9   |                                        Boku no Hero Academia 7th Season                                       |  13/21  |  3 weeks ago  | 05/07/2024 |
 | [54900](https://myanimelist.net/anime/54900) |    tv   |  2024  |   9   |                                                  Wind Breaker                                                 |   9/13  |   Last year   | 04/14/2024 |
 | [49458](https://myanimelist.net/anime/49458) |    tv   |  2024  |   -   |                                    Kono Subarashii Sekai ni Shukufuku wo! 3                                   |   2/11  |   Last year   | 04/11/2024 |
 | [54309](https://myanimelist.net/anime/54309) |    tv   |  2024  |   -   |                                           Blue Archive the Animation                                          |   1/12  |   Last year   | 04/08/2024 |
