@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [60285](https://myanimelist.net/anime/60285) |     tv     |  2025  |   8   |                                            Sakamoto Days Part 2                                           |   6 days ago  | 07/22/2025 |  09/28/2025 |
+| [60285](https://myanimelist.net/anime/60285) |     tv     |  2025  |   8   |                                            Sakamoto Days Part 2                                           |   Last week   | 07/22/2025 |  09/28/2025 |
 | [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               |  5 months ago | 01/19/2025 |  05/15/2025 |
 | [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         |  6 months ago | 01/23/2025 |  03/30/2025 |
 | [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |  7 months ago | 10/05/2024 |  03/18/2025 |
@@ -189,7 +189,7 @@
 | [39783](https://myanimelist.net/anime/39783) |     tv     |  2021  |   7   |                                           5-toubun no Hanayome ∬                                          |  3 years ago  | 01/08/2021 |  02/08/2022 |
 | [35507](https://myanimelist.net/anime/35507) |     tv     |  2017  |   8   |                              Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e                              |  3 years ago  | 02/01/2022 |  02/02/2022 |
 | [32949](https://myanimelist.net/anime/32949) |     tv     |  2017  |   5   |                                               Kuzu no Honkai                                              |  3 years ago  | 05/31/2021 |  02/02/2022 |
-| [13055](https://myanimelist.net/anime/13055) |     ova    |  2012  |   6   |                                                Sankarea OVA                                               |  3 years ago  | 01/30/2022 |  01/30/2022 |
+| [13055](https://myanimelist.net/anime/13055) |     ova    |  2012  |   6   |                                                Sankarea OVA                                               |  4 years ago  | 01/30/2022 |  01/30/2022 |
 | [14749](https://myanimelist.net/anime/14749) |     tv     |  2013  |   9   |                               Ore no Kanojo to Osananajimi ga Shuraba Sugiru                              |  4 years ago  | 01/29/2022 |  01/29/2022 |
 | [40028](https://myanimelist.net/anime/40028) |     tv     |  2021  |   6   |                                    Shingeki no Kyojin: The Final Season                                   |  4 years ago  | 01/28/2022 |  01/28/2022 |
 | [38524](https://myanimelist.net/anime/38524) |     tv     |  2019  |   8   |                                     Shingeki no Kyojin Season 3 Part 2                                    |  4 years ago  | 01/27/2022 |  01/28/2022 |
