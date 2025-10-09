@@ -2,7 +2,7 @@
 
 |                      id                      | Type | Season | Score |                     Title                     | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------: | :-----: | :----------: | :--------: |
-| [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                   Gachiakuta                  |  12/24  |  3 days ago  | 07/07/2025 |
+| [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                   Gachiakuta                  |  12/24  |  4 days ago  | 07/07/2025 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                   One Piece                   |  1145/? |   Last week  | 01/01/2013 |
 | [58390](https://myanimelist.net/anime/58390) |  tv  |  2025  |   -   |           Yofukashi no Uta Season 2           |   1/12  |   Last week  | 07/07/2025 |
 | [57181](https://myanimelist.net/anime/57181) |  tv  |  2024  |   -   |                   Ao no Hako                  |  18/25  |  3 weeks ago | 09/12/2025 |
