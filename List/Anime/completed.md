@@ -2,9 +2,9 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [60285](https://myanimelist.net/anime/60285) |     tv     |  2025  |   8   |                                            Sakamoto Days Part 2                                           |   Last week   | 07/22/2025 |  09/28/2025 |
+| [60285](https://myanimelist.net/anime/60285) |     tv     |  2025  |   8   |                                            Sakamoto Days Part 2                                           |  2 weeks ago  | 07/22/2025 |  09/28/2025 |
 | [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               |  5 months ago | 01/19/2025 |  05/15/2025 |
-| [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         |  6 months ago | 01/23/2025 |  03/30/2025 |
+| [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         |  7 months ago | 01/23/2025 |  03/30/2025 |
 | [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |  7 months ago | 10/05/2024 |  03/18/2025 |
 | [53580](https://myanimelist.net/anime/53580) |     tv     |  2024  |   8   |                                 Tensei shitara Slime Datta Ken 3rd Season                                 |  8 months ago | 04/06/2024 |  02/15/2025 |
 | [52299](https://myanimelist.net/anime/52299) |     tv     |  2024  |   8   |                                          Ore dake Level Up na Ken                                         |  9 months ago | 01/22/2025 |  01/23/2025 |
@@ -336,7 +336,7 @@
 | [37711](https://myanimelist.net/anime/37711) |     ova    |  2018  |   6   |                                  Koi to Uso: Isshou no Koi/Koi no Kimochi                                 |  3 years ago  | 02/01/2021 |  02/01/2021 |
 | [34934](https://myanimelist.net/anime/34934) |     tv     |  2017  |   6   |                                                 Koi to Uso                                                |  5 years ago  | 01/25/2021 |  02/01/2021 |
 | [37982](https://myanimelist.net/anime/37982) |     tv     |  2019  |   7   |                                             Domestic na Kanojo                                            |  4 years ago  | 01/25/2021 |  01/25/2021 |
-| [34498](https://myanimelist.net/anime/34498) |    movie   |  2017  |   10  |                           Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?                          |  4 years ago  | 01/19/2021 |  01/19/2021 |
+| [34498](https://myanimelist.net/anime/34498) |    movie   |  2017  |   10  |                           Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?                          |  5 years ago  | 01/19/2021 |  01/19/2021 |
 | [39195](https://myanimelist.net/anime/39195) |     tv     |  2019  |   7   |                                                  Beastars                                                 |  4 years ago  | 01/14/2021 |  01/15/2021 |
 | [28677](https://myanimelist.net/anime/28677) |     tv     |  2015  |   10  |                                        Yamada-kun to 7-nin no Majo                                        |  5 years ago  | 12/19/2020 |  12/30/2020 |
 | [40595](https://myanimelist.net/anime/40595) |     tv     |  2020  |   10  |                      Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen                     |  5 years ago  | 10/08/2020 |  12/24/2020 |
