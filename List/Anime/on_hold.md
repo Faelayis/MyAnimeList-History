@@ -1,9 +1,10 @@
-# On Hold (107)
+# On Hold (108)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [59192](https://myanimelist.net/anime/59192) |  movie  |  2025  |   10  |                             Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai                             |   1/1   |  2 weeks ago  | 08/12/2025 |
-| [60489](https://myanimelist.net/anime/60489) |   ona   |  2025  |   8   |                                               Takopii no Genzai                                               |   1/6   |  3 weeks ago  | 07/03/2025 |
+| [57181](https://myanimelist.net/anime/57181) |    tv   |  2024  |   -   |                                                   Ao no Hako                                                  |  18/25  |  9 hours ago  | 09/12/2025 |
+| [59192](https://myanimelist.net/anime/59192) |  movie  |  2025  |   10  |                             Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai                             |   1/1   |  3 weeks ago  | 08/12/2025 |
+| [60489](https://myanimelist.net/anime/60489) |   ona   |  2025  |   8   |                                               Takopii no Genzai                                               |   1/6   |   Last month  | 07/03/2025 |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |  2025  |   -   |                                        Enen no Shouboutai: San no Shou                                        |   3/12  |  3 months ago | 04/08/2025 |
 | [34561](https://myanimelist.net/anime/34561) |    tv   |  2017  |   -   |                                                  Re:Creators                                                  |   7/22  |  3 months ago | 03/31/2025 |
 | [59135](https://myanimelist.net/anime/59135) |    tv   |  2025  |   6   |                            Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.                           |   7/12  |  3 months ago | 02/23/2025 |
@@ -22,7 +23,7 @@
 | [53488](https://myanimelist.net/anime/53488) |    tv   |  2024  |   -   | Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd |   1/12  |   Last year   | 01/07/2024 |
 | [50803](https://myanimelist.net/anime/50803) |    tv   |  2024  |   -   |                                       Jaku-Chara Tomozaki-kun 2nd Stage                                       |   2/13  |   Last year   | 01/03/2024 |
 | [52347](https://myanimelist.net/anime/52347) |    tv   |  2023  |   -   |                           Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su                          |  13/25  |   Last year   | 12/30/2023 |
-| [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                         |   1/12  |   Last year   | 12/16/2023 |
+| [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                         |   1/12  |  2 years ago  | 12/16/2023 |
 | [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |   -   |                            Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                           |   7/12  |   Last year   | 12/06/2023 |
 | [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                  |   3/12  |  2 years ago  | 10/08/2023 |
 | [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                          Seiken Gakuin no Makentsukai                                         |   1/12  |  2 years ago  | 10/05/2023 |
@@ -43,7 +44,7 @@
 |  [8676](https://myanimelist.net/anime/8676)  |    tv   |  2010  |   -   |                                                   Amagami SS                                                  |   7/25  |  2 years ago  | 03/23/2023 |
 | [50197](https://myanimelist.net/anime/50197) |    tv   |  2023  |   -   |                                      Ijiranaide, Nagatoro-san 2nd Attack                                      |   2/12  |  2 years ago  | 03/20/2023 |
 | [48553](https://myanimelist.net/anime/48553) |    tv   |  2022  |   -   |                                           Akebi-chan no Sailor-fuku                                           |   3/12  |  2 years ago  | 03/13/2023 |
-| [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |   -   |                                              Mahoutsukai no Yome                                              |   6/24  |   Last year   | 03/01/2023 |
+| [35062](https://myanimelist.net/anime/35062) |    tv   |  2017  |   -   |                                              Mahoutsukai no Yome                                              |   6/24  |  2 years ago  | 03/01/2023 |
 | [32828](https://myanimelist.net/anime/32828) |    tv   |  2016  |   -   |                                               Amaama to Inazuma                                               |   3/12  |  2 years ago  | 01/12/2023 |
 | [41514](https://myanimelist.net/anime/41514) |    tv   |  2023  |   6   |                      Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                     |  10/12  |  2 years ago  | 01/12/2023 |
 | [51815](https://myanimelist.net/anime/51815) |    tv   |  2023  |   -   |                                          Kubo-san wa Mob wo Yurusanai                                         |   7/12  |  2 years ago  | 01/11/2023 |
@@ -86,7 +87,7 @@
 | [35241](https://myanimelist.net/anime/35241) |    tv   |  2017  |   -   |                                                 Konohana Kitan                                                |   4/12  |  4 years ago  | 09/22/2021 |
 | [42544](https://myanimelist.net/anime/42544) |    tv   |  2021  |   -   |                                                  Kaizoku Oujo                                                 |   7/12  |  4 years ago  | 08/30/2021 |
 | [11061](https://myanimelist.net/anime/11061) |    tv   |  2011  |   -   |                                             Hunter x Hunter (2011)                                            |  83/148 |  2 years ago  | 08/24/2021 |
-|  [9756](https://myanimelist.net/anime/9756)  |    tv   |  2011  |   -   |                                           Mahou Shoujo Madoka★Magica                                          |   2/12  |   Last year   | 08/19/2021 |
+|  [9756](https://myanimelist.net/anime/9756)  |    tv   |  2011  |   -   |                                           Mahou Shoujo Madoka★Magica                                          |   2/12  |  2 years ago  | 08/19/2021 |
 | [40935](https://myanimelist.net/anime/40935) |    tv   |  2021  |   -   |                                              Beastars 2nd Season                                              |   8/12  |  4 years ago  | 07/20/2021 |
 | [43969](https://myanimelist.net/anime/43969) |    tv   |  2021  |   -   |                                                Kanojo mo Kanojo                                               |   3/12  |  4 years ago  | 07/05/2021 |
 | [40904](https://myanimelist.net/anime/40904) |    tv   |  2021  |   -   |                                              Bokutachi no Remake                                              |   2/12  |  4 years ago  | 07/04/2021 |

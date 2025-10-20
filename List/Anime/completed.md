@@ -1,8 +1,9 @@
-# Completed (473)
+# Completed (474)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [60285](https://myanimelist.net/anime/60285) |     tv     |  2025  |   8   |                                            Sakamoto Days Part 2                                           |  2 weeks ago  | 07/22/2025 |  09/28/2025 |
+| [35249](https://myanimelist.net/anime/35249) |     tv     |  2018  |   9   |                                          Uma Musume: Pretty Derby                                         |  3 hours ago  | 10/19/2025 |  10/20/2025 |
+| [60285](https://myanimelist.net/anime/60285) |     tv     |  2025  |   8   |                                            Sakamoto Days Part 2                                           |  3 weeks ago  | 07/22/2025 |  09/28/2025 |
 | [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               |  5 months ago | 01/19/2025 |  05/15/2025 |
 | [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         |  7 months ago | 01/23/2025 |  03/30/2025 |
 | [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |  7 months ago | 10/05/2024 |  03/18/2025 |
@@ -26,7 +27,7 @@
 | [54362](https://myanimelist.net/anime/54362) |     tv     |  2023  |   6   |                                             Hametsu no Oukoku                                             |   Last year   | 10/16/2023 |  12/24/2023 |
 | [55644](https://myanimelist.net/anime/55644) |     tv     |  2023  |   7   |                                        Dr. Stone: New World Part 2                                        |   Last year   | 10/13/2023 |  12/23/2023 |
 | [54595](https://myanimelist.net/anime/54595) |     tv     |  2023  |   7   |                              Kage no Jitsuryokusha ni Naritakute! 2nd Season                              |   Last year   | 10/04/2023 |  12/23/2023 |
-| [27525](https://myanimelist.net/anime/27525) |     tv     |  2015  |   7   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |   Last year   | 06/11/2023 |  12/17/2023 |
+| [27525](https://myanimelist.net/anime/27525) |     tv     |  2015  |   7   |                                 Fate/kaleid liner Prisma☆Illya 2wei Herz!                                 |  2 years ago  | 06/11/2023 |  12/17/2023 |
 | [56805](https://myanimelist.net/anime/56805) |    music   |  2023  |   10  |                                                   Yuusha                                                  |   Last year   | 12/15/2023 |  12/15/2023 |
 | [48583](https://myanimelist.net/anime/48583) |     tv     |  2022  |   5   |                                Shingeki no Kyojin: The Final Season Part 2                                |  2 years ago  | 01/28/2022 |  11/08/2023 |
 | [37475](https://myanimelist.net/anime/37475) |     tv     |  2018  |   9   |                                          Kishuku Gakkou no Juliet                                         |  2 years ago  | 10/29/2023 |  10/29/2023 |
@@ -181,10 +182,10 @@
 | [39565](https://myanimelist.net/anime/39565) |    movie   |  2019  |   7   |                              Boku no Hero Academia the Movie 2: Heroes:Rising                             |  3 years ago  | 02/26/2022 |  02/26/2022 |
 |  [5630](https://myanimelist.net/anime/5630)  |     tv     |  2009  |   7   |                                              Higashi no Eden                                              |  3 years ago  | 02/21/2022 |  02/23/2022 |
 | [35968](https://myanimelist.net/anime/35968) |     tv     |  2018  |   8   |                                        Wotaku ni Koi wa Muzukashii                                        |  3 years ago  | 02/16/2022 |  02/18/2022 |
-| [36793](https://myanimelist.net/anime/36793) |     tv     |  2018  |   9   |                                            3D Kanojo: Real Girl                                           |  3 years ago  | 02/14/2022 |  02/14/2022 |
+| [36793](https://myanimelist.net/anime/36793) |     tv     |  2018  |   9   |                                            3D Kanojo: Real Girl                                           |  4 years ago  | 02/14/2022 |  02/14/2022 |
 | [37956](https://myanimelist.net/anime/37956) |     tv     |  2019  |   10  |                                      3D Kanojo: Real Girl 2nd Season                                      |  3 years ago  | 02/14/2022 |  02/14/2022 |
 | [47778](https://myanimelist.net/anime/47778) |     tv     |  2022  |   9   |                                       Kimetsu no Yaiba: Yuukaku-hen                                       |  3 years ago  | 12/06/2021 |  02/14/2022 |
-| [39292](https://myanimelist.net/anime/39292) |     tv     |  2020  |   8   |                                         Princess Connect! Re:Dive                                         |  3 years ago  | 02/06/2022 |  02/12/2022 |
+| [39292](https://myanimelist.net/anime/39292) |     tv     |  2020  |   8   |                                         Princess Connect! Re:Dive                                         |  4 years ago  | 02/06/2022 |  02/12/2022 |
 | [41103](https://myanimelist.net/anime/41103) |     tv     |  2021  |   8   |                                      Koi to Yobu ni wa Kimochi Warui                                      |  4 years ago  | 02/07/2022 |  02/08/2022 |
 | [39783](https://myanimelist.net/anime/39783) |     tv     |  2021  |   7   |                                           5-toubun no Hanayome ∬                                          |  4 years ago  | 01/08/2021 |  02/08/2022 |
 | [35507](https://myanimelist.net/anime/35507) |     tv     |  2017  |   8   |                              Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e                              |  4 years ago  | 02/01/2022 |  02/02/2022 |
