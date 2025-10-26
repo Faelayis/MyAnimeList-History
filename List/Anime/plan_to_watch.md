@@ -1,7 +1,9 @@
-# Plan to Watch (337)
+# Plan to Watch (338)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [62811](https://myanimelist.net/anime/62811) |     tv     |    -   |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season                         |  11 hours ago |        -        |
+| [62844](https://myanimelist.net/anime/62844) |    movie   |  2026  |  light_novel |                                             Kusuriya no Hitorigoto Movie                                            |  11 hours ago |        -        |
 | [62584](https://myanimelist.net/anime/62584) |     tv     |    -   |   web_manga  |                                          Hikaru ga Shinda Natsu 2nd Season                                          |  3 weeks ago  |        -        |
 | [62589](https://myanimelist.net/anime/62589) |     tv     |    -   |     manga    |                                               Blue Lock (Shin Series)                                               |  3 weeks ago  |        -        |
 | [62542](https://myanimelist.net/anime/62542) |     tv     |    -   |     manga    |                                                 Grand Blue Season 3                                                 |   Last month  |        -        |
@@ -23,7 +25,6 @@
 | [59986](https://myanimelist.net/anime/59986) |     tv     |  2025  |     manga    |                                                 Grand Blue Season 2                                                 |  3 months ago |        -        |
 | [61322](https://myanimelist.net/anime/61322) |     tv     |  2025  |     manga    |                                           Dr. Stone: Science Future Part 2                                          |  3 months ago |        -        |
 | [61903](https://myanimelist.net/anime/61903) | tv_special |    -   |     manga    |                                    Kaguya-sama wa Kokurasetai: Otona e no Kaidan                                    |  4 months ago |        -        |
-| [61851](https://myanimelist.net/anime/61851) |     tv     |  2025  |   original   |                                                   Isekai Quartet 3                                                  |  4 months ago |        -        |
 |   [513](https://myanimelist.net/anime/513)   |    movie   |  1986  |   original   |                                                Tenkuu no Shiro Laputa                                               |  8 months ago |        -        |
 | [57907](https://myanimelist.net/anime/57907) |     tv     |  2025  |  light_novel |                                         Tate no Yuusha no Nariagari Season 4                                        |  8 months ago |        -        |
 | [58484](https://myanimelist.net/anime/58484) |     tv     |  2025  |  light_novel |                                                  Ishura 2nd Season                                                  |  8 months ago |        -        |
@@ -38,7 +39,7 @@
 | [59419](https://myanimelist.net/anime/59419) |    movie   |  2025  |     game     |                                 Project Sekai Movie: Kowareta Sekai to Utaenai Miku                                 | 10 months ago |        -        |
 | [55830](https://myanimelist.net/anime/55830) |     tv     |  2026  |  light_novel |                                                  Fate/strange Fake                                                  | 10 months ago |        -        |
 | [59226](https://myanimelist.net/anime/59226) |     tv     |  2025  |     manga    |                                              Ao no Exorcist: Yosuga-hen                                             | 10 months ago |        -        |
-| [60548](https://myanimelist.net/anime/60548) |     tv     |    -   |     manga    |                                              Skip to Loafer 2nd Season                                              | 10 months ago |        -        |
+| [60548](https://myanimelist.net/anime/60548) |     tv     |    -   |     manga    |                                              Skip to Loafer 2nd Season                                              | 11 months ago |        -        |
 | [60543](https://myanimelist.net/anime/60543) |     tv     |  2025  |     manga    |                                                 Dandadan 2nd Season                                                 | 11 months ago |        -        |
 |  [7647](https://myanimelist.net/anime/7647)  |     tv     |  2010  |     manga    |                                               Arakawa Under the Bridge                                              | 11 months ago |        -        |
 | [58511](https://myanimelist.net/anime/58511) |     tv     |  2024  |     manga    |                                Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season                                |   10/29/2024  |        -        |

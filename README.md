@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                     Title                     | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------: | :-----: | :----------: | :--------: |
-| [42941](https://myanimelist.net/anime/42941) |  tv  |  2021  |   -   |       Uma Musume: Pretty Derby Season 2       |   7/13  |  2 days ago  | 10/20/2025 |
-| [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                   Gachiakuta                  |  12/24  |  2 weeks ago | 07/07/2025 |
+| [42941](https://myanimelist.net/anime/42941) |  tv  |  2021  |   -   |       Uma Musume: Pretty Derby Season 2       |   7/13  |  3 days ago  | 10/20/2025 |
+| [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                   Gachiakuta                  |  12/24  |  3 weeks ago | 07/07/2025 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                   One Piece                   |  1145/? |  3 weeks ago | 01/01/2013 |
 | [58390](https://myanimelist.net/anime/58390) |  tv  |  2025  |   -   |           Yofukashi no Uta Season 2           |   1/12  |  3 weeks ago | 07/07/2025 |
 | [59459](https://myanimelist.net/anime/59459) |  tv  |  2025  |   9   | Silent Witch: Chinmoku no Majo no Kakushigoto |   5/13  | 2 months ago | 07/07/2025 |
@@ -15,12 +15,12 @@ List Sync From MyAnimeList (update every day)
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``102.32%``
+#### Completed ``102.53%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [35249](https://myanimelist.net/anime/35249) |     tv     |  2018  |   9   |                                          Uma Musume: Pretty Derby                                         |   5 days ago  | 10/19/2025 |  10/20/2025 |
-| [60285](https://myanimelist.net/anime/60285) |     tv     |  2025  |   8   |                                            Sakamoto Days Part 2                                           |  3 weeks ago  | 07/22/2025 |  09/28/2025 |
+| [35249](https://myanimelist.net/anime/35249) |     tv     |  2018  |   9   |                                          Uma Musume: Pretty Derby                                         |   6 days ago  | 10/19/2025 |  10/20/2025 |
+| [60285](https://myanimelist.net/anime/60285) |     tv     |  2025  |   8   |                                            Sakamoto Days Part 2                                           |   Last month  | 07/22/2025 |  09/28/2025 |
 | [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               |  5 months ago | 01/19/2025 |  05/15/2025 |
 | [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         |  7 months ago | 01/23/2025 |  03/30/2025 |
 | [57066](https://myanimelist.net/anime/57066) |     tv     |  2024  |   10  |              Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen             |  7 months ago | 10/05/2024 |  03/18/2025 |
@@ -29,12 +29,12 @@ List Sync From MyAnimeList (update every day)
 
 *[468 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``12.69%``
+#### On Hold ``12.68%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [57181](https://myanimelist.net/anime/57181) |    tv   |  2024  |   -   |                                                   Ao no Hako                                                  |  18/25  |   5 days ago  | 09/12/2025 |
-| [59192](https://myanimelist.net/anime/59192) |  movie  |  2025  |   10  |                             Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai                             |   1/1   |  3 weeks ago  | 08/12/2025 |
+| [57181](https://myanimelist.net/anime/57181) |    tv   |  2024  |   -   |                                                   Ao no Hako                                                  |  18/25  |   6 days ago  | 09/12/2025 |
+| [59192](https://myanimelist.net/anime/59192) |  movie  |  2025  |   10  |                             Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai                             |   1/1   |   Last month  | 08/12/2025 |
 | [60489](https://myanimelist.net/anime/60489) |   ona   |  2025  |   8   |                                               Takopii no Genzai                                               |   1/6   |   Last month  | 07/03/2025 |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |  2025  |   -   |                                        Enen no Shouboutai: San no Shou                                        |   3/12  |  3 months ago | 04/08/2025 |
 | [34561](https://myanimelist.net/anime/34561) |    tv   |  2017  |   -   |                                                  Re:Creators                                                  |   7/22  |  3 months ago | 03/31/2025 |
@@ -43,7 +43,7 @@ List Sync From MyAnimeList (update every day)
 
 *[102 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``3.68%``
+#### Dropped ``3.67%``
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :---------: | :--------: |
@@ -57,16 +57,16 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``54.18%``
+#### Plan to Watch ``54.34%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [62811](https://myanimelist.net/anime/62811) |     tv     |    -   |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season                         |  11 hours ago |        -        |
+| [62844](https://myanimelist.net/anime/62844) |    movie   |  2026  |  light_novel |                                             Kusuriya no Hitorigoto Movie                                            |  11 hours ago |        -        |
 | [62584](https://myanimelist.net/anime/62584) |     tv     |    -   |   web_manga  |                                          Hikaru ga Shinda Natsu 2nd Season                                          |  3 weeks ago  |        -        |
 | [62589](https://myanimelist.net/anime/62589) |     tv     |    -   |     manga    |                                               Blue Lock (Shin Series)                                               |  3 weeks ago  |        -        |
 | [62542](https://myanimelist.net/anime/62542) |     tv     |    -   |     manga    |                                                 Grand Blue Season 3                                                 |   Last month  |        -        |
 | [62546](https://myanimelist.net/anime/62546) |    movie   |    -   |     manga    |                                        Kimetsu no Yaiba Movie 2: Mugenjou-hen                                       |   Last month  |        -        |
-| [56877](https://myanimelist.net/anime/56877) |     tv     |  2025  |   web_manga  |                                               Ao no Orchestra Season 2                                              |   Last month  |        -        |
-| [61026](https://myanimelist.net/anime/61026) |     tv     |  2025  |  light_novel |                     Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga                    |   Last month  |        -        |
 
 
-*[330 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[331 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
