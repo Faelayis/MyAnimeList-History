@@ -6,12 +6,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                     Title                     | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------: | :-----: | :----------: | :--------: |
-| [42941](https://myanimelist.net/anime/42941) |  tv  |  2021  |   -   |       Uma Musume: Pretty Derby Season 2       |   7/13  |  4 days ago  | 10/20/2025 |
+| [42941](https://myanimelist.net/anime/42941) |  tv  |  2021  |   -   |       Uma Musume: Pretty Derby Season 2       |   7/13  |  5 days ago  | 10/20/2025 |
 | [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                   Gachiakuta                  |  12/24  |  3 weeks ago | 07/07/2025 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                   One Piece                   |  1145/? |  3 weeks ago | 01/01/2013 |
-| [58390](https://myanimelist.net/anime/58390) |  tv  |  2025  |   -   |           Yofukashi no Uta Season 2           |   1/12  |  3 weeks ago | 07/07/2025 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                   One Piece                   |  1145/? |  Last month  | 01/01/2013 |
+| [58390](https://myanimelist.net/anime/58390) |  tv  |  2025  |   -   |           Yofukashi no Uta Season 2           |   1/12  |  Last month  | 07/07/2025 |
 | [59459](https://myanimelist.net/anime/59459) |  tv  |  2025  |   9   | Silent Witch: Chinmoku no Majo no Kakushigoto |   5/13  | 2 months ago | 07/07/2025 |
-| [61339](https://myanimelist.net/anime/61339) |  tv  |  2025  |   -   |       Jibaku Shounen Hanako-kun 2 Part 2      |   0/12  | 3 months ago | 07/07/2025 |
+| [61339](https://myanimelist.net/anime/61339) |  tv  |  2025  |   -   |       Jibaku Shounen Hanako-kun 2 Part 2      |   0/12  | 4 months ago | 07/07/2025 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -61,10 +61,10 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [62811](https://myanimelist.net/anime/62811) |     tv     |    -   |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season                         |   Yesterday   |        -        |
-| [62844](https://myanimelist.net/anime/62844) |    movie   |  2026  |  light_novel |                                             Kusuriya no Hitorigoto Movie                                            |   Yesterday   |        -        |
-| [62584](https://myanimelist.net/anime/62584) |     tv     |    -   |   web_manga  |                                          Hikaru ga Shinda Natsu 2nd Season                                          |  3 weeks ago  |        -        |
-| [62589](https://myanimelist.net/anime/62589) |     tv     |    -   |     manga    |                                               Blue Lock (Shin Series)                                               |  3 weeks ago  |        -        |
+| [62811](https://myanimelist.net/anime/62811) |     tv     |    -   |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season                         |   2 days ago  |        -        |
+| [62844](https://myanimelist.net/anime/62844) |    movie   |  2026  |  light_novel |                                             Kusuriya no Hitorigoto Movie                                            |   2 days ago  |        -        |
+| [62584](https://myanimelist.net/anime/62584) |     tv     |    -   |   web_manga  |                                          Hikaru ga Shinda Natsu 2nd Season                                          |   Last month  |        -        |
+| [62589](https://myanimelist.net/anime/62589) |     tv     |    -   |     manga    |                                               Blue Lock (Shin Series)                                               |   Last month  |        -        |
 | [62542](https://myanimelist.net/anime/62542) |     tv     |    -   |     manga    |                                                 Grand Blue Season 3                                                 |   Last month  |        -        |
 | [62546](https://myanimelist.net/anime/62546) |    movie   |    -   |     manga    |                                        Kimetsu no Yaiba Movie 2: Mugenjou-hen                                       |   Last month  |        -        |
 
