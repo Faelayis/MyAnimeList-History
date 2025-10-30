@@ -2,8 +2,8 @@
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [62811](https://myanimelist.net/anime/62811) |     tv     |    -   |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season                         |   3 days ago  |        -        |
-| [62844](https://myanimelist.net/anime/62844) |    movie   |  2026  |  light_novel |                                             Kusuriya no Hitorigoto Movie                                            |   3 days ago  |        -        |
+| [62811](https://myanimelist.net/anime/62811) |     tv     |    -   |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season                         |   4 days ago  |        -        |
+| [62844](https://myanimelist.net/anime/62844) |    movie   |  2026  |  light_novel |                                             Kusuriya no Hitorigoto Movie                                            |   4 days ago  |        -        |
 | [62584](https://myanimelist.net/anime/62584) |     tv     |    -   |   web_manga  |                                          Hikaru ga Shinda Natsu 2nd Season                                          |   Last month  |        -        |
 | [62589](https://myanimelist.net/anime/62589) |     tv     |    -   |     manga    |                                               Blue Lock (Shin Series)                                               |   Last month  |        -        |
 | [62542](https://myanimelist.net/anime/62542) |     tv     |    -   |     manga    |                                                 Grand Blue Season 3                                                 |   Last month  |        -        |
