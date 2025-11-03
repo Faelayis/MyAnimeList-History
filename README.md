@@ -19,7 +19,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [35249](https://myanimelist.net/anime/35249) |     tv     |  2018  |   9   |                                          Uma Musume: Pretty Derby                                         |   Last week   | 10/19/2025 |  10/20/2025 |
+| [35249](https://myanimelist.net/anime/35249) |     tv     |  2018  |   9   |                                          Uma Musume: Pretty Derby                                         |  2 weeks ago  | 10/19/2025 |  10/20/2025 |
 | [60285](https://myanimelist.net/anime/60285) |     tv     |  2025  |   8   |                                            Sakamoto Days Part 2                                           |   Last month  | 07/22/2025 |  09/28/2025 |
 | [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               |  6 months ago | 01/19/2025 |  05/15/2025 |
 | [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         |  7 months ago | 01/23/2025 |  03/30/2025 |
@@ -33,7 +33,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [57181](https://myanimelist.net/anime/57181) |    tv   |  2024  |   -   |                                                   Ao no Hako                                                  |  18/25  |   Last week  | 09/12/2025 |
+| [57181](https://myanimelist.net/anime/57181) |    tv   |  2024  |   -   |                                                   Ao no Hako                                                  |  18/25  |  2 weeks ago | 09/12/2025 |
 | [59192](https://myanimelist.net/anime/59192) |  movie  |  2025  |   10  |                             Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai                             |   1/1   |  Last month  | 08/12/2025 |
 | [60489](https://myanimelist.net/anime/60489) |   ona   |  2025  |   8   |                                               Takopii no Genzai                                               |   1/6   |  Last month  | 07/03/2025 |
 | [51818](https://myanimelist.net/anime/51818) |    tv   |  2025  |   -   |                                        Enen no Shouboutai: San no Shou                                        |   3/12  | 4 months ago | 04/08/2025 |
