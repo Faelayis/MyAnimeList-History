@@ -1,7 +1,8 @@
-# Plan to Watch (338)
+# Plan to Watch (339)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   original   |                                                  Chou Kaguya-hime!                                                  |  10 hours ago |        -        |
 | [62811](https://myanimelist.net/anime/62811) |     tv     |    -   |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season                         |  3 weeks ago  |        -        |
 | [62844](https://myanimelist.net/anime/62844) |    movie   |  2026  |  light_novel |                                             Kusuriya no Hitorigoto Movie                                            |  3 weeks ago  |        -        |
 | [62584](https://myanimelist.net/anime/62584) |     tv     |    -   |   web_manga  |                                          Hikaru ga Shinda Natsu 2nd Season                                          |   Last month  |        -        |
@@ -15,7 +16,7 @@
 | [62233](https://myanimelist.net/anime/62233) |   unknown  |    -   |  light_novel |                                                 One Piece: Heroines                                                 |  3 months ago |        -        |
 | [35838](https://myanimelist.net/anime/35838) |     tv     |  2017  |   web_manga  |                                               Shoujo Shuumatsu Ryokou                                               |  3 months ago |        -        |
 | [59845](https://myanimelist.net/anime/59845) |     tv     |  2025  |   web_manga  |                                              Kaoru Hana wa Rin to Saku                                              |  3 months ago |    07/07/2025   |
-| [57555](https://myanimelist.net/anime/57555) |    movie   |  2025  |     manga    |                                             Chainsaw Man Movie: Reze-hen                                            |  3 months ago |        -        |
+| [57555](https://myanimelist.net/anime/57555) |    movie   |  2025  |     manga    |                                             Chainsaw Man Movie: Reze-hen                                            |  4 months ago |        -        |
 | [61997](https://myanimelist.net/anime/61997) |     ona    |  2025  |     manga    |                                         Sugar Sugar Rune: Les deux sorcières                                        |  4 months ago |        -        |
 | [59619](https://myanimelist.net/anime/59619) |     tv     |  2025  |     manga    |                                                    Ame to Kimi to                                                   |  4 months ago |        -        |
 | [58913](https://myanimelist.net/anime/58913) |     tv     |  2025  |   web_manga  |                                                Hikaru ga Shinda Natsu                                               |  4 months ago |        -        |
@@ -41,7 +42,7 @@
 | [59226](https://myanimelist.net/anime/59226) |     tv     |  2025  |     manga    |                                              Ao no Exorcist: Yosuga-hen                                             | 11 months ago |        -        |
 | [60548](https://myanimelist.net/anime/60548) |     tv     |    -   |     manga    |                                              Skip to Loafer 2nd Season                                              | 11 months ago |        -        |
 | [60543](https://myanimelist.net/anime/60543) |     tv     |  2025  |     manga    |                                                 Dandadan 2nd Season                                                 | 11 months ago |        -        |
-|  [7647](https://myanimelist.net/anime/7647)  |     tv     |  2010  |     manga    |                                               Arakawa Under the Bridge                                              | 11 months ago |        -        |
+|  [7647](https://myanimelist.net/anime/7647)  |     tv     |  2010  |     manga    |                                               Arakawa Under the Bridge                                              |   12/15/2024  |        -        |
 | [58511](https://myanimelist.net/anime/58511) |     tv     |  2024  |     manga    |                                Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season                                |   10/29/2024  |        -        |
 | [51794](https://myanimelist.net/anime/51794) |     tv     |  2023  |     manga    |                                      Nanatsu no Taizai: Mokushiroku no Yonkishi                                     |   10/29/2024  |        -        |
 | [59989](https://myanimelist.net/anime/59989) |     tv     |  2024  |   web_manga  |                                               Kami no Tou: Koubou-sen                                               |   10/29/2024  |        -        |
@@ -60,7 +61,7 @@
 | [59833](https://myanimelist.net/anime/59833) |     ova    |  2025  |  light_novel |                                Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage                                |   09/18/2024  |        -        |
 | [59841](https://myanimelist.net/anime/59841) |    movie   |  2024  |   web_manga  |                                        Ore dake Level Up na Ken: ReAwakening                                        |   09/18/2024  |        -        |
 | [59750](https://myanimelist.net/anime/59750) |    music   |  2024  |   original   |                                                      Go-Getters                                                     |   09/13/2024  |        -        |
-| [59708](https://myanimelist.net/anime/59708) |     tv     |    -   |  light_novel |                   Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki                  |   09/01/2024  |        -        |
+| [59708](https://myanimelist.net/anime/59708) |     tv     |  2026  |  light_novel |                   Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki                  |   09/01/2024  |        -        |
 | [59571](https://myanimelist.net/anime/59571) |    movie   |  2024  |     manga    |                               Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack                              |   08/18/2024  |        -        |
 | [59493](https://myanimelist.net/anime/59493) | tv_special |  2024  |     manga    |                              Tensei shitara Slime Datta Ken: Kanwa - Luminous Memories                              |   08/07/2024  |        -        |
 | [59466](https://myanimelist.net/anime/59466) |     tv     |  2025  |     manga    |                                           Aharen-san wa Hakarenai Season 2                                          |   08/03/2024  |        -        |
