@@ -61,7 +61,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   original   |                                                  Chou Kaguya-hime!                                                  |  10 hours ago |        -        |
+| [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   original   |                                                  Chou Kaguya-hime!                                                  |   Yesterday   |        -        |
 | [62811](https://myanimelist.net/anime/62811) |     tv     |    -   |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season                         |  3 weeks ago  |        -        |
 | [62844](https://myanimelist.net/anime/62844) |    movie   |  2026  |  light_novel |                                             Kusuriya no Hitorigoto Movie                                            |  3 weeks ago  |        -        |
 | [62584](https://myanimelist.net/anime/62584) |     tv     |    -   |   web_manga  |                                          Hikaru ga Shinda Natsu 2nd Season                                          |   Last month  |        -        |
