@@ -1,7 +1,8 @@
-# Completed (474)
+# Completed (475)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [42941](https://myanimelist.net/anime/42941) |     tv     |  2021  |   7   |                                     Uma Musume: Pretty Derby Season 2                                     |   1 hour ago  | 10/20/2025 |  11/22/2025 |
 | [35249](https://myanimelist.net/anime/35249) |     tv     |  2018  |   9   |                                          Uma Musume: Pretty Derby                                         |   Last month  | 10/19/2025 |  10/20/2025 |
 | [60285](https://myanimelist.net/anime/60285) |     tv     |  2025  |   8   |                                            Sakamoto Days Part 2                                           |   Last month  | 07/22/2025 |  09/28/2025 |
 | [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               |  6 months ago | 01/19/2025 |  05/15/2025 |
@@ -165,7 +166,7 @@
 | [42670](https://myanimelist.net/anime/42670) |     tv     |  2022  |   9   |                                     Princess Connect! Re:Dive Season 2                                    |  3 years ago  | 02/12/2022 |  03/30/2022 |
 |  [6862](https://myanimelist.net/anime/6862)  |   special  |  2010  |   7   |                                             K-On!: Live House!                                            |  3 years ago  | 03/23/2022 |  03/23/2022 |
 |  [5680](https://myanimelist.net/anime/5680)  |     tv     |  2009  |   9   |                                                   K-On!                                                   |  3 years ago  | 03/20/2022 |  03/23/2022 |
-| [40540](https://myanimelist.net/anime/40540) |     tv     |  2020  |   8   |                        Sword Art Online: Alicization - War of Underworld 2nd Season                       |  3 years ago  | 03/17/2022 |  03/19/2022 |
+| [40540](https://myanimelist.net/anime/40540) |     tv     |  2020  |   8   |                        Sword Art Online: Alicization - War of Underworld 2nd Season                       |  4 years ago  | 03/17/2022 |  03/19/2022 |
 | [39597](https://myanimelist.net/anime/39597) |     tv     |  2019  |   7   |                             Sword Art Online: Alicization - War of Underworld                             |  4 years ago  | 03/16/2022 |  03/17/2022 |
 | [41120](https://myanimelist.net/anime/41120) |     tv     |  2020  |   8   |                                       Fugou Keiji: Balance:Unlimited                                      |  4 years ago  | 03/13/2022 |  03/13/2022 |
 | [41694](https://myanimelist.net/anime/41694) |     tv     |  2021  |   8   |                                           Hataraku Saibou Black                                           |  4 years ago  | 03/08/2022 |  03/11/2022 |
