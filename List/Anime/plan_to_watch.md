@@ -1,10 +1,14 @@
-# Plan to Watch (339)
+# Plan to Watch (343)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   original   |                                                  Chou Kaguya-hime!                                                  |   5 days ago  |        -        |
-| [62811](https://myanimelist.net/anime/62811) |     tv     |    -   |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season                         |  3 weeks ago  |        -        |
-| [62844](https://myanimelist.net/anime/62844) |    movie   |  2026  |  light_novel |                                             Kusuriya no Hitorigoto Movie                                            |  3 weeks ago  |        -        |
+| [59644](https://myanimelist.net/anime/59644) |     tv     |  2025  |  light_novel |                                           Yasei no Last Boss ga Arawareta!                                          |  4 hours ago  |    11/23/2025   |
+| [61930](https://myanimelist.net/anime/61930) |     tv     |  2025  |     manga    |                                          Uma Musume: Cinderella Gray Part 2                                         |  4 hours ago  |        -        |
+| [37822](https://myanimelist.net/anime/37822) |     ona    |  2018  |     novel    |                                                Douluo Dalu 2nd Season                                               |  4 hours ago  |        -        |
+| [37150](https://myanimelist.net/anime/37150) |     ona    |  2018  |     novel    |                                                     Douluo Dalu                                                     |  4 hours ago  |        -        |
+| [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   original   |                                                  Chou Kaguya-hime!                                                  |   6 days ago  |        -        |
+| [62811](https://myanimelist.net/anime/62811) |     tv     |    -   |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season                         |   Last month  |        -        |
+| [62844](https://myanimelist.net/anime/62844) |    movie   |  2026  |  light_novel |                                             Kusuriya no Hitorigoto Movie                                            |   Last month  |        -        |
 | [62584](https://myanimelist.net/anime/62584) |     tv     |    -   |   web_manga  |                                          Hikaru ga Shinda Natsu 2nd Season                                          |   Last month  |        -        |
 | [62589](https://myanimelist.net/anime/62589) |     tv     |    -   |     manga    |                                               Blue Lock (Shin Series)                                               |   Last month  |        -        |
 | [62542](https://myanimelist.net/anime/62542) |     tv     |    -   |     manga    |                                                 Grand Blue Season 3                                                 |  2 months ago |        -        |
@@ -40,7 +44,7 @@
 | [59419](https://myanimelist.net/anime/59419) |    movie   |  2025  |     game     |                                 Project Sekai Movie: Kowareta Sekai to Utaenai Miku                                 | 11 months ago |        -        |
 | [55830](https://myanimelist.net/anime/55830) |     tv     |  2026  |  light_novel |                                                  Fate/strange Fake                                                  | 11 months ago |        -        |
 | [59226](https://myanimelist.net/anime/59226) |     tv     |  2025  |     manga    |                                              Ao no Exorcist: Yosuga-hen                                             | 11 months ago |        -        |
-| [60548](https://myanimelist.net/anime/60548) |     tv     |    -   |     manga    |                                              Skip to Loafer 2nd Season                                              | 11 months ago |        -        |
+| [60548](https://myanimelist.net/anime/60548) |     tv     |    -   |     manga    |                                              Skip to Loafer 2nd Season                                              |   12/22/2024  |        -        |
 | [60543](https://myanimelist.net/anime/60543) |     tv     |  2025  |     manga    |                                                 Dandadan 2nd Season                                                 |   12/20/2024  |        -        |
 |  [7647](https://myanimelist.net/anime/7647)  |     tv     |  2010  |     manga    |                                               Arakawa Under the Bridge                                              |   12/15/2024  |        -        |
 | [58511](https://myanimelist.net/anime/58511) |     tv     |  2024  |     manga    |                                Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season                                |   10/29/2024  |        -        |
