@@ -2,7 +2,7 @@
 
 |                      id                      | Type | Season | Score |                     Title                     | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------: | :-----: | :----------: | :--------: |
-| [53526](https://myanimelist.net/anime/53526) |  tv  |  2023  |   -   |       Uma Musume: Pretty Derby Season 3       |   0/13  |   Yesterday  | 11/22/2025 |
+| [53526](https://myanimelist.net/anime/53526) |  tv  |  2023  |   -   |       Uma Musume: Pretty Derby Season 3       |   0/13  |  2 days ago  | 11/22/2025 |
 | [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                   Gachiakuta                  |  12/24  |  Last month  | 07/07/2025 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                   One Piece                   |  1145/? |  Last month  | 01/01/2013 |
 | [58390](https://myanimelist.net/anime/58390) |  tv  |  2025  |   -   |           Yofukashi no Uta Season 2           |   1/12  |  Last month  | 07/07/2025 |
