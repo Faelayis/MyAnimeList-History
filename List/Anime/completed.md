@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [42941](https://myanimelist.net/anime/42941) |     tv     |  2021  |   7   |                                     Uma Musume: Pretty Derby Season 2                                     |   2 days ago  | 10/20/2025 |  11/22/2025 |
+| [42941](https://myanimelist.net/anime/42941) |     tv     |  2021  |   7   |                                     Uma Musume: Pretty Derby Season 2                                     |   3 days ago  | 10/20/2025 |  11/22/2025 |
 | [35249](https://myanimelist.net/anime/35249) |     tv     |  2018  |   9   |                                          Uma Musume: Pretty Derby                                         |   Last month  | 10/19/2025 |  10/20/2025 |
 | [60285](https://myanimelist.net/anime/60285) |     tv     |  2025  |   8   |                                            Sakamoto Days Part 2                                           |  2 months ago | 07/22/2025 |  09/28/2025 |
 | [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               |  6 months ago | 01/19/2025 |  05/15/2025 |
