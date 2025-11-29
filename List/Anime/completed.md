@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [42941](https://myanimelist.net/anime/42941) |     tv     |  2021  |   7   |                                     Uma Musume: Pretty Derby Season 2                                     |   6 days ago  | 10/20/2025 |  11/22/2025 |
+| [42941](https://myanimelist.net/anime/42941) |     tv     |  2021  |   7   |                                     Uma Musume: Pretty Derby Season 2                                     |   Last week   | 10/20/2025 |  11/22/2025 |
 | [35249](https://myanimelist.net/anime/35249) |     tv     |  2018  |   9   |                                          Uma Musume: Pretty Derby                                         |   Last month  | 10/19/2025 |  10/20/2025 |
 | [60285](https://myanimelist.net/anime/60285) |     tv     |  2025  |   8   |                                            Sakamoto Days Part 2                                           |  2 months ago | 07/22/2025 |  09/28/2025 |
 | [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               |  7 months ago | 01/19/2025 |  05/15/2025 |
@@ -76,7 +76,7 @@
 | [33478](https://myanimelist.net/anime/33478) |     tv     |  2017  |   7   |                                     UQ Holder! Mahou Sensei Negima! 2                                     |  2 years ago  | 03/13/2023 |  03/14/2023 |
 | [33003](https://myanimelist.net/anime/33003) |     tv     |  2016  |   8   |                                        Mahou Shoujo Ikusei Keikaku                                        |  2 years ago  | 02/27/2023 |  02/28/2023 |
 | [50404](https://myanimelist.net/anime/50404) |     ona    |  2022  |   6   |                                      Xian Wang de Richang Shenghuo 3                                      |  2 years ago  | 10/03/2022 |  02/26/2023 |
-| [14513](https://myanimelist.net/anime/14513) |     tv     |  2012  |   6   |                                        Magi: The Labyrinth of Magic                                       |  2 years ago  | 02/23/2023 |  02/25/2023 |
+| [14513](https://myanimelist.net/anime/14513) |     tv     |  2012  |   6   |                                        Magi: The Labyrinth of Magic                                       |  3 years ago  | 02/23/2023 |  02/25/2023 |
 | [48316](https://myanimelist.net/anime/48316) |     tv     |  2022  |   8   |                                    Kage no Jitsuryokusha ni Naritakute!                                   |  3 years ago  | 10/06/2022 |  02/16/2023 |
 | [40776](https://myanimelist.net/anime/40776) |     tv     |  2020  |   7   |                                        Haikyuu!! To the Top Part 2                                        |  3 years ago  | 11/12/2022 |  01/31/2023 |
 | [10020](https://myanimelist.net/anime/10020) |     ona    |  2011  |   6   |                            Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials                           |  3 years ago  | 01/17/2023 |  01/17/2023 |
@@ -312,7 +312,7 @@
 | [12467](https://myanimelist.net/anime/12467) |     tv     |  2012  |   6   |                                              Nazo no Kanojo X                                             |  4 years ago  | 04/27/2021 |  04/27/2021 |
 | [13093](https://myanimelist.net/anime/13093) |     ova    |  2012  |   6   |                                  Nazo no Kanojo X: Nazo no Natsu Matsuri                                  |  4 years ago  | 04/27/2021 |  04/27/2021 |
 | [27775](https://myanimelist.net/anime/27775) |     tv     |  2015  |   7   |                                              Plastic Memories                                             |  4 years ago  | 04/25/2021 |  04/25/2021 |
-| [37141](https://myanimelist.net/anime/37141) |     tv     |  2018  |   6   |                                              Hataraku Saibou                                              |  4 years ago  | 03/11/2021 |  04/24/2021 |
+| [37141](https://myanimelist.net/anime/37141) |     tv     |  2018  |   6   |                                              Hataraku Saibou                                              |  5 years ago  | 03/11/2021 |  04/24/2021 |
 | [28701](https://myanimelist.net/anime/28701) |     tv     |  2015  |   5   |                             Fate/stay night: Unlimited Blade Works 2nd Season                             |  3 years ago  | 04/22/2021 |  04/22/2021 |
 | [22297](https://myanimelist.net/anime/22297) |     tv     |  2014  |   7   |                                   Fate/stay night: Unlimited Blade Works                                  |  3 years ago  | 04/21/2021 |  04/22/2021 |
 | [39534](https://myanimelist.net/anime/39534) |     tv     |  2020  |   10  |                                         Jibaku Shounen Hanako-kun                                         |  3 years ago  | 04/14/2021 |  04/15/2021 |

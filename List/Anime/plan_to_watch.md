@@ -1,11 +1,11 @@
-# Plan to Watch (343)
+# Plan to Watch (342)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [59644](https://myanimelist.net/anime/59644) |     tv     |  2025  |  light_novel |                                           Yasei no Last Boss ga Arawareta!                                          |   5 days ago  |    11/23/2025   |
-| [61930](https://myanimelist.net/anime/61930) |     tv     |  2025  |     manga    |                                          Uma Musume: Cinderella Gray Part 2                                         |   5 days ago  |        -        |
-| [37822](https://myanimelist.net/anime/37822) |     ona    |  2018  |     novel    |                                                Douluo Dalu 2nd Season                                               |   5 days ago  |        -        |
-| [37150](https://myanimelist.net/anime/37150) |     ona    |  2018  |     novel    |                                                     Douluo Dalu                                                     |   5 days ago  |        -        |
+| [59644](https://myanimelist.net/anime/59644) |     tv     |  2025  |  light_novel |                                           Yasei no Last Boss ga Arawareta!                                          |   6 days ago  |    11/23/2025   |
+| [61930](https://myanimelist.net/anime/61930) |     tv     |  2025  |     manga    |                                          Uma Musume: Cinderella Gray Part 2                                         |   6 days ago  |        -        |
+| [37822](https://myanimelist.net/anime/37822) |     ona    |  2018  |     novel    |                                                Douluo Dalu 2nd Season                                               |   6 days ago  |        -        |
+| [37150](https://myanimelist.net/anime/37150) |     ona    |  2018  |     novel    |                                                     Douluo Dalu                                                     |   6 days ago  |        -        |
 | [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   original   |                                                  Chou Kaguya-hime!                                                  |   Last week   |        -        |
 | [62811](https://myanimelist.net/anime/62811) |     tv     |    -   |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season                         |   Last month  |        -        |
 | [62844](https://myanimelist.net/anime/62844) |    movie   |  2026  |  light_novel |                                             Kusuriya no Hitorigoto Movie                                            |   Last month  |        -        |
@@ -14,7 +14,6 @@
 | [62542](https://myanimelist.net/anime/62542) |     tv     |    -   |     manga    |                                                 Grand Blue Season 3                                                 |  2 months ago |        -        |
 | [62546](https://myanimelist.net/anime/62546) |    movie   |    -   |     manga    |                                        Kimetsu no Yaiba Movie 2: Mugenjou-hen                                       |  2 months ago |        -        |
 | [56877](https://myanimelist.net/anime/56877) |     tv     |  2025  |   web_manga  |                                               Ao no Orchestra Season 2                                              |  2 months ago |        -        |
-| [61026](https://myanimelist.net/anime/61026) |     tv     |  2025  |  light_novel |                     Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga                    |  2 months ago |        -        |
 | [60781](https://myanimelist.net/anime/60781) |     tv     |  2025  |   web_manga  |                                            Alma-chan wa Kazoku ni Naritai                                           |  2 months ago |        -        |
 | [62516](https://myanimelist.net/anime/62516) |     tv     |    -   |     manga    |                                                 Dandadan 3rd Season                                                 |  2 months ago |        -        |
 | [62233](https://myanimelist.net/anime/62233) |   unknown  |    -   |  light_novel |                                                 One Piece: Heroines                                                 |  3 months ago |        -        |
@@ -164,7 +163,7 @@
 | [54344](https://myanimelist.net/anime/54344) |     tv     |    -   |  light_novel |                                         Mahou Shoujo Ikusei Keikaku: Restart                                        |  2 years ago  |        -        |
 | [54440](https://myanimelist.net/anime/54440) |   unknown  |    -   |   original   |                                         Lycoris Recoil (Shinsaku Animation)                                         |  2 years ago  |        -        |
 | [51462](https://myanimelist.net/anime/51462) |     tv     |  2023  |  light_novel |                                                 Isekai Nonbiri Nouka                                                |  2 years ago  |        -        |
-| [36864](https://myanimelist.net/anime/36864) |     tv     |  2018  |     manga    |                                                   Akkun to Kanojo                                                   |  2 years ago  |        -        |
+| [36864](https://myanimelist.net/anime/36864) |     tv     |  2018  |     manga    |                                                   Akkun to Kanojo                                                   |  3 years ago  |        -        |
 | [36266](https://myanimelist.net/anime/36266) |     tv     |  2018  |     manga    |                                                  Mahou Shoujo Site                                                  |  3 years ago  |        -        |
 | [36316](https://myanimelist.net/anime/36316) |     tv     |  2018  |  light_novel |                                                 Shichisei no Subaru                                                 |  3 years ago  |        -        |
 | [51064](https://myanimelist.net/anime/51064) |     tv     |  2022  |  light_novel |                                                  Kuro no Shoukanshi                                                 |  3 years ago  |        -        |
