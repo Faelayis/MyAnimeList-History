@@ -1,7 +1,8 @@
-# Plan to Watch (342)
+# Plan to Watch (343)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [57433](https://myanimelist.net/anime/57433) |     tv     |  2025  |  light_novel |                                  Seishun Buta Yarou wa Santa Claus no Yume wo Minai                                 |  16 hours ago |        -        |
 | [59644](https://myanimelist.net/anime/59644) |     tv     |  2025  |  light_novel |                                           Yasei no Last Boss ga Arawareta!                                          |   Last week   |    11/23/2025   |
 | [61930](https://myanimelist.net/anime/61930) |     tv     |  2025  |     manga    |                                          Uma Musume: Cinderella Gray Part 2                                         |   Last week   |        -        |
 | [37822](https://myanimelist.net/anime/37822) |     ona    |  2018  |     novel    |                                                Douluo Dalu 2nd Season                                               |   Last week   |        -        |
@@ -158,9 +159,9 @@
 | [26085](https://myanimelist.net/anime/26085) |     tv     |  2015  | 4_koma_manga |                                                      Military!                                                      |  2 years ago  |        -        |
 | [10278](https://myanimelist.net/anime/10278) |     tv     |  2011  |     game     |                                                    The iDOLM@STER                                                   |  2 years ago  |        -        |
 | [54703](https://myanimelist.net/anime/54703) |     tv     |  2025  |     manga    |                                             Fumetsu no Anata e Season 3                                             |  2 years ago  |        -        |
-| [51535](https://myanimelist.net/anime/51535) | tv_special |  2023  |     manga    |                                 Shingeki no Kyojin: The Final Season - Kanketsu-hen                                 |  2 years ago  |        -        |
-| [52198](https://myanimelist.net/anime/52198) |    movie   |  2022  |     manga    |                                  Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai                                 |  2 years ago  |        -        |
-| [54344](https://myanimelist.net/anime/54344) |     tv     |    -   |  light_novel |                                         Mahou Shoujo Ikusei Keikaku: Restart                                        |  2 years ago  |        -        |
+| [51535](https://myanimelist.net/anime/51535) | tv_special |  2023  |     manga    |                                 Shingeki no Kyojin: The Final Season - Kanketsu-hen                                 |  3 years ago  |        -        |
+| [52198](https://myanimelist.net/anime/52198) |    movie   |  2022  |     manga    |                                  Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai                                 |  3 years ago  |        -        |
+| [54344](https://myanimelist.net/anime/54344) |     tv     |    -   |  light_novel |                                         Mahou Shoujo Ikusei Keikaku: Restart                                        |  3 years ago  |        -        |
 | [54440](https://myanimelist.net/anime/54440) |   unknown  |    -   |   original   |                                         Lycoris Recoil (Shinsaku Animation)                                         |  3 years ago  |        -        |
 | [51462](https://myanimelist.net/anime/51462) |     tv     |  2023  |  light_novel |                                                 Isekai Nonbiri Nouka                                                |  3 years ago  |        -        |
 | [36864](https://myanimelist.net/anime/36864) |     tv     |  2018  |     manga    |                                                   Akkun to Kanojo                                                   |  3 years ago  |        -        |
