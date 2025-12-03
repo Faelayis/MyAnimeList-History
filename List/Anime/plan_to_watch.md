@@ -1,8 +1,8 @@
-# Plan to Watch (343)
+# Plan to Watch (342)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [57433](https://myanimelist.net/anime/57433) |     tv     |  2025  |  light_novel |                                  Seishun Buta Yarou wa Santa Claus no Yume wo Minai                                 |  16 hours ago |        -        |
+| [57433](https://myanimelist.net/anime/57433) |     tv     |  2025  |  light_novel |                                  Seishun Buta Yarou wa Santa Claus no Yume wo Minai                                 |   Yesterday   |        -        |
 | [59644](https://myanimelist.net/anime/59644) |     tv     |  2025  |  light_novel |                                           Yasei no Last Boss ga Arawareta!                                          |   Last week   |    11/23/2025   |
 | [61930](https://myanimelist.net/anime/61930) |     tv     |  2025  |     manga    |                                          Uma Musume: Cinderella Gray Part 2                                         |   Last week   |        -        |
 | [37822](https://myanimelist.net/anime/37822) |     ona    |  2018  |     novel    |                                                Douluo Dalu 2nd Season                                               |   Last week   |        -        |
@@ -17,8 +17,8 @@
 | [56877](https://myanimelist.net/anime/56877) |     tv     |  2025  |   web_manga  |                                               Ao no Orchestra Season 2                                              |  2 months ago |        -        |
 | [60781](https://myanimelist.net/anime/60781) |     tv     |  2025  |   web_manga  |                                            Alma-chan wa Kazoku ni Naritai                                           |  2 months ago |        -        |
 | [62516](https://myanimelist.net/anime/62516) |     tv     |    -   |     manga    |                                                 Dandadan 3rd Season                                                 |  2 months ago |        -        |
-| [62233](https://myanimelist.net/anime/62233) |   unknown  |    -   |  light_novel |                                                 One Piece: Heroines                                                 |  3 months ago |        -        |
-| [35838](https://myanimelist.net/anime/35838) |     tv     |  2017  |   web_manga  |                                               Shoujo Shuumatsu Ryokou                                               |  3 months ago |        -        |
+| [62233](https://myanimelist.net/anime/62233) |   unknown  |    -   |  light_novel |                                                 One Piece: Heroines                                                 |  4 months ago |        -        |
+| [35838](https://myanimelist.net/anime/35838) |     tv     |  2017  |   web_manga  |                                               Shoujo Shuumatsu Ryokou                                               |  4 months ago |        -        |
 | [59845](https://myanimelist.net/anime/59845) |     tv     |  2025  |   web_manga  |                                              Kaoru Hana wa Rin to Saku                                              |  4 months ago |    07/07/2025   |
 | [57555](https://myanimelist.net/anime/57555) |    movie   |  2025  |     manga    |                                             Chainsaw Man Movie: Reze-hen                                            |  4 months ago |        -        |
 | [61997](https://myanimelist.net/anime/61997) |     ona    |  2025  |     manga    |                                         Sugar Sugar Rune: Les deux sorcières                                        |  4 months ago |        -        |
@@ -55,7 +55,6 @@
 | [58572](https://myanimelist.net/anime/58572) |     tv     |  2024  |     manga    |                        Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season                        |   10/29/2024  |        -        |
 | [11285](https://myanimelist.net/anime/11285) |     tv     |  2012  |     other    |                                               Black★Rock Shooter (TV)                                               |   10/27/2024  |        -        |
 | [60108](https://myanimelist.net/anime/60108) |     tv     |  2024  |     manga    |                                              One Piece: Gyojin Tou-hen                                              |   10/14/2024  |        -        |
-| [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |     manga    |                                         Boku no Hero Academia: Final Season                                         |   10/13/2024  |        -        |
 | [56146](https://myanimelist.net/anime/56146) |     ona    |  2023  |   web_manga  |                                                   Good Night World                                                  |   10/06/2024  |        -        |
 | [38830](https://myanimelist.net/anime/38830) |     tv     |  2020  |  light_novel |                                          Hachi-nan tte, Sore wa Nai deshou!                                         |   10/03/2024  |        -        |
 | [59970](https://myanimelist.net/anime/59970) |     tv     |    -   |     manga    |                                      Tensei shitara Slime Datta Ken 4th Season                                      |   09/28/2024  |        -        |
@@ -103,7 +102,7 @@
 | [30196](https://myanimelist.net/anime/30196) | tv_special |  2015  |     manga    |                                               Tsubasa to Hotaru (2015)                                              |   02/07/2024  |        -        |
 | [52420](https://myanimelist.net/anime/52420) |     pv     |  2022  |     game     |                                   Blue Archive: 1.5-shuunen Kinen Short Animation                                   |   01/31/2024  |        -        |
 | [53670](https://myanimelist.net/anime/53670) |     ona    |  2022  |     game     |                                         Blue Archive: Beautiful Day Dreamer                                         |   01/31/2024  |        -        |
-| [57980](https://myanimelist.net/anime/57980) |     cm     |  2024  |   original   |                             Ayataka Spy x Family Movie Campaign Ayataka de Hotto Hitoiki                            |   01/31/2024  |        -        |
+| [57980](https://myanimelist.net/anime/57980) |     cm     |  2024  |   original   |                             Ayataka Spy x Family Movie Campaign Ayataka de Hotto Hitoiki                            |  2 years ago  |        -        |
 | [33255](https://myanimelist.net/anime/33255) |     tv     |  2016  |     manga    |                                                 Saiki Kusuo no Ψ-nan                                                |  2 years ago  |        -        |
 | [33280](https://myanimelist.net/anime/33280) |    movie   |  2017  | 4_koma_manga |                                     Gochuumon wa Usagi desu ka?? Dear My Sister                                     |  2 years ago  |        -        |
 | [38337](https://myanimelist.net/anime/38337) |     tv     |  2020  | 4_koma_manga |                                          Gochuumon wa Usagi desu ka? Bloom                                          |  2 years ago  |        -        |

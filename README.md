@@ -2,18 +2,19 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (8) ``2.33%``
+#### Watching (9) ``2.63%``
 
-|                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |                       Boku no Hero Academia 7th Season                       |  21/21  |  2 days ago  | 11/29/2025 |
-| [61026](https://myanimelist.net/anime/61026) |  tv  |  2025  |   8   | Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga |   8/12  |  3 days ago  | 11/29/2025 |
-| [53526](https://myanimelist.net/anime/53526) |  tv  |  2023  |   -   |                       Uma Musume: Pretty Derby Season 3                      |   1/13  |  6 days ago  | 11/22/2025 |
-| [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                                  Gachiakuta                                  |  20/24  |  6 days ago  | 07/07/2025 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                   One Piece                                  |  1145/? | 2 months ago | 01/01/2013 |
-| [58390](https://myanimelist.net/anime/58390) |  tv  |  2025  |   -   |                           Yofukashi no Uta Season 2                          |   1/12  | 2 months ago | 07/07/2025 |
-| [59459](https://myanimelist.net/anime/59459) |  tv  |  2025  |   9   |                 Silent Witch: Chinmoku no Majo no Kakushigoto                |   5/13  | 4 months ago | 07/07/2025 |
-| [61339](https://myanimelist.net/anime/61339) |  tv  |  2025  |   -   |                      Jibaku Shounen Hanako-kun 2 Part 2                      |   0/12  | 5 months ago | 07/07/2025 |
+|                      id                      | Type | Season | Score |                                     Title                                    | Watched |     Updated    | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :------------: | :--------: |
+| [60098](https://myanimelist.net/anime/60098) |  tv  |  2025  |   -   |                      Boku no Hero Academia: Final Season                     |   5/11  | 11 minutes ago | 12/02/2025 |
+| [54789](https://myanimelist.net/anime/54789) |  tv  |  2024  |   9   |                       Boku no Hero Academia 7th Season                       |  21/21  |   3 days ago   | 11/29/2025 |
+| [61026](https://myanimelist.net/anime/61026) |  tv  |  2025  |   8   | Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga |   8/12  |   4 days ago   | 11/29/2025 |
+| [53526](https://myanimelist.net/anime/53526) |  tv  |  2023  |   -   |                       Uma Musume: Pretty Derby Season 3                      |   1/13  |    Last week   | 11/22/2025 |
+| [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                                  Gachiakuta                                  |  20/24  |    Last week   | 07/07/2025 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                   One Piece                                  |  1145/? |  2 months ago  | 01/01/2013 |
+| [58390](https://myanimelist.net/anime/58390) |  tv  |  2025  |   -   |                           Yofukashi no Uta Season 2                          |   1/12  |  2 months ago  | 07/07/2025 |
+| [59459](https://myanimelist.net/anime/59459) |  tv  |  2025  |   9   |                 Silent Witch: Chinmoku no Majo no Kakushigoto                |   5/13  |  4 months ago  | 07/07/2025 |
+| [61339](https://myanimelist.net/anime/61339) |  tv  |  2025  |   -   |                      Jibaku Shounen Hanako-kun 2 Part 2                      |   0/12  |  5 months ago  | 07/07/2025 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -59,11 +60,11 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``54.97%``
+#### Plan to Watch ``54.72%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [57433](https://myanimelist.net/anime/57433) |     tv     |  2025  |  light_novel |                                  Seishun Buta Yarou wa Santa Claus no Yume wo Minai                                 |  16 hours ago |        -        |
+| [57433](https://myanimelist.net/anime/57433) |     tv     |  2025  |  light_novel |                                  Seishun Buta Yarou wa Santa Claus no Yume wo Minai                                 |   Yesterday   |        -        |
 | [59644](https://myanimelist.net/anime/59644) |     tv     |  2025  |  light_novel |                                           Yasei no Last Boss ga Arawareta!                                          |   Last week   |    11/23/2025   |
 | [61930](https://myanimelist.net/anime/61930) |     tv     |  2025  |     manga    |                                          Uma Musume: Cinderella Gray Part 2                                         |   Last week   |        -        |
 | [37822](https://myanimelist.net/anime/37822) |     ona    |  2018  |     novel    |                                                Douluo Dalu 2nd Season                                               |   Last week   |        -        |
@@ -71,4 +72,4 @@ List Sync From MyAnimeList (update every day)
 | [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   original   |                                                  Chou Kaguya-hime!                                                  |  2 weeks ago  |        -        |
 
 
-*[336 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[335 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
