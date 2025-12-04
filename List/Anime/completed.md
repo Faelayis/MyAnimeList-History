@@ -1,7 +1,8 @@
-# Completed (475)
+# Completed (476)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [54789](https://myanimelist.net/anime/54789) |     tv     |  2024  |   9   |                                      Boku no Hero Academia 7th Season                                     |  23 hours ago | 11/29/2025 |  12/03/2025 |
 | [42941](https://myanimelist.net/anime/42941) |     tv     |  2021  |   7   |                                     Uma Musume: Pretty Derby Season 2                                     |   Last week   | 10/20/2025 |  11/22/2025 |
 | [35249](https://myanimelist.net/anime/35249) |     tv     |  2018  |   9   |                                          Uma Musume: Pretty Derby                                         |   Last month  | 10/19/2025 |  10/20/2025 |
 | [60285](https://myanimelist.net/anime/60285) |     tv     |  2025  |   8   |                                            Sakamoto Days Part 2                                           |  2 months ago | 07/22/2025 |  09/28/2025 |
