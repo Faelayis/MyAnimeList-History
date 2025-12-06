@@ -2,8 +2,8 @@
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [60098](https://myanimelist.net/anime/60098) |  tv  |  2025  |   -   |                      Boku no Hero Academia: Final Season                     |   9/11  | 23 hours ago | 12/02/2025 |
-| [61026](https://myanimelist.net/anime/61026) |  tv  |  2025  |   8   | Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga |   8/12  |  5 days ago  | 11/29/2025 |
+| [61026](https://myanimelist.net/anime/61026) |  tv  |  2025  |   8   | Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga |   9/12  |   Yesterday  | 11/29/2025 |
+| [60098](https://myanimelist.net/anime/60098) |  tv  |  2025  |   -   |                      Boku no Hero Academia: Final Season                     |   9/11  |  2 days ago  | 12/02/2025 |
 | [53526](https://myanimelist.net/anime/53526) |  tv  |  2023  |   -   |                       Uma Musume: Pretty Derby Season 3                      |   1/13  |   Last week  | 11/22/2025 |
 | [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                                  Gachiakuta                                  |  20/24  |   Last week  | 07/07/2025 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                   One Piece                                  |  1145/? | 2 months ago | 01/01/2013 |
