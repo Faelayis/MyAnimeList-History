@@ -2,8 +2,8 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [52588](https://myanimelist.net/anime/52588) |     tv     |  2024  |   7   |                                                Kaijuu 8-gou                                               |  20 hours ago | 12/06/2025 |  12/06/2025 |
-| [54789](https://myanimelist.net/anime/54789) |     tv     |  2024  |   9   |                                      Boku no Hero Academia 7th Season                                     |   2 days ago  | 11/29/2025 |  12/03/2025 |
+| [52588](https://myanimelist.net/anime/52588) |     tv     |  2024  |   7   |                                                Kaijuu 8-gou                                               |   Yesterday   | 12/06/2025 |  12/06/2025 |
+| [54789](https://myanimelist.net/anime/54789) |     tv     |  2024  |   9   |                                      Boku no Hero Academia 7th Season                                     |   3 days ago  | 11/29/2025 |  12/03/2025 |
 | [42941](https://myanimelist.net/anime/42941) |     tv     |  2021  |   7   |                                     Uma Musume: Pretty Derby Season 2                                     |  2 weeks ago  | 10/20/2025 |  11/22/2025 |
 | [35249](https://myanimelist.net/anime/35249) |     tv     |  2018  |   9   |                                          Uma Musume: Pretty Derby                                         |   Last month  | 10/19/2025 |  10/20/2025 |
 | [60285](https://myanimelist.net/anime/60285) |     tv     |  2025  |   8   |                                            Sakamoto Days Part 2                                           |  2 months ago | 07/22/2025 |  09/28/2025 |
@@ -161,7 +161,7 @@
 | [33674](https://myanimelist.net/anime/33674) |    movie   |  2017  |   10  |                                           No Game No Life: Zero                                           |  3 years ago  | 04/05/2022 |  04/06/2022 |
 | [19815](https://myanimelist.net/anime/19815) |     tv     |  2014  |   8   |                                              No Game No Life                                              |  2 years ago  | 06/06/2020 |  04/05/2022 |
 | [38383](https://myanimelist.net/anime/38383) |     ona    |  2018  |   6   |                                      Jashin-chan Dropkick Episode 12                                      |  3 years ago  | 04/04/2022 |  04/04/2022 |
-| [36906](https://myanimelist.net/anime/36906) |     tv     |  2018  |   7   |                                            Jashin-chan Dropkick                                           |  3 years ago  | 04/03/2022 |  04/04/2022 |
+| [36906](https://myanimelist.net/anime/36906) |     tv     |  2018  |   7   |                                            Jashin-chan Dropkick                                           |  4 years ago  | 04/03/2022 |  04/04/2022 |
 |  [9734](https://myanimelist.net/anime/9734)  |   special  |  2011  |   7   |                                              K-On!!: Keikaku!                                             |  4 years ago  | 04/03/2022 |  04/03/2022 |
 |  [7791](https://myanimelist.net/anime/7791)  |     tv     |  2010  |   8   |                                                   K-On!!                                                  |  4 years ago  | 03/23/2022 |  04/03/2022 |
 | [48736](https://myanimelist.net/anime/48736) |     tv     |  2022  |   7   |                                      Sono Bisque Doll wa Koi wo Suru                                      |  4 years ago  | 01/13/2022 |  04/01/2022 |
