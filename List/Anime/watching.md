@@ -2,7 +2,7 @@
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [59177](https://myanimelist.net/anime/59177) |  tv  |  2025  |   -   |                            Kaijuu 8-gou 2nd Season                           |  10/11  |   Last week  | 12/06/2025 |
+| [59177](https://myanimelist.net/anime/59177) |  tv  |  2025  |   -   |                            Kaijuu 8-gou 2nd Season                           |  10/11  |  7 hours ago | 12/06/2025 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                   One Piece                                  |  1145/? |   Last week  | 01/01/2013 |
 | [60098](https://myanimelist.net/anime/60098) |  tv  |  2025  |   -   |                      Boku no Hero Academia: Final Season                     |  10/11  |   Last week  | 12/02/2025 |
 | [61026](https://myanimelist.net/anime/61026) |  tv  |  2025  |   8   | Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga |   9/12  |   Last week  | 11/29/2025 |
