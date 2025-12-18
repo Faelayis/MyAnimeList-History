@@ -1,8 +1,9 @@
-# Completed (478)
+# Completed (479)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [61200](https://myanimelist.net/anime/61200) |     ona    |  2025  |   6   |                                          Shuumatsu no Walküre III                                         |   Yesterday   | 12/13/2025 |  12/13/2025 |
+| [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |   8   |                                    Boku no Hero Academia: Final Season                                    |  15 hours ago | 12/02/2025 |  12/18/2025 |
+| [61200](https://myanimelist.net/anime/61200) |     ona    |  2025  |   6   |                                          Shuumatsu no Walküre III                                         |   2 days ago  | 12/13/2025 |  12/13/2025 |
 | [52588](https://myanimelist.net/anime/52588) |     tv     |  2024  |   7   |                                                Kaijuu 8-gou                                               |   Last week   | 12/06/2025 |  12/06/2025 |
 | [54789](https://myanimelist.net/anime/54789) |     tv     |  2024  |   9   |                                      Boku no Hero Academia 7th Season                                     |   Last week   | 11/29/2025 |  12/03/2025 |
 | [42941](https://myanimelist.net/anime/42941) |     tv     |  2021  |   7   |                                     Uma Musume: Pretty Derby Season 2                                     |  3 weeks ago  | 10/20/2025 |  11/22/2025 |
@@ -73,7 +74,7 @@
 | [48895](https://myanimelist.net/anime/48895) |     tv     |  2022  |   8   |                                                Overlord IV                                                |  2 years ago  | 03/18/2023 |  03/19/2023 |
 | [37675](https://myanimelist.net/anime/37675) |     tv     |  2018  |   7   |                                                Overlord III                                               |  2 years ago  | 03/16/2023 |  03/18/2023 |
 | [53111](https://myanimelist.net/anime/53111) |     tv     |  2023  |   9   |            Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen           |  2 years ago  | 01/05/2023 |  03/18/2023 |
-| [35073](https://myanimelist.net/anime/35073) |     tv     |  2018  |   6   |                                                Overlord II                                                |  2 years ago  | 03/16/2023 |  03/16/2023 |
+| [35073](https://myanimelist.net/anime/35073) |     tv     |  2018  |   6   |                                                Overlord II                                                |  3 years ago  | 03/16/2023 |  03/16/2023 |
 | [29803](https://myanimelist.net/anime/29803) |     tv     |  2015  |   8   |                                                  Overlord                                                 |  3 years ago  | 03/15/2023 |  03/15/2023 |
 | [34604](https://myanimelist.net/anime/34604) |     ova    |  2017  |   7   |                                   UQ Holder! Mahou Sensei Negima! 2 OVA                                   |  3 years ago  | 03/14/2023 |  03/14/2023 |
 | [33478](https://myanimelist.net/anime/33478) |     tv     |  2017  |   7   |                                     UQ Holder! Mahou Sensei Negima! 2                                     |  3 years ago  | 03/13/2023 |  03/14/2023 |
