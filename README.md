@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [59177](https://myanimelist.net/anime/59177) |  tv  |  2025  |   -   |                            Kaijuu 8-gou 2nd Season                           |  10/11  |  6 days ago  | 12/06/2025 |
+| [59177](https://myanimelist.net/anime/59177) |  tv  |  2025  |   -   |                            Kaijuu 8-gou 2nd Season                           |  10/11  |   Last week  | 12/06/2025 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                   One Piece                                  |  1145/? |  2 weeks ago | 01/01/2013 |
 | [61026](https://myanimelist.net/anime/61026) |  tv  |  2025  |   8   | Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga |   9/12  |  2 weeks ago | 11/29/2025 |
 | [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                                  Gachiakuta                                  |  20/24  |  3 weeks ago | 07/07/2025 |
@@ -18,8 +18,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |   8   |                                    Boku no Hero Academia: Final Season                                    |   4 days ago  | 12/02/2025 |  12/18/2025 |
-| [61200](https://myanimelist.net/anime/61200) |     ona    |  2025  |   6   |                                          Shuumatsu no Walküre III                                         |   6 days ago  | 12/13/2025 |  12/13/2025 |
+| [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |   8   |                                    Boku no Hero Academia: Final Season                                    |   5 days ago  | 12/02/2025 |  12/18/2025 |
+| [61200](https://myanimelist.net/anime/61200) |     ona    |  2025  |   6   |                                          Shuumatsu no Walküre III                                         |   Last week   | 12/13/2025 |  12/13/2025 |
 | [52588](https://myanimelist.net/anime/52588) |     tv     |  2024  |   7   |                                                Kaijuu 8-gou                                               |  2 weeks ago  | 12/06/2025 |  12/06/2025 |
 | [54789](https://myanimelist.net/anime/54789) |     tv     |  2024  |   9   |                                      Boku no Hero Academia 7th Season                                     |  2 weeks ago  | 11/29/2025 |  12/03/2025 |
 | [42941](https://myanimelist.net/anime/42941) |     tv     |  2021  |   7   |                                     Uma Musume: Pretty Derby Season 2                                     |   Last month  | 10/20/2025 |  11/22/2025 |
@@ -63,7 +63,7 @@ List Sync From MyAnimeList (update every day)
 | [10079](https://myanimelist.net/anime/10079) |     tv     |  2011  | visual_novel |                                               Hoshizora e Kakaru Hashi                                              |   Last week   |        -        |
 | [59489](https://myanimelist.net/anime/59489) |    movie   |  2025  |     manga    |                                                  Kaijuu 8-gou Movie                                                 |  2 weeks ago  |        -        |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |     manga    |                                             Sousou no Frieren 2nd Season                                            |  2 weeks ago  |        -        |
-| [57433](https://myanimelist.net/anime/57433) |     tv     |  2025  |  light_novel |                                  Seishun Buta Yarou wa Santa Claus no Yume wo Minai                                 |  2 weeks ago  |        -        |
+| [57433](https://myanimelist.net/anime/57433) |     tv     |  2025  |  light_novel |                                  Seishun Buta Yarou wa Santa Claus no Yume wo Minai                                 |  3 weeks ago  |        -        |
 | [59644](https://myanimelist.net/anime/59644) |     tv     |  2025  |  light_novel |                                           Yasei no Last Boss ga Arawareta!                                          |   Last month  |    11/23/2025   |
 | [61930](https://myanimelist.net/anime/61930) |     tv     |  2025  |     manga    |                                          Uma Musume: Cinderella Gray Part 2                                         |   Last month  |        -        |
 
