@@ -26,7 +26,7 @@
 | [42192](https://myanimelist.net/anime/42192) |  tv  |  2021  |   4   |                                                 Edens Zero                                                |   0/25  | 4 years ago | 04/06/2021 |
 | [39990](https://myanimelist.net/anime/39990) |  ona |  2020  |   2   |                                                 Vlad Love                                                 |   1/12  | 4 years ago | 03/28/2021 |
 |  [8841](https://myanimelist.net/anime/8841)  |  tv  |  2011  |   5   |                                          Kore wa Zombie desu ka?                                          |   7/12  | 5 years ago | 01/12/2021 |
-| [42825](https://myanimelist.net/anime/42825) |  tv  |  2021  |   2   |                                       Project Scard: Praeter no Kizu                                      |   1/13  | 4 years ago | 01/09/2021 |
+| [42825](https://myanimelist.net/anime/42825) |  tv  |  2021  |   2   |                                       Project Scard: Praeter no Kizu                                      |   1/13  | 5 years ago | 01/09/2021 |
 | [34798](https://myanimelist.net/anime/34798) |  tv  |  2018  |   -   |                                                 Yuru Camp△                                                |   3/12  | 4 years ago | 01/08/2021 |
 | [34618](https://myanimelist.net/anime/34618) |  tv  |  2017  |   3   |                                                  Blend S                                                  |   1/12  | 5 years ago | 01/06/2021 |
 | [32323](https://myanimelist.net/anime/32323) |  ona |  2015  |   4   |                                           Aishen Qiaokeli-ing...                                          |   5/15  | 4 years ago | 01/05/2021 |

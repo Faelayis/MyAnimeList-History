@@ -1,8 +1,9 @@
-# Plan to Watch (342)
+# Plan to Watch (343)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [63136](https://myanimelist.net/anime/63136) |   unknown  |    -   |     manga    |                                              Kaijuu 8-gou: Kanketsu-hen                                             |   Yesterday   |        -        |
+| [59267](https://myanimelist.net/anime/59267) |     tv     |  2025  |     manga    |                                                        Sanda                                                        |  12 hours ago |        -        |
+| [63136](https://myanimelist.net/anime/63136) |   unknown  |    -   |     manga    |                                              Kaijuu 8-gou: Kanketsu-hen                                             |   2 days ago  |        -        |
 | [10079](https://myanimelist.net/anime/10079) |     tv     |  2011  | visual_novel |                                               Hoshizora e Kakaru Hashi                                              |  2 weeks ago  |        -        |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |     manga    |                                             Sousou no Frieren 2nd Season                                            |  3 weeks ago  |        -        |
 | [57433](https://myanimelist.net/anime/57433) |     tv     |  2025  |  light_novel |                                  Seishun Buta Yarou wa Santa Claus no Yume wo Minai                                 |  3 weeks ago  |        -        |
@@ -150,8 +151,8 @@
 | [55005](https://myanimelist.net/anime/55005) |   special  |  2020  |     manga    |                                       Munou na Nana Mini Anime: Yaminabe Party                                      |  2 years ago  |        -        |
 | [40046](https://myanimelist.net/anime/40046) |     tv     |  2020  |   original   |                                                      Id:Invaded                                                     |  2 years ago  |        -        |
 | [40961](https://myanimelist.net/anime/40961) |     tv     |  2021  |     game     |                                                    Hortensia Saga                                                   |  2 years ago  |        -        |
-| [54865](https://myanimelist.net/anime/54865) |     tv     |  2024  |     manga    |                                               Blue Lock vs. U-20 Japan                                              |  2 years ago  |        -        |
-| [31245](https://myanimelist.net/anime/31245) |    movie   |  2016  |     music    |                                 Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai                                 |  2 years ago  |        -        |
+| [54865](https://myanimelist.net/anime/54865) |     tv     |  2024  |     manga    |                                               Blue Lock vs. U-20 Japan                                              |  3 years ago  |        -        |
+| [31245](https://myanimelist.net/anime/31245) |    movie   |  2016  |     music    |                                 Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai                                 |  3 years ago  |        -        |
 | [11235](https://myanimelist.net/anime/11235) |     tv     |  2012  | visual_novel |                                                   Amagami SS+ Plus                                                  |  3 years ago  |        -        |
 |  [9776](https://myanimelist.net/anime/9776)  |     tv     |  2011  | 4_koma_manga |                                                      A-Channel                                                      |  3 years ago  |        -        |
 | [16009](https://myanimelist.net/anime/16009) |     tv     |  2013  |  light_novel |                                             Kamisama no Inai Nichiyoubi                                             |  3 years ago  |        -        |

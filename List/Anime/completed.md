@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          |   Yesterday   | 12/06/2025 |  12/27/2025 |
+| [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          |   2 days ago  | 12/06/2025 |  12/27/2025 |
 | [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |   8   |                                    Boku no Hero Academia: Final Season                                    |   Last week   | 12/02/2025 |  12/18/2025 |
 | [61200](https://myanimelist.net/anime/61200) |     ona    |  2025  |   6   |                                          Shuumatsu no Walküre III                                         |   Last week   | 12/13/2025 |  12/13/2025 |
 | [52588](https://myanimelist.net/anime/52588) |     tv     |  2024  |   7   |                                                Kaijuu 8-gou                                               |  3 weeks ago  | 12/06/2025 |  12/06/2025 |
@@ -157,7 +157,7 @@
 | [28907](https://myanimelist.net/anime/28907) |     tv     |  2015  |   8   |                                 Gate: Jieitai Kanochi nite, Kaku Tatakaeri                                |  4 years ago  | 04/20/2022 |  04/20/2022 |
 | [30296](https://myanimelist.net/anime/30296) |     tv     |  2015  |   8   |                                          Rakudai Kishi no Cavalry                                         |  4 years ago  | 04/18/2022 |  04/18/2022 |
 | [13403](https://myanimelist.net/anime/13403) |   special  |  2012  |   7   |                           Inu x Boku SS: Miketsukami-kun Henka/Switch/Omamagoto                           |  4 years ago  | 04/15/2022 |  04/15/2022 |
-| [11013](https://myanimelist.net/anime/11013) |     tv     |  2012  |   8   |                                               Inu x Boku SS                                               |  3 years ago  | 04/14/2022 |  04/15/2022 |
+| [11013](https://myanimelist.net/anime/11013) |     tv     |  2012  |   8   |                                               Inu x Boku SS                                               |  4 years ago  | 04/14/2022 |  04/15/2022 |
 | [32827](https://myanimelist.net/anime/32827) |     ona    |  2018  |   7   |                                              B: The Beginning                                             |  4 years ago  | 04/12/2022 |  04/13/2022 |
 | [39049](https://myanimelist.net/anime/39049) |     tv     |  2020  |   7   |                                           Jashin-chan Dropkick'                                           |  3 years ago  | 04/10/2022 |  04/13/2022 |
 | [23277](https://myanimelist.net/anime/23277) |     tv     |  2015  |   5   |                                        Saenai Heroine no Sodatekata                                       |  4 years ago  | 04/09/2022 |  04/10/2022 |
