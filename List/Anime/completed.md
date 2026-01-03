@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          |   6 days ago  | 12/06/2025 |  12/27/2025 |
+| [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          |   Last week   | 12/06/2025 |  12/27/2025 |
 | [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |   8   |                                    Boku no Hero Academia: Final Season                                    |  2 weeks ago  | 12/02/2025 |  12/18/2025 |
 | [61200](https://myanimelist.net/anime/61200) |     ona    |  2025  |   6   |                                          Shuumatsu no Walküre III                                         |  2 weeks ago  | 12/13/2025 |  12/13/2025 |
 | [52588](https://myanimelist.net/anime/52588) |     tv     |  2024  |   7   |                                                Kaijuu 8-gou                                               |  3 weeks ago  | 12/06/2025 |  12/06/2025 |
@@ -301,7 +301,7 @@
 | [32648](https://myanimelist.net/anime/32648) |     tv     |  2016  |   7   |                                                 Handa-kun                                                 |  4 years ago  | 05/30/2021 |  05/30/2021 |
 | [33487](https://myanimelist.net/anime/33487) |     tv     |  2017  |   7   |                                          Masamune-kun no Revenge                                          |  4 years ago  | 05/29/2021 |  05/29/2021 |
 | [37377](https://myanimelist.net/anime/37377) |     ova    |  2018  |   5   |    Masamune-kun no Revenge: Uchi no Mama ni Kagitte/Tsunade Shima, Futatabi./12-Ji wo Sugita Cinderella   |  4 years ago  | 05/29/2021 |  05/29/2021 |
-| [39017](https://myanimelist.net/anime/39017) |     tv     |  2020  |   7   |                                                Kyokou Suiri                                               |  4 years ago  | 11/28/2020 |  05/28/2021 |
+| [39017](https://myanimelist.net/anime/39017) |     tv     |  2020  |   7   |                                                Kyokou Suiri                                               |  5 years ago  | 11/28/2020 |  05/28/2021 |
 | [23385](https://myanimelist.net/anime/23385) |   special  |  2014  |   8   |                                        Kyoukai no Kanata: Shinonome                                       |  5 years ago  | 05/27/2021 |  05/27/2021 |
 |  [6547](https://myanimelist.net/anime/6547)  |     tv     |  2010  |   7   |                                                Angel Beats!                                               |  4 years ago  | 05/24/2021 |  05/24/2021 |
 | [43609](https://myanimelist.net/anime/43609) |     ova    |  2021  |   8   |                       Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA                      |  4 years ago  | 05/24/2021 |  05/24/2021 |
