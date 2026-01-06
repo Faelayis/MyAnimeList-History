@@ -2,7 +2,7 @@
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [59267](https://myanimelist.net/anime/59267) |  tv  |  2025  |   -   |                                     Sanda                                    |   1/12  |  6 days ago  | 12/30/2025 |
+| [59267](https://myanimelist.net/anime/59267) |  tv  |  2025  |   -   |                                     Sanda                                    |   1/12  |   Last week  | 12/30/2025 |
 | [59845](https://myanimelist.net/anime/59845) |  tv  |  2025  |   -   |                           Kaoru Hana wa Rin to Saku                          |   1/13  |   Last week  | 12/27/2025 |
 | [59636](https://myanimelist.net/anime/59636) |  tv  |  2025  |   -   |                          Uma Musume: Cinderella Gray                         |   1/13  |   Last week  | 12/27/2025 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                   One Piece                                  |  1145/? |  Last month  | 01/01/2013 |
