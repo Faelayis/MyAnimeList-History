@@ -1,9 +1,10 @@
-# Plan to Watch (342)
+# Plan to Watch (343)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [60058](https://myanimelist.net/anime/60058) |     tv     |  2026  |     manga    |                                               [Oshi no Ko] 3rd Season                                               |  6 hours ago  |        -        |
 | [63136](https://myanimelist.net/anime/63136) |   unknown  |    -   |     manga    |                                              Kaijuu 8-gou: Kanketsu-hen                                             |   Last week   |        -        |
-| [10079](https://myanimelist.net/anime/10079) |     tv     |  2011  | visual_novel |                                               Hoshizora e Kakaru Hashi                                              |  3 weeks ago  |        -        |
+| [10079](https://myanimelist.net/anime/10079) |     tv     |  2011  | visual_novel |                                               Hoshizora e Kakaru Hashi                                              |   Last month  |        -        |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |     manga    |                                             Sousou no Frieren 2nd Season                                            |   Last month  |        -        |
 | [57433](https://myanimelist.net/anime/57433) |     tv     |  2025  |  light_novel |                                  Seishun Buta Yarou wa Santa Claus no Yume wo Minai                                 |   Last month  |        -        |
 | [59644](https://myanimelist.net/anime/59644) |     tv     |  2025  |  light_novel |                                           Yasei no Last Boss ga Arawareta!                                          |   Last month  |    11/23/2025   |
@@ -30,7 +31,7 @@
 | [59986](https://myanimelist.net/anime/59986) |     tv     |  2025  |     manga    |                                                 Grand Blue Season 2                                                 |  6 months ago |        -        |
 | [61322](https://myanimelist.net/anime/61322) |     tv     |  2025  |     manga    |                                           Dr. Stone: Science Future Part 2                                          |  6 months ago |        -        |
 | [61903](https://myanimelist.net/anime/61903) | tv_special |  2025  |     manga    |                                    Kaguya-sama wa Kokurasetai: Otona e no Kaidan                                    |  6 months ago |        -        |
-|   [513](https://myanimelist.net/anime/513)   |    movie   |  1986  |   original   |                                                Tenkuu no Shiro Laputa                                               | 10 months ago |        -        |
+|   [513](https://myanimelist.net/anime/513)   |    movie   |  1986  |   original   |                                                Tenkuu no Shiro Laputa                                               | 11 months ago |        -        |
 | [57907](https://myanimelist.net/anime/57907) |     tv     |  2025  |  light_novel |                                         Tate no Yuusha no Nariagari Season 4                                        | 11 months ago |        -        |
 | [58484](https://myanimelist.net/anime/58484) |     tv     |  2025  |  light_novel |                                                  Ishura 2nd Season                                                  | 11 months ago |        -        |
 | [61012](https://myanimelist.net/anime/61012) |     tv     |    -   |     manga    |                                          Toaru Kagaku no Railgun 4th Season                                         | 11 months ago |        -        |

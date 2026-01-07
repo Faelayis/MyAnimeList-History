@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (7) ``2.05%``
+#### Watching (7) ``2.04%``
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
@@ -16,7 +16,7 @@ List Sync From MyAnimeList (update every day)
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``102.71%``
+#### Completed ``102.92%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -30,7 +30,7 @@ List Sync From MyAnimeList (update every day)
 
 *[474 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``12.75%``
+#### On Hold ``12.73%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
@@ -58,16 +58,16 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``54.20%``
+#### Plan to Watch ``54.36%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [60058](https://myanimelist.net/anime/60058) |     tv     |  2026  |     manga    |                                               [Oshi no Ko] 3rd Season                                               |  6 hours ago  |        -        |
 | [63136](https://myanimelist.net/anime/63136) |   unknown  |    -   |     manga    |                                              Kaijuu 8-gou: Kanketsu-hen                                             |   Last week   |        -        |
-| [10079](https://myanimelist.net/anime/10079) |     tv     |  2011  | visual_novel |                                               Hoshizora e Kakaru Hashi                                              |  3 weeks ago  |        -        |
+| [10079](https://myanimelist.net/anime/10079) |     tv     |  2011  | visual_novel |                                               Hoshizora e Kakaru Hashi                                              |   Last month  |        -        |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |     manga    |                                             Sousou no Frieren 2nd Season                                            |   Last month  |        -        |
 | [57433](https://myanimelist.net/anime/57433) |     tv     |  2025  |  light_novel |                                  Seishun Buta Yarou wa Santa Claus no Yume wo Minai                                 |   Last month  |        -        |
 | [59644](https://myanimelist.net/anime/59644) |     tv     |  2025  |  light_novel |                                           Yasei no Last Boss ga Arawareta!                                          |   Last month  |    11/23/2025   |
-| [61930](https://myanimelist.net/anime/61930) |     tv     |  2025  |     manga    |                                          Uma Musume: Cinderella Gray Part 2                                         |   Last month  |        -        |
 
 
-*[335 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[336 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
