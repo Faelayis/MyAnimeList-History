@@ -37,8 +37,8 @@ List Sync From MyAnimeList (update every day)
 | [53526](https://myanimelist.net/anime/53526) |    tv   |  2023  |   -   |                                       Uma Musume: Pretty Derby Season 3                                       |   1/13  |  Last month  | 11/22/2025 |
 | [57181](https://myanimelist.net/anime/57181) |    tv   |  2024  |   -   |                                                   Ao no Hako                                                  |  18/25  | 2 months ago | 09/12/2025 |
 | [59192](https://myanimelist.net/anime/59192) |  movie  |  2025  |   10  |                             Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai                             |   1/1   | 3 months ago | 08/12/2025 |
-| [61339](https://myanimelist.net/anime/61339) |    tv   |  2025  |   -   |                                       Jibaku Shounen Hanako-kun 2 Part 2                                      |   0/12  |  3 weeks ago | 07/07/2025 |
-| [58390](https://myanimelist.net/anime/58390) |    tv   |  2025  |   -   |                                           Yofukashi no Uta Season 2                                           |   1/12  |  3 weeks ago | 07/07/2025 |
+| [61339](https://myanimelist.net/anime/61339) |    tv   |  2025  |   -   |                                       Jibaku Shounen Hanako-kun 2 Part 2                                      |   0/12  |  Last month  | 07/07/2025 |
+| [58390](https://myanimelist.net/anime/58390) |    tv   |  2025  |   -   |                                           Yofukashi no Uta Season 2                                           |   1/12  |  Last month  | 07/07/2025 |
 | [60489](https://myanimelist.net/anime/60489) |   ona   |  2025  |   8   |                                               Takopii no Genzai                                               |   1/6   | 3 months ago | 07/03/2025 |
 
 
@@ -62,8 +62,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [56009](https://myanimelist.net/anime/56009) |     tv     |  2026  |  light_novel |                             Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku                             |  8 hours ago  |        -        |
-| [60058](https://myanimelist.net/anime/60058) |     tv     |  2026  |     manga    |                                               [Oshi no Ko] 3rd Season                                               |   Yesterday   |        -        |
+| [56009](https://myanimelist.net/anime/56009) |     tv     |  2026  |  light_novel |                             Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku                             |   Yesterday   |        -        |
+| [60058](https://myanimelist.net/anime/60058) |     tv     |  2026  |     manga    |                                               [Oshi no Ko] 3rd Season                                               |   2 days ago  |        -        |
 | [63136](https://myanimelist.net/anime/63136) |   unknown  |    -   |     manga    |                                              Kaijuu 8-gou: Kanketsu-hen                                             |   Last week   |        -        |
 | [10079](https://myanimelist.net/anime/10079) |     tv     |  2011  | visual_novel |                                               Hoshizora e Kakaru Hashi                                              |   Last month  |        -        |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |     manga    |                                             Sousou no Frieren 2nd Season                                            |   Last month  |        -        |
