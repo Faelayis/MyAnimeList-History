@@ -1,10 +1,9 @@
-# Plan to Watch (344)
+# Plan to Watch (342)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [56009](https://myanimelist.net/anime/56009) |     tv     |  2026  |  light_novel |                             Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku                             |   Yesterday   |        -        |
-| [60058](https://myanimelist.net/anime/60058) |     tv     |  2026  |     manga    |                                               [Oshi no Ko] 3rd Season                                               |   2 days ago  |        -        |
-| [63136](https://myanimelist.net/anime/63136) |   unknown  |    -   |     manga    |                                              Kaijuu 8-gou: Kanketsu-hen                                             |   Last week   |        -        |
+| [60058](https://myanimelist.net/anime/60058) |     tv     |  2026  |     manga    |                                               [Oshi no Ko] 3rd Season                                               |   3 days ago  |        -        |
+| [63136](https://myanimelist.net/anime/63136) |   unknown  |    -   |     manga    |                                              Kaijuu 8-gou: Kanketsu-hen                                             |  2 weeks ago  |        -        |
 | [10079](https://myanimelist.net/anime/10079) |     tv     |  2011  | visual_novel |                                               Hoshizora e Kakaru Hashi                                              |   Last month  |        -        |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |     manga    |                                             Sousou no Frieren 2nd Season                                            |   Last month  |        -        |
 | [57433](https://myanimelist.net/anime/57433) |     tv     |  2025  |  light_novel |                                  Seishun Buta Yarou wa Santa Claus no Yume wo Minai                                 |   Last month  |        -        |
@@ -38,7 +37,7 @@
 | [61012](https://myanimelist.net/anime/61012) |     tv     |    -   |     manga    |                                          Toaru Kagaku no Railgun 4th Season                                         | 11 months ago |        -        |
 | [53924](https://myanimelist.net/anime/53924) |     tv     |  2025  |     manga    |                                             Jibaku Shounen Hanako-kun 2                                             | 11 months ago |        -        |
 | [61006](https://myanimelist.net/anime/61006) |     tv     |    -   | 4_koma_manga |                                             Bocchi the Rock! 2nd Season                                             | 11 months ago |        -        |
-| [59361](https://myanimelist.net/anime/59361) |     tv     |  2025  |     manga    |                                         Kono Kaisha ni Suki na Hito ga Imasu                                        | 11 months ago |        -        |
+| [59361](https://myanimelist.net/anime/59361) |     tv     |  2025  |     manga    |                                         Kono Kaisha ni Suki na Hito ga Imasu                                        |   02/07/2025  |        -        |
 | [58271](https://myanimelist.net/anime/58271) |     tv     |  2025  |     manga    |                                                   Honey Lemon Soda                                                  |   02/04/2025  |        -        |
 | [59130](https://myanimelist.net/anime/59130) |     tv     |  2025  |  light_novel |                       Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku                      |   01/30/2025  |        -        |
 | [60593](https://myanimelist.net/anime/60593) |     tv     |  2025  |     manga    |                                      Vigilante: Boku no Hero Academia Illegals                                      |   01/01/2025  |        -        |
@@ -116,7 +115,6 @@
 | [57592](https://myanimelist.net/anime/57592) |     tv     |  2025  |     manga    |                                              Dr. Stone: Science Future                                              |  2 years ago  |        -        |
 | [56967](https://myanimelist.net/anime/56967) |     tv     |  2024  |   original   |                                                 Kamierabi 2nd Season                                                |  2 years ago  |        -        |
 | [57616](https://myanimelist.net/anime/57616) |     tv     |  2025  |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season                         |  2 years ago  |        -        |
-| [57658](https://myanimelist.net/anime/57658) |     tv     |  2026  |     manga    |                                       Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                                      |  2 years ago  |        -        |
 | [56876](https://myanimelist.net/anime/56876) |     tv     |  2026  |  light_novel |                        Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2                        |  2 years ago  |        -        |
 | [53065](https://myanimelist.net/anime/53065) |     tv     |  2025  |     manga    |                                       Sono Bisque Doll wa Koi wo Suru Season 2                                      |  2 years ago  |        -        |
 | [54857](https://myanimelist.net/anime/54857) |     tv     |  2024  |  light_novel |                                   Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season                                  |  2 years ago  |        -        |
