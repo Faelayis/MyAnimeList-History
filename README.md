@@ -6,14 +6,14 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |                   Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                   |   2/?   |  4 hours ago | 01/10/2026 |
-| [56009](https://myanimelist.net/anime/56009) |  tv  |  2026  |   -   |          Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku         |   1/12  | 22 hours ago | 01/09/2026 |
+| [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                                  Gachiakuta                                  |  22/24  |  9 hours ago | 07/07/2025 |
+| [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |                   Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                   |   2/?   |   Yesterday  | 01/10/2026 |
+| [56009](https://myanimelist.net/anime/56009) |  tv  |  2026  |   -   |          Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku         |   1/12  |   Yesterday  | 01/09/2026 |
 | [59267](https://myanimelist.net/anime/59267) |  tv  |  2025  |   -   |                                     Sanda                                    |   1/12  |   Last week  | 12/30/2025 |
-| [59845](https://myanimelist.net/anime/59845) |  tv  |  2025  |   -   |                           Kaoru Hana wa Rin to Saku                          |   1/13  |   Last week  | 12/27/2025 |
+| [59845](https://myanimelist.net/anime/59845) |  tv  |  2025  |   -   |                           Kaoru Hana wa Rin to Saku                          |   1/13  |  2 weeks ago | 12/27/2025 |
 | [59636](https://myanimelist.net/anime/59636) |  tv  |  2025  |   -   |                          Uma Musume: Cinderella Gray                         |   1/13  |  2 weeks ago | 12/27/2025 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                   One Piece                                  |  1145/? |  Last month  | 01/01/2013 |
 | [61026](https://myanimelist.net/anime/61026) |  tv  |  2025  |   8   | Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga |   9/12  |  Last month  | 11/29/2025 |
-| [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                                  Gachiakuta                                  |  20/24  |  Last month  | 07/07/2025 |
 | [59459](https://myanimelist.net/anime/59459) |  tv  |  2025  |   9   |                 Silent Witch: Chinmoku no Majo no Kakushigoto                |   5/13  | 5 months ago | 07/07/2025 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
@@ -54,7 +54,7 @@ List Sync From MyAnimeList (update every day)
 | [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                   Ao no Exorcist: Shimane Illuminati-hen                                  |   1/12  | 2 years ago | 01/10/2024 |
 | [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   5   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  | 2 years ago | 04/04/2023 |
 | [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   3/12  | 2 years ago | 04/03/2023 |
-| [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                                       Boku no Kokoro no Yabai Yatsu                                       |   2/12  | 2 years ago | 04/02/2023 |
+| [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                                       Boku no Kokoro no Yabai Yatsu                                       |   2/12  | 3 years ago | 04/02/2023 |
 | [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |                           Campione! Matsurowanu Kamigami to Kamigoroshi no Maou                           |   1/13  | 3 years ago | 03/20/2023 |
 
 
@@ -64,7 +64,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [60058](https://myanimelist.net/anime/60058) |     tv     |  2026  |     manga    |                                               [Oshi no Ko] 3rd Season                                               |   3 days ago  |        -        |
+| [60058](https://myanimelist.net/anime/60058) |     tv     |  2026  |     manga    |                                               [Oshi no Ko] 3rd Season                                               |   4 days ago  |        -        |
 | [63136](https://myanimelist.net/anime/63136) |   unknown  |    -   |     manga    |                                              Kaijuu 8-gou: Kanketsu-hen                                             |  2 weeks ago  |        -        |
 | [10079](https://myanimelist.net/anime/10079) |     tv     |  2011  | visual_novel |                                               Hoshizora e Kakaru Hashi                                              |   Last month  |        -        |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |     manga    |                                             Sousou no Frieren 2nd Season                                            |   Last month  |        -        |
