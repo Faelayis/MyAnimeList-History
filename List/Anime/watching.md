@@ -1,11 +1,12 @@
-# Watching (9)
+# Watching (10)
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                                  Gachiakuta                                  |  22/24  |   Yesterday  | 07/07/2025 |
-| [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |                   Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                   |   2/?   |  2 days ago  | 01/10/2026 |
-| [56009](https://myanimelist.net/anime/56009) |  tv  |  2026  |   -   |          Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku         |   1/12  |  2 days ago  | 01/09/2026 |
-| [59267](https://myanimelist.net/anime/59267) |  tv  |  2025  |   -   |                                     Sanda                                    |   1/12  |   Last week  | 12/30/2025 |
+| [51818](https://myanimelist.net/anime/51818) |  tv  |  2025  |   -   |                        Enen no Shouboutai: San no Shou                       |   4/12  |  9 hours ago | 01/13/2026 |
+| [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                                  Gachiakuta                                  |  22/24  |  2 days ago  | 07/07/2025 |
+| [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |                   Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                   |   2/?   |  3 days ago  | 01/10/2026 |
+| [56009](https://myanimelist.net/anime/56009) |  tv  |  2026  |   -   |          Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku         |   1/12  |  3 days ago  | 01/09/2026 |
+| [59267](https://myanimelist.net/anime/59267) |  tv  |  2025  |   -   |                                     Sanda                                    |   1/12  |  2 weeks ago | 12/30/2025 |
 | [59845](https://myanimelist.net/anime/59845) |  tv  |  2025  |   -   |                           Kaoru Hana wa Rin to Saku                          |   1/13  |  2 weeks ago | 12/27/2025 |
 | [59636](https://myanimelist.net/anime/59636) |  tv  |  2025  |   -   |                          Uma Musume: Cinderella Gray                         |   1/13  |  2 weeks ago | 12/27/2025 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                                   One Piece                                  |  1145/? |  Last month  | 01/01/2013 |
