@@ -1,13 +1,11 @@
-# Plan to Watch (342)
+# Plan to Watch (339)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [60058](https://myanimelist.net/anime/60058) |     tv     |  2026  |     manga    |                                               [Oshi no Ko] 3rd Season                                               |   Last week   |        -        |
-| [63136](https://myanimelist.net/anime/63136) |   unknown  |    -   |     manga    |                                              Kaijuu 8-gou: Kanketsu-hen                                             |  2 weeks ago  |        -        |
+| [63136](https://myanimelist.net/anime/63136) |   unknown  |    -   |     manga    |                                              Kaijuu 8-gou: Kanketsu-hen                                             |  3 weeks ago  |        -        |
 | [10079](https://myanimelist.net/anime/10079) |     tv     |  2011  | visual_novel |                                               Hoshizora e Kakaru Hashi                                              |   Last month  |        -        |
-| [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |     manga    |                                             Sousou no Frieren 2nd Season                                            |   Last month  |        -        |
 | [57433](https://myanimelist.net/anime/57433) |     tv     |  2025  |  light_novel |                                  Seishun Buta Yarou wa Santa Claus no Yume wo Minai                                 |   Last month  |        -        |
-| [59644](https://myanimelist.net/anime/59644) |     tv     |  2025  |  light_novel |                                           Yasei no Last Boss ga Arawareta!                                          |   Last month  |    11/23/2025   |
 | [61930](https://myanimelist.net/anime/61930) |     tv     |  2025  |     manga    |                                          Uma Musume: Cinderella Gray Part 2                                         |   Last month  |        -        |
 | [37822](https://myanimelist.net/anime/37822) |     ona    |  2018  |     novel    |                                                Douluo Dalu 2nd Season                                               |   Last month  |        -        |
 | [37150](https://myanimelist.net/anime/37150) |     ona    |  2018  |     novel    |                                                     Douluo Dalu                                                     |   Last month  |        -        |
@@ -136,7 +134,6 @@
 | [56196](https://myanimelist.net/anime/56196) |    movie   |  2024  |     manga    |                                    Boku no Hero Academia the Movie 4: You're Next                                   |  2 years ago  |        -        |
 | [55357](https://myanimelist.net/anime/55357) |    movie   |  2024  | 4_koma_manga |                                                Bocchi the Rock! Movie                                               |  2 years ago  |        -        |
 | [48896](https://myanimelist.net/anime/48896) |    movie   |  2024  |  light_novel |                                           Overlord Movie 3: Sei Oukoku-hen                                          |  2 years ago  |        -        |
-| [55825](https://myanimelist.net/anime/55825) |     tv     |  2026  |     manga    |                                                Jigokuraku 2nd Season                                                |  2 years ago  |        -        |
 | [54898](https://myanimelist.net/anime/54898) |     tv     |  2023  |     manga    |                                             Bungou Stray Dogs 5th Season                                            |  2 years ago  |        -        |
 | [54915](https://myanimelist.net/anime/54915) | tv_special |  2023  |     manga    |                                                5-toubun no Hanayome∽                                                |  2 years ago  |        -        |
 | [54856](https://myanimelist.net/anime/54856) |     tv     |  2023  |     manga    |                                                   Horimiya: Piece                                                   |  2 years ago  |        -        |
@@ -214,7 +211,7 @@
 | [47163](https://myanimelist.net/anime/47163) |     tv     |  2022  |  light_novel |                 Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita                |  3 years ago  |        -        |
 | [52149](https://myanimelist.net/anime/52149) |   special  |  2022  |     manga    |                                Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho                               |  3 years ago  |        -        |
 |  [2034](https://myanimelist.net/anime/2034)  |     tv     |  2007  |     manga    |                                                    Lovely★Complex                                                   |  3 years ago  |        -        |
-|   [486](https://myanimelist.net/anime/486)   |     tv     |  2003  |  light_novel |                                          Kino no Tabi: The Beautiful World                                          |  3 years ago  |        -        |
+|   [486](https://myanimelist.net/anime/486)   |     tv     |  2003  |  light_novel |                                          Kino no Tabi: The Beautiful World                                          |  4 years ago  |        -        |
 | [51252](https://myanimelist.net/anime/51252) |     tv     |  2023  |  light_novel |                                                    Spy Kyoushitsu                                                   |  4 years ago  |        -        |
 | [51781](https://myanimelist.net/anime/51781) |     ona    |  2022  |     manga    |                                             Boku no Hero Academia (ONA)                                             |  4 years ago  |        -        |
 | [15005](https://myanimelist.net/anime/15005) |     ona    |  2012  |     manga    |                                                  Kyou no Asuka Show                                                 |  4 years ago  |        -        |
