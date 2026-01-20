@@ -5,7 +5,7 @@
 | [52635](https://myanimelist.net/anime/52635) |  tv  |  2024  |   -   |                                         Kami no Tou: Ouji no Kikan                                        |   1/13  |  Last year  | 07/14/2024 |
 | [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                   Ao no Exorcist: Shimane Illuminati-hen                                  |   1/12  | 2 years ago | 01/10/2024 |
 | [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   5   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  | 2 years ago | 04/04/2023 |
-| [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   3/12  | 2 years ago | 04/03/2023 |
+| [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   3/12  | 3 years ago | 04/03/2023 |
 | [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                                       Boku no Kokoro no Yabai Yatsu                                       |   2/12  | 3 years ago | 04/02/2023 |
 | [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |                           Campione! Matsurowanu Kamigami to Kamigoroshi no Maou                           |   1/13  | 3 years ago | 03/20/2023 |
 |   [934](https://myanimelist.net/anime/934)   |  tv  |  2006  |   -   |                                         Higurashi no Naku Koro ni                                         |  10/26  | 3 years ago | 12/23/2022 |
@@ -19,7 +19,7 @@
 | [46471](https://myanimelist.net/anime/46471) |  tv  |  2021  |   5   |                                         Tantei wa Mou, Shindeiru.                                         |   2/12  | 4 years ago | 07/04/2021 |
 | [19221](https://myanimelist.net/anime/19221) |  tv  |  2013  |   5   |                Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru               |   5/10  | 3 years ago | 06/20/2021 |
 | [11319](https://myanimelist.net/anime/11319) |  tv  |  2012  |   5   |                                             Zero no Tsukaima F                                            |   1/12  | 4 years ago | 06/17/2021 |
-| [30383](https://myanimelist.net/anime/30383) |  tv  |  2015  |   -   |                                              Classroom☆Crisis                                             |   2/13  | 4 years ago | 06/07/2021 |
+| [30383](https://myanimelist.net/anime/30383) |  tv  |  2015  |   -   |                                              Classroom☆Crisis                                             |   2/13  | 5 years ago | 06/07/2021 |
 |  [2167](https://myanimelist.net/anime/2167)  |  tv  |  2007  |   -   |                                                  Clannad                                                  |   1/23  | 5 years ago | 06/05/2021 |
 | [42307](https://myanimelist.net/anime/42307) |  tv  |  2021  |   2   |                                    Subarashiki Kono Sekai The Animation                                   |   2/12  | 5 years ago | 04/24/2021 |
 | [42826](https://myanimelist.net/anime/42826) |  tv  |  2021  |   4   |                                      Seijo no Maryoku wa Bannou desu                                      |   1/12  | 4 years ago | 04/07/2021 |
