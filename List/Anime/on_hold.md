@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [59267](https://myanimelist.net/anime/59267) |    tv   |  2025  |   -   |                                                     Sanda                                                     |   1/12  |  4 days ago  | 12/30/2025 |
+| [59267](https://myanimelist.net/anime/59267) |    tv   |  2025  |   -   |                                                     Sanda                                                     |   1/12  |  5 days ago  | 12/30/2025 |
 | [53526](https://myanimelist.net/anime/53526) |    tv   |  2023  |   -   |                                       Uma Musume: Pretty Derby Season 3                                       |   1/13  |  Last month  | 11/22/2025 |
 | [57181](https://myanimelist.net/anime/57181) |    tv   |  2024  |   -   |                                                   Ao no Hako                                                  |  18/25  | 3 months ago | 09/12/2025 |
 | [59192](https://myanimelist.net/anime/59192) |  movie  |  2025  |   10  |                             Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai                             |   1/1   | 4 months ago | 08/12/2025 |
@@ -67,7 +67,7 @@
 | [24455](https://myanimelist.net/anime/24455) |    tv   |  2014  |   -   |                                             Madan no Ou to Vanadis                                            |   6/13  |  3 years ago | 04/22/2022 |
 | [39071](https://myanimelist.net/anime/39071) |    tv   |  2019  |   -   |                                                Machikado Mazoku                                               |   4/12  |  2 years ago | 04/19/2022 |
 | [45613](https://myanimelist.net/anime/45613) |    tv   |  2022  |   -   |                                        Kawaii dake ja Nai Shikimori-san                                       |   5/12  |  3 years ago | 04/10/2022 |
-| [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                                              Mahoutsukai Reimeiki                                             |   2/12  |  3 years ago | 04/09/2022 |
+| [48842](https://myanimelist.net/anime/48842) |    tv   |  2022  |   -   |                                              Mahoutsukai Reimeiki                                             |   2/12  |  4 years ago | 04/09/2022 |
 | [40356](https://myanimelist.net/anime/40356) |    tv   |  2022  |   6   |                                      Tate no Yuusha no Nariagari Season 2                                     |   3/13  |  3 years ago | 04/06/2022 |
 | [49520](https://myanimelist.net/anime/49520) |    tv   |  2022  |   7   |                                            Aharen-san wa Hakarenai                                            |   5/12  |  3 years ago | 04/01/2022 |
 | [43470](https://myanimelist.net/anime/43470) |    tv   |  2022  |   6   |                             Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart                             |   2/12  |  3 years ago | 04/01/2022 |

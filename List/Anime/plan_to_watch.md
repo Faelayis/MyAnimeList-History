@@ -1,16 +1,15 @@
-# Plan to Watch (340)
+# Plan to Watch (339)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [50392](https://myanimelist.net/anime/50392) |     tv     |  2024  |     manga    |                                                 Mato Seihei no Slave                                                |   3 days ago  |        -        |
+| [50392](https://myanimelist.net/anime/50392) |     tv     |  2024  |     manga    |                                                 Mato Seihei no Slave                                                |   4 days ago  |        -        |
 | [60058](https://myanimelist.net/anime/60058) |     tv     |  2026  |     manga    |                                               [Oshi no Ko] 3rd Season                                               |  2 weeks ago  |        -        |
-| [63136](https://myanimelist.net/anime/63136) |   unknown  |    -   |     manga    |                                              Kaijuu 8-gou: Kanketsu-hen                                             |  3 weeks ago  |        -        |
+| [63136](https://myanimelist.net/anime/63136) |   unknown  |    -   |     manga    |                                              Kaijuu 8-gou: Kanketsu-hen                                             |   Last month  |        -        |
 | [10079](https://myanimelist.net/anime/10079) |     tv     |  2011  | visual_novel |                                               Hoshizora e Kakaru Hashi                                              |   Last month  |        -        |
 | [57433](https://myanimelist.net/anime/57433) |     tv     |  2025  |  light_novel |                                  Seishun Buta Yarou wa Santa Claus no Yume wo Minai                                 |   Last month  |        -        |
 | [61930](https://myanimelist.net/anime/61930) |     tv     |  2025  |     manga    |                                          Uma Musume: Cinderella Gray Part 2                                         |  2 months ago |        -        |
 | [37822](https://myanimelist.net/anime/37822) |     ona    |  2018  |     novel    |                                                Douluo Dalu 2nd Season                                               |  2 months ago |        -        |
 | [37150](https://myanimelist.net/anime/37150) |     ona    |  2018  |     novel    |                                                     Douluo Dalu                                                     |  2 months ago |        -        |
-| [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   original   |                                                  Chou Kaguya-hime!                                                  |  2 months ago |        -        |
 | [62811](https://myanimelist.net/anime/62811) |     tv     |    -   |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season                         |  3 months ago |        -        |
 | [62844](https://myanimelist.net/anime/62844) |    movie   |  2026  |  light_novel |                                             Kusuriya no Hitorigoto Movie                                            |  3 months ago |        -        |
 | [62584](https://myanimelist.net/anime/62584) |     tv     |    -   |   web_manga  |                                          Hikaru ga Shinda Natsu 2nd Season                                          |  4 months ago |        -        |
