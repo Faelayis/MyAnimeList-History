@@ -2,7 +2,7 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [59267](https://myanimelist.net/anime/59267) |    tv   |  2025  |   -   |                                                     Sanda                                                     |   1/12  |  6 days ago  | 12/30/2025 |
+| [59267](https://myanimelist.net/anime/59267) |    tv   |  2025  |   -   |                                                     Sanda                                                     |   1/12  |   Last week  | 12/30/2025 |
 | [53526](https://myanimelist.net/anime/53526) |    tv   |  2023  |   -   |                                       Uma Musume: Pretty Derby Season 3                                       |   1/13  |  Last month  | 11/22/2025 |
 | [57181](https://myanimelist.net/anime/57181) |    tv   |  2024  |   -   |                                                   Ao no Hako                                                  |  18/25  | 3 months ago | 09/12/2025 |
 | [59192](https://myanimelist.net/anime/59192) |  movie  |  2025  |   10  |                             Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai                             |   1/1   | 4 months ago | 08/12/2025 |
@@ -93,7 +93,7 @@
 | [40935](https://myanimelist.net/anime/40935) |    tv   |  2021  |   -   |                                              Beastars 2nd Season                                              |   8/12  |  4 years ago | 07/20/2021 |
 | [43969](https://myanimelist.net/anime/43969) |    tv   |  2021  |   -   |                                                Kanojo mo Kanojo                                               |   3/12  |  4 years ago | 07/05/2021 |
 | [40904](https://myanimelist.net/anime/40904) |    tv   |  2021  |   -   |                                              Bokutachi no Remake                                              |   2/12  |  4 years ago | 07/04/2021 |
-|  [6746](https://myanimelist.net/anime/6746)  |    tv   |  2010  |   -   |                                                   Durarara!!                                                  |  14/24  |  4 years ago | 06/17/2021 |
+|  [6746](https://myanimelist.net/anime/6746)  |    tv   |  2010  |   -   |                                                   Durarara!!                                                  |  14/24  |  5 years ago | 06/17/2021 |
 | [37976](https://myanimelist.net/anime/37976) |    tv   |  2018  |   -   |                                                Zombieland Saga                                                |   3/12  |  5 years ago | 05/28/2021 |
 | [18153](https://myanimelist.net/anime/18153) |    tv   |  2013  |   -   |                                               Kyoukai no Kanata                                               |   5/12  |  3 years ago | 05/27/2021 |
 | [43007](https://myanimelist.net/anime/43007) |    tv   |  2021  |   -   |                                  Osananajimi ga Zettai ni Makenai Love Comedy                                 |   5/12  |  5 years ago | 05/25/2021 |
