@@ -6,13 +6,13 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |                   Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                   |   4/12  |   Yesterday  | 01/10/2026 |
-| [59978](https://myanimelist.net/anime/59978) |  tv  |  2026  |   -   |                         Sousou no Frieren 2nd Season                         |  10/10  |   Yesterday  | 01/17/2026 |
-| [57524](https://myanimelist.net/anime/57524) |  tv  |  2024  |   -   |                           Make Heroine ga Oosugiru!                          |   1/12  |  6 days ago  | 01/20/2026 |
+| [56009](https://myanimelist.net/anime/56009) |  tv  |  2026  |   -   |          Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku         |   3/12  | 16 hours ago | 01/09/2026 |
+| [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |                   Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                   |   4/12  |  2 days ago  | 01/10/2026 |
+| [59978](https://myanimelist.net/anime/59978) |  tv  |  2026  |   -   |                         Sousou no Frieren 2nd Season                         |  10/10  |  2 days ago  | 01/17/2026 |
+| [57524](https://myanimelist.net/anime/57524) |  tv  |  2024  |   -   |                           Make Heroine ga Oosugiru!                          |   1/12  |   Last week  | 01/20/2026 |
 | [51818](https://myanimelist.net/anime/51818) |  tv  |  2025  |   -   |                        Enen no Shouboutai: San no Shou                       |   7/12  |   Last week  | 01/13/2026 |
 | [55825](https://myanimelist.net/anime/55825) |  tv  |  2026  |   -   |                             Jigokuraku 2nd Season                            |  14/12  |   Last week  | 01/16/2026 |
 | [59644](https://myanimelist.net/anime/59644) |  tv  |  2025  |   7   |                       Yasei no Last Boss ga Arawareta!                       |   8/12  |   Last week  | 11/23/2025 |
-| [56009](https://myanimelist.net/anime/56009) |  tv  |  2026  |   -   |          Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku         |   2/12  |   Last week  | 01/09/2026 |
 | [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                                  Gachiakuta                                  |  22/24  |  2 weeks ago | 07/07/2025 |
 | [59845](https://myanimelist.net/anime/59845) |  tv  |  2025  |   -   |                           Kaoru Hana wa Rin to Saku                          |   1/13  |  Last month  | 12/27/2025 |
 | [59636](https://myanimelist.net/anime/59636) |  tv  |  2025  |   -   |                          Uma Musume: Cinderella Gray                         |   1/13  |  Last month  | 12/27/2025 |
@@ -25,7 +25,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             |   2 days ago  | 01/23/2026 |  01/23/2026 |
+| [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             |   3 days ago  | 01/23/2026 |  01/23/2026 |
 | [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          |   Last month  | 12/06/2025 |  12/27/2025 |
 | [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |   8   |                                    Boku no Hero Academia: Final Season                                    |   Last month  | 12/02/2025 |  12/18/2025 |
 | [61200](https://myanimelist.net/anime/61200) |     ona    |  2025  |   6   |                                          Shuumatsu no Walküre III                                         |   Last month  | 12/13/2025 |  12/13/2025 |
@@ -67,11 +67,11 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [50392](https://myanimelist.net/anime/50392) |     tv     |  2024  |     manga    |                                                 Mato Seihei no Slave                                                |   6 days ago  |        -        |
+| [50392](https://myanimelist.net/anime/50392) |     tv     |  2024  |     manga    |                                                 Mato Seihei no Slave                                                |   Last week   |        -        |
 | [60058](https://myanimelist.net/anime/60058) |     tv     |  2026  |     manga    |                                               [Oshi no Ko] 3rd Season                                               |  2 weeks ago  |        -        |
 | [63136](https://myanimelist.net/anime/63136) |   unknown  |    -   |     manga    |                                              Kaijuu 8-gou: Kanketsu-hen                                             |   Last month  |        -        |
 | [10079](https://myanimelist.net/anime/10079) |     tv     |  2011  | visual_novel |                                               Hoshizora e Kakaru Hashi                                              |   Last month  |        -        |
-| [57433](https://myanimelist.net/anime/57433) |     tv     |  2025  |  light_novel |                                  Seishun Buta Yarou wa Santa Claus no Yume wo Minai                                 |   Last month  |        -        |
+| [57433](https://myanimelist.net/anime/57433) |     tv     |  2025  |  light_novel |                                  Seishun Buta Yarou wa Santa Claus no Yume wo Minai                                 |  2 months ago |        -        |
 | [61930](https://myanimelist.net/anime/61930) |     tv     |  2025  |     manga    |                                          Uma Musume: Cinderella Gray Part 2                                         |  2 months ago |        -        |
 
 
