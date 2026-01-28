@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             |   3 days ago  | 01/23/2026 |  01/23/2026 |
+| [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             |   4 days ago  | 01/23/2026 |  01/23/2026 |
 | [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          |   Last month  | 12/06/2025 |  12/27/2025 |
 | [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |   8   |                                    Boku no Hero Academia: Final Season                                    |   Last month  | 12/02/2025 |  12/18/2025 |
 | [61200](https://myanimelist.net/anime/61200) |     ona    |  2025  |   6   |                                          Shuumatsu no Walküre III                                         |   Last month  | 12/13/2025 |  12/13/2025 |
@@ -282,7 +282,7 @@
 | [41623](https://myanimelist.net/anime/41623) |     tv     |  2021  |   6   |                              Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω                             |  4 years ago  | 04/13/2021 |  06/25/2021 |
 | [44276](https://myanimelist.net/anime/44276) |     tv     |  2021  |   7   |                  Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara                  |  4 years ago  | 04/10/2021 |  06/25/2021 |
 | [41488](https://myanimelist.net/anime/41488) |     tv     |  2021  |   8   |                               Tensura Nikki: Tensei shitara Slime Datta Ken                               |  4 years ago  | 04/10/2021 |  06/25/2021 |
-| [28623](https://myanimelist.net/anime/28623) |     tv     |  2016  |   8   |                                          Koutetsujou no Kabaneri                                          |  4 years ago  | 06/23/2021 |  06/23/2021 |
+| [28623](https://myanimelist.net/anime/28623) |     tv     |  2016  |   8   |                                          Koutetsujou no Kabaneri                                          |  5 years ago  | 06/23/2021 |  06/23/2021 |
 | [33352](https://myanimelist.net/anime/33352) |     tv     |  2018  |   7   |                                             Violet Evergarden                                             |  4 years ago  | 06/04/2021 |  06/23/2021 |
 | [15583](https://myanimelist.net/anime/15583) |     tv     |  2013  |   7   |                                                Date A Live                                                |  5 years ago  | 06/21/2021 |  06/21/2021 |
 | [17641](https://myanimelist.net/anime/17641) |     ova    |  2013  |   6   |                                         Date A Live: Date to Date                                         |  5 years ago  | 06/21/2021 |  06/21/2021 |
