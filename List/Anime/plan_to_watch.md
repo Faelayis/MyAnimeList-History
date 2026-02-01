@@ -1,4 +1,4 @@
-# Plan to Watch (339)
+# Plan to Watch (338)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -110,7 +110,6 @@
 | [55855](https://myanimelist.net/anime/55855) |     tv     |  2024  |     manga    |                                           Kuroshitsuji: Kishuku Gakkou-hen                                          |  2 years ago  |        -        |
 | [53529](https://myanimelist.net/anime/53529) |    movie   |    -   |  light_novel |                                          Sword Art Online (Original Movie)                                          |  2 years ago  |        -        |
 | [55994](https://myanimelist.net/anime/55994) |     tv     |  2024  |  light_novel |                                   Sword Art Online Alternative: Gun Gale Online II                                  |  2 years ago  |        -        |
-| [57592](https://myanimelist.net/anime/57592) |     tv     |  2025  |     manga    |                                              Dr. Stone: Science Future                                              |  2 years ago  |        -        |
 | [56967](https://myanimelist.net/anime/56967) |     tv     |  2024  |   original   |                                                 Kamierabi 2nd Season                                                |  2 years ago  |        -        |
 | [57616](https://myanimelist.net/anime/57616) |     tv     |  2025  |     manga    |                         Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season                         |  2 years ago  |        -        |
 | [56876](https://myanimelist.net/anime/56876) |     tv     |  2026  |  light_novel |                        Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2                        |  2 years ago  |        -        |
