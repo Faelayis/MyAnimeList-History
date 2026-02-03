@@ -2,13 +2,13 @@
 
 |                      id                      | Type | Season | Score |                                     Title                                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :--------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [57592](https://myanimelist.net/anime/57592) |  tv  |  2025  |   -   |                           Dr. Stone: Science Future                          |   0/12  |   Yesterday  |      -     |
-| [59978](https://myanimelist.net/anime/59978) |  tv  |  2026  |   -   |                         Sousou no Frieren 2nd Season                         |   3/10  |  2 days ago  | 01/17/2026 |
-| [56009](https://myanimelist.net/anime/56009) |  tv  |  2026  |   -   |          Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku         |   3/12  |  6 days ago  | 01/09/2026 |
+| [55825](https://myanimelist.net/anime/55825) |  tv  |  2026  |   -   |                             Jigokuraku 2nd Season                            |   3/12  | 21 hours ago | 01/16/2026 |
+| [57592](https://myanimelist.net/anime/57592) |  tv  |  2025  |   -   |                           Dr. Stone: Science Future                          |   0/12  |  2 days ago  |      -     |
+| [59978](https://myanimelist.net/anime/59978) |  tv  |  2026  |   -   |                         Sousou no Frieren 2nd Season                         |   3/10  |  3 days ago  | 01/17/2026 |
+| [56009](https://myanimelist.net/anime/56009) |  tv  |  2026  |   -   |          Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku         |   3/12  |   Last week  | 01/09/2026 |
 | [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |                   Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                   |   4/12  |   Last week  | 01/10/2026 |
-| [57524](https://myanimelist.net/anime/57524) |  tv  |  2024  |   -   |                           Make Heroine ga Oosugiru!                          |   1/12  |   Last week  | 01/20/2026 |
+| [57524](https://myanimelist.net/anime/57524) |  tv  |  2024  |   -   |                           Make Heroine ga Oosugiru!                          |   1/12  |  2 weeks ago | 01/20/2026 |
 | [51818](https://myanimelist.net/anime/51818) |  tv  |  2025  |   -   |                        Enen no Shouboutai: San no Shou                       |   7/12  |  2 weeks ago | 01/13/2026 |
-| [55825](https://myanimelist.net/anime/55825) |  tv  |  2026  |   -   |                             Jigokuraku 2nd Season                            |  14/12  |  2 weeks ago | 01/16/2026 |
 | [59644](https://myanimelist.net/anime/59644) |  tv  |  2025  |   7   |                       Yasei no Last Boss ga Arawareta!                       |   8/12  |  2 weeks ago | 11/23/2025 |
 | [59062](https://myanimelist.net/anime/59062) |  tv  |  2025  |   -   |                                  Gachiakuta                                  |  22/24  |  3 weeks ago | 07/07/2025 |
 | [59845](https://myanimelist.net/anime/59845) |  tv  |  2025  |   -   |                           Kaoru Hana wa Rin to Saku                          |   1/13  |  Last month  | 12/27/2025 |
