@@ -1,12 +1,18 @@
-# On Hold (110)
+# On Hold (116)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
+| [57524](https://myanimelist.net/anime/57524) |    tv   |  2024  |   -   |                                           Make Heroine ga Oosugiru!                                           |   1/12  | 13 hours ago | 01/20/2026 |
 | [59267](https://myanimelist.net/anime/59267) |    tv   |  2025  |   -   |                                                     Sanda                                                     |   1/12  |  3 weeks ago | 12/30/2025 |
+| [59636](https://myanimelist.net/anime/59636) |    tv   |  2025  |   -   |                                          Uma Musume: Cinderella Gray                                          |   1/13  | 13 hours ago | 12/27/2025 |
+| [61026](https://myanimelist.net/anime/61026) |    tv   |  2025  |   8   |                  Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga                 |   9/12  | 13 hours ago | 11/29/2025 |
+| [59644](https://myanimelist.net/anime/59644) |    tv   |  2025  |   7   |                                        Yasei no Last Boss ga Arawareta!                                       |   8/12  | 13 hours ago | 11/23/2025 |
 | [53526](https://myanimelist.net/anime/53526) |    tv   |  2023  |   -   |                                       Uma Musume: Pretty Derby Season 3                                       |   1/13  | 2 months ago | 11/22/2025 |
 | [57181](https://myanimelist.net/anime/57181) |    tv   |  2024  |   -   |                                                   Ao no Hako                                                  |  18/25  | 4 months ago | 09/12/2025 |
 | [59192](https://myanimelist.net/anime/59192) |  movie  |  2025  |   10  |                             Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai                             |   1/1   | 4 months ago | 08/12/2025 |
+| [59062](https://myanimelist.net/anime/59062) |    tv   |  2025  |   -   |                                                   Gachiakuta                                                  |  22/24  | 13 hours ago | 07/07/2025 |
 | [61339](https://myanimelist.net/anime/61339) |    tv   |  2025  |   -   |                                       Jibaku Shounen Hanako-kun 2 Part 2                                      |   0/12  | 2 months ago | 07/07/2025 |
+| [59459](https://myanimelist.net/anime/59459) |    tv   |  2025  |   9   |                                 Silent Witch: Chinmoku no Majo no Kakushigoto                                 |   5/13  | 13 hours ago | 07/07/2025 |
 | [58390](https://myanimelist.net/anime/58390) |    tv   |  2025  |   -   |                                           Yofukashi no Uta Season 2                                           |   1/12  | 2 months ago | 07/07/2025 |
 | [60489](https://myanimelist.net/anime/60489) |   ona   |  2025  |   8   |                                               Takopii no Genzai                                               |   1/6   | 5 months ago | 07/03/2025 |
 | [34561](https://myanimelist.net/anime/34561) |    tv   |  2017  |   -   |                                                  Re:Creators                                                  |   7/22  | 7 months ago | 03/31/2025 |
