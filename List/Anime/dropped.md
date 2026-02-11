@@ -13,7 +13,7 @@
 | [51417](https://myanimelist.net/anime/51417) |  tv  |  2022  |   5   |                                                Engage Kiss                                                |   8/13  | 3 years ago | 07/03/2022 |
 | [34543](https://myanimelist.net/anime/34543) |  tv  |  2017  |   2   |                                                   Dive!!                                                  |   6/12  | 4 years ago | 05/03/2022 |
 | [48760](https://myanimelist.net/anime/48760) |  tv  |  2022  |   3   |                             Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu                             |   1/12  | 4 years ago | 04/12/2022 |
-| [48415](https://myanimelist.net/anime/48415) |  tv  |  2022  |   4   |                            Shijou Saikyou no Daimaou, Murabito A ni Tensei suru                           |   6/12  | 3 years ago | 04/08/2022 |
+| [48415](https://myanimelist.net/anime/48415) |  tv  |  2022  |   4   |                            Shijou Saikyou no Daimaou, Murabito A ni Tensei suru                           |   6/12  | 4 years ago | 04/08/2022 |
 | [40960](https://myanimelist.net/anime/40960) |  tv  |  2021  |   5   |                          Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore                         |   1/12  | 4 years ago | 07/08/2021 |
 | [47257](https://myanimelist.net/anime/47257) |  tv  |  2021  |   4   |                                       Shinigami Bocchan to Kuro Maid                                      |   1/12  | 4 years ago | 07/05/2021 |
 | [46471](https://myanimelist.net/anime/46471) |  tv  |  2021  |   5   |                                         Tantei wa Mou, Shindeiru.                                         |   2/12  | 4 years ago | 07/04/2021 |
