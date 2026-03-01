@@ -6,15 +6,15 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                            Title                            | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [34443](https://myanimelist.net/anime/34443) |  ona |  2018  |   -   |                             Baki                            |   3/26  | 20 hours ago | 02/27/2026 |
-| [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |           Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen          |   6/12  |  5 days ago  | 01/10/2026 |
-| [59978](https://myanimelist.net/anime/59978) |  tv  |  2026  |   -   |                 Sousou no Frieren 2nd Season                |   5/10  |  5 days ago  | 01/17/2026 |
-| [56009](https://myanimelist.net/anime/56009) |  tv  |  2026  |   -   | Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku |   3/12  |  5 days ago  | 01/09/2026 |
+| [34443](https://myanimelist.net/anime/34443) |  ona |  2018  |   -   |                             Baki                            |   3/26  |   Yesterday  | 02/27/2026 |
+| [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |           Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen          |   6/12  |  6 days ago  | 01/10/2026 |
+| [59978](https://myanimelist.net/anime/59978) |  tv  |  2026  |   -   |                 Sousou no Frieren 2nd Season                |   5/10  |  6 days ago  | 01/17/2026 |
+| [56009](https://myanimelist.net/anime/56009) |  tv  |  2026  |   -   | Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku |   3/12  |  6 days ago  | 01/09/2026 |
 | [57592](https://myanimelist.net/anime/57592) |  tv  |  2025  |   -   |                  Dr. Stone: Science Future                  |   1/12  |  2 weeks ago | 02/10/2026 |
 | [55825](https://myanimelist.net/anime/55825) |  tv  |  2026  |   -   |                    Jigokuraku 2nd Season                    |   3/12  |  3 weeks ago | 01/16/2026 |
 | [51818](https://myanimelist.net/anime/51818) |  tv  |  2025  |   -   |               Enen no Shouboutai: San no Shou               |   7/12  |  Last month  | 01/13/2026 |
 | [59845](https://myanimelist.net/anime/59845) |  tv  |  2025  |   -   |                  Kaoru Hana wa Rin to Saku                  |   1/13  | 2 months ago | 12/27/2025 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                          One Piece                          |  1145/? | 2 months ago | 01/01/2013 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                          One Piece                          |  1145/? | 3 months ago | 01/01/2013 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -26,7 +26,7 @@ List Sync From MyAnimeList (update every day)
 | [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          |  2 months ago | 12/06/2025 |  12/27/2025 |
 | [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |   8   |                                    Boku no Hero Academia: Final Season                                    |  2 months ago | 12/02/2025 |  12/18/2025 |
 | [61200](https://myanimelist.net/anime/61200) |     ona    |  2025  |   6   |                                          Shuumatsu no Walküre III                                         |  2 months ago | 12/13/2025 |  12/13/2025 |
-| [52588](https://myanimelist.net/anime/52588) |     tv     |  2024  |   7   |                                                Kaijuu 8-gou                                               |  2 months ago | 12/06/2025 |  12/06/2025 |
+| [52588](https://myanimelist.net/anime/52588) |     tv     |  2024  |   7   |                                                Kaijuu 8-gou                                               |  3 months ago | 12/06/2025 |  12/06/2025 |
 | [54789](https://myanimelist.net/anime/54789) |     tv     |  2024  |   9   |                                      Boku no Hero Academia 7th Season                                     |  3 months ago | 11/29/2025 |  12/03/2025 |
 
 
@@ -64,7 +64,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated   | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :----------: | :-------------: |
-| [24037](https://myanimelist.net/anime/24037) |     tv     |  2014  |   card_game  |                                                Selector Spread WIXOSS                                               |  6 days ago  |        -        |
+| [24037](https://myanimelist.net/anime/24037) |     tv     |  2014  |   card_game  |                                                Selector Spread WIXOSS                                               |   Last week  |        -        |
 | [40550](https://myanimelist.net/anime/40550) |     tv     |  2020  |  mixed_media |                                                Assault Lily: Bouquet                                                |   Last week  |        -        |
 | [50392](https://myanimelist.net/anime/50392) |     tv     |  2024  |     manga    |                                                 Mato Seihei no Slave                                                |  Last month  |        -        |
 | [60058](https://myanimelist.net/anime/60058) |     tv     |  2026  |     manga    |                                               [Oshi no Ko] 3rd Season                                               |  Last month  |        -        |
