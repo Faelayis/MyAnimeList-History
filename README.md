@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                            Title                            | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [34443](https://myanimelist.net/anime/34443) |  ona |  2018  |   -   |                             Baki                            |   3/26  |  3 days ago  | 02/27/2026 |
+| [34443](https://myanimelist.net/anime/34443) |  ona |  2018  |   -   |                             Baki                            |   3/26  |  4 days ago  | 02/27/2026 |
 | [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |           Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen          |   6/12  |   Last week  | 01/10/2026 |
 | [59978](https://myanimelist.net/anime/59978) |  tv  |  2026  |   -   |                 Sousou no Frieren 2nd Season                |   5/10  |   Last week  | 01/17/2026 |
 | [56009](https://myanimelist.net/anime/56009) |  tv  |  2026  |   -   | Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku |   3/12  |   Last week  | 01/09/2026 |
@@ -67,9 +67,9 @@ List Sync From MyAnimeList (update every day)
 | [24037](https://myanimelist.net/anime/24037) |     tv     |  2014  |   card_game  |                                                Selector Spread WIXOSS                                               |   Last week  |        -        |
 | [40550](https://myanimelist.net/anime/40550) |     tv     |  2020  |  mixed_media |                                                Assault Lily: Bouquet                                                |   Last week  |        -        |
 | [50392](https://myanimelist.net/anime/50392) |     tv     |  2024  |     manga    |                                                 Mato Seihei no Slave                                                |  Last month  |        -        |
-| [60058](https://myanimelist.net/anime/60058) |     tv     |  2026  |     manga    |                                               [Oshi no Ko] 3rd Season                                               |  Last month  |        -        |
+| [60058](https://myanimelist.net/anime/60058) |     tv     |  2026  |     manga    |                                               [Oshi no Ko] 3rd Season                                               | 2 months ago |        -        |
 | [63136](https://myanimelist.net/anime/63136) |   unknown  |    -   |     manga    |                                              Kaijuu 8-gou: Kanketsu-hen                                             | 2 months ago |        -        |
-| [10079](https://myanimelist.net/anime/10079) |     tv     |  2011  | visual_novel |                                               Hoshizora e Kakaru Hashi                                              | 2 months ago |        -        |
+| [10079](https://myanimelist.net/anime/10079) |     tv     |  2011  | visual_novel |                                               Hoshizora e Kakaru Hashi                                              | 3 months ago |        -        |
 
 
 *[333 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
