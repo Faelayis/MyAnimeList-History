@@ -2,10 +2,11 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (9) ``2.65%``
+#### Watching (10) ``2.94%``
 
 |                      id                      | Type | Season | Score |                            Title                            | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------------: | :-----: | :----------: | :--------: |
+| [22729](https://myanimelist.net/anime/22729) |  tv  |  2014  |   -   |                         Aldnoah.Zero                        |   0/12  | 17 hours ago |      -     |
 | [34443](https://myanimelist.net/anime/34443) |  ona |  2018  |   -   |                             Baki                            |   3/26  |   Last week  | 02/27/2026 |
 | [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |           Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen          |   6/12  |  2 weeks ago | 01/10/2026 |
 | [59978](https://myanimelist.net/anime/59978) |  tv  |  2026  |   -   |                 Sousou no Frieren 2nd Season                |   5/10  |  2 weeks ago | 01/17/2026 |
@@ -18,7 +19,7 @@ List Sync From MyAnimeList (update every day)
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``103.74%``
+#### Completed ``103.95%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -32,7 +33,7 @@ List Sync From MyAnimeList (update every day)
 
 *[475 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``13.43%``
+#### On Hold ``13.41%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
@@ -60,7 +61,7 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``53.13%``
+#### Plan to Watch ``53.04%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated   | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :----------: | :-------------: |
