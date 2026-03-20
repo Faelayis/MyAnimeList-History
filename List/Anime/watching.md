@@ -2,7 +2,7 @@
 
 |                      id                      | Type | Season | Score |                            Title                            | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [22729](https://myanimelist.net/anime/22729) |  tv  |  2014  |   7   |                         Aldnoah.Zero                        |  11/12  |  5 days ago  | 03/13/2026 |
+| [22729](https://myanimelist.net/anime/22729) |  tv  |  2014  |   7   |                         Aldnoah.Zero                        |  11/12  |  6 days ago  | 03/13/2026 |
 | [34443](https://myanimelist.net/anime/34443) |  ona |  2018  |   -   |                             Baki                            |   3/26  |  2 weeks ago | 02/27/2026 |
 | [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |           Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen          |   6/12  |  3 weeks ago | 01/10/2026 |
 | [59978](https://myanimelist.net/anime/59978) |  tv  |  2026  |   -   |                 Sousou no Frieren 2nd Season                |   5/10  |  3 weeks ago | 01/17/2026 |
