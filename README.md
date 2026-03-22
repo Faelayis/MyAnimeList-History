@@ -14,7 +14,7 @@ List Sync From MyAnimeList (update every day)
 | [57592](https://myanimelist.net/anime/57592) |  tv  |  2025  |   -   |                  Dr. Stone: Science Future                  |   1/12  |  Last month  | 02/10/2026 |
 | [55825](https://myanimelist.net/anime/55825) |  tv  |  2026  |   -   |                    Jigokuraku 2nd Season                    |   3/12  |  Last month  | 01/16/2026 |
 | [51818](https://myanimelist.net/anime/51818) |  tv  |  2025  |   -   |               Enen no Shouboutai: San no Shou               |   7/12  | 2 months ago | 01/13/2026 |
-| [59845](https://myanimelist.net/anime/59845) |  tv  |  2025  |   -   |                  Kaoru Hana wa Rin to Saku                  |   1/13  | 2 months ago | 12/27/2025 |
+| [59845](https://myanimelist.net/anime/59845) |  tv  |  2025  |   -   |                  Kaoru Hana wa Rin to Saku                  |   1/13  | 3 months ago | 12/27/2025 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                          One Piece                          |  1145/? | 3 months ago | 01/01/2013 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
@@ -66,7 +66,7 @@ List Sync From MyAnimeList (update every day)
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated   | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :----------: | :-------------: |
 | [27655](https://myanimelist.net/anime/27655) |     tv     |  2015  |   original   |                                                 Aldnoah.Zero Part 2                                                 |   Last week  |        -        |
-| [24037](https://myanimelist.net/anime/24037) |     tv     |  2014  |   card_game  |                                                Selector Spread WIXOSS                                               |  3 weeks ago |        -        |
+| [24037](https://myanimelist.net/anime/24037) |     tv     |  2014  |   card_game  |                                                Selector Spread WIXOSS                                               |  Last month  |        -        |
 | [40550](https://myanimelist.net/anime/40550) |     tv     |  2020  |  mixed_media |                                                Assault Lily: Bouquet                                                |  Last month  |        -        |
 | [50392](https://myanimelist.net/anime/50392) |     tv     |  2024  |     manga    |                                                 Mato Seihei no Slave                                                | 2 months ago |        -        |
 | [60058](https://myanimelist.net/anime/60058) |     tv     |  2026  |     manga    |                                               [Oshi no Ko] 3rd Season                                               | 2 months ago |        -        |
