@@ -28,7 +28,7 @@ List Sync From MyAnimeList (update every day)
 | [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |   8   |                                    Boku no Hero Academia: Final Season                                    |  3 months ago | 12/02/2025 |  12/18/2025 |
 | [61200](https://myanimelist.net/anime/61200) |     ona    |  2025  |   6   |                                          Shuumatsu no Walküre III                                         |  3 months ago | 12/13/2025 |  12/13/2025 |
 | [52588](https://myanimelist.net/anime/52588) |     tv     |  2024  |   7   |                                                Kaijuu 8-gou                                               |  3 months ago | 12/06/2025 |  12/06/2025 |
-| [54789](https://myanimelist.net/anime/54789) |     tv     |  2024  |   9   |                                      Boku no Hero Academia 7th Season                                     |  3 months ago | 11/29/2025 |  12/03/2025 |
+| [54789](https://myanimelist.net/anime/54789) |     tv     |  2024  |   9   |                                      Boku no Hero Academia 7th Season                                     |  4 months ago | 11/29/2025 |  12/03/2025 |
 
 
 *[475 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
