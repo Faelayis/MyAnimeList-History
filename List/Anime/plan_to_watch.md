@@ -1,8 +1,12 @@
-# Plan to Watch (341)
+# Plan to Watch (345)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated   | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :----------: | :-------------: |
-| [27655](https://myanimelist.net/anime/27655) |     tv     |  2015  |   original   |                                                 Aldnoah.Zero Part 2                                                 |   Last week  |        -        |
+| [62485](https://myanimelist.net/anime/62485) |     tv     |  2026  |     manga    |                                           Kanojo, Okarishimasu 5th Season                                           |  8 hours ago |        -        |
+| [60310](https://myanimelist.net/anime/60310) |     tv     |  2026  |     manga    |                                          Mairimashita! Iruma-kun 4th Season                                         |  8 hours ago |        -        |
+| [62568](https://myanimelist.net/anime/62568) |     tv     |  2026  |     manga    |                                           Dr. Stone: Science Future Part 3                                          |  8 hours ago |        -        |
+| [61316](https://myanimelist.net/anime/61316) |     tv     |  2026  |  light_novel |                                   Re:Zero kara Hajimeru Isekai Seikatsu 4th Season                                  |  8 hours ago |        -        |
+| [27655](https://myanimelist.net/anime/27655) |     tv     |  2015  |   original   |                                                 Aldnoah.Zero Part 2                                                 |  2 weeks ago |        -        |
 | [24037](https://myanimelist.net/anime/24037) |     tv     |  2014  |   card_game  |                                                Selector Spread WIXOSS                                               |  Last month  |        -        |
 | [40550](https://myanimelist.net/anime/40550) |     tv     |  2020  |  mixed_media |                                                Assault Lily: Bouquet                                                |  Last month  |        -        |
 | [50392](https://myanimelist.net/anime/50392) |     tv     |  2024  |     manga    |                                                 Mato Seihei no Slave                                                | 2 months ago |        -        |

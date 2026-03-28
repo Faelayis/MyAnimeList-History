@@ -2,12 +2,12 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (10) ``2.93%``
+#### Watching (10) ``2.90%``
 
 |                      id                      | Type | Season | Score |                            Title                            | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [22729](https://myanimelist.net/anime/22729) |  tv  |  2014  |   7   |                         Aldnoah.Zero                        |  11/12  |   Last week  | 03/13/2026 |
-| [34443](https://myanimelist.net/anime/34443) |  ona |  2018  |   -   |                             Baki                            |   3/26  |  3 weeks ago | 02/27/2026 |
+| [22729](https://myanimelist.net/anime/22729) |  tv  |  2014  |   7   |                         Aldnoah.Zero                        |  11/12  |  2 weeks ago | 03/13/2026 |
+| [34443](https://myanimelist.net/anime/34443) |  ona |  2018  |   -   |                             Baki                            |   3/26  |  Last month  | 02/27/2026 |
 | [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |           Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen          |   6/12  |  Last month  | 01/10/2026 |
 | [59978](https://myanimelist.net/anime/59978) |  tv  |  2026  |   -   |                 Sousou no Frieren 2nd Season                |   5/10  |  Last month  | 01/17/2026 |
 | [56009](https://myanimelist.net/anime/56009) |  tv  |  2026  |   -   | Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku |   3/12  |  Last month  | 01/09/2026 |
@@ -19,7 +19,7 @@ List Sync From MyAnimeList (update every day)
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``104.16%``
+#### Completed ``104.99%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -33,7 +33,7 @@ List Sync From MyAnimeList (update every day)
 
 *[475 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``13.39%``
+#### On Hold ``13.33%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
@@ -47,7 +47,7 @@ List Sync From MyAnimeList (update every day)
 
 *[110 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
-#### Dropped ``3.59%``
+#### Dropped ``3.57%``
 
 |                      id                      | Type | Season | Score |                                                   Title                                                   | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :---------: | :--------: |
@@ -61,16 +61,16 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``53.20%``
+#### Plan to Watch ``53.82%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated   | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :----------: | :-------------: |
-| [27655](https://myanimelist.net/anime/27655) |     tv     |  2015  |   original   |                                                 Aldnoah.Zero Part 2                                                 |   Last week  |        -        |
+| [62485](https://myanimelist.net/anime/62485) |     tv     |  2026  |     manga    |                                           Kanojo, Okarishimasu 5th Season                                           |  8 hours ago |        -        |
+| [60310](https://myanimelist.net/anime/60310) |     tv     |  2026  |     manga    |                                          Mairimashita! Iruma-kun 4th Season                                         |  8 hours ago |        -        |
+| [62568](https://myanimelist.net/anime/62568) |     tv     |  2026  |     manga    |                                           Dr. Stone: Science Future Part 3                                          |  8 hours ago |        -        |
+| [61316](https://myanimelist.net/anime/61316) |     tv     |  2026  |  light_novel |                                   Re:Zero kara Hajimeru Isekai Seikatsu 4th Season                                  |  8 hours ago |        -        |
+| [27655](https://myanimelist.net/anime/27655) |     tv     |  2015  |   original   |                                                 Aldnoah.Zero Part 2                                                 |  2 weeks ago |        -        |
 | [24037](https://myanimelist.net/anime/24037) |     tv     |  2014  |   card_game  |                                                Selector Spread WIXOSS                                               |  Last month  |        -        |
-| [40550](https://myanimelist.net/anime/40550) |     tv     |  2020  |  mixed_media |                                                Assault Lily: Bouquet                                                |  Last month  |        -        |
-| [50392](https://myanimelist.net/anime/50392) |     tv     |  2024  |     manga    |                                                 Mato Seihei no Slave                                                | 2 months ago |        -        |
-| [60058](https://myanimelist.net/anime/60058) |     tv     |  2026  |     manga    |                                               [Oshi no Ko] 3rd Season                                               | 2 months ago |        -        |
-| [63136](https://myanimelist.net/anime/63136) |   unknown  |    -   |     manga    |                                              Kaijuu 8-gou: Kanketsu-hen                                             | 3 months ago |        -        |
 
 
-*[334 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[338 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
