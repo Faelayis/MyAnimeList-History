@@ -15,7 +15,7 @@ List Sync From MyAnimeList (update every day)
 | [55825](https://myanimelist.net/anime/55825) |  tv  |  2026  |   -   |                    Jigokuraku 2nd Season                    |   3/12  |  Last month  | 01/16/2026 |
 | [51818](https://myanimelist.net/anime/51818) |  tv  |  2025  |   -   |               Enen no Shouboutai: San no Shou               |   7/12  | 2 months ago | 01/13/2026 |
 | [59845](https://myanimelist.net/anime/59845) |  tv  |  2025  |   -   |                  Kaoru Hana wa Rin to Saku                  |   1/13  | 3 months ago | 12/27/2025 |
-|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                          One Piece                          |  1145/? | 3 months ago | 01/01/2013 |
+|    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                          One Piece                          |  1145/? | 4 months ago | 01/01/2013 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -27,7 +27,7 @@ List Sync From MyAnimeList (update every day)
 | [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          |  3 months ago | 12/06/2025 |  12/27/2025 |
 | [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |   8   |                                    Boku no Hero Academia: Final Season                                    |  3 months ago | 12/02/2025 |  12/18/2025 |
 | [61200](https://myanimelist.net/anime/61200) |     ona    |  2025  |   6   |                                          Shuumatsu no Walküre III                                         |  3 months ago | 12/13/2025 |  12/13/2025 |
-| [52588](https://myanimelist.net/anime/52588) |     tv     |  2024  |   7   |                                                Kaijuu 8-gou                                               |  3 months ago | 12/06/2025 |  12/06/2025 |
+| [52588](https://myanimelist.net/anime/52588) |     tv     |  2024  |   7   |                                                Kaijuu 8-gou                                               |  4 months ago | 12/06/2025 |  12/06/2025 |
 | [54789](https://myanimelist.net/anime/54789) |     tv     |  2024  |   9   |                                      Boku no Hero Academia 7th Season                                     |  4 months ago | 11/29/2025 |  12/03/2025 |
 
 
@@ -65,10 +65,10 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated   | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :----------: | :-------------: |
-| [62485](https://myanimelist.net/anime/62485) |     tv     |  2026  |     manga    |                                           Kanojo, Okarishimasu 5th Season                                           |  8 hours ago |        -        |
-| [60310](https://myanimelist.net/anime/60310) |     tv     |  2026  |     manga    |                                          Mairimashita! Iruma-kun 4th Season                                         |  8 hours ago |        -        |
-| [62568](https://myanimelist.net/anime/62568) |     tv     |  2026  |     manga    |                                           Dr. Stone: Science Future Part 3                                          |  8 hours ago |        -        |
-| [61316](https://myanimelist.net/anime/61316) |     tv     |  2026  |  light_novel |                                   Re:Zero kara Hajimeru Isekai Seikatsu 4th Season                                  |  8 hours ago |        -        |
+| [62485](https://myanimelist.net/anime/62485) |     tv     |  2026  |     manga    |                                           Kanojo, Okarishimasu 5th Season                                           |   Yesterday  |        -        |
+| [60310](https://myanimelist.net/anime/60310) |     tv     |  2026  |     manga    |                                          Mairimashita! Iruma-kun 4th Season                                         |   Yesterday  |        -        |
+| [62568](https://myanimelist.net/anime/62568) |     tv     |  2026  |     manga    |                                           Dr. Stone: Science Future Part 3                                          |   Yesterday  |        -        |
+| [61316](https://myanimelist.net/anime/61316) |     tv     |  2026  |  light_novel |                                   Re:Zero kara Hajimeru Isekai Seikatsu 4th Season                                  |   Yesterday  |        -        |
 | [27655](https://myanimelist.net/anime/27655) |     tv     |  2015  |   original   |                                                 Aldnoah.Zero Part 2                                                 |  2 weeks ago |        -        |
 | [24037](https://myanimelist.net/anime/24037) |     tv     |  2014  |   card_game  |                                                Selector Spread WIXOSS                                               |  Last month  |        -        |
 
