@@ -42,7 +42,7 @@ List Sync From MyAnimeList (update every day)
 | [59636](https://myanimelist.net/anime/59636) |    tv   |  2025  |   -   |                                          Uma Musume: Cinderella Gray                                          |   1/13  |  Last month  | 12/27/2025 |
 | [61026](https://myanimelist.net/anime/61026) |    tv   |  2025  |   8   |                  Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga                 |   9/12  |  Last month  | 11/29/2025 |
 | [59644](https://myanimelist.net/anime/59644) |    tv   |  2025  |   7   |                                        Yasei no Last Boss ga Arawareta!                                       |   8/12  |  Last month  | 11/23/2025 |
-| [53526](https://myanimelist.net/anime/53526) |    tv   |  2023  |   -   |                                       Uma Musume: Pretty Derby Season 3                                       |   1/13  | 3 months ago | 11/22/2025 |
+| [53526](https://myanimelist.net/anime/53526) |    tv   |  2023  |   -   |                                       Uma Musume: Pretty Derby Season 3                                       |   1/13  | 4 months ago | 11/22/2025 |
 
 
 *[110 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
@@ -65,10 +65,10 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated   | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :----------: | :-------------: |
-| [62485](https://myanimelist.net/anime/62485) |     tv     |  2026  |     manga    |                                           Kanojo, Okarishimasu 5th Season                                           |   Yesterday  |        -        |
-| [60310](https://myanimelist.net/anime/60310) |     tv     |  2026  |     manga    |                                          Mairimashita! Iruma-kun 4th Season                                         |   Yesterday  |        -        |
-| [62568](https://myanimelist.net/anime/62568) |     tv     |  2026  |     manga    |                                           Dr. Stone: Science Future Part 3                                          |   Yesterday  |        -        |
-| [61316](https://myanimelist.net/anime/61316) |     tv     |  2026  |  light_novel |                                   Re:Zero kara Hajimeru Isekai Seikatsu 4th Season                                  |   Yesterday  |        -        |
+| [62485](https://myanimelist.net/anime/62485) |     tv     |  2026  |     manga    |                                           Kanojo, Okarishimasu 5th Season                                           |  2 days ago  |        -        |
+| [60310](https://myanimelist.net/anime/60310) |     tv     |  2026  |     manga    |                                          Mairimashita! Iruma-kun 4th Season                                         |  2 days ago  |        -        |
+| [62568](https://myanimelist.net/anime/62568) |     tv     |  2026  |     manga    |                                           Dr. Stone: Science Future Part 3                                          |  2 days ago  |        -        |
+| [61316](https://myanimelist.net/anime/61316) |     tv     |  2026  |  light_novel |                                   Re:Zero kara Hajimeru Isekai Seikatsu 4th Season                                  |  2 days ago  |        -        |
 | [27655](https://myanimelist.net/anime/27655) |     tv     |  2015  |   original   |                                                 Aldnoah.Zero Part 2                                                 |  2 weeks ago |        -        |
 | [24037](https://myanimelist.net/anime/24037) |     tv     |  2014  |   card_game  |                                                Selector Spread WIXOSS                                               |  Last month  |        -        |
 
