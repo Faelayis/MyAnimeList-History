@@ -1,7 +1,8 @@
-# Plan to Watch (345)
+# Plan to Watch (346)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [63816](https://myanimelist.net/anime/63816) |     tv     |  2027  |     manga    |                                           Sousou no Frieren: Ougonkyou-hen                                          |  17 hours ago |        -        |
 | [62485](https://myanimelist.net/anime/62485) |     tv     |  2026  |     manga    |                                           Kanojo, Okarishimasu 5th Season                                           |   Last week   |        -        |
 | [60310](https://myanimelist.net/anime/60310) |     tv     |  2026  |     manga    |                                          Mairimashita! Iruma-kun 4th Season                                         |   Last week   |        -        |
 | [62568](https://myanimelist.net/anime/62568) |     tv     |  2026  |     manga    |                                           Dr. Stone: Science Future Part 3                                          |   Last week   |        -        |
@@ -28,7 +29,7 @@
 | [62516](https://myanimelist.net/anime/62516) |     tv     |    -   |     manga    |                                                 Dandadan 3rd Season                                                 |  7 months ago |        -        |
 | [62233](https://myanimelist.net/anime/62233) | tv_special |  2026  |  light_novel |                                                 One Piece: Heroines                                                 |  8 months ago |        -        |
 | [35838](https://myanimelist.net/anime/35838) |     tv     |  2017  |   web_manga  |                                               Shoujo Shuumatsu Ryokou                                               |  8 months ago |        -        |
-| [57555](https://myanimelist.net/anime/57555) |    movie   |  2025  |     manga    |                                             Chainsaw Man Movie: Reze-hen                                            |  8 months ago |        -        |
+| [57555](https://myanimelist.net/anime/57555) |    movie   |  2025  |     manga    |                                             Chainsaw Man Movie: Reze-hen                                            |  9 months ago |        -        |
 | [61997](https://myanimelist.net/anime/61997) |     ona    |  2025  |     manga    |                                         Sugar Sugar Rune: Les deux sorcières                                        |  9 months ago |        -        |
 | [59619](https://myanimelist.net/anime/59619) |     tv     |  2025  |     manga    |                                                    Ame to Kimi to                                                   |  9 months ago |        -        |
 | [58913](https://myanimelist.net/anime/58913) |     tv     |  2025  |   web_manga  |                                                Hikaru ga Shinda Natsu                                               |  9 months ago |        -        |
@@ -279,9 +280,9 @@
 | [23289](https://myanimelist.net/anime/23289) |     tv     |  2014  | 4_koma_manga |                                               Gekkan Shoujo Nozaki-kun                                              |  4 years ago  |        -        |
 | [39456](https://myanimelist.net/anime/39456) |     tv     |  2019  |     manga    |                                                   Sounan desu ka?                                                   |  4 years ago  |        -        |
 | [49709](https://myanimelist.net/anime/49709) |     tv     |  2022  |     manga    |                                             Fumetsu no Anata e Season 2                                             |  4 years ago  |        -        |
-| [15037](https://myanimelist.net/anime/15037) |     ova    |  2013  | visual_novel |                           Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou                          |  4 years ago  |        -        |
-| [37055](https://myanimelist.net/anime/37055) |    movie   |  2019  |  light_novel |                                                  Youjo Senki Movie                                                  |  4 years ago  |        -        |
-| [49233](https://myanimelist.net/anime/49233) |     tv     |  2026  |  light_novel |                                                    Youjo Senki II                                                   |  4 years ago  |        -        |
+| [15037](https://myanimelist.net/anime/15037) |     ova    |  2013  | visual_novel |                           Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou                          |  5 years ago  |        -        |
+| [37055](https://myanimelist.net/anime/37055) |    movie   |  2019  |  light_novel |                                                  Youjo Senki Movie                                                  |  5 years ago  |        -        |
+| [49233](https://myanimelist.net/anime/49233) |     tv     |  2026  |  light_novel |                                                    Youjo Senki II                                                   |  5 years ago  |        -        |
 | [11633](https://myanimelist.net/anime/11633) |     tv     |  2013  |     manga    |                                                      Blood Lad                                                      |  5 years ago  |        -        |
 | [42822](https://myanimelist.net/anime/42822) |     tv     |  2021  |     manga    |                                                   Kai Byoui Ramune                                                  |  5 years ago  |        -        |
 | [25731](https://myanimelist.net/anime/25731) |     tv     |  2014  |   original   |                                         Cross Ange: Tenshi to Ryuu no Rondo                                         |  5 years ago  |        -        |

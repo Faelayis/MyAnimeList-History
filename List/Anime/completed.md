@@ -1,7 +1,8 @@
-# Completed (481)
+# Completed (482)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |   9   |                                        Sousou no Frieren 2nd Season                                       |  17 hours ago | 01/17/2026 |  04/05/2026 |
 | [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             |  2 months ago | 01/23/2026 |  01/23/2026 |
 | [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          |  3 months ago | 12/06/2025 |  12/27/2025 |
 | [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |   8   |                                    Boku no Hero Academia: Final Season                                    |  3 months ago | 12/02/2025 |  12/18/2025 |
@@ -9,7 +10,7 @@
 | [52588](https://myanimelist.net/anime/52588) |     tv     |  2024  |   7   |                                                Kaijuu 8-gou                                               |  4 months ago | 12/06/2025 |  12/06/2025 |
 | [54789](https://myanimelist.net/anime/54789) |     tv     |  2024  |   9   |                                      Boku no Hero Academia 7th Season                                     |  4 months ago | 11/29/2025 |  12/03/2025 |
 | [42941](https://myanimelist.net/anime/42941) |     tv     |  2021  |   7   |                                     Uma Musume: Pretty Derby Season 2                                     |  4 months ago | 10/20/2025 |  11/22/2025 |
-| [35249](https://myanimelist.net/anime/35249) |     tv     |  2018  |   9   |                                          Uma Musume: Pretty Derby                                         |  5 months ago | 10/19/2025 |  10/20/2025 |
+| [35249](https://myanimelist.net/anime/35249) |     tv     |  2018  |   9   |                                          Uma Musume: Pretty Derby                                         |  6 months ago | 10/19/2025 |  10/20/2025 |
 | [60285](https://myanimelist.net/anime/60285) |     tv     |  2025  |   8   |                                            Sakamoto Days Part 2                                           |  6 months ago | 07/22/2025 |  09/28/2025 |
 | [58939](https://myanimelist.net/anime/58939) |     tv     |  2025  |   7   |                                               Sakamoto Days                                               | 11 months ago | 01/19/2025 |  05/15/2025 |
 | [58567](https://myanimelist.net/anime/58567) |     tv     |  2025  |   9   |                          Ore dake Level Up na Ken Season 2: Arise from the Shadow                         |   Last year   | 01/23/2025 |  03/30/2025 |
@@ -41,7 +42,7 @@
 | [56210](https://myanimelist.net/anime/56210) |    music   |  2023  |   6   |                                              Neoki Yashinoki                                              |  2 years ago  | 08/30/2023 |  08/30/2023 |
 | [48585](https://myanimelist.net/anime/48585) |    movie   |  2023  |   6   |                                       Black Clover: Mahou Tei no Ken                                      |  2 years ago  | 07/19/2023 |  07/19/2023 |
 | [49618](https://myanimelist.net/anime/49618) |     ona    |  2023  |   6   |                                          Shuumatsu no Walküre II                                          |  2 years ago  | 01/27/2023 |  07/14/2023 |
-| [46569](https://myanimelist.net/anime/46569) |     tv     |  2023  |   7   |                                                 Jigokuraku                                                |  2 years ago  | 04/02/2023 |  07/02/2023 |
+| [46569](https://myanimelist.net/anime/46569) |     tv     |  2023  |   7   |                                                 Jigokuraku                                                |  3 years ago  | 04/02/2023 |  07/02/2023 |
 | [52211](https://myanimelist.net/anime/52211) |     tv     |  2023  |   6   |                                                   Mashle                                                  |  3 years ago  | 04/08/2023 |  07/01/2023 |
 | [48549](https://myanimelist.net/anime/48549) |     tv     |  2023  |   7   |                                            Dr. Stone: New World                                           |  3 years ago  | 04/06/2023 |  06/27/2023 |
 | [51958](https://myanimelist.net/anime/51958) |     tv     |  2023  |   8   |                                    Kono Subarashii Sekai ni Bakuen wo!                                    |  3 years ago  | 04/06/2023 |  06/27/2023 |
