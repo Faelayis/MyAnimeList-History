@@ -2,7 +2,7 @@
 
 |                      id                      | Type | Season | Score |                            Title                            | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [62001](https://myanimelist.net/anime/62001) |  tv  |  2026  |   -   |                        Yomi no Tsugai                       |   0/24  |   Yesterday  |      -     |
+| [62001](https://myanimelist.net/anime/62001) |  tv  |  2026  |   -   |                        Yomi no Tsugai                       |   0/24  |  2 days ago  |      -     |
 | [22729](https://myanimelist.net/anime/22729) |  tv  |  2014  |   7   |                         Aldnoah.Zero                        |  11/12  |  3 weeks ago | 03/13/2026 |
 | [34443](https://myanimelist.net/anime/34443) |  ona |  2018  |   -   |                             Baki                            |   3/26  |  Last month  | 02/27/2026 |
 | [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |           Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen          |   6/12  |  Last month  | 01/10/2026 |
