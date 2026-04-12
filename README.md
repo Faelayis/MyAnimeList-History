@@ -6,7 +6,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                            Title                            | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [62001](https://myanimelist.net/anime/62001) |  tv  |  2026  |   -   |                        Yomi no Tsugai                       |   0/24  |  4 days ago  |      -     |
+| [62001](https://myanimelist.net/anime/62001) |  tv  |  2026  |   -   |                        Yomi no Tsugai                       |   0/24  |  5 days ago  |      -     |
 | [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |           Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen          |   6/12  |  Last month  | 01/10/2026 |
 | [56009](https://myanimelist.net/anime/56009) |  tv  |  2026  |   -   | Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku |   3/12  |  Last month  | 01/09/2026 |
 | [55825](https://myanimelist.net/anime/55825) |  tv  |  2026  |   -   |                    Jigokuraku 2nd Season                    |   3/12  | 2 months ago | 01/16/2026 |
@@ -19,7 +19,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |   9   |                                        Sousou no Frieren 2nd Season                                       |   5 days ago  | 01/17/2026 |  04/05/2026 |
+| [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |   9   |                                        Sousou no Frieren 2nd Season                                       |   6 days ago  | 01/17/2026 |  04/05/2026 |
 | [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             |  2 months ago | 01/23/2026 |  01/23/2026 |
 | [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          |  3 months ago | 12/06/2025 |  12/27/2025 |
 | [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |   8   |                                    Boku no Hero Academia: Final Season                                    |  4 months ago | 12/02/2025 |  12/18/2025 |
@@ -33,12 +33,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [22729](https://myanimelist.net/anime/22729) |    tv   |  2014  |   7   |                                                  Aldnoah.Zero                                                 |  11/12  |   Yesterday  | 03/13/2026 |
-| [34443](https://myanimelist.net/anime/34443) |   ona   |  2018  |   -   |                                                      Baki                                                     |   3/26  |   Yesterday  | 02/27/2026 |
-| [57592](https://myanimelist.net/anime/57592) |    tv   |  2025  |   -   |                                           Dr. Stone: Science Future                                           |   1/12  |   Yesterday  | 02/10/2026 |
+| [22729](https://myanimelist.net/anime/22729) |    tv   |  2014  |   7   |                                                  Aldnoah.Zero                                                 |  11/12  |  2 days ago  | 03/13/2026 |
+| [34443](https://myanimelist.net/anime/34443) |   ona   |  2018  |   -   |                                                      Baki                                                     |   3/26  |  2 days ago  | 02/27/2026 |
+| [57592](https://myanimelist.net/anime/57592) |    tv   |  2025  |   -   |                                           Dr. Stone: Science Future                                           |   1/12  |  2 days ago  | 02/10/2026 |
 | [57524](https://myanimelist.net/anime/57524) |    tv   |  2024  |   -   |                                           Make Heroine ga Oosugiru!                                           |   1/12  | 2 months ago | 01/20/2026 |
 | [59267](https://myanimelist.net/anime/59267) |    tv   |  2025  |   -   |                                                     Sanda                                                     |   1/12  | 2 months ago | 12/30/2025 |
-| [59845](https://myanimelist.net/anime/59845) |    tv   |  2025  |   -   |                                           Kaoru Hana wa Rin to Saku                                           |   1/13  |   Yesterday  | 12/27/2025 |
+| [59845](https://myanimelist.net/anime/59845) |    tv   |  2025  |   -   |                                           Kaoru Hana wa Rin to Saku                                           |   1/13  |  2 days ago  | 12/27/2025 |
 
 
 *[114 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
@@ -61,7 +61,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [63816](https://myanimelist.net/anime/63816) |     tv     |  2027  |     manga    |                                           Sousou no Frieren: Ougonkyou-hen                                          |   5 days ago  |        -        |
+| [63816](https://myanimelist.net/anime/63816) |     tv     |  2027  |     manga    |                                           Sousou no Frieren: Ougonkyou-hen                                          |   6 days ago  |        -        |
 | [62485](https://myanimelist.net/anime/62485) |     tv     |  2026  |     manga    |                                           Kanojo, Okarishimasu 5th Season                                           |  2 weeks ago  |        -        |
 | [60310](https://myanimelist.net/anime/60310) |     tv     |  2026  |     manga    |                                          Mairimashita! Iruma-kun 4th Season                                         |  2 weeks ago  |        -        |
 | [62568](https://myanimelist.net/anime/62568) |     tv     |  2026  |     manga    |                                           Dr. Stone: Science Future Part 3                                          |  2 weeks ago  |        -        |
