@@ -1,14 +1,15 @@
-# Plan to Watch (345)
+# Plan to Watch (346)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [62913](https://myanimelist.net/anime/62913) |     tv     |  2026  | visual_novel |                                                 Needy Girl Overdose                                                 |  23 hours ago |        -        |
 | [63816](https://myanimelist.net/anime/63816) |     tv     |  2027  |     manga    |                                           Sousou no Frieren: Ougonkyou-hen                                          |   Last week   |        -        |
 | [62485](https://myanimelist.net/anime/62485) |     tv     |  2026  |     manga    |                                           Kanojo, Okarishimasu 5th Season                                           |  3 weeks ago  |        -        |
 | [60310](https://myanimelist.net/anime/60310) |     tv     |  2026  |     manga    |                                          Mairimashita! Iruma-kun 4th Season                                         |  3 weeks ago  |        -        |
 | [62568](https://myanimelist.net/anime/62568) |     tv     |  2026  |     manga    |                                           Dr. Stone: Science Future Part 3                                          |  3 weeks ago  |        -        |
 | [61316](https://myanimelist.net/anime/61316) |     tv     |  2026  |  light_novel |                                   Re:Zero kara Hajimeru Isekai Seikatsu 4th Season                                  |  3 weeks ago  |        -        |
 | [27655](https://myanimelist.net/anime/27655) |     tv     |  2015  |   original   |                                                 Aldnoah.Zero Part 2                                                 |   Last month  |        -        |
-| [24037](https://myanimelist.net/anime/24037) |     tv     |  2014  |   card_game  |                                                Selector Spread WIXOSS                                               |   Last month  |        -        |
+| [24037](https://myanimelist.net/anime/24037) |     tv     |  2014  |   card_game  |                                                Selector Spread WIXOSS                                               |  2 months ago |        -        |
 | [40550](https://myanimelist.net/anime/40550) |     tv     |  2020  |  mixed_media |                                                Assault Lily: Bouquet                                                |  2 months ago |        -        |
 | [50392](https://myanimelist.net/anime/50392) |     tv     |  2024  |     manga    |                                                 Mato Seihei no Slave                                                |  3 months ago |        -        |
 | [60058](https://myanimelist.net/anime/60058) |     tv     |  2026  |     manga    |                                               [Oshi no Ko] 3rd Season                                               |  3 months ago |        -        |

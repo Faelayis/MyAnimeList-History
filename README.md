@@ -2,12 +2,12 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (7) ``2.03%``
+#### Watching (7) ``2.02%``
 
 |                      id                      | Type | Season | Score |                            Title                            | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [62001](https://myanimelist.net/anime/62001) |  tv  |  2026  |   -   |                        Yomi no Tsugai                       |   2/24  |  3 days ago  | 04/15/2026 |
-| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |             Tsue to Tsurugi no Wistoria Season 2            |   1/?   |  5 days ago  | 04/13/2026 |
+| [62001](https://myanimelist.net/anime/62001) |  tv  |  2026  |   -   |                        Yomi no Tsugai                       |   2/24  |  4 days ago  | 04/15/2026 |
+| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |             Tsue to Tsurugi no Wistoria Season 2            |   1/?   |  6 days ago  | 04/13/2026 |
 | [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |           Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen          |   6/12  |  Last month  | 01/10/2026 |
 | [56009](https://myanimelist.net/anime/56009) |  tv  |  2026  |   -   | Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku |   3/12  |  Last month  | 01/09/2026 |
 | [55825](https://myanimelist.net/anime/55825) |  tv  |  2026  |   -   |                    Jigokuraku 2nd Season                    |   3/12  | 2 months ago | 01/16/2026 |
@@ -16,7 +16,7 @@ List Sync From MyAnimeList (update every day)
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``104.98%``
+#### Completed ``105.19%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed  | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :----------: | :--------: | :---------: |
@@ -30,7 +30,7 @@ List Sync From MyAnimeList (update every day)
 
 *[476 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``13.82%``
+#### On Hold ``13.81%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -58,16 +58,16 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``53.65%``
+#### Plan to Watch ``53.81%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
+| [62913](https://myanimelist.net/anime/62913) |     tv     |  2026  | visual_novel |                                                 Needy Girl Overdose                                                 |  23 hours ago |        -        |
 | [63816](https://myanimelist.net/anime/63816) |     tv     |  2027  |     manga    |                                           Sousou no Frieren: Ougonkyou-hen                                          |   Last week   |        -        |
 | [62485](https://myanimelist.net/anime/62485) |     tv     |  2026  |     manga    |                                           Kanojo, Okarishimasu 5th Season                                           |  3 weeks ago  |        -        |
 | [60310](https://myanimelist.net/anime/60310) |     tv     |  2026  |     manga    |                                          Mairimashita! Iruma-kun 4th Season                                         |  3 weeks ago  |        -        |
 | [62568](https://myanimelist.net/anime/62568) |     tv     |  2026  |     manga    |                                           Dr. Stone: Science Future Part 3                                          |  3 weeks ago  |        -        |
 | [61316](https://myanimelist.net/anime/61316) |     tv     |  2026  |  light_novel |                                   Re:Zero kara Hajimeru Isekai Seikatsu 4th Season                                  |  3 weeks ago  |        -        |
-| [27655](https://myanimelist.net/anime/27655) |     tv     |  2015  |   original   |                                                 Aldnoah.Zero Part 2                                                 |   Last month  |        -        |
 
 
-*[338 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
+*[339 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
