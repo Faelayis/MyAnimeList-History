@@ -34,12 +34,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [22729](https://myanimelist.net/anime/22729) |    tv   |  2014  |   7   |                                                  Aldnoah.Zero                                                 |  11/12  |   Last week   | 03/13/2026 |
-| [34443](https://myanimelist.net/anime/34443) |   ona   |  2018  |   -   |                                                      Baki                                                     |   3/26  |   Last week   | 02/27/2026 |
-| [57592](https://myanimelist.net/anime/57592) |    tv   |  2025  |   -   |                                           Dr. Stone: Science Future                                           |   1/12  |   Last week   | 02/10/2026 |
+| [22729](https://myanimelist.net/anime/22729) |    tv   |  2014  |   7   |                                                  Aldnoah.Zero                                                 |  11/12  |  2 weeks ago  | 03/13/2026 |
+| [34443](https://myanimelist.net/anime/34443) |   ona   |  2018  |   -   |                                                      Baki                                                     |   3/26  |  2 weeks ago  | 02/27/2026 |
+| [57592](https://myanimelist.net/anime/57592) |    tv   |  2025  |   -   |                                           Dr. Stone: Science Future                                           |   1/12  |  2 weeks ago  | 02/10/2026 |
 | [57524](https://myanimelist.net/anime/57524) |    tv   |  2024  |   -   |                                           Make Heroine ga Oosugiru!                                           |   1/12  |  2 months ago | 01/20/2026 |
 | [59267](https://myanimelist.net/anime/59267) |    tv   |  2025  |   -   |                                                     Sanda                                                     |   1/12  |  3 months ago | 12/30/2025 |
-| [59845](https://myanimelist.net/anime/59845) |    tv   |  2025  |   -   |                                           Kaoru Hana wa Rin to Saku                                           |   1/13  |   Last week   | 12/27/2025 |
+| [59845](https://myanimelist.net/anime/59845) |    tv   |  2025  |   -   |                                           Kaoru Hana wa Rin to Saku                                           |   1/13  |  2 weeks ago  | 12/27/2025 |
 
 
 *[114 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
@@ -62,7 +62,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [62913](https://myanimelist.net/anime/62913) |     tv     |  2026  | visual_novel |                                                 Needy Girl Overdose                                                 |   5 days ago  |        -        |
+| [62913](https://myanimelist.net/anime/62913) |     tv     |  2026  | visual_novel |                                                 Needy Girl Overdose                                                 |   6 days ago  |        -        |
 | [63816](https://myanimelist.net/anime/63816) |     tv     |  2027  |     manga    |                                           Sousou no Frieren: Ougonkyou-hen                                          |  2 weeks ago  |        -        |
 | [62485](https://myanimelist.net/anime/62485) |     tv     |  2026  |     manga    |                                           Kanojo, Okarishimasu 5th Season                                           |  3 weeks ago  |        -        |
 | [60310](https://myanimelist.net/anime/60310) |     tv     |  2026  |     manga    |                                          Mairimashita! Iruma-kun 4th Season                                         |  3 weeks ago  |        -        |
