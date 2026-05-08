@@ -1,7 +1,8 @@
-# Watching (7)
+# Watching (8)
 
 |                      id                      | Type | Season | Score |                            Title                            | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------------: | :-----: | :----------: | :--------: |
+| [51553](https://myanimelist.net/anime/51553) |  tv  |  2026  |   -   |                  Tongari Boushi no Atelier                  |   0/13  | 23 hours ago | 05/07/2026 |
 | [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |             Tsue to Tsurugi no Wistoria Season 2            |   3/?   |   Last week  | 04/13/2026 |
 | [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |           Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen          |   9/12  |   Last week  | 01/10/2026 |
 | [62001](https://myanimelist.net/anime/62001) |  tv  |  2026  |   -   |                        Yomi no Tsugai                       |   2/24  |  3 weeks ago | 04/15/2026 |
