@@ -6,8 +6,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                            Title                            | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51553](https://myanimelist.net/anime/51553) |  tv  |  2026  |   -   |                  Tongari Boushi no Atelier                  |   8/13  |  3 days ago  | 05/07/2026 |
-| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |             Tsue to Tsurugi no Wistoria Season 2            |   6/12  |  4 days ago  | 04/13/2026 |
+| [51553](https://myanimelist.net/anime/51553) |  tv  |  2026  |   -   |                  Tongari Boushi no Atelier                  |   8/13  |  4 days ago  | 05/07/2026 |
+| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |             Tsue to Tsurugi no Wistoria Season 2            |   6/12  |  5 days ago  | 04/13/2026 |
 | [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |           Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen          |   9/12  |  3 weeks ago | 01/10/2026 |
 | [62001](https://myanimelist.net/anime/62001) |  tv  |  2026  |   -   |                        Yomi no Tsugai                       |   2/24  |  Last month  | 04/15/2026 |
 | [56009](https://myanimelist.net/anime/56009) |  tv  |  2026  |   -   | Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku |   3/12  | 3 months ago | 01/09/2026 |
@@ -67,8 +67,8 @@ List Sync From MyAnimeList (update every day)
 | [64105](https://myanimelist.net/anime/64105) |     ova    |    -   |     manga    |                                               5-toubun no Hanayome OVA                                              |   Last week   |        -        |
 | [62913](https://myanimelist.net/anime/62913) |     tv     |  2026  | visual_novel |                                                 Needy Girl Overdose                                                 |   Last month  |        -        |
 | [63816](https://myanimelist.net/anime/63816) |     tv     |  2027  |     manga    |                                           Sousou no Frieren: Ougonkyou-hen                                          |   Last month  |        -        |
-| [62485](https://myanimelist.net/anime/62485) |     tv     |  2026  |     manga    |                                           Kanojo, Okarishimasu 5th Season                                           |   Last month  |        -        |
-| [60310](https://myanimelist.net/anime/60310) |     tv     |  2026  |     manga    |                                          Mairimashita! Iruma-kun 4th Season                                         |   Last month  |        -        |
+| [62485](https://myanimelist.net/anime/62485) |     tv     |  2026  |     manga    |                                           Kanojo, Okarishimasu 5th Season                                           |  2 months ago |        -        |
+| [60310](https://myanimelist.net/anime/60310) |     tv     |  2026  |     manga    |                                          Mairimashita! Iruma-kun 4th Season                                         |  2 months ago |        -        |
 
 
 *[341 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/plan_to_watch.md)*
