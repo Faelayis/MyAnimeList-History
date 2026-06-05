@@ -35,12 +35,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [22729](https://myanimelist.net/anime/22729) |    tv   |  2014  |   7   |                                                  Aldnoah.Zero                                                 |  11/12  |   Last month  | 03/13/2026 |
-| [34443](https://myanimelist.net/anime/34443) |   ona   |  2018  |   -   |                                                      Baki                                                     |   3/26  |   Last month  | 02/27/2026 |
-| [57592](https://myanimelist.net/anime/57592) |    tv   |  2025  |   -   |                                           Dr. Stone: Science Future                                           |   1/12  |   Last month  | 02/10/2026 |
+| [22729](https://myanimelist.net/anime/22729) |    tv   |  2014  |   7   |                                                  Aldnoah.Zero                                                 |  11/12  |  2 months ago | 03/13/2026 |
+| [34443](https://myanimelist.net/anime/34443) |   ona   |  2018  |   -   |                                                      Baki                                                     |   3/26  |  2 months ago | 02/27/2026 |
+| [57592](https://myanimelist.net/anime/57592) |    tv   |  2025  |   -   |                                           Dr. Stone: Science Future                                           |   1/12  |  2 months ago | 02/10/2026 |
 | [57524](https://myanimelist.net/anime/57524) |    tv   |  2024  |   -   |                                           Make Heroine ga Oosugiru!                                           |   1/12  |  4 months ago | 01/20/2026 |
 | [59267](https://myanimelist.net/anime/59267) |    tv   |  2025  |   -   |                                                     Sanda                                                     |   1/12  |  4 months ago | 12/30/2025 |
-| [59845](https://myanimelist.net/anime/59845) |    tv   |  2025  |   -   |                                           Kaoru Hana wa Rin to Saku                                           |   1/13  |   Last month  | 12/27/2025 |
+| [59845](https://myanimelist.net/anime/59845) |    tv   |  2025  |   -   |                                           Kaoru Hana wa Rin to Saku                                           |   1/13  |  2 months ago | 12/27/2025 |
 
 
 *[114 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
