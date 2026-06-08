@@ -7,12 +7,12 @@ List Sync From MyAnimeList (update every day)
 |                      id                      | Type | Season | Score |                            Title                            | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------------: | :-----: | :----------: | :--------: |
 | [51553](https://myanimelist.net/anime/51553) |  tv  |  2026  |   -   |                  Tongari Boushi no Atelier                  |   8/13  |  2 weeks ago | 05/07/2026 |
-| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |             Tsue to Tsurugi no Wistoria Season 2            |   6/12  |  2 weeks ago | 04/13/2026 |
+| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |             Tsue to Tsurugi no Wistoria Season 2            |   6/12  |  3 weeks ago | 04/13/2026 |
 | [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |           Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen          |   9/12  |  Last month  | 01/10/2026 |
 | [62001](https://myanimelist.net/anime/62001) |  tv  |  2026  |   -   |                        Yomi no Tsugai                       |   2/24  |  Last month  | 04/15/2026 |
 | [56009](https://myanimelist.net/anime/56009) |  tv  |  2026  |   -   | Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku |   3/12  | 3 months ago | 01/09/2026 |
 | [55825](https://myanimelist.net/anime/55825) |  tv  |  2026  |   -   |                    Jigokuraku 2nd Season                    |   3/12  | 4 months ago | 01/16/2026 |
-| [51818](https://myanimelist.net/anime/51818) |  tv  |  2025  |   -   |               Enen no Shouboutai: San no Shou               |   7/12  | 4 months ago | 01/13/2026 |
+| [51818](https://myanimelist.net/anime/51818) |  tv  |  2025  |   -   |               Enen no Shouboutai: San no Shou               |   7/12  | 5 months ago | 01/13/2026 |
 |    [21](https://myanimelist.net/anime/21)    |  tv  |  1999  |   8   |                          One Piece                          |  1145/? | 6 months ago | 01/01/2013 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
@@ -33,14 +33,14 @@ List Sync From MyAnimeList (update every day)
 
 #### On Hold ``13.76%``
 
-|                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
-| :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [22729](https://myanimelist.net/anime/22729) |    tv   |  2014  |   7   |                                                  Aldnoah.Zero                                                 |  11/12  |  2 months ago | 03/13/2026 |
-| [34443](https://myanimelist.net/anime/34443) |   ona   |  2018  |   -   |                                                      Baki                                                     |   3/26  |  2 months ago | 02/27/2026 |
-| [57592](https://myanimelist.net/anime/57592) |    tv   |  2025  |   -   |                                           Dr. Stone: Science Future                                           |   1/12  |  2 months ago | 02/10/2026 |
-| [57524](https://myanimelist.net/anime/57524) |    tv   |  2024  |   -   |                                           Make Heroine ga Oosugiru!                                           |   1/12  |  4 months ago | 01/20/2026 |
-| [59267](https://myanimelist.net/anime/59267) |    tv   |  2025  |   -   |                                                     Sanda                                                     |   1/12  |  4 months ago | 12/30/2025 |
-| [59845](https://myanimelist.net/anime/59845) |    tv   |  2025  |   -   |                                           Kaoru Hana wa Rin to Saku                                           |   1/13  |  2 months ago | 12/27/2025 |
+|                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated   | Start Date |
+| :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :----------: | :--------: |
+| [22729](https://myanimelist.net/anime/22729) |    tv   |  2014  |   7   |                                                  Aldnoah.Zero                                                 |  11/12  | 2 months ago | 03/13/2026 |
+| [34443](https://myanimelist.net/anime/34443) |   ona   |  2018  |   -   |                                                      Baki                                                     |   3/26  | 2 months ago | 02/27/2026 |
+| [57592](https://myanimelist.net/anime/57592) |    tv   |  2025  |   -   |                                           Dr. Stone: Science Future                                           |   1/12  | 2 months ago | 02/10/2026 |
+| [57524](https://myanimelist.net/anime/57524) |    tv   |  2024  |   -   |                                           Make Heroine ga Oosugiru!                                           |   1/12  | 4 months ago | 01/20/2026 |
+| [59267](https://myanimelist.net/anime/59267) |    tv   |  2025  |   -   |                                                     Sanda                                                     |   1/12  | 5 months ago | 12/30/2025 |
+| [59845](https://myanimelist.net/anime/59845) |    tv   |  2025  |   -   |                                           Kaoru Hana wa Rin to Saku                                           |   1/13  | 2 months ago | 12/27/2025 |
 
 
 *[114 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
