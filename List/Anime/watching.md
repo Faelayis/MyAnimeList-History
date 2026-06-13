@@ -2,9 +2,9 @@
 
 |                      id                      | Type | Season | Score |                            Title                            | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [60223](https://myanimelist.net/anime/60223) |  tv  |  2026  |   -   |                    Kaya-chan wa Kowakunai                   |   0/12  | 17 hours ago |      -     |
-| [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   -   |          Tensei shitara Slime Datta Ken 4th Season          |   1/?   | 22 hours ago |      -     |
-| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |             Tsue to Tsurugi no Wistoria Season 2            |   8/12  | 22 hours ago | 04/13/2026 |
+| [60223](https://myanimelist.net/anime/60223) |  tv  |  2026  |   -   |                    Kaya-chan wa Kowakunai                   |   0/12  |   Yesterday  |      -     |
+| [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   -   |          Tensei shitara Slime Datta Ken 4th Season          |   1/?   |   Yesterday  |      -     |
+| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |             Tsue to Tsurugi no Wistoria Season 2            |   8/12  |   Yesterday  | 04/13/2026 |
 | [51553](https://myanimelist.net/anime/51553) |  tv  |  2026  |   -   |                  Tongari Boushi no Atelier                  |   8/13  |  3 weeks ago | 05/07/2026 |
 | [57658](https://myanimelist.net/anime/57658) |  tv  |  2026  |   -   |           Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen          |   9/12  |  Last month  | 01/10/2026 |
 | [62001](https://myanimelist.net/anime/62001) |  tv  |  2026  |   -   |                        Yomi no Tsugai                       |   2/24  | 2 months ago | 04/15/2026 |
