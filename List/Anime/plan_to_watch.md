@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [62613](https://myanimelist.net/anime/62613) |     tv     |  2027  |     manga    |                                                    Youchien Wars                                                    |   5 days ago  |        -        |
+| [62613](https://myanimelist.net/anime/62613) |     tv     |  2027  |     manga    |                                                    Youchien Wars                                                    |   6 days ago  |        -        |
 | [63130](https://myanimelist.net/anime/63130) | tv_special |  2026  |     manga    |                                             Boku no Hero Academia: More                                             |   Last month  |        -        |
 | [64105](https://myanimelist.net/anime/64105) |     ova    |    -   |     manga    |                                               5-toubun no Hanayome OVA                                              |   Last month  |        -        |
 | [62913](https://myanimelist.net/anime/62913) |     tv     |  2026  | visual_novel |                                                 Needy Girl Overdose                                                 |  2 months ago |        -        |
