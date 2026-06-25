@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed  | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :----------: | :--------: | :---------: |
-| [57658](https://myanimelist.net/anime/57658) |     tv     |  2026  |   8   |                                  Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                                 |  9 hours ago | 01/10/2026 |  06/24/2026 |
+| [57658](https://myanimelist.net/anime/57658) |     tv     |  2026  |   8   |                                  Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                                 |   Yesterday  | 01/10/2026 |  06/24/2026 |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |   9   |                                        Sousou no Frieren 2nd Season                                       | 2 months ago | 01/17/2026 |  04/05/2026 |
 | [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             | 5 months ago | 01/23/2026 |  01/23/2026 |
 | [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          | 6 months ago | 12/06/2025 |  12/27/2025 |
@@ -232,8 +232,8 @@
 | [36862](https://myanimelist.net/anime/36862) |    movie   |  2020  |   10  |                              Made in Abyss Movie 3: Fukaki Tamashii no Reimei                             |  4 years ago | 12/09/2021 |  12/09/2021 |
 | [14345](https://myanimelist.net/anime/14345) |     tv     |  2012  |   6   |                                                  Btooom!                                                  |  4 years ago | 12/08/2021 |  12/08/2021 |
 | [34599](https://myanimelist.net/anime/34599) |     tv     |  2017  |   10  |                                               Made in Abyss                                               |  4 years ago | 12/08/2021 |  12/08/2021 |
-| [36516](https://myanimelist.net/anime/36516) |     tv     |  2018  |   7   |                                                  Beatless                                                 |  4 years ago | 11/18/2021 |  11/18/2021 |
-| [38020](https://myanimelist.net/anime/38020) |     tv     |  2018  |   6   |                                            Beatless Final Stage                                           |  4 years ago | 11/18/2021 |  11/18/2021 |
+| [36516](https://myanimelist.net/anime/36516) |     tv     |  2018  |   7   |                                                  Beatless                                                 |  5 years ago | 11/18/2021 |  11/18/2021 |
+| [38020](https://myanimelist.net/anime/38020) |     tv     |  2018  |   6   |                                            Beatless Final Stage                                           |  5 years ago | 11/18/2021 |  11/18/2021 |
 |  [7311](https://myanimelist.net/anime/7311)  |    movie   |  2010  |   7   |                                       Suzumiya Haruhi no Shoushitsu                                       |  5 years ago | 11/01/2021 |  11/01/2021 |
 |  [4382](https://myanimelist.net/anime/4382)  |     tv     |  2009  |   7   |                                     Suzumiya Haruhi no Yuuutsu (2009)                                     |  5 years ago | 10/30/2021 |  11/01/2021 |
 | [34213](https://myanimelist.net/anime/34213) |     ona    |  2016  |   6   |                                            Getsuyoubi no Tawawa                                           |  5 years ago | 10/12/2021 |  10/28/2021 |
