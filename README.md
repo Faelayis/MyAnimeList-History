@@ -6,10 +6,10 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      | Type | Season | Score |                            Title                            | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------------------------: | :-----: | :----------: | :--------: |
-| [51553](https://myanimelist.net/anime/51553) |  tv  |  2026  |   -   |                  Tongari Boushi no Atelier                  |   9/13  |  2 days ago  | 05/07/2026 |
-| [60223](https://myanimelist.net/anime/60223) |  tv  |  2026  |   -   |                    Kaya-chan wa Kowakunai                   |   0/12  |   Last week  |      -     |
-| [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   -   |          Tensei shitara Slime Datta Ken 4th Season          |   1/?   |   Last week  |      -     |
-| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |             Tsue to Tsurugi no Wistoria Season 2            |   8/12  |   Last week  | 04/13/2026 |
+| [51553](https://myanimelist.net/anime/51553) |  tv  |  2026  |   -   |                  Tongari Boushi no Atelier                  |   9/13  |  3 days ago  | 05/07/2026 |
+| [60223](https://myanimelist.net/anime/60223) |  tv  |  2026  |   -   |                    Kaya-chan wa Kowakunai                   |   0/12  |  2 weeks ago |      -     |
+| [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   -   |          Tensei shitara Slime Datta Ken 4th Season          |   1/?   |  2 weeks ago |      -     |
+| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |             Tsue to Tsurugi no Wistoria Season 2            |   8/12  |  2 weeks ago | 04/13/2026 |
 | [62001](https://myanimelist.net/anime/62001) |  tv  |  2026  |   -   |                        Yomi no Tsugai                       |   2/24  | 2 months ago | 04/15/2026 |
 | [56009](https://myanimelist.net/anime/56009) |  tv  |  2026  |   -   | Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku |   3/12  | 4 months ago | 01/09/2026 |
 | [55825](https://myanimelist.net/anime/55825) |  tv  |  2026  |   -   |                    Jigokuraku 2nd Season                    |   3/12  | 5 months ago | 01/16/2026 |
@@ -22,7 +22,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed  | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :----------: | :--------: | :---------: |
-| [57658](https://myanimelist.net/anime/57658) |     tv     |  2026  |   8   |                                  Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                                 |   Yesterday  | 01/10/2026 |  06/24/2026 |
+| [57658](https://myanimelist.net/anime/57658) |     tv     |  2026  |   8   |                                  Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                                 |  2 days ago  | 01/10/2026 |  06/24/2026 |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |   9   |                                        Sousou no Frieren 2nd Season                                       | 2 months ago | 01/17/2026 |  04/05/2026 |
 | [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             | 5 months ago | 01/23/2026 |  01/23/2026 |
 | [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          | 6 months ago | 12/06/2025 |  12/27/2025 |
@@ -64,7 +64,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [62613](https://myanimelist.net/anime/62613) |     tv     |  2027  |     manga    |                                                    Youchien Wars                                                    |   Last week   |        -        |
+| [62613](https://myanimelist.net/anime/62613) |     tv     |  2027  |     manga    |                                                    Youchien Wars                                                    |  2 weeks ago  |        -        |
 | [63130](https://myanimelist.net/anime/63130) | tv_special |  2026  |     manga    |                                             Boku no Hero Academia: More                                             |   Last month  |        -        |
 | [64105](https://myanimelist.net/anime/64105) |     ova    |    -   |     manga    |                                               5-toubun no Hanayome OVA                                              |   Last month  |        -        |
 | [62913](https://myanimelist.net/anime/62913) |     tv     |  2026  | visual_novel |                                                 Needy Girl Overdose                                                 |  2 months ago |        -        |
