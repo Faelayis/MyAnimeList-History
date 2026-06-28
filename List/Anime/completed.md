@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed  | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :----------: | :--------: | :---------: |
-| [57658](https://myanimelist.net/anime/57658) |     tv     |  2026  |   8   |                                  Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                                 |  3 days ago  | 01/10/2026 |  06/24/2026 |
+| [57658](https://myanimelist.net/anime/57658) |     tv     |  2026  |   8   |                                  Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                                 |  4 days ago  | 01/10/2026 |  06/24/2026 |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |   9   |                                        Sousou no Frieren 2nd Season                                       | 2 months ago | 01/17/2026 |  04/05/2026 |
 | [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             | 5 months ago | 01/23/2026 |  01/23/2026 |
 | [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          | 6 months ago | 12/06/2025 |  12/27/2025 |
@@ -117,7 +117,7 @@
 | [20583](https://myanimelist.net/anime/20583) |     tv     |  2014  |   7   |                                                 Haikyuu!!                                                 |  3 years ago | 10/28/2022 |  10/31/2022 |
 | [39651](https://myanimelist.net/anime/39651) |     ova    |  2019  |   5   |           Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi          |  3 years ago | 10/24/2022 |  10/24/2022 |
 | [37510](https://myanimelist.net/anime/37510) |     tv     |  2019  |   8   |                                             Mob Psycho 100 II                                             |  3 years ago | 10/23/2022 |  10/24/2022 |
-| [32182](https://myanimelist.net/anime/32182) |     tv     |  2016  |   7   |                                               Mob Psycho 100                                              |  3 years ago | 02/05/2022 |  10/23/2022 |
+| [32182](https://myanimelist.net/anime/32182) |     tv     |  2016  |   7   |                                               Mob Psycho 100                                              |  4 years ago | 02/05/2022 |  10/23/2022 |
 | [16436](https://myanimelist.net/anime/16436) | tv_special |  2013  |   2   |                                               Tenshi no Drop                                              |  4 years ago | 10/16/2022 |  10/16/2022 |
 |  [6213](https://myanimelist.net/anime/6213)  |     tv     |  2009  |   7   |                                          Toaru Kagaku no Railgun                                          |  4 years ago | 09/06/2022 |  10/16/2022 |
 | [48675](https://myanimelist.net/anime/48675) |     tv     |  2022  |   7   |                                             Kakkou no Iinazuke                                            |  4 years ago | 04/25/2022 |  10/16/2022 |
