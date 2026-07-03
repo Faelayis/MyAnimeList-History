@@ -7,8 +7,8 @@ List Sync From MyAnimeList (update every day)
 |                      id                      | Type | Season | Score |                   Title                   | Watched |   Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :---------------------------------------: | :-----: | :---------: | :--------: |
 | [51553](https://myanimelist.net/anime/51553) |  tv  |  2026  |   -   |         Tongari Boushi no Atelier         |   9/13  |  Last week  | 05/07/2026 |
-| [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   -   | Tensei shitara Slime Datta Ken 4th Season |   1/?   | 2 weeks ago |      -     |
-| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |    Tsue to Tsurugi no Wistoria Season 2   |   8/12  | 2 weeks ago | 04/13/2026 |
+| [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   -   | Tensei shitara Slime Datta Ken 4th Season |   1/?   | 3 weeks ago |      -     |
+| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |    Tsue to Tsurugi no Wistoria Season 2   |   8/12  | 3 weeks ago | 04/13/2026 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -30,12 +30,12 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [62001](https://myanimelist.net/anime/62001) |    tv   |  2026  |   -   |                                                 Yomi no Tsugai                                                |   2/24  |   2 days ago  | 04/15/2026 |
-| [22729](https://myanimelist.net/anime/22729) |    tv   |  2014  |   7   |                                                  Aldnoah.Zero                                                 |  11/12  |  2 months ago | 03/13/2026 |
-| [34443](https://myanimelist.net/anime/34443) |   ona   |  2018  |   -   |                                                      Baki                                                     |   3/26  |  2 months ago | 02/27/2026 |
-| [57592](https://myanimelist.net/anime/57592) |    tv   |  2025  |   -   |                                           Dr. Stone: Science Future                                           |   1/12  |  2 months ago | 02/10/2026 |
+| [62001](https://myanimelist.net/anime/62001) |    tv   |  2026  |   -   |                                                 Yomi no Tsugai                                                |   2/24  |   3 days ago  | 04/15/2026 |
+| [22729](https://myanimelist.net/anime/22729) |    tv   |  2014  |   7   |                                                  Aldnoah.Zero                                                 |  11/12  |  3 months ago | 03/13/2026 |
+| [34443](https://myanimelist.net/anime/34443) |   ona   |  2018  |   -   |                                                      Baki                                                     |   3/26  |  3 months ago | 02/27/2026 |
+| [57592](https://myanimelist.net/anime/57592) |    tv   |  2025  |   -   |                                           Dr. Stone: Science Future                                           |   1/12  |  3 months ago | 02/10/2026 |
 | [57524](https://myanimelist.net/anime/57524) |    tv   |  2024  |   -   |                                           Make Heroine ga Oosugiru!                                           |   1/12  |  5 months ago | 01/20/2026 |
-| [55825](https://myanimelist.net/anime/55825) |    tv   |  2026  |   -   |                                             Jigokuraku 2nd Season                                             |   3/12  |   2 days ago  | 01/16/2026 |
+| [55825](https://myanimelist.net/anime/55825) |    tv   |  2026  |   -   |                                             Jigokuraku 2nd Season                                             |   3/12  |   3 days ago  | 01/16/2026 |
 
 
 *[119 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
@@ -58,8 +58,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [60223](https://myanimelist.net/anime/60223) |     tv     |  2026  |   web_manga  |                                                Kaya-chan wa Kowakunai                                               |   2 days ago  |        -        |
-| [62613](https://myanimelist.net/anime/62613) |     tv     |  2027  |     manga    |                                                    Youchien Wars                                                    |  2 weeks ago  |        -        |
+| [60223](https://myanimelist.net/anime/60223) |     tv     |  2026  |   web_manga  |                                                Kaya-chan wa Kowakunai                                               |   3 days ago  |        -        |
+| [62613](https://myanimelist.net/anime/62613) |     tv     |  2027  |     manga    |                                                    Youchien Wars                                                    |  3 weeks ago  |        -        |
 | [63130](https://myanimelist.net/anime/63130) | tv_special |  2026  |     manga    |                                             Boku no Hero Academia: More                                             |   Last month  |        -        |
 | [64105](https://myanimelist.net/anime/64105) |     ova    |    -   |     manga    |                                               5-toubun no Hanayome OVA                                              |   Last month  |        -        |
 | [62913](https://myanimelist.net/anime/62913) |     tv     |  2026  | visual_novel |                                                 Needy Girl Overdose                                                 |  2 months ago |        -        |
