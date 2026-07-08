@@ -1,4 +1,4 @@
-# Plan to Watch (349)
+# Plan to Watch (348)
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
@@ -86,7 +86,6 @@
 | [55848](https://myanimelist.net/anime/55848) |     tv     |  2024  |     other    |                                                 Isekai Suicide Squad                                                |  2 years ago  |        -        |
 | [59139](https://myanimelist.net/anime/59139) |     tv     |    -   |  light_novel |                                     Tsuki ga Michibiku Isekai Douchuu 3rd Season                                    |  2 years ago  |        -        |
 | [59174](https://myanimelist.net/anime/59174) |    movie   |  2026  |  light_novel |                                Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen                               |  2 years ago  |        -        |
-| [59193](https://myanimelist.net/anime/59193) |     tv     |  2026  |  light_novel |                                     Mushoku Tensei III: Isekai Ittara Honki Dasu                                    |  2 years ago  |        -        |
 | [59142](https://myanimelist.net/anime/59142) |     tv     |  2025  |  light_novel |                                                 Unnamed Memory Act.2                                                |  2 years ago  |        -        |
 | [59160](https://myanimelist.net/anime/59160) |     tv     |  2025  |   web_manga  |                                                Wind Breaker Season 2                                                |  2 years ago  |        -        |
 | [59027](https://myanimelist.net/anime/59027) |     tv     |  2025  |     manga    |                                                Spy x Family Season 3                                                |  2 years ago  |        -        |
