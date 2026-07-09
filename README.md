@@ -4,12 +4,12 @@ List Sync From MyAnimeList (update every day)
 
 #### Watching (4) ``1.15%``
 
-|                      id                      | Type | Season | Score |                     Title                    | Watched |    Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------: | :-----: | :----------: | :--------: |
-| [59193](https://myanimelist.net/anime/59193) |  tv  |  2026  |   -   | Mushoku Tensei III: Isekai Ittara Honki Dasu |   0/14  | 13 hours ago | 07/08/2026 |
-| [51553](https://myanimelist.net/anime/51553) |  tv  |  2026  |   -   |           Tongari Boushi no Atelier          |   9/13  |  2 weeks ago | 05/07/2026 |
-| [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   -   |   Tensei shitara Slime Datta Ken 4th Season  |   1/?   |  3 weeks ago |      -     |
-| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |     Tsue to Tsurugi no Wistoria Season 2     |   8/12  |  3 weeks ago | 04/13/2026 |
+|                      id                      | Type | Season | Score |                     Title                    | Watched |   Updated   | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------: | :-----: | :---------: | :--------: |
+| [59193](https://myanimelist.net/anime/59193) |  tv  |  2026  |   -   | Mushoku Tensei III: Isekai Ittara Honki Dasu |   0/14  |  Yesterday  | 07/08/2026 |
+| [51553](https://myanimelist.net/anime/51553) |  tv  |  2026  |   -   |           Tongari Boushi no Atelier          |   9/13  | 2 weeks ago | 05/07/2026 |
+| [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   -   |   Tensei shitara Slime Datta Ken 4th Season  |   1/?   | 3 weeks ago |      -     |
+| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |     Tsue to Tsurugi no Wistoria Season 2     |   8/12  |  Last month | 04/13/2026 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -47,7 +47,7 @@ List Sync From MyAnimeList (update every day)
 | :------------------------------------------: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----: | :---------: | :--------: |
 | [52635](https://myanimelist.net/anime/52635) |  tv  |  2024  |   -   |                                         Kami no Tou: Ouji no Kikan                                        |   1/13  |  Last year  | 07/14/2024 |
 | [53889](https://myanimelist.net/anime/53889) |  tv  |  2024  |   -   |                                   Ao no Exorcist: Shimane Illuminati-hen                                  |   1/12  | 2 years ago | 01/10/2024 |
-| [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   5   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  | 2 years ago | 04/04/2023 |
+| [52830](https://myanimelist.net/anime/52830) |  tv  |  2023  |   5   | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta |   7/13  | 3 years ago | 04/04/2023 |
 | [52608](https://myanimelist.net/anime/52608) |  tv  |  2023  |   5   |                  Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito                 |   3/12  | 3 years ago | 04/03/2023 |
 | [52578](https://myanimelist.net/anime/52578) |  tv  |  2023  |   5   |                                       Boku no Kokoro no Yabai Yatsu                                       |   2/12  | 3 years ago | 04/02/2023 |
 | [12293](https://myanimelist.net/anime/12293) |  tv  |  2012  |   5   |                           Campione! Matsurowanu Kamigami to Kamigoroshi no Maou                           |   1/13  | 3 years ago | 03/20/2023 |
