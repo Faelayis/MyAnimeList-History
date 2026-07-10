@@ -2,18 +2,19 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (4) ``1.15%``
+#### Watching (5) ``1.44%``
 
-|                      id                      | Type | Season | Score |                     Title                    | Watched |   Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------: | :-----: | :---------: | :--------: |
-| [59193](https://myanimelist.net/anime/59193) |  tv  |  2026  |   -   | Mushoku Tensei III: Isekai Ittara Honki Dasu |   0/14  |  Yesterday  | 07/08/2026 |
-| [51553](https://myanimelist.net/anime/51553) |  tv  |  2026  |   -   |           Tongari Boushi no Atelier          |   9/13  | 2 weeks ago | 05/07/2026 |
-| [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   -   |   Tensei shitara Slime Datta Ken 4th Season  |   1/?   | 3 weeks ago |      -     |
-| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |     Tsue to Tsurugi no Wistoria Season 2     |   8/12  |  Last month | 04/13/2026 |
+|                      id                      | Type | Season | Score |                     Title                    | Watched |     Updated    | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------: | :-----: | :------------: | :--------: |
+| [49236](https://myanimelist.net/anime/49236) |  ona |  2021  |   -   |    Youjo Senki: Sabaku no Pasta Daisakusen   |   1/1   | 27 minutes ago | 07/10/2026 |
+| [59193](https://myanimelist.net/anime/59193) |  tv  |  2026  |   -   | Mushoku Tensei III: Isekai Ittara Honki Dasu |   0/14  | 34 minutes ago | 07/10/2026 |
+| [51553](https://myanimelist.net/anime/51553) |  tv  |  2026  |   -   |           Tongari Boushi no Atelier          |   9/13  |   2 weeks ago  | 05/07/2026 |
+| [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   -   |   Tensei shitara Slime Datta Ken 4th Season  |   1/?   |   Last month   |      -     |
+| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |     Tsue to Tsurugi no Wistoria Season 2     |   8/12  |   Last month   | 04/13/2026 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``105.80%``
+#### Completed ``106.00%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
@@ -27,7 +28,7 @@ List Sync From MyAnimeList (update every day)
 
 *[477 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``14.38%``
+#### On Hold ``14.37%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
@@ -55,12 +56,12 @@ List Sync From MyAnimeList (update every day)
 
 *[28 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/dropped.md)*
 
-#### Plan to Watch ``53.87%``
+#### Plan to Watch ``53.79%``
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [60223](https://myanimelist.net/anime/60223) |     tv     |  2026  |   web_manga  |                                                Kaya-chan wa Kowakunai                                               |   Last week   |        -        |
-| [62613](https://myanimelist.net/anime/62613) |     tv     |  2027  |     manga    |                                                    Youchien Wars                                                    |  3 weeks ago  |        -        |
+| [62613](https://myanimelist.net/anime/62613) |     tv     |  2027  |     manga    |                                                    Youchien Wars                                                    |   Last month  |        -        |
 | [63130](https://myanimelist.net/anime/63130) | tv_special |  2026  |     manga    |                                             Boku no Hero Academia: More                                             |  2 months ago |        -        |
 | [64105](https://myanimelist.net/anime/64105) |     ova    |    -   |     manga    |                                               5-toubun no Hanayome OVA                                              |  2 months ago |        -        |
 | [62913](https://myanimelist.net/anime/62913) |     tv     |  2026  | visual_novel |                                                 Needy Girl Overdose                                                 |  2 months ago |        -        |
