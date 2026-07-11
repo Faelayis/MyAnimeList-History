@@ -4,13 +4,13 @@ List Sync From MyAnimeList (update every day)
 
 #### Watching (5) ``1.44%``
 
-|                      id                      | Type | Season | Score |                     Title                    | Watched |     Updated    | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------: | :-----: | :------------: | :--------: |
-| [49236](https://myanimelist.net/anime/49236) |  ona |  2021  |   -   |    Youjo Senki: Sabaku no Pasta Daisakusen   |   1/1   | 27 minutes ago | 07/10/2026 |
-| [59193](https://myanimelist.net/anime/59193) |  tv  |  2026  |   -   | Mushoku Tensei III: Isekai Ittara Honki Dasu |   0/14  | 34 minutes ago | 07/10/2026 |
-| [51553](https://myanimelist.net/anime/51553) |  tv  |  2026  |   -   |           Tongari Boushi no Atelier          |   9/13  |   2 weeks ago  | 05/07/2026 |
-| [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   -   |   Tensei shitara Slime Datta Ken 4th Season  |   1/?   |   Last month   |      -     |
-| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |     Tsue to Tsurugi no Wistoria Season 2     |   8/12  |   Last month   | 04/13/2026 |
+|                      id                      | Type | Season | Score |                     Title                    | Watched |    Updated   | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------: | :-----: | :----------: | :--------: |
+| [49236](https://myanimelist.net/anime/49236) |  ona |  2021  |   -   |    Youjo Senki: Sabaku no Pasta Daisakusen   |   1/1   | 22 hours ago | 07/10/2026 |
+| [59193](https://myanimelist.net/anime/59193) |  tv  |  2026  |   -   | Mushoku Tensei III: Isekai Ittara Honki Dasu |   0/14  | 22 hours ago | 07/10/2026 |
+| [51553](https://myanimelist.net/anime/51553) |  tv  |  2026  |   -   |           Tongari Boushi no Atelier          |   9/13  |  2 weeks ago | 05/07/2026 |
+| [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   -   |   Tensei shitara Slime Datta Ken 4th Season  |   1/?   |  Last month  |      -     |
+| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |     Tsue to Tsurugi no Wistoria Season 2     |   8/12  |  Last month  | 04/13/2026 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -20,8 +20,8 @@ List Sync From MyAnimeList (update every day)
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
 | [57658](https://myanimelist.net/anime/57658) |     tv     |  2026  |   8   |                                  Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                                 |  2 weeks ago  | 01/10/2026 |  06/24/2026 |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |   9   |                                        Sousou no Frieren 2nd Season                                       |  3 months ago | 01/17/2026 |  04/05/2026 |
-| [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             |  5 months ago | 01/23/2026 |  01/23/2026 |
-| [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          |  6 months ago | 12/06/2025 |  12/27/2025 |
+| [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             |  6 months ago | 01/23/2026 |  01/23/2026 |
+| [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          |  7 months ago | 12/06/2025 |  12/27/2025 |
 | [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |   8   |                                    Boku no Hero Academia: Final Season                                    |  7 months ago | 12/02/2025 |  12/18/2025 |
 | [61200](https://myanimelist.net/anime/61200) |     ona    |  2025  |   6   |                                          Shuumatsu no Walküre III                                         |  7 months ago | 12/13/2025 |  12/13/2025 |
 
@@ -64,7 +64,7 @@ List Sync From MyAnimeList (update every day)
 | [62613](https://myanimelist.net/anime/62613) |     tv     |  2027  |     manga    |                                                    Youchien Wars                                                    |   Last month  |        -        |
 | [63130](https://myanimelist.net/anime/63130) | tv_special |  2026  |     manga    |                                             Boku no Hero Academia: More                                             |  2 months ago |        -        |
 | [64105](https://myanimelist.net/anime/64105) |     ova    |    -   |     manga    |                                               5-toubun no Hanayome OVA                                              |  2 months ago |        -        |
-| [62913](https://myanimelist.net/anime/62913) |     tv     |  2026  | visual_novel |                                                 Needy Girl Overdose                                                 |  2 months ago |        -        |
+| [62913](https://myanimelist.net/anime/62913) |     tv     |  2026  | visual_novel |                                                 Needy Girl Overdose                                                 |  3 months ago |        -        |
 | [63816](https://myanimelist.net/anime/63816) |     tv     |  2027  |     manga    |                                           Sousou no Frieren: Ougonkyou-hen                                          |  3 months ago |        -        |
 
 
