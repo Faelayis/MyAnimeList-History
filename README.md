@@ -4,13 +4,13 @@ List Sync From MyAnimeList (update every day)
 
 #### Watching (5) ``1.44%``
 
-|                      id                      | Type | Season | Score |                     Title                    | Watched |   Updated   | Start Date |
-| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------: | :-----: | :---------: | :--------: |
-| [59193](https://myanimelist.net/anime/59193) |  tv  |  2026  |   -   | Mushoku Tensei III: Isekai Ittara Honki Dasu |   2/14  |  2 days ago | 07/10/2026 |
-| [49236](https://myanimelist.net/anime/49236) |  ona |  2021  |   -   |    Youjo Senki: Sabaku no Pasta Daisakusen   |   1/1   |  3 days ago | 07/10/2026 |
-| [51553](https://myanimelist.net/anime/51553) |  tv  |  2026  |   -   |           Tongari Boushi no Atelier          |   9/13  | 3 weeks ago | 05/07/2026 |
-| [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   -   |   Tensei shitara Slime Datta Ken 4th Season  |   1/?   |  Last month |      -     |
-| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |     Tsue to Tsurugi no Wistoria Season 2     |   8/12  |  Last month | 04/13/2026 |
+|                      id                      | Type | Season | Score |                     Title                    | Watched |    Updated   | Start Date |
+| :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------: | :-----: | :----------: | :--------: |
+| [59193](https://myanimelist.net/anime/59193) |  tv  |  2026  |   -   | Mushoku Tensei III: Isekai Ittara Honki Dasu |   3/14  | 20 hours ago | 07/10/2026 |
+| [49236](https://myanimelist.net/anime/49236) |  ona |  2021  |   -   |    Youjo Senki: Sabaku no Pasta Daisakusen   |   1/1   |  4 days ago  | 07/10/2026 |
+| [51553](https://myanimelist.net/anime/51553) |  tv  |  2026  |   -   |           Tongari Boushi no Atelier          |   9/13  |  3 weeks ago | 05/07/2026 |
+| [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   -   |   Tensei shitara Slime Datta Ken 4th Season  |   1/?   |  Last month  |      -     |
+| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |     Tsue to Tsurugi no Wistoria Season 2     |   8/12  |  Last month  | 04/13/2026 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -18,7 +18,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [57658](https://myanimelist.net/anime/57658) |     tv     |  2026  |   8   |                                  Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                                 |  2 weeks ago  | 01/10/2026 |  06/24/2026 |
+| [57658](https://myanimelist.net/anime/57658) |     tv     |  2026  |   8   |                                  Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                                 |  3 weeks ago  | 01/10/2026 |  06/24/2026 |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |   9   |                                        Sousou no Frieren 2nd Season                                       |  3 months ago | 01/17/2026 |  04/05/2026 |
 | [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             |  6 months ago | 01/23/2026 |  01/23/2026 |
 | [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          |  7 months ago | 12/06/2025 |  12/27/2025 |
