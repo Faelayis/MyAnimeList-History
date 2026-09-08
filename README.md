@@ -7,7 +7,7 @@ List Sync From MyAnimeList (update every day)
 |                      id                      | Type | Season | Score |                     Title                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------: | :-----: | :----------: | :--------: |
 | [59193](https://myanimelist.net/anime/59193) |  tv  |  2026  |   -   | Mushoku Tensei III: Isekai Ittara Honki Dasu |   9/14  |  2 days ago  | 07/10/2026 |
-| [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   7   |   Tensei shitara Slime Datta Ken 4th Season  |  15/24  |  2 days ago  | 09/04/2026 |
+| [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   7   |   Tensei shitara Slime Datta Ken 4th Season  |  15/24  |  3 days ago  | 09/04/2026 |
 | [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |     Tsue to Tsurugi no Wistoria Season 2     |   8/12  | 3 months ago | 04/13/2026 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
@@ -30,8 +30,8 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [49236](https://myanimelist.net/anime/49236) |   ona   |  2021  |   -   |                                    Youjo Senki: Sabaku no Pasta Daisakusen                                    |   1/1   |   2 days ago  | 07/10/2026 |
-| [51553](https://myanimelist.net/anime/51553) |    tv   |  2026  |   -   |                                           Tongari Boushi no Atelier                                           |   9/13  |   2 days ago  | 05/07/2026 |
+| [49236](https://myanimelist.net/anime/49236) |   ona   |  2021  |   -   |                                    Youjo Senki: Sabaku no Pasta Daisakusen                                    |   1/1   |   3 days ago  | 07/10/2026 |
+| [51553](https://myanimelist.net/anime/51553) |    tv   |  2026  |   -   |                                           Tongari Boushi no Atelier                                           |   9/13  |   3 days ago  | 05/07/2026 |
 | [62001](https://myanimelist.net/anime/62001) |    tv   |  2026  |   -   |                                                 Yomi no Tsugai                                                |   2/24  |  2 months ago | 04/15/2026 |
 | [22729](https://myanimelist.net/anime/22729) |    tv   |  2014  |   7   |                                                  Aldnoah.Zero                                                 |  11/12  |  5 months ago | 03/13/2026 |
 | [34443](https://myanimelist.net/anime/34443) |   ona   |  2018  |   -   |                                                      Baki                                                     |   3/26  |  5 months ago | 02/27/2026 |

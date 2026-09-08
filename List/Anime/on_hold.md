@@ -2,8 +2,8 @@
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [49236](https://myanimelist.net/anime/49236) |   ona   |  2021  |   -   |                                    Youjo Senki: Sabaku no Pasta Daisakusen                                    |   1/1   |   2 days ago  | 07/10/2026 |
-| [51553](https://myanimelist.net/anime/51553) |    tv   |  2026  |   -   |                                           Tongari Boushi no Atelier                                           |   9/13  |   2 days ago  | 05/07/2026 |
+| [49236](https://myanimelist.net/anime/49236) |   ona   |  2021  |   -   |                                    Youjo Senki: Sabaku no Pasta Daisakusen                                    |   1/1   |   3 days ago  | 07/10/2026 |
+| [51553](https://myanimelist.net/anime/51553) |    tv   |  2026  |   -   |                                           Tongari Boushi no Atelier                                           |   9/13  |   3 days ago  | 05/07/2026 |
 | [62001](https://myanimelist.net/anime/62001) |    tv   |  2026  |   -   |                                                 Yomi no Tsugai                                                |   2/24  |  2 months ago | 04/15/2026 |
 | [22729](https://myanimelist.net/anime/22729) |    tv   |  2014  |   7   |                                                  Aldnoah.Zero                                                 |  11/12  |  5 months ago | 03/13/2026 |
 | [34443](https://myanimelist.net/anime/34443) |   ona   |  2018  |   -   |                                                      Baki                                                     |   3/26  |  5 months ago | 02/27/2026 |
@@ -43,7 +43,7 @@
 | [52347](https://myanimelist.net/anime/52347) |    tv   |  2023  |   -   |                           Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su                          |  13/25  |  2 years ago  | 12/30/2023 |
 | [33475](https://myanimelist.net/anime/33475) |    tv   |  2017  |   -   |                                         Busou Shoujo Machiavellianism                                         |   1/12  |  2 years ago  | 12/16/2023 |
 | [54714](https://myanimelist.net/anime/54714) |    tv   |  2023  |   -   |                            Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo                           |   7/12  |  2 years ago  | 12/06/2023 |
-| [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                  |   3/12  |  2 years ago  | 10/08/2023 |
+| [50664](https://myanimelist.net/anime/50664) |    tv   |  2023  |   -   |                                  Saihate no Paladin: Tetsusabi no Yama no Ou                                  |   3/12  |  3 years ago  | 10/08/2023 |
 | [50184](https://myanimelist.net/anime/50184) |    tv   |  2023  |   -   |                                          Seiken Gakuin no Makentsukai                                         |   1/12  |  3 years ago  | 10/05/2023 |
 | [54918](https://myanimelist.net/anime/54918) |    tv   |  2023  |   -   |                                          Tokyo Revengers: Tenjiku-hen                                         |   5/13  |  2 years ago  | 10/04/2023 |
 | [53050](https://myanimelist.net/anime/53050) |    tv   |  2023  |   -   |                                        Kanojo, Okarishimasu 3rd Season                                        |   0/12  |  3 years ago  | 07/15/2023 |
