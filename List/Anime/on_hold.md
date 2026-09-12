@@ -1,9 +1,9 @@
-# On Hold (127)
+# On Hold (126)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [49236](https://myanimelist.net/anime/49236) |   ona   |  2021  |   -   |                                    Youjo Senki: Sabaku no Pasta Daisakusen                                    |   1/1   |   6 days ago  | 07/10/2026 |
-| [51553](https://myanimelist.net/anime/51553) |    tv   |  2026  |   -   |                                           Tongari Boushi no Atelier                                           |   9/13  |   6 days ago  | 05/07/2026 |
+| [49236](https://myanimelist.net/anime/49236) |   ona   |  2021  |   -   |                                    Youjo Senki: Sabaku no Pasta Daisakusen                                    |   1/1   |   Last week   | 07/10/2026 |
+| [51553](https://myanimelist.net/anime/51553) |    tv   |  2026  |   -   |                                           Tongari Boushi no Atelier                                           |   9/13  |   Last week   | 05/07/2026 |
 | [62001](https://myanimelist.net/anime/62001) |    tv   |  2026  |   -   |                                                 Yomi no Tsugai                                                |   2/24  |  2 months ago | 04/15/2026 |
 | [22729](https://myanimelist.net/anime/22729) |    tv   |  2014  |   7   |                                                  Aldnoah.Zero                                                 |  11/12  |  5 months ago | 03/13/2026 |
 | [34443](https://myanimelist.net/anime/34443) |   ona   |  2018  |   -   |                                                      Baki                                                     |   3/26  |  5 months ago | 02/27/2026 |
@@ -104,7 +104,6 @@
 | [48556](https://myanimelist.net/anime/48556) |    tv   |  2021  |   -   |                                                Takt Op. Destiny                                               |   1/12  |  5 years ago  | 10/06/2021 |
 | [35241](https://myanimelist.net/anime/35241) |    tv   |  2017  |   -   |                                                 Konohana Kitan                                                |   4/12  |  5 years ago  | 09/22/2021 |
 | [42544](https://myanimelist.net/anime/42544) |    tv   |  2021  |   -   |                                                  Kaizoku Oujo                                                 |   7/12  |  5 years ago  | 08/30/2021 |
-| [11061](https://myanimelist.net/anime/11061) |    tv   |  2011  |   -   |                                             Hunter x Hunter (2011)                                            |  83/148 |  3 years ago  | 08/24/2021 |
 |  [9756](https://myanimelist.net/anime/9756)  |    tv   |  2011  |   -   |                                           Mahou Shoujo Madoka★Magica                                          |   2/12  |  2 years ago  | 08/19/2021 |
 | [40935](https://myanimelist.net/anime/40935) |    tv   |  2021  |   -   |                                              Beastars 2nd Season                                              |   8/12  |  5 years ago  | 07/20/2021 |
 | [43969](https://myanimelist.net/anime/43969) |    tv   |  2021  |   -   |                                                Kanojo mo Kanojo                                               |   3/12  |  5 years ago  | 07/05/2021 |

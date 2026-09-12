@@ -2,12 +2,13 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (3) ``0.86%``
+#### Watching (4) ``1.15%``
 
 |                      id                      | Type | Season | Score |                     Title                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------: | :-----: | :----------: | :--------: |
-| [59193](https://myanimelist.net/anime/59193) |  tv  |  2026  |   -   | Mushoku Tensei III: Isekai Ittara Honki Dasu |   9/14  |  5 days ago  | 07/10/2026 |
-| [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   7   |   Tensei shitara Slime Datta Ken 4th Season  |  15/24  |  6 days ago  | 09/04/2026 |
+| [11061](https://myanimelist.net/anime/11061) |  tv  |  2011  |   -   |            Hunter x Hunter (2011)            |  95/148 | 18 hours ago | 08/24/2021 |
+| [59193](https://myanimelist.net/anime/59193) |  tv  |  2026  |   -   | Mushoku Tensei III: Isekai Ittara Honki Dasu |   9/14  |  6 days ago  | 07/10/2026 |
+| [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   7   |   Tensei shitara Slime Datta Ken 4th Season  |  15/24  |   Last week  | 09/04/2026 |
 | [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |     Tsue to Tsurugi no Wistoria Season 2     |   8/12  | 3 months ago | 04/13/2026 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
@@ -26,19 +27,19 @@ List Sync From MyAnimeList (update every day)
 
 *[477 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
-#### On Hold ``14.63%``
+#### On Hold ``14.50%``
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [49236](https://myanimelist.net/anime/49236) |   ona   |  2021  |   -   |                                    Youjo Senki: Sabaku no Pasta Daisakusen                                    |   1/1   |   6 days ago  | 07/10/2026 |
-| [51553](https://myanimelist.net/anime/51553) |    tv   |  2026  |   -   |                                           Tongari Boushi no Atelier                                           |   9/13  |   6 days ago  | 05/07/2026 |
+| [49236](https://myanimelist.net/anime/49236) |   ona   |  2021  |   -   |                                    Youjo Senki: Sabaku no Pasta Daisakusen                                    |   1/1   |   Last week   | 07/10/2026 |
+| [51553](https://myanimelist.net/anime/51553) |    tv   |  2026  |   -   |                                           Tongari Boushi no Atelier                                           |   9/13  |   Last week   | 05/07/2026 |
 | [62001](https://myanimelist.net/anime/62001) |    tv   |  2026  |   -   |                                                 Yomi no Tsugai                                                |   2/24  |  2 months ago | 04/15/2026 |
 | [22729](https://myanimelist.net/anime/22729) |    tv   |  2014  |   7   |                                                  Aldnoah.Zero                                                 |  11/12  |  5 months ago | 03/13/2026 |
 | [34443](https://myanimelist.net/anime/34443) |   ona   |  2018  |   -   |                                                      Baki                                                     |   3/26  |  5 months ago | 02/27/2026 |
 | [57592](https://myanimelist.net/anime/57592) |    tv   |  2025  |   -   |                                           Dr. Stone: Science Future                                           |   1/12  |  5 months ago | 02/10/2026 |
 
 
-*[121 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
+*[120 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
 
 #### Dropped ``3.54%``
 
