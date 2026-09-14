@@ -2,30 +2,29 @@
 [![](https://img.shields.io/badge/Anilist-02A9FF?logo=AniList&logoColor=FFFFFF&style=flat)](https://anilist.co/user/Faelayis/)<br>
 List Sync From MyAnimeList (update every day)
 
-#### Watching (4) ``1.15%``
+#### Watching (3) ``0.86%``
 
 |                      id                      | Type | Season | Score |                     Title                    | Watched |    Updated   | Start Date |
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------: | :-----: | :----------: | :--------: |
-| [11061](https://myanimelist.net/anime/11061) |  tv  |  2011  |   -   |            Hunter x Hunter (2011)            | 136/148 | 22 hours ago | 08/24/2021 |
 | [59193](https://myanimelist.net/anime/59193) |  tv  |  2026  |   -   | Mushoku Tensei III: Isekai Ittara Honki Dasu |   9/14  |   Last week  | 07/10/2026 |
 | [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   7   |   Tensei shitara Slime Datta Ken 4th Season  |  15/24  |   Last week  | 09/04/2026 |
 | [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |     Tsue to Tsurugi no Wistoria Season 2     |   8/12  | 3 months ago | 04/13/2026 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
-#### Completed ``106.00%``
+#### Completed ``105.58%``
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [11061](https://myanimelist.net/anime/11061) |     tv     |  2011  |   7   |                                           Hunter x Hunter (2011)                                          |  23 hours ago | 08/24/2021 |  09/13/2026 |
 | [57658](https://myanimelist.net/anime/57658) |     tv     |  2026  |   8   |                                  Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                                 |  2 months ago | 01/10/2026 |  06/24/2026 |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |   9   |                                        Sousou no Frieren 2nd Season                                       |  5 months ago | 01/17/2026 |  04/05/2026 |
 | [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             |  8 months ago | 01/23/2026 |  01/23/2026 |
 | [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          |  9 months ago | 12/06/2025 |  12/27/2025 |
 | [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |   8   |                                    Boku no Hero Academia: Final Season                                    |  9 months ago | 12/02/2025 |  12/18/2025 |
-| [61200](https://myanimelist.net/anime/61200) |     ona    |  2025  |   6   |                                          Shuumatsu no Walküre III                                         |  9 months ago | 12/13/2025 |  12/13/2025 |
 
 
-*[477 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
+*[478 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
 
 #### On Hold ``14.50%``
 

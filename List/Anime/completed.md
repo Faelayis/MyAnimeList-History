@@ -1,7 +1,8 @@
-# Completed (483)
+# Completed (484)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
+| [11061](https://myanimelist.net/anime/11061) |     tv     |  2011  |   7   |                                           Hunter x Hunter (2011)                                          |  23 hours ago | 08/24/2021 |  09/13/2026 |
 | [57658](https://myanimelist.net/anime/57658) |     tv     |  2026  |   8   |                                  Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                                 |  2 months ago | 01/10/2026 |  06/24/2026 |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |   9   |                                        Sousou no Frieren 2nd Season                                       |  5 months ago | 01/17/2026 |  04/05/2026 |
 | [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             |  8 months ago | 01/23/2026 |  01/23/2026 |
@@ -92,8 +93,8 @@
 | [18857](https://myanimelist.net/anime/18857) |     ona    |  2013  |   6   |                           Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials                           |  3 years ago  | 01/17/2023 |  01/17/2023 |
 |  [8769](https://myanimelist.net/anime/8769)  |     tv     |  2010  |   7   |                                Ore no Imouto ga Konnani Kawaii Wake ga Nai                                |  3 years ago  | 01/16/2023 |  01/17/2023 |
 | [51403](https://myanimelist.net/anime/51403) |     tv     |  2022  |   4   |                                                Renai Flops                                                |  3 years ago  | 10/27/2022 |  01/10/2023 |
-| [16001](https://myanimelist.net/anime/16001) |   special  |  2012  |   7   |                                        Kokoro Connect: Michi Random                                       |  3 years ago  | 01/09/2023 |  01/09/2023 |
-| [11887](https://myanimelist.net/anime/11887) |     tv     |  2012  |   7   |                                               Kokoro Connect                                              |  3 years ago  | 01/07/2023 |  01/09/2023 |
+| [16001](https://myanimelist.net/anime/16001) |   special  |  2012  |   7   |                                        Kokoro Connect: Michi Random                                       |  4 years ago  | 01/09/2023 |  01/09/2023 |
+| [11887](https://myanimelist.net/anime/11887) |     tv     |  2012  |   7   |                                               Kokoro Connect                                              |  4 years ago  | 01/07/2023 |  01/09/2023 |
 | [31043](https://myanimelist.net/anime/31043) |     tv     |  2016  |   9   |                                          Boku dake ga Inai Machi                                          |  4 years ago  | 01/02/2023 |  01/02/2023 |
 | [44511](https://myanimelist.net/anime/44511) |     tv     |  2022  |   7   |                                                Chainsaw Man                                               |  4 years ago  | 10/13/2022 |  12/29/2022 |
 | [47917](https://myanimelist.net/anime/47917) |     tv     |  2022  |   8   |                                              Bocchi the Rock!                                             |  4 years ago  | 12/20/2022 |  12/27/2022 |
@@ -338,7 +339,7 @@
 | [35790](https://myanimelist.net/anime/35790) |     tv     |  2019  |   8   |                                        Tate no Yuusha no Nariagari                                        |  5 years ago  | 03/23/2021 |  03/24/2021 |
 | [39535](https://myanimelist.net/anime/39535) |     tv     |  2021  |   9   |                                  Mushoku Tensei: Isekai Ittara Honki Dasu                                 |  5 years ago  | 01/26/2021 |  03/22/2021 |
 | [15451](https://myanimelist.net/anime/15451) |     tv     |  2013  |   7   |                                            High School DxD New                                            |  5 years ago  | 11/23/2020 |  03/19/2021 |
-| [25157](https://myanimelist.net/anime/25157) |     tv     |  2014  |   6   |                                               Trinity Seven                                               |  5 years ago  |      -     |  03/08/2021 |
+| [25157](https://myanimelist.net/anime/25157) |     tv     |  2014  |   6   |                                               Trinity Seven                                               |  6 years ago  |      -     |  03/08/2021 |
 | [32093](https://myanimelist.net/anime/32093) |     tv     |  2016  |   6   |                                       Tanaka-kun wa Itsumo Kedaruge                                       |  5 years ago  | 03/04/2021 |  03/06/2021 |
 | [38656](https://myanimelist.net/anime/38656) |     tv     |  2020  |   8   |                                               Darwin's Game                                               |  5 years ago  | 02/26/2021 |  02/28/2021 |
 | [28851](https://myanimelist.net/anime/28851) |    movie   |  2016  |   9   |                                               Koe no Katachi                                              |  5 years ago  | 02/26/2021 |  02/26/2021 |
@@ -394,7 +395,7 @@
 | [28891](https://myanimelist.net/anime/28891) |     tv     |  2015  |   8   |                                          Haikyuu!! Second Season                                          |  4 years ago  | 10/31/2022 |      -      |
 | [15809](https://myanimelist.net/anime/15809) |     tv     |  2013  |   7   |                                            Hataraku Maou-sama!                                            |  5 years ago  | 05/10/2021 |      -      |
 | [41930](https://myanimelist.net/anime/41930) |     tv     |  2020  |   7   |                                            Kamisama ni Natta Hi                                           |  6 years ago  | 11/30/2020 |      -      |
-| [13759](https://myanimelist.net/anime/13759) |     tv     |  2012  |   8   |                                        Sakura-sou no Pet na Kanojo                                        |  5 years ago  | 11/28/2020 |      -      |
+| [13759](https://myanimelist.net/anime/13759) |     tv     |  2012  |   8   |                                        Sakura-sou no Pet na Kanojo                                        |  6 years ago  | 11/28/2020 |      -      |
 | [40454](https://myanimelist.net/anime/40454) |     tv     |  2020  |   7   |                        Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III                       |  6 years ago  | 11/22/2020 |      -      |
 | [41619](https://myanimelist.net/anime/41619) |     tv     |  2020  |   9   |                                               Munou na Nana                                               |  5 years ago  | 10/04/2020 |      -      |
 |  [6880](https://myanimelist.net/anime/6880)  |     tv     |  2011  |   7   |                                             Deadman Wonderland                                            |  5 years ago  | 09/12/2020 |      -      |
@@ -435,7 +436,7 @@
 |  [9963](https://myanimelist.net/anime/9963)  |    movie   |  2011  |   6   |                               Meitantei Conan Movie 15: Chinmoku no Quarter                               |  4 years ago  |      -     |      -      |
 |  [9181](https://myanimelist.net/anime/9181)  |     tv     |  2010  |   8   |                                              Motto To LOVE-Ru                                             |  6 years ago  |      -     |      -      |
 | [40111](https://myanimelist.net/anime/40111) |    movie   |  2019  |   7   |                                        Nezha Zhi Mo Tong Jiang Shi                                        |  5 years ago  |      -     |      -      |
-| [18897](https://myanimelist.net/anime/18897) |     tv     |  2014  |   8   |                                                  Nisekoi                                                  |  5 years ago  |      -     |      -      |
+| [18897](https://myanimelist.net/anime/18897) |     tv     |  2014  |   8   |                                                  Nisekoi                                                  |  6 years ago  |      -     |      -      |
 | [27787](https://myanimelist.net/anime/27787) |     tv     |  2015  |   8   |                                                  Nisekoi:                                                 |  5 years ago  |      -     |      -      |
 | [20507](https://myanimelist.net/anime/20507) |     tv     |  2014  |   9   |                                                  Noragami                                                 |  4 years ago  |      -     |      -      |
 | [30503](https://myanimelist.net/anime/30503) |     tv     |  2015  |   10  |                                              Noragami Aragoto                                             |  4 years ago  |      -     |      -      |
