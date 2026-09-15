@@ -16,7 +16,7 @@ List Sync From MyAnimeList (update every day)
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [11061](https://myanimelist.net/anime/11061) |     tv     |  2011  |   7   |                                           Hunter x Hunter (2011)                                          |  23 hours ago | 08/24/2021 |  09/13/2026 |
+| [11061](https://myanimelist.net/anime/11061) |     tv     |  2011  |   7   |                                           Hunter x Hunter (2011)                                          |   Yesterday   | 08/24/2021 |  09/13/2026 |
 | [57658](https://myanimelist.net/anime/57658) |     tv     |  2026  |   8   |                                  Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                                 |  2 months ago | 01/10/2026 |  06/24/2026 |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |   9   |                                        Sousou no Frieren 2nd Season                                       |  5 months ago | 01/17/2026 |  04/05/2026 |
 | [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             |  8 months ago | 01/23/2026 |  01/23/2026 |
