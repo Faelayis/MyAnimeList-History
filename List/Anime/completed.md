@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [11061](https://myanimelist.net/anime/11061) |     tv     |  2011  |   7   |                                           Hunter x Hunter (2011)                                          |   4 days ago  | 08/24/2021 |  09/13/2026 |
+| [11061](https://myanimelist.net/anime/11061) |     tv     |  2011  |   7   |                                           Hunter x Hunter (2011)                                          |   5 days ago  | 08/24/2021 |  09/13/2026 |
 | [57658](https://myanimelist.net/anime/57658) |     tv     |  2026  |   8   |                                  Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                                 |  3 months ago | 01/10/2026 |  06/24/2026 |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |   9   |                                        Sousou no Frieren 2nd Season                                       |  5 months ago | 01/17/2026 |  04/05/2026 |
 | [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             |  8 months ago | 01/23/2026 |  01/23/2026 |
@@ -195,7 +195,7 @@
 | [36793](https://myanimelist.net/anime/36793) |     tv     |  2018  |   9   |                                            3D Kanojo: Real Girl                                           |  4 years ago  | 02/14/2022 |  02/14/2022 |
 | [37956](https://myanimelist.net/anime/37956) |     tv     |  2019  |   10  |                                      3D Kanojo: Real Girl 2nd Season                                      |  4 years ago  | 02/14/2022 |  02/14/2022 |
 | [47778](https://myanimelist.net/anime/47778) |     tv     |  2022  |   9   |                                       Kimetsu no Yaiba: Yuukaku-hen                                       |  4 years ago  | 12/06/2021 |  02/14/2022 |
-| [39292](https://myanimelist.net/anime/39292) |     tv     |  2020  |   8   |                                         Princess Connect! Re:Dive                                         |  4 years ago  | 02/06/2022 |  02/12/2022 |
+| [39292](https://myanimelist.net/anime/39292) |     tv     |  2020  |   8   |                                         Princess Connect! Re:Dive                                         |  5 years ago  | 02/06/2022 |  02/12/2022 |
 | [41103](https://myanimelist.net/anime/41103) |     tv     |  2021  |   8   |                                      Koi to Yobu ni wa Kimochi Warui                                      |  5 years ago  | 02/07/2022 |  02/08/2022 |
 | [39783](https://myanimelist.net/anime/39783) |     tv     |  2021  |   7   |                                           5-toubun no Hanayome ∬                                          |  5 years ago  | 01/08/2021 |  02/08/2022 |
 | [35507](https://myanimelist.net/anime/35507) |     tv     |  2017  |   8   |                              Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e                              |  5 years ago  | 02/01/2022 |  02/02/2022 |
