@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [11061](https://myanimelist.net/anime/11061) |     tv     |  2011  |   7   |                                           Hunter x Hunter (2011)                                          |  3 weeks ago  | 08/24/2021 |  09/13/2026 |
+| [11061](https://myanimelist.net/anime/11061) |     tv     |  2011  |   7   |                                           Hunter x Hunter (2011)                                          |   Last month  | 08/24/2021 |  09/13/2026 |
 | [57658](https://myanimelist.net/anime/57658) |     tv     |  2026  |   8   |                                  Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                                 |  3 months ago | 01/10/2026 |  06/24/2026 |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |   9   |                                        Sousou no Frieren 2nd Season                                       |  6 months ago | 01/17/2026 |  04/05/2026 |
 | [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             |  9 months ago | 01/23/2026 |  01/23/2026 |
@@ -351,7 +351,7 @@
 | [39195](https://myanimelist.net/anime/39195) |     tv     |  2019  |   7   |                                                  Beastars                                                 |  5 years ago  | 01/14/2021 |  01/15/2021 |
 | [28677](https://myanimelist.net/anime/28677) |     tv     |  2015  |   10  |                                        Yamada-kun to 7-nin no Majo                                        |  6 years ago  | 12/19/2020 |  12/30/2020 |
 | [40595](https://myanimelist.net/anime/40595) |     tv     |  2020  |   10  |                      Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen                     |  6 years ago  | 10/08/2020 |  12/24/2020 |
-| [40456](https://myanimelist.net/anime/40456) |    movie   |  2020  |   7   |                                  Kimetsu no Yaiba Movie: Mugen Ressha-hen                                 |  4 years ago  | 12/23/2020 |  12/23/2020 |
+| [40456](https://myanimelist.net/anime/40456) |    movie   |  2020  |   7   |                                  Kimetsu no Yaiba Movie: Mugen Ressha-hen                                 |  5 years ago  | 12/23/2020 |  12/23/2020 |
 | [41389](https://myanimelist.net/anime/41389) |     tv     |  2020  |   9   |                                              Tonikaku Kawaii                                              |  6 years ago  | 10/03/2020 |  12/19/2020 |
 | [30654](https://myanimelist.net/anime/30654) |     tv     |  2016  |   8   |                                       Ansatsu Kyoushitsu 2nd Season                                       |  5 years ago  | 12/05/2020 |  12/13/2020 |
 | [40956](https://myanimelist.net/anime/40956) |     tv     |  2020  |   8   |                                       Enen no Shouboutai: Ni no Shou                                      |  6 years ago  | 09/23/2020 |  12/13/2020 |
