@@ -21,7 +21,7 @@ List Sync From MyAnimeList (update every day)
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |   9   |                                        Sousou no Frieren 2nd Season                                       |  7 months ago | 01/17/2026 |  04/05/2026 |
 | [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             |  9 months ago | 01/23/2026 |  01/23/2026 |
 | [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          | 10 months ago | 12/06/2025 |  12/27/2025 |
-| [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |   8   |                                    Boku no Hero Academia: Final Season                                    | 10 months ago | 12/02/2025 |  12/18/2025 |
+| [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |   8   |                                    Boku no Hero Academia: Final Season                                    | 11 months ago | 12/02/2025 |  12/18/2025 |
 
 
 *[478 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/completed.md)*
