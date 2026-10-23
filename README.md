@@ -33,9 +33,9 @@ List Sync From MyAnimeList (update every day)
 | [49236](https://myanimelist.net/anime/49236) |   ona   |  2021  |   -   |                                    Youjo Senki: Sabaku no Pasta Daisakusen                                    |   1/1   |   Last month  | 07/10/2026 |
 | [51553](https://myanimelist.net/anime/51553) |    tv   |  2026  |   -   |                                           Tongari Boushi no Atelier                                           |   9/13  |   Last month  | 05/07/2026 |
 | [62001](https://myanimelist.net/anime/62001) |    tv   |  2026  |   -   |                                                 Yomi no Tsugai                                                |   2/24  |  4 months ago | 04/15/2026 |
-| [22729](https://myanimelist.net/anime/22729) |    tv   |  2014  |   7   |                                                  Aldnoah.Zero                                                 |  11/12  |  6 months ago | 03/13/2026 |
-| [34443](https://myanimelist.net/anime/34443) |   ona   |  2018  |   -   |                                                      Baki                                                     |   3/26  |  6 months ago | 02/27/2026 |
-| [57592](https://myanimelist.net/anime/57592) |    tv   |  2025  |   -   |                                           Dr. Stone: Science Future                                           |   1/12  |  6 months ago | 02/10/2026 |
+| [22729](https://myanimelist.net/anime/22729) |    tv   |  2014  |   7   |                                                  Aldnoah.Zero                                                 |  11/12  |  7 months ago | 03/13/2026 |
+| [34443](https://myanimelist.net/anime/34443) |   ona   |  2018  |   -   |                                                      Baki                                                     |   3/26  |  7 months ago | 02/27/2026 |
+| [57592](https://myanimelist.net/anime/57592) |    tv   |  2025  |   -   |                                           Dr. Stone: Science Future                                           |   1/12  |  7 months ago | 02/10/2026 |
 
 
 *[120 more](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/on_hold.md)*
