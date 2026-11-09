@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed   | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: |
-| [11061](https://myanimelist.net/anime/11061) |     tv     |  2011  |   7   |                                           Hunter x Hunter (2011)                                          |   Last month  | 08/24/2021 |  09/13/2026 |
+| [11061](https://myanimelist.net/anime/11061) |     tv     |  2011  |   7   |                                           Hunter x Hunter (2011)                                          |  2 months ago | 08/24/2021 |  09/13/2026 |
 | [57658](https://myanimelist.net/anime/57658) |     tv     |  2026  |   8   |                                  Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                                 |  4 months ago | 01/10/2026 |  06/24/2026 |
 | [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |   9   |                                        Sousou no Frieren 2nd Season                                       |  7 months ago | 01/17/2026 |  04/05/2026 |
 | [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             | 10 months ago | 01/23/2026 |  01/23/2026 |
@@ -168,7 +168,7 @@
 | [33674](https://myanimelist.net/anime/33674) |    movie   |  2017  |   10  |                                           No Game No Life: Zero                                           |  4 years ago  | 04/05/2022 |  04/06/2022 |
 | [19815](https://myanimelist.net/anime/19815) |     tv     |  2014  |   8   |                                              No Game No Life                                              |  3 years ago  | 06/06/2020 |  04/05/2022 |
 | [38383](https://myanimelist.net/anime/38383) |     ona    |  2018  |   6   |                                      Jashin-chan Dropkick Episode 12                                      |  4 years ago  | 04/04/2022 |  04/04/2022 |
-| [36906](https://myanimelist.net/anime/36906) |     tv     |  2018  |   7   |                                            Jashin-chan Dropkick                                           |  4 years ago  | 04/03/2022 |  04/04/2022 |
+| [36906](https://myanimelist.net/anime/36906) |     tv     |  2018  |   7   |                                            Jashin-chan Dropkick                                           |  5 years ago  | 04/03/2022 |  04/04/2022 |
 |  [9734](https://myanimelist.net/anime/9734)  |   special  |  2011  |   7   |                                              K-On!!: Keikaku!                                             |  5 years ago  | 04/03/2022 |  04/03/2022 |
 |  [7791](https://myanimelist.net/anime/7791)  |     tv     |  2010  |   8   |                                                   K-On!!                                                  |  5 years ago  | 03/23/2022 |  04/03/2022 |
 | [48736](https://myanimelist.net/anime/48736) |     tv     |  2022  |   7   |                                      Sono Bisque Doll wa Koi wo Suru                                      |  5 years ago  | 01/13/2022 |  04/01/2022 |
