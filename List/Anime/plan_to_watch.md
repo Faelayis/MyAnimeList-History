@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
-| [60223](https://myanimelist.net/anime/60223) |     tv     |  2026  |   web_manga  |                                                Kaya-chan wa Kowakunai                                               |  4 months ago |        -        |
+| [60223](https://myanimelist.net/anime/60223) |     tv     |  2026  |   web_manga  |                                                Kaya-chan wa Kowakunai                                               |  5 months ago |        -        |
 | [62613](https://myanimelist.net/anime/62613) |     tv     |  2027  |     manga    |                                                    Youchien Wars                                                    |  5 months ago |        -        |
 | [63130](https://myanimelist.net/anime/63130) | tv_special |  2026  |     manga    |                                             Boku no Hero Academia: More                                             |  6 months ago |        -        |
 | [64105](https://myanimelist.net/anime/64105) |     ova    |    -   |     manga    |                                               5-toubun no Hanayome OVA                                              |  6 months ago |        -        |
