@@ -8,7 +8,7 @@ List Sync From MyAnimeList (update every day)
 | :------------------------------------------: | :--: | :----: | :---: | :------------------------------------------: | :-----: | :----------: | :--------: |
 | [59193](https://myanimelist.net/anime/59193) |  tv  |  2026  |   -   | Mushoku Tensei III: Isekai Ittara Honki Dasu |   9/14  | 2 months ago | 07/10/2026 |
 | [59970](https://myanimelist.net/anime/59970) |  tv  |  2026  |   7   |   Tensei shitara Slime Datta Ken 4th Season  |  15/24  | 2 months ago | 09/04/2026 |
-| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |     Tsue to Tsurugi no Wistoria Season 2     |   8/12  | 5 months ago | 04/13/2026 |
+| [59983](https://myanimelist.net/anime/59983) |  tv  |  2026  |   -   |     Tsue to Tsurugi no Wistoria Season 2     |   8/12  | 6 months ago | 04/13/2026 |
 
 *[](https://github.com/Faelayis/MyAnimeList-History/blob/master/List/Anime/watching.md)*
 
@@ -59,7 +59,7 @@ List Sync From MyAnimeList (update every day)
 |                      id                      |    Type    | Season |    Source    |                                                        Title                                                        |    Updated    | Plan Start Date |
 | :------------------------------------------: | :--------: | :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------: |
 | [60223](https://myanimelist.net/anime/60223) |     tv     |  2026  |   web_manga  |                                                Kaya-chan wa Kowakunai                                               |  5 months ago |        -        |
-| [62613](https://myanimelist.net/anime/62613) |     tv     |  2027  |     manga    |                                                    Youchien Wars                                                    |  5 months ago |        -        |
+| [62613](https://myanimelist.net/anime/62613) |     tv     |  2027  |     manga    |                                                    Youchien Wars                                                    |  6 months ago |        -        |
 | [63130](https://myanimelist.net/anime/63130) | tv_special |  2026  |     manga    |                                             Boku no Hero Academia: More                                             |  7 months ago |        -        |
 | [64105](https://myanimelist.net/anime/64105) |     ova    |    -   |     manga    |                                               5-toubun no Hanayome OVA                                              |  7 months ago |        -        |
 | [62913](https://myanimelist.net/anime/62913) |     tv     |  2026  | visual_novel |                                                 Needy Girl Overdose                                                 |  7 months ago |        -        |
