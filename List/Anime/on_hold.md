@@ -1,10 +1,13 @@
-# On Hold (126)
+# On Hold (129)
 
 |                      id                      |   Type  | Season | Score |                                                     Title                                                     | Watched |    Updated    | Start Date |
 | :------------------------------------------: | :-----: | :----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-----------: | :--------: |
-| [49236](https://myanimelist.net/anime/49236) |   ona   |  2021  |   -   |                                    Youjo Senki: Sabaku no Pasta Daisakusen                                    |   1/1   |  2 months ago | 07/10/2026 |
-| [51553](https://myanimelist.net/anime/51553) |    tv   |  2026  |   -   |                                           Tongari Boushi no Atelier                                           |   9/13  |  2 months ago | 05/07/2026 |
+| [59970](https://myanimelist.net/anime/59970) |    tv   |  2026  |   7   |                                   Tensei shitara Slime Datta Ken 4th Season                                   |  15/24  |  11 hours ago | 09/04/2026 |
+| [59193](https://myanimelist.net/anime/59193) |    tv   |  2026  |   -   |                                  Mushoku Tensei III: Isekai Ittara Honki Dasu                                 |   9/14  |  11 hours ago | 07/10/2026 |
+| [49236](https://myanimelist.net/anime/49236) |   ona   |  2021  |   -   |                                    Youjo Senki: Sabaku no Pasta Daisakusen                                    |   1/1   |  3 months ago | 07/10/2026 |
+| [51553](https://myanimelist.net/anime/51553) |    tv   |  2026  |   -   |                                           Tongari Boushi no Atelier                                           |   9/13  |  3 months ago | 05/07/2026 |
 | [62001](https://myanimelist.net/anime/62001) |    tv   |  2026  |   -   |                                                 Yomi no Tsugai                                                |   2/24  |  5 months ago | 04/15/2026 |
+| [59983](https://myanimelist.net/anime/59983) |    tv   |  2026  |   -   |                                      Tsue to Tsurugi no Wistoria Season 2                                     |   8/12  |  11 hours ago | 04/13/2026 |
 | [22729](https://myanimelist.net/anime/22729) |    tv   |  2014  |   7   |                                                  Aldnoah.Zero                                                 |  11/12  |  8 months ago | 03/13/2026 |
 | [34443](https://myanimelist.net/anime/34443) |   ona   |  2018  |   -   |                                                      Baki                                                     |   3/26  |  8 months ago | 02/27/2026 |
 | [57592](https://myanimelist.net/anime/57592) |    tv   |  2025  |   -   |                                           Dr. Stone: Science Future                                           |   1/12  |  8 months ago | 02/10/2026 |
@@ -67,7 +70,7 @@
 | [41514](https://myanimelist.net/anime/41514) |    tv   |  2023  |   6   |                      Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2                     |  10/12  |  3 years ago  | 01/12/2023 |
 | [51815](https://myanimelist.net/anime/51815) |    tv   |  2023  |   -   |                                          Kubo-san wa Mob wo Yurusanai                                         |   7/12  |  3 years ago  | 01/11/2023 |
 | [44204](https://myanimelist.net/anime/44204) |    tv   |  2023  |   -   |                                             Kyokou Suiri Season 2                                             |   1/12  |  3 years ago  | 01/09/2023 |
-| [48417](https://myanimelist.net/anime/48417) |    tv   |  2023  |   -   |  Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou |   3/12  |  3 years ago  | 01/08/2023 |
+| [48417](https://myanimelist.net/anime/48417) |    tv   |  2023  |   -   |  Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou |   3/12  |  4 years ago  | 01/08/2023 |
 | [50205](https://myanimelist.net/anime/50205) |    tv   |  2022  |   -   |                                           Arknights: Prelude to Dawn                                          |   3/8   |  4 years ago  | 11/06/2022 |
 | [49596](https://myanimelist.net/anime/49596) |    tv   |  2022  |   -   |                                                   Blue Lock                                                   |  14/24  |  3 years ago  | 10/16/2022 |
 | [50710](https://myanimelist.net/anime/50710) |    tv   |  2022  |   6   |                                             Urusei Yatsura (2022)                                             |   9/23  |  3 years ago  | 10/14/2022 |
